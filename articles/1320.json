@@ -1,0 +1,10 @@
+{
+  "articleContent": "<div>\n<p><span style=\"font-family: 微软雅黑; font-size: 14pt;\">To provide a better experience for all Rovers, we will be releasing the 1.6.2 launcher update on September 20 (UTC+8), introducing the following new features:</span><br /><br /><br /><strong><span style=\"font-family: 微软雅黑; font-size: 14pt;\">1. Pre-download feature for the PC launcher</span></strong><br /><br /><strong><span style=\"font-family: 微软雅黑; font-size: 14pt;\">2. Default use of DirectX 12 to launch the game&nbsp;</span></strong><span style=\"font-family: 微软雅黑;\"><span style=\"font-size: 18.6667px;\"><strong>(NVIDIA GeForce RTX 20 Series and above, Intel graphics cards)</strong></span></span><br /><br /><span style=\"font-family: 微软雅黑; font-size: 14pt;\">① With DirectX 12, NVIDIA GeForce RTX 40 Series graphics cards will support DLSS 3 super resolution and NVIDIA Reflex, while XeSS upscaling will be enabled for Intel graphics cards. This update will also improve compatibility across a wide range of GPUs, resolving issues such as black screens or visual distortions caused by certain hardware.</span><br /><br /><span style=\"font-family: 微软雅黑; font-size: 14pt;\">② After the update, shaders will need to be recompiled the first time you launch the game with DirectX 12. This process may cause some initial stuttering or frame rate drops, but performance will return to normal once it's complete.</span><br /><br /><br /><strong><span style=\"font-family: 微软雅黑; font-size: 14pt;\">※If shader compilation causes extended stuttering or disrupts gameplay, you can exit the game and select \"Launch with DirectX 11\" under the \"Start\" button, or contact customer service for assistance.</span></strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n<p>&nbsp;</p>",
+  "articleId": 1320,
+  "articleTitle": "Updates for PC Launcher 1.6.2",
+  "articleType": 58,
+  "articleTypeName": "Notice",
+  "endTime": "2099-01-01 00:00:00",
+  "gameId": "G152-en",
+  "startTime": "2024-09-19 16:00:00"
+}
