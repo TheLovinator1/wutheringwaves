@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "aiofiles",
+        "httpx",
+        "levelname",
+        "Wuthering",
+        "wutheringwaves"
+    ],
+    "python.analysis.ignore": [
+        "**.json"
+    ]
+}
