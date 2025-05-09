@@ -109,6 +109,17 @@ def commit_file_with_timestamp(filepath: Path) -> bool:
         bool: True if the commit was successful, False otherwise.
 
     """
+    # Check in Git history if we already have this file
+    git_log_cmd: list[str] = ["git", "log", "--pretty=format:%H", "--follow", str(filepath)]
+    try:
+        git_log_output: str = subprocess.check_output(git_log_cmd, text=True).strip()  # noqa: S603
+        if git_log_output:
+            logger.info("File %s already exists in Git history.", filepath)
+            return True
+    except subprocess.CalledProcessError:
+        logger.exception("Error checking Git history for %s", filepath)
+        return False
+
     try:
         # Get the full path to the Git executable
         git_executable = shutil.which("git")
@@ -151,7 +162,7 @@ def commit_file_with_timestamp(filepath: Path) -> bool:
         return True
 
 
-async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0915
+async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0914, PLR0915
     """Fetch and save articles from the Wuthering Waves website.
 
     Returns:
