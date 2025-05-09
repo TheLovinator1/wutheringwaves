@@ -5,8 +5,6 @@ It retrieves the article menu and individual articles, prettifies the JSON outpu
 
 import asyncio
 import json
-
-# Set up logging
 import logging
 import os
 import shutil
@@ -99,7 +97,27 @@ def set_file_timestamp(filepath: Path, timestamp_str: str) -> bool:
         return True
 
 
-def commit_file_with_timestamp(filepath: Path) -> bool:
+def get_file_timestamp(timestamp_str: str) -> float:
+    """Convert ISO timestamp string to Unix timestamp.
+
+    Args:
+        timestamp_str (str): The ISO timestamp string.
+
+    Returns:
+        float: The Unix timestamp, or 0 if conversion failed.
+
+    """
+    try:
+        # Parse the timestamp string
+        dt: datetime = datetime.strptime(timestamp_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
+        # Convert to Unix timestamp
+        return dt.timestamp()
+    except ValueError:
+        logger.info("Error converting timestamp %s", timestamp_str)
+        return 0.0
+
+
+def commit_file_with_timestamp(filepath: Path) -> bool:  # noqa: PLR0911
     """Commit a file to Git with its modification time as the commit time.
 
     Args:
@@ -122,7 +140,7 @@ def commit_file_with_timestamp(filepath: Path) -> bool:
 
     try:
         # Get the full path to the Git executable
-        git_executable = shutil.which("git")
+        git_executable: str | None = shutil.which("git")
         if not git_executable:
             logger.error("Git executable not found.")
             return False
@@ -162,7 +180,107 @@ def commit_file_with_timestamp(filepath: Path) -> bool:
         return True
 
 
-async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0914, PLR0915
+def add_articles_to_readme(articles: dict[Any, Any] | None = None) -> None:
+    """Add the list of articles to the README.md file."""
+    if articles is None:
+        logger.warning("No articles to add to README.md")
+        return
+
+    readme_file: Path = Path("README.md")
+    if not readme_file.is_file():
+        logger.error("README.md file not found.")
+        return
+
+    with readme_file.open("r+", encoding="utf-8") as f:
+        # Read existing content
+        lines: list[str] = f.readlines()
+
+        # Find "## Articles" section or add it
+        articles_section_index = -1
+        for i, line in enumerate(lines):
+            if line.strip() == "## Articles":
+                articles_section_index: int = i
+                break
+
+        # Create new content
+        new_lines: list[str] = []
+        if articles_section_index >= 0:
+            new_lines = lines[: articles_section_index + 1]  # Keep everything up to "## Articles"
+        else:
+            new_lines = lines
+            if new_lines and not new_lines[-1].endswith("\n"):
+                new_lines.append("\n")
+            new_lines.append("## Articles\n")
+
+        # Add articles
+        new_lines.append("\n")  # Add a blank line after the heading
+        for article in sorted(articles, key=lambda x: x.get("createTime", ""), reverse=True):
+            article_id: str = str(article.get("articleId", ""))
+            article_title: str = article.get("articleTitle", "No Title")
+            article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
+            new_lines.append(f"- [{article_title}]({article_url})\n")
+
+        # Add articles directory section
+        new_lines.append("\n## Articles Directory\n")
+        new_lines.append("The articles are saved in the `articles` directory.\n")
+        new_lines.append("You can view them [here](articles).\n")
+
+        # Write the updated content
+        f.seek(0)
+        f.truncate()
+        f.writelines(new_lines)
+
+        logger.info("Articles added to README.md")
+
+
+def batch_process_timestamps(menu_data: dict[Any, Any], output_dir: Path) -> None:
+    """Process all timestamps in batch for better performance.
+
+    Args:
+        menu_data (list[dict[str, Any]]): The article menu data containing timestamps.
+        output_dir (Path): Directory containing the article files.
+
+    """
+    # Extract article IDs and timestamps
+    timestamp_map: dict[str, str] = {}
+    for item in menu_data:
+        article_id = str(item.get("articleId", ""))
+        create_time = item.get("createTime")
+        if article_id and create_time:
+            timestamp_map[article_id] = create_time
+
+    logger.info("Collected %s timestamps from menu data", len(timestamp_map))
+
+    # Check which files need timestamp updates
+    files_to_update: list[tuple[Path, str]] = []
+    for article_id, create_time in timestamp_map.items():
+        file_path: Path = output_dir / f"{article_id}.json"
+        if not file_path.exists():
+            continue
+
+        expected_timestamp: float = get_file_timestamp(create_time)
+        if expected_timestamp == 0.0:
+            continue
+
+        actual_timestamp: float = file_path.stat().st_mtime
+
+        # Only update if timestamps don't match (with a small tolerance)
+        if abs(actual_timestamp - expected_timestamp) > 1.0:
+            files_to_update.append((file_path, create_time))
+
+    logger.info("Found %s files that need timestamp updates", len(files_to_update))
+
+    # Update timestamps and commit files
+    for file_path, create_time in files_to_update:
+        logger.info("Setting %s timestamp to %s", file_path, create_time)
+        if set_file_timestamp(file_path, create_time):
+            if not commit_file_with_timestamp(file_path):
+                logger.error("Failed to commit file %s to Git", file_path)
+        else:
+            logger.error("Failed to update timestamp for %s", file_path)
+
+
+async def main() -> Literal[1, 0]:
     """Fetch and save articles from the Wuthering Waves website.
 
     Returns:
@@ -205,67 +323,47 @@ async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0914, PLR0915
         existing_files: list[str] = [file.stem for file in output_dir.glob("*.json") if file.stem != "ArticleMenu"]
 
         # Filter out already downloaded articles
-        article_ids = [article_id for article_id in article_ids if article_id not in existing_files]
+        new_article_ids: list[str] = [article_id for article_id in article_ids if article_id not in existing_files]
 
-        # Download each article
-        download_tasks: list[Coroutine[Any, Any, dict[Any, Any] | None]] = []
-        for article_id in article_ids:
-            article_url: str = f"{article_base_url}{article_id}.json?t={current_time}"
-            output_file: Path = output_dir / f"{article_id}.json"
+        if new_article_ids:
+            logger.info("Found %s new articles to download", len(new_article_ids))
 
-            logger.info("Downloading article %s from %s", article_id, article_url)
-            download_tasks.append(fetch_json(article_url, client))
+            # Download each new article
+            download_tasks: list[Coroutine[Any, Any, dict[Any, Any] | None]] = []
+            for article_id in new_article_ids:
+                article_url: str = f"{article_base_url}{article_id}.json?t={current_time}"
+                output_file: Path = output_dir / f"{article_id}.json"
 
-        # Wait for all downloads to complete
-        results: list[dict[Any, Any] | BaseException | None] = await asyncio.gather(*download_tasks, return_exceptions=True)
+                logger.info("Downloading article %s from %s", article_id, article_url)
+                download_tasks.append(fetch_json(article_url, client))
 
-        # Process the downloaded articles
-        for i, result in enumerate(results):
-            article_id: str = article_ids[i]
-            output_file = output_dir / f"{article_id}.json"
+            # Wait for all downloads to complete
+            results: list[dict[Any, Any] | BaseException | None] = await asyncio.gather(*download_tasks, return_exceptions=True)
 
-            if isinstance(result, Exception):
-                logger.error("Error downloading article %s: %s", article_id, result)
-                continue
+            # Process the downloaded articles
+            for i, result in enumerate(results):
+                article_id: str = new_article_ids[i]
+                output_file = output_dir / f"{article_id}.json"
 
-            if not result:
-                logger.warning("Downloaded article %s is empty or invalid", article_id)
-                continue
+                if isinstance(result, Exception):
+                    logger.error("Error downloading article %s: %s", article_id, result)
+                    continue
 
-            # Save the article JSON
-            if isinstance(result, dict) and await save_prettified_json(result, output_file):
-                logger.info("Successfully downloaded and prettified %s", output_file)
+                if not result:
+                    logger.warning("Downloaded article %s is empty or invalid", article_id)
+                    continue
 
-        json_files: list[Path] = list(output_dir.glob("*.json"))
+                # Save the article JSON
+                if isinstance(result, dict) and await save_prettified_json(result, output_file):
+                    logger.info("Successfully downloaded and prettified %s", output_file)
+        else:
+            logger.info("No new articles to download")
 
-        # Reverse the JSON files so the youngest articles are at the top of the Git history
-        json_files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+        # Process timestamps in batch
+        batch_process_timestamps(menu_data, output_dir)
 
-        # Update file timestamps based on createTime
-        for file in json_files:
-            article_id = file.stem
-            if article_id == "ArticleMenu":
-                continue
-
-            # Find the corresponding article in the menu
-            create_time = None
-            for item in menu_data:
-                if str(item.get("articleId", "")) == article_id and "createTime" in item:
-                    create_time = item["createTime"]
-                    break
-
-            if not create_time:
-                logger.info("Warning: no createTime for %s in menu data - skipping", article_id)
-                continue
-
-            logger.info("Setting %s timestamp to %s", file, create_time)
-            if not set_file_timestamp(file, create_time):
-                logger.error("  failed to update timestamp")
-                continue
-
-            # Commit the file to Git with the correct timestamp
-            if not commit_file_with_timestamp(file):
-                logger.error("  failed to commit file %s to Git", file)
+    # Update the README
+    add_articles_to_readme(menu_data)
 
     logger.info("Script finished. Articles are in the '%s' directory.", output_dir)
     return 0
