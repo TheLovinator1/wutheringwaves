@@ -9,6 +9,8 @@ import json
 # Set up logging
 import logging
 import os
+import shutil
+import subprocess  # noqa: S404
 import time
 from datetime import UTC, datetime
 from pathlib import Path
@@ -97,6 +99,58 @@ def set_file_timestamp(filepath: Path, timestamp_str: str) -> bool:
         return True
 
 
+def commit_file_with_timestamp(filepath: Path) -> bool:
+    """Commit a file to Git with its modification time as the commit time.
+
+    Args:
+        filepath (Path): The path to the file to commit.
+
+    Returns:
+        bool: True if the commit was successful, False otherwise.
+
+    """
+    try:
+        # Get the full path to the Git executable
+        git_executable = shutil.which("git")
+        if not git_executable:
+            logger.error("Git executable not found.")
+            return False
+
+        # Validate the filepath
+        if not filepath.is_file():
+            logger.error("Invalid file path: %s", filepath)
+            return False
+
+        # Get the file's modification time
+        timestamp: float = filepath.stat().st_mtime
+        git_time: str = datetime.fromtimestamp(timestamp, tz=UTC).strftime("%Y-%m-%dT%H:%M:%S")
+
+        # Stage the file
+        subprocess.run([git_executable, "add", str(filepath)], check=True, text=True)  # noqa: S603
+
+        # Commit the file with the modification time as the commit time
+        env: dict[str, str] = {
+            **os.environ,
+            "GIT_AUTHOR_DATE": git_time,
+            "GIT_COMMITTER_DATE": git_time,
+        }
+        subprocess.run(  # noqa: S603
+            [git_executable, "commit", "-m", f"Add {filepath.name}"],
+            check=True,
+            env=env,
+            text=True,
+        )
+    except subprocess.CalledProcessError:
+        logger.exception("Subprocess error occurred while committing the file.")
+        return False
+    except Exception:
+        logger.exception("Error committing %s to Git", filepath)
+        return False
+    else:
+        logger.info("Successfully committed %s to Git", filepath)
+        return True
+
+
 async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0915
     """Fetch and save articles from the Wuthering Waves website.
 
@@ -171,8 +225,13 @@ async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0915
             if isinstance(result, dict) and await save_prettified_json(result, output_file):
                 logger.info("Successfully downloaded and prettified %s", output_file)
 
+        json_files: list[Path] = list(output_dir.glob("*.json"))
+
+        # Reverse the JSON files so the youngest articles are at the top of the Git history
+        json_files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+
         # Update file timestamps based on createTime
-        for file in output_dir.glob("*.json"):
+        for file in json_files:
             article_id = file.stem
             if article_id == "ArticleMenu":
                 continue
@@ -191,6 +250,11 @@ async def main() -> Literal[1, 0]:  # noqa: C901, PLR0912, PLR0915
             logger.info("Setting %s timestamp to %s", file, create_time)
             if not set_file_timestamp(file, create_time):
                 logger.error("  failed to update timestamp")
+                continue
+
+            # Commit the file to Git with the correct timestamp
+            if not commit_file_with_timestamp(file):
+                logger.error("  failed to commit file %s to Git", file)
 
     logger.info("Script finished. Articles are in the '%s' directory.", output_dir)
     return 0
