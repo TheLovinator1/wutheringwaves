@@ -297,5 +297,6 @@
 - [Developer's Notes - Resonators of First Encounter](https://wutheringwaves.kurogames.com/en/main/news/detail/162) [[json]](articles/162.json)
 
 ## Articles Directory
+
 The articles are saved in the `articles` directory.
 You can view them [here](articles).
