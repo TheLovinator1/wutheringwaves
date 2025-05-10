@@ -294,8 +294,12 @@ def strip_unsafe_tags(content: str) -> str:
         str: The cleaned HTML content.
 
     """
-    sanitizer = Sanitizer()
-    return sanitizer.sanitize(content)  # pyright: ignore[reportUnknownVariableType, reportUnknownMemberType]
+    sanitizer = Sanitizer({
+        "tags": {"a", "br", "b", "strong", "i", "em", "code", "s", "strike", "del", "u"},
+        "empty": {"a", "br"},
+        "separate": {"br"},
+    })
+    return sanitizer.sanitize(content.replace("\n", "<br>")).replace("<br>", "\n")  # pyright: ignore[reportUnknownVariableType, reportUnknownMemberType]
 
 
 def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
@@ -355,7 +359,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
         <id>{entry_id}</id>
         <title>{escape(article_title)}</title>
         <link href="{article_url}" rel="alternate" type="text/html"/>
-        <content type="html">{escape(article_content)}</content>
+        <content type="html">{escape(article_content.strip())}</content>
         {published}
         <updated>{updated}</updated>
         {category}
