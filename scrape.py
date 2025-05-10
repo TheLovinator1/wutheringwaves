@@ -1,8 +1,3 @@
-"""Fetch articles from the Wuthering Waves website and saves them locally in JSON format.
-
-It retrieves the article menu and individual articles, prettifies the JSON output, and sets file timestamps based on article creation dates.
-"""  # noqa: CPY001
-
 import asyncio
 import json
 import logging
@@ -16,7 +11,6 @@ from typing import TYPE_CHECKING, Any, Literal
 
 import aiofiles
 import httpx
-from html_sanitizer import Sanitizer  # pyright: ignore[reportMissingTypeStubs]
 from markupsafe import escape
 
 if TYPE_CHECKING:
@@ -284,24 +278,6 @@ def batch_process_timestamps(menu_data: dict[Any, Any], output_dir: Path) -> Non
             logger.error("Failed to update timestamp for %s", file_path)
 
 
-def strip_unsafe_tags(content: str) -> str:
-    """Strip unsafe HTML tags and return the cleaned content.
-
-    Args:
-        content (str): The HTML content to clean.
-
-    Returns:
-        str: The cleaned HTML content.
-
-    """
-    sanitizer = Sanitizer({
-        "tags": {"a", "br", "b", "strong", "i", "em", "code", "s", "strike", "del", "u"},
-        "empty": {"a", "br"},
-        "separate": {"br"},
-    })
-    return sanitizer.sanitize(content.replace("\n", "<br>")).replace("<br>", "\n")  # pyright: ignore[reportUnknownVariableType, reportUnknownMemberType]
-
-
 def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
     """Generate an Atom feed from a list of articles.
 
@@ -334,7 +310,6 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
 
         article_title: str = article.get("articleTitle", "No Title")
         article_content: str = article.get("articleContent", article_title)
-        article_content = strip_unsafe_tags(article_content)
         if not article_content:
             article_content = article_title
 
@@ -347,19 +322,17 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
             timestamp: datetime = datetime.strptime(str(article_create_time), "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
             iso_time: str = timestamp.isoformat()
             published = f"<published>{iso_time}</published>"
-            # Use createTime as updated if available (more accurate than now)
             updated = iso_time
 
         article_category: str = article.get("articleTypeName", "Wuthering Waves")
         category: str = f'<category term="{escape(article_category)}"/>' if article_category else ""
-        # Create entry using Atom format
         atom_entries.append(
             f"""
     <entry>
         <id>{entry_id}</id>
         <title>{escape(article_title)}</title>
         <link href="{article_url}" rel="alternate" type="text/html"/>
-        <content type="html">{escape(article_content.strip())}</content>
+        <content type="html">{escape(article_content.strip()).replace("\n", "<br/>")}</content>
         {published}
         <updated>{updated}</updated>
         {category}
