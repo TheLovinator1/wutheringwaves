@@ -3,6 +3,7 @@
         "aiofiles",
         "httpx",
         "levelname",
+        "TheLovinator",
         "Wuthering",
         "wutheringwaves"
     ],

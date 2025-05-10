@@ -218,7 +218,9 @@ def add_articles_to_readme(articles: dict[Any, Any] | None = None) -> None:
             article_id: str = str(article.get("articleId", ""))
             article_title: str = article.get("articleTitle", "No Title")
             article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
-            new_lines.append(f"- [{article_title}]({article_url})\n")
+            new_lines.append(
+                f"- [{article_title}]({article_url}) [[json]](articles/{article_id}.json)\n",
+            )
 
         # Add articles directory section
         new_lines.append("\n## Articles Directory\n")
