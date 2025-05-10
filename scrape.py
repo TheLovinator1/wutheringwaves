@@ -348,6 +348,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         )
         article_content = article_content.replace(" ", " ")  # Replace non-breaking spaces with regular spaces  # noqa: RUF001
         article_content: str = converter.convert(article_content).strip()  # type: ignore  # noqa: PGH003
+        article_content = escape(article_content)
 
         article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
         article_create_time: str = article.get("createTime", "")
