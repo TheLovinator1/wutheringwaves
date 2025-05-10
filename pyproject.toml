@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "Wuthering Waves archive"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["aiofiles", "httpx", "markupsafe"]
+dependencies = ["aiofiles", "beautifulsoup4", "httpx", "markupsafe"]
