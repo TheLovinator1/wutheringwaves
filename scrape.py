@@ -11,6 +11,8 @@ from typing import TYPE_CHECKING, Any, Literal
 
 import aiofiles
 import httpx
+from bs4 import BeautifulSoup
+from bs4.element import PageElement, Tag
 from markupsafe import escape
 
 if TYPE_CHECKING:
@@ -278,6 +280,118 @@ def batch_process_timestamps(menu_data: dict[Any, Any], output_dir: Path) -> Non
             logger.error("Failed to update timestamp for %s", file_path)
 
 
+def clean_html(html: str) -> str:  # noqa: C901, PLR0912, PLR0915
+    """Clean HTML content by removing unwanted tags and formatting.
+
+    Args:
+        html (str): The HTML content to clean.
+
+    Returns:
+        str: The cleaned HTML content.
+
+    """
+    soup = BeautifulSoup(html, "html.parser")
+
+    # 1. Remove unwanted tags completely
+    tags_to_remove: list[str] = ["img", "pre"]
+    for tag_name in tags_to_remove:
+        for tag in soup.find_all(tag_name):
+            tag.decompose()  # Removes the tag and its content
+
+    # 2. Unwrap tags whose content should be preserved directly
+    tags_to_unwrap: list[str] = ["div", "p"]
+    for tag_name in tags_to_unwrap:
+        for element in soup.find_all(tag_name):
+            if isinstance(element, Tag):
+                element.unwrap()  # Removes the tag, keeps its children
+
+    # 3. Process <span> tags: extract their text and <br> tags, then remove the <span>
+    for span_tag in soup.find_all("span"):
+        if not isinstance(span_tag, Tag):
+            continue
+
+        content_to_insert: list[str | Tag] = []
+        for child in span_tag.contents:
+            if isinstance(child, Tag) and child.name == "br":
+                # Create a new <br> tag object to insert
+                br_tag = soup.new_tag("br")
+                content_to_insert.append(br_tag)
+            elif isinstance(child, str):  # It's a NavigableString (text)
+                # Add the text content directly
+                content_to_insert.append(child)
+            # Add handling for other nested tags within span if necessary
+
+        # Insert the extracted content before the span tag, in order
+        for item in content_to_insert:
+            span_tag.insert_before(item)
+        # Remove the original span tag
+        span_tag.decompose()
+
+    # 4. Consolidate text nodes and handle <br> tag sequences
+    # Determine the list of elements to iterate over (direct children of the main parsed content)
+    content_nodes: list[PageElement] = []
+    if soup.body:  # If BeautifulSoup added <html><body> tags
+        content_nodes = soup.body.contents
+    elif soup.html:  # If only <html> tag was added
+        content_nodes = soup.html.contents
+    else:  # If it's a fragment and no top-level tags were added by BS
+        content_nodes = soup.contents
+
+    final_output_parts: list[str] = []
+    consecutive_br_count = 0
+
+    max_br_allowed = 2  # Maximum number of <br> tags to add in sequence
+    for element in content_nodes:
+        if isinstance(element, str):  # It's a NavigableString (text node)
+            # First, handle any accumulated <br> tags before this text
+            if consecutive_br_count > 0:
+                brs_to_add = 0
+                if consecutive_br_count == 1:
+                    brs_to_add = 1
+                elif consecutive_br_count >= max_br_allowed:
+                    brs_to_add = 2
+
+                final_output_parts.extend("<br/>" for _ in range(brs_to_add))
+            consecutive_br_count = 0
+
+            # Clean and add the text
+            text: str = element.replace("\xa0", " ").strip()  # \xa0 is &nbsp;
+            if text:
+                final_output_parts.append(text)
+
+        elif isinstance(element, Tag) and element.name == "br":  # It's a <br> tag
+            consecutive_br_count += 1
+
+        else:  # Handle other unexpected elements if any (e.g., leftover unknown tags)
+            # This part depends on how strictly you want to clean.
+            # For now, we'll try to get their text if they weren't removed.
+            if consecutive_br_count > 0:  # Process pending BRs first
+                brs_to_add = 0
+                if consecutive_br_count == 1:
+                    brs_to_add = 1
+                elif consecutive_br_count >= max_br_allowed:
+                    brs_to_add = 2
+                final_output_parts.extend("<br/>" for _ in range(brs_to_add))
+            consecutive_br_count = 0
+
+            if hasattr(element, "get_text"):
+                other_text = element.get_text(separator=" ", strip=True).replace("\xa0", " ")
+                if other_text:
+                    final_output_parts.append(other_text)
+
+    # Handle any trailing <br> tags accumulated at the very end of the content
+    if consecutive_br_count > 0:
+        brs_to_add = 0
+        if consecutive_br_count == 1:
+            brs_to_add = 1
+        elif consecutive_br_count >= max_br_allowed:
+            brs_to_add = 2
+
+        final_output_parts.extend("<br/>" for _ in range(brs_to_add))
+
+    return "".join(final_output_parts)
+
+
 def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
     """Generate an Atom feed from a list of articles.
 
@@ -312,6 +426,8 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
         article_content: str = article.get("articleContent", article_title)
         if not article_content:
             article_content = article_title
+
+        article_content = clean_html(article_content)
 
         article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
         article_create_time: str = article.get("createTime", "")
