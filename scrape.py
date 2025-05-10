@@ -281,6 +281,53 @@ def batch_process_timestamps(menu_data: dict[Any, Any], output_dir: Path) -> Non
         else:
             logger.error("Failed to update timestamp for %s", file_path)
 
+def add_data_to_articles(menu_data: dict[Any, Any], output_dir: Path) -> None:
+    """ArticleMenu.json contains data that should be added to the articles.
+
+    Fields not in the article JSON:
+        - articleDesc (Currently empty in ArticleMenu.json)
+        - createTime
+        - sortingMark
+        - suggestCover
+        - top
+
+    Args:
+        menu_data (dict[Any, Any]): The article menu data.
+        output_dir (Path): Directory containing the article files.
+
+    """
+    for item in menu_data:
+        article_id: str = str(item.get("articleId", ""))
+        if not article_id:
+            continue
+
+        # Check if the article file exists
+        article_file: Path = output_dir / f"{article_id}.json"
+        if not article_file.is_file():
+            logger.warning("Article file %s does not exist, skipping...", article_file)
+            continue
+
+        # Read the existing article data
+        with article_file.open("r", encoding="utf-8") as f:
+            try:
+                article_data: dict[Any, Any] = json.load(f)
+            except json.JSONDecodeError:
+                logger.exception("Error decoding JSON from %s", article_file)
+                continue
+
+        old_article_data = article_data
+
+        # Add missing fields from ArticleMenu.json
+        for key in ["articleDesc", "createTime", "sortingMark", "suggestCover", "top"]:
+            if key in item and key not in article_data:
+                article_data[key] = item[key]
+
+        # Save the updated article data if any changes were made
+        if old_article_data != article_data:
+            with article_file.open("w", encoding="utf-8") as f:
+                json.dump(article_data, f, indent=2, ensure_ascii=False)
+            logger.info("Updated %s with data from ArticleMenu.json", article_file)
+
 
 async def main() -> Literal[1, 0]:
     """Fetch and save articles from the Wuthering Waves website.
@@ -361,11 +408,14 @@ async def main() -> Literal[1, 0]:
         else:
             logger.info("No new articles to download")
 
-        # Process timestamps in batch
-        batch_process_timestamps(menu_data, output_dir)
+    # Add data from ArticleMenu.json to /articles/*.json files
+    add_data_to_articles(menu_data, output_dir)
 
     # Update the README
     add_articles_to_readme(menu_data)
+
+    # Process timestamps in batch
+    batch_process_timestamps(menu_data, output_dir)
 
     logger.info("Script finished. Articles are in the '%s' directory.", output_dir)
     return 0
