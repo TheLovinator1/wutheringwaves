@@ -223,7 +223,7 @@ def add_articles_to_readme(articles: dict[Any, Any] | None = None) -> None:
             )
 
         # Add articles directory section
-        new_lines.append("\n## Articles Directory\n")
+        new_lines.append("\n## Articles Directory\n\n")
         new_lines.append("The articles are saved in the `articles` directory.\n")
         new_lines.append("You can view them [here](articles).\n")
 
