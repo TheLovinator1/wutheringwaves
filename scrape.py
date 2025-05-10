@@ -12,10 +12,12 @@ import subprocess  # noqa: S404
 import time
 from datetime import UTC, datetime
 from pathlib import Path
-from typing import TYPE_CHECKING, Any, Literal, LiteralString
+from typing import TYPE_CHECKING, Any, Literal
 
 import aiofiles
 import httpx
+from html_sanitizer import Sanitizer  # pyright: ignore[reportMissingTypeStubs]
+from markupsafe import escape
 
 if TYPE_CHECKING:
     from collections.abc import Coroutine
@@ -281,6 +283,170 @@ def batch_process_timestamps(menu_data: dict[Any, Any], output_dir: Path) -> Non
         else:
             logger.error("Failed to update timestamp for %s", file_path)
 
+
+def strip_unsafe_tags(content: str) -> str:
+    """Strip unsafe HTML tags and return the cleaned content.
+
+    Args:
+        content (str): The HTML content to clean.
+
+    Returns:
+        str: The cleaned HTML content.
+
+    """
+    sanitizer = Sanitizer()
+    return sanitizer.sanitize(content)  # pyright: ignore[reportUnknownVariableType, reportUnknownMemberType]
+
+
+def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:
+    """Generate an Atom feed from a list of articles.
+
+    Args:
+        articles (list[dict[Any, Any]]): The list of articles to include in the feed.
+        file_name (str): The name of the file to save the feed to.
+
+    Returns:
+        str: The generated Atom feed as a string.
+
+    """
+    atom_entries: list[str] = []
+    latest_entry: str = datetime.now(UTC).isoformat()
+
+    # Get the latest entry date
+    if articles:
+        latest_entry = articles[0].get("createTime", "")
+        if latest_entry:
+            latest_entry = datetime.strptime(str(latest_entry), "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC).isoformat()
+
+    for article in articles:
+        article_id: str = str(article.get("articleId", ""))
+
+        # Use stable identifier based on article ID
+        entry_id: str = (
+            f"urn:article:{article_id}"
+            if article_id
+            else f"urn:wutheringwaves:unknown-article-{hash(article.get('articleTitle', '') + article.get('createTime', ''))}"
+        )
+
+        article_title: str = article.get("articleTitle", "No Title")
+        article_content: str = article.get("articleContent", article_title)
+        article_content = strip_unsafe_tags(article_content)
+        if not article_content:
+            article_content = article_title
+
+        article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
+        article_create_time: str = article.get("createTime", "")
+        published: str = ""
+        updated: str = latest_entry
+
+        if article_create_time:
+            timestamp: datetime = datetime.strptime(str(article_create_time), "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
+            iso_time: str = timestamp.isoformat()
+            published = f"<published>{iso_time}</published>"
+            # Use createTime as updated if available (more accurate than now)
+            updated = iso_time
+
+        article_category: str = article.get("articleTypeName", "Wuthering Waves")
+        category: str = f'<category term="{escape(article_category)}"/>' if article_category else ""
+        # Create entry using Atom format
+        atom_entries.append(
+            f"""
+    <entry>
+        <id>{entry_id}</id>
+        <title>{escape(article_title)}</title>
+        <link href="{article_url}" rel="alternate" type="text/html"/>
+        <content type="html">{escape(article_content)}</content>
+        {published}
+        <updated>{updated}</updated>
+        {category}
+        <author>
+            <name>Wuthering Waves</name>
+            <email>wutheringwaves_ensupport@kurogames.com</email>
+            <uri>https://wutheringwaves.kurogames.com</uri>
+        </author>
+    </entry>""",
+        )
+
+    # Create the complete Atom feed
+    atom_feed: str = f"""<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Wuthering Waves Articles</title>
+    <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
+    <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/{file_name}" rel="self" type="application/atom+xml"/>
+    <id>urn:wutheringwaves:feed</id>
+    <updated>{latest_entry}</updated>
+    <subtitle>Latest articles from Wuthering Waves</subtitle>
+    <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
+    <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
+    <rights>Copyright © {datetime.now(tz=UTC).year} Wuthering Waves</rights>
+    <generator uri="https://git.lovinator.space/TheLovinator/wutheringwaves" version="1.0">Python Script</generator>
+    <author>
+        <name>Wuthering Waves</name>
+        <email>wutheringwaves_ensupport@kurogames.com</email>
+        <uri>https://wutheringwaves.kurogames.com</uri>
+    </author>
+    {"".join(atom_entries)}
+</feed>"""  # noqa: E501
+
+    return atom_feed
+
+
+def create_atom_feeds(output_dir: Path) -> None:
+    """Create Atom feeds for the articles.
+
+    Current feeds are:
+        - Last 10 articles
+        - All articles
+
+    Args:
+        output_dir (Path): The directory to save the RSS feed files.
+
+    """
+    menu_data: list[dict[Any, Any]] = []
+    # Load data from all the articles
+    for file in output_dir.glob("*.json"):
+        if file.stem == "ArticleMenu":
+            continue
+        with file.open("r", encoding="utf-8") as f:
+            try:
+                article_data: dict[Any, Any] = json.load(f)
+                menu_data.append(article_data)
+            except json.JSONDecodeError:
+                logger.exception("Error decoding JSON from %s", file)
+                continue
+
+    if not menu_data:
+        logger.error("Can't create Atom feeds, no articles found in %s", output_dir)
+        return
+
+    # Create the Atom feed for the latest articles
+    amount_of_articles: int = 20
+    atom_feed_path: Path = Path("articles_latest.xml")
+    latest_articles: list[dict[Any, Any]] = sorted(
+        menu_data,
+        key=lambda x: get_file_timestamp(x.get("createTime", "")),
+        reverse=True,
+    )[:amount_of_articles]
+
+    logger.info("Dates of the last %s articles:", len(latest_articles))
+    for article in latest_articles:
+        article_id: str = str(article.get("articleId", ""))
+        article_create_time: str = article.get("createTime", "")
+        logger.info("\tArticle ID: %s, Date: %s", article_id, article_create_time)
+
+    atom_feed: str = generate_atom_feed(articles=latest_articles, file_name=atom_feed_path.name)
+    with atom_feed_path.open("w", encoding="utf-8") as f:
+        f.write(atom_feed)
+    logger.info("Created Atom feed for the last %s articles: %s", len(latest_articles), atom_feed_path)
+
+    # Create the Atom feed for all articles
+    atom_feed_path_all: Path = Path("articles_all.xml")
+    atom_feed_all_articles: str = generate_atom_feed(articles=menu_data, file_name=atom_feed_path_all.name)
+    with atom_feed_path_all.open("w", encoding="utf-8") as f:
+        f.write(atom_feed_all_articles)
+    logger.info("Created Atom feed for all articles: %s", atom_feed_path_all)
+
+
 def add_data_to_articles(menu_data: dict[Any, Any], output_dir: Path) -> None:
     """ArticleMenu.json contains data that should be added to the articles.
 
@@ -340,7 +506,7 @@ async def main() -> Literal[1, 0]:
     current_time = int(time.time() * 1000)  # Current time in milliseconds
     base_url = "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en"
     article_menu_url: str = f"{base_url}/ArticleMenu.json?t={current_time}"
-    article_base_url: LiteralString = f"{base_url}/article/"
+    article_base_url: str = f"{base_url}/article/"
     output_dir = Path("articles")
     output_dir.mkdir(exist_ok=True)
 
@@ -408,13 +574,9 @@ async def main() -> Literal[1, 0]:
         else:
             logger.info("No new articles to download")
 
-    # Add data from ArticleMenu.json to /articles/*.json files
     add_data_to_articles(menu_data, output_dir)
-
-    # Update the README
     add_articles_to_readme(menu_data)
-
-    # Process timestamps in batch
+    create_atom_feeds(output_dir)
     batch_process_timestamps(menu_data, output_dir)
 
     logger.info("Script finished. Articles are in the '%s' directory.", output_dir)
