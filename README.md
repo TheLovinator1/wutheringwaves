@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Cubie Derby] Anniversary Spectator Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2602) [[json]](articles/2602.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2584) [[json]](articles/2584.json)
 - [V2.3 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/2578) [[json]](articles/2578.json)
 - [Wuthering Waves Fan Creation Event "Fiery Arpeggio of Summer Reunion" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/2577) [[json]](articles/2577.json)
