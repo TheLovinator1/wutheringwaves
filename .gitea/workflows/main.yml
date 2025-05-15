@@ -17,6 +17,8 @@ jobs:
           fi
       - name: Checkout code
         uses: https://github.com/actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: https://github.com/actions/setup-python@v5
