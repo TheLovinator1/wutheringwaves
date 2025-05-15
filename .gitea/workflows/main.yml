@@ -1,0 +1,47 @@
+name: Run Scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for required secret
+        run: |
+          if [ -z "${{ secrets.REPO_WRITE_PAT }}" ]; then
+            echo "Missing REPO_WRITE_PAT secret. Aborting."
+            exit 1
+          fi
+      - name: Checkout code
+        uses: https://github.com/actions/checkout@v4
+
+      - name: Set up Python
+        uses: https://github.com/actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install uv
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run script
+        run: uv run python scrape.py
+
+      - name: Get the modified files
+        id: get_modified_files
+        run: |
+          files=$(git diff --name-only HEAD^ HEAD | xargs | sed 's/ /, /g')
+          echo "files=$files" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Joakim Hellsén"
+          git config user.email "tlovinator@gmail.com"
+          git add .
+          git commit -m "Updated files: ${{ steps.get_modified_files.outputs.files }}" || echo "No changes to commit"
+          git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:main
