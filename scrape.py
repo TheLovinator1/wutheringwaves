@@ -392,7 +392,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         )
 
         article_title: str = article.get("articleTitle", "No Title")
-        article_content: str = article.get("articleContent", article_title)
+        article_content: str = article.get("articleContent", str(article_title))
         if not article_content:
             article_content = article_title
 
