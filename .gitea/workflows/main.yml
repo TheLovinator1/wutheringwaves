@@ -46,4 +46,4 @@ jobs:
           git config user.email "tlovinator@gmail.com"
           git add .
           git commit -m "Updated files: ${{ steps.get_modified_files.outputs.files }}" || echo "No changes to commit"
-          git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:main
+          git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:master
