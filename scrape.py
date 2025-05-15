@@ -1,7 +1,8 @@
-import asyncio
+import asyncio  # noqa: CPY001, D100
 import json
 import logging
 import os
+import re
 import shutil
 import subprocess  # noqa: S404
 import time
@@ -11,8 +12,9 @@ from typing import TYPE_CHECKING, Any, Literal
 
 import aiofiles
 import httpx
-from markdownify import MarkdownConverter
-from markupsafe import escape
+import mdformat
+from markdownify import MarkdownConverter  # pyright: ignore[reportMissingTypeStubs]
+from markupsafe import Markup, escape
 
 if TYPE_CHECKING:
     from collections.abc import Coroutine
@@ -104,6 +106,10 @@ def get_file_timestamp(timestamp_str: str) -> float:
         float: The Unix timestamp, or 0 if conversion failed.
 
     """
+    if not timestamp_str:
+        logger.info("Empty timestamp string")
+        return 0.0
+
     try:
         # Parse the timestamp string
         dt: datetime = datetime.strptime(timestamp_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
@@ -279,31 +285,80 @@ def batch_process_timestamps(menu_data: dict[Any, Any], output_dir: Path) -> Non
             logger.error("Failed to update timestamp for %s", file_path)
 
 
-class CustomLinkMarkdownConverter(MarkdownConverter):
-    """Custom Markdown converter to handle links.
+def format_discord_links(md: str) -> str:
+    """Make links work in Discord.
 
-    This class is a subclass of MarkdownConverter
-    and overrides the convert_a method to customize
-    the conversion of <a> tags to Markdown links.
+    Discord doesn't support links with titles, so we need to remove them.
+    This function also adds angle brackets around the URL to not embed it.
+
+    Args:
+        md (str): The Markdown text containing links.
+
+    Returns:
+        str: The modified Markdown text with simplified links.
+
     """
 
-    def convert_a(self, el: Any, text: str, **kwargs) -> str:  # type: ignore  # noqa: ANN003, ANN401, ARG002, PGH003, PLR6301
-        """Convert <a> tags.
+    def repl(match: re.Match[str]) -> str:
+        url: str | Any = match.group(2)
+        display: str = re.sub(pattern=r"^https?://(www\.)?", repl="", string=url)
+        return f"[{display}]({url})"
 
-        Args:
-            el (Any): The element to convert.
-            text (str): The text content of the element.
-            kwargs (Any): Additional arguments.
+    # Before: [Link](https://example.com "Link")
+    # After: [Link](https://example.com)
+    formatted_links_md = re.sub(
+        pattern=r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)',
+        repl=repl,
+        string=md,
+    )
 
-        Returns:
-            str: The converted text.
+    # Before: [Link](https://example.com)
+    # After: [Link](<https://example.com>)
+    add_angle_brackets_md: str = re.sub(
+        pattern=r"\[([^\]]+)\]\((https?://[^\s)]+)\)",
+        repl=r"[\1](<\2>)",
+        string=formatted_links_md,
+    )
 
-        """
-        href: str | None = el.get("href")
-        if not href:
-            return text
+    return add_angle_brackets_md
 
-        return f"[{text}](<{href}>)"
+
+def handle_stars(text: str) -> str:
+    """Handle stars in the text.
+
+    Args:
+        text (str): The text to process.
+
+    Returns:
+        str: The processed text with stars replaced by headers.
+
+    """
+    lines: list[str] = text.strip().splitlines()
+    output: list[str] = []
+    for line in lines:
+        line: str = line.strip()  # noqa: PLW2901
+
+        # Before: ✦ Title ✦
+        # After: # Title
+        if line.startswith("✦") and line.endswith("✦"):
+            title: str = line.removeprefix("✦").removesuffix("✦").strip()
+            output.append(f"# {title}")
+
+        # Before: **✦ Title ✦**
+        # After: # Title
+        elif line.startswith("**✦") and line.endswith("✦**"):
+            title: str = line.removeprefix("**✦").removesuffix("✦**").strip()
+            output.append(f"# {title}")
+
+        # Before: ✦ Title
+        # After: * Title
+        elif line.startswith("✦"):
+            title: str = line.removeprefix("✦").strip()
+            output.append(f"* {title}")
+
+        elif line:
+            output.append(line)
+    return "\n\n".join(output)
 
 
 def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  # noqa: PLR0914
@@ -341,14 +396,88 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         if not article_content:
             article_content = article_title
 
-        converter: CustomLinkMarkdownConverter = CustomLinkMarkdownConverter(
+        converter: MarkdownConverter = MarkdownConverter(
             heading_style="ATX",
             bullets="-",
             strip=["img"],
+            default_title="Link",
         )
-        article_content = article_content.replace(" ", " ")  # Replace non-breaking spaces with regular spaces  # noqa: RUF001
-        article_content: str = converter.convert(article_content).strip()  # type: ignore  # noqa: PGH003
-        article_content = escape(article_content)
+        article_content_converted = str(converter.convert(article_content).strip())  # type: ignore  # noqa: PGH003
+
+        if not article_content_converted:
+            msg: str = f"Article content is empty for article ID: {article_id}"
+            logger.warning(msg)
+            article_content_converted = "No content available"
+
+        # Remove non-breaking spaces
+        xa0_removed: str = re.sub(r"\xa0", " ", article_content_converted)  # Replace non-breaking spaces with regular spaces
+
+        # Replace non-breaking spaces with regular spaces
+        non_breaking_space_removed: str = xa0_removed.replace(
+            " ",  # noqa: RUF001
+            " ",
+        )
+
+        # Remove code blocks that has only spaces and newlines inside them
+        empty_code_block_removed: str = re.sub(
+            pattern=r"```[ \t]*\n[ \t]*\n```",
+            repl="",
+            string=non_breaking_space_removed,  # type: ignore  # noqa: PGH003
+        )
+
+        # [How to Update] should be # How to Update
+        square_brackets_converted: str = re.sub(
+            pattern=r"^\s*\[([^\]]+)\]\s*$",
+            repl=r"# \1",
+            string=empty_code_block_removed,  # type: ignore  # noqa: PGH003
+            flags=re.MULTILINE,
+        )
+
+        stars_converted: str = handle_stars(square_brackets_converted)
+
+        # If `● Word` is in the content, replace it `## Word` instead with regex
+        ball_converted: str = re.sub(pattern=r"●\s*(.*?)\n", repl=r"\n\n## \1\n\n", string=stars_converted, flags=re.MULTILINE)
+
+        # If `※ Word` is in the content, replace it `* word * ` instead with regex
+        reference_mark_converted: str = re.sub(
+            pattern=r"^\s*※\s*(\S.*?)\s*$",
+            repl=r"\n\n*\1*\n\n",
+            string=ball_converted,
+            flags=re.MULTILINE,
+        )
+
+        # Replace circled Unicode numbers (①-⑳) with plain numbered text (e.g., "1. ", "2. ", ..., "20. ")
+        number_symbol: dict[str, str] = {
+            "①": "1",
+            "②": "2",
+            "③": "3",
+            "④": "4",
+            "⑤": "5",
+            "⑥": "6",
+            "⑦": "7",
+            "⑧": "8",
+            "⑨": "9",
+            "⑩": "10",
+        }
+        for symbol, number in number_symbol.items():
+            reference_mark_converted = re.sub(
+                pattern=rf"^\s*{re.escape(symbol)}\s*(.*?)\s*$",
+                repl=rf"\n\n{number}. \1\n\n",
+                string=reference_mark_converted,
+                flags=re.MULTILINE,
+            )
+
+        space_before_star_added: str = re.sub(pattern=r"\\\*(.*)", repl=r"* \1", string=reference_mark_converted, flags=re.MULTILINE)
+
+        markdown_formatted: str = mdformat.text(  # type: ignore  # noqa: PGH003
+            space_before_star_added,
+            options={
+                "number": True,  # Allow 1., 2., 3. numbering
+            },
+        )
+
+        links_fixed: str = format_discord_links(markdown_formatted)
+        article_escaped: Markup = escape(links_fixed)
 
         article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
         article_create_time: str = article.get("createTime", "")
@@ -361,6 +490,9 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             published = f"<published>{iso_time}</published>"
             updated = iso_time
 
+        if article_id == "1004":
+            logger.info("Article ID: %s, Date: %s", article_id, article_create_time)
+
         article_category: str = article.get("articleTypeName", "Wuthering Waves")
         category: str = f'<category term="{escape(article_category)}"/>' if article_category else ""
         atom_entries.append(
@@ -369,7 +501,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         <id>{entry_id}</id>
         <title>{escape(article_title)}</title>
         <link href="{article_url}" rel="alternate" type="text/html"/>
-        <content type="text">{article_content}</content>
+        <content type="text">{article_escaped}</content>
         {published}
         <updated>{updated}</updated>
         {category}
