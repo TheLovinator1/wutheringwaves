@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 * * * *' # Every hour
   workflow_dispatch:
+  push:
+    paths:
+      - 'scrape.py'
+      - '.gitea/workflows/main.yml'
 
 jobs:
   scrape:
