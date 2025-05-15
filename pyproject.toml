@@ -10,4 +10,5 @@ dependencies = [
     "httpx",
     "markdownify",
     "markupsafe",
+    "mdformat",
 ]
