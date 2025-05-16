@@ -490,9 +490,6 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             published = f"<published>{iso_time}</published>"
             updated = iso_time
 
-        if article_id == "1004":
-            logger.info("Article ID: %s, Date: %s", article_id, article_create_time)
-
         article_category: str = article.get("articleTypeName", "Wuthering Waves")
         category: str = f'<category term="{escape(article_category)}"/>' if article_category else ""
         atom_entries.append(
@@ -565,14 +562,16 @@ def create_atom_feeds(output_dir: Path) -> None:
         logger.error("Can't create Atom feeds, no articles found in %s", output_dir)
         return
 
-    # Create the Atom feed for the latest articles
-    amount_of_articles: int = 20
-    atom_feed_path: Path = Path("articles_latest.xml")
-    latest_articles: list[dict[Any, Any]] = sorted(
+    articles_sorted: list[dict[Any, Any]] = sorted(
         menu_data,
         key=lambda x: get_file_timestamp(x.get("createTime", "")),
         reverse=True,
-    )[:amount_of_articles]
+    )
+
+    # Create the Atom feed for the latest articles
+    amount_of_articles: int = 20
+    atom_feed_path: Path = Path("articles_latest.xml")
+    latest_articles: list[dict[Any, Any]] = articles_sorted[:amount_of_articles]
 
     logger.info("Dates of the last %s articles:", len(latest_articles))
     for article in latest_articles:
@@ -587,7 +586,7 @@ def create_atom_feeds(output_dir: Path) -> None:
 
     # Create the Atom feed for all articles
     atom_feed_path_all: Path = Path("articles_all.xml")
-    atom_feed_all_articles: str = generate_atom_feed(articles=menu_data, file_name=atom_feed_path_all.name)
+    atom_feed_all_articles: str = generate_atom_feed(articles=articles_sorted, file_name=atom_feed_path_all.name)
     with atom_feed_path_all.open("w", encoding="utf-8") as f:
         f.write(atom_feed_all_articles)
     logger.info("Created Atom feed for all articles: %s", atom_feed_path_all)
