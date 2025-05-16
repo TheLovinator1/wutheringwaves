@@ -291,7 +291,6 @@ def format_discord_links(md: str) -> str:
     """Make links work in Discord.
 
     Discord doesn't support links with titles, so we need to remove them.
-    This function also adds angle brackets around the URL to not embed it.
 
     Args:
         md (str): The Markdown text containing links.
@@ -308,21 +307,13 @@ def format_discord_links(md: str) -> str:
 
     # Before: [Link](https://example.com "Link")
     # After: [Link](https://example.com)
-    formatted_links_md = re.sub(
+    formatted_links_md: str = re.sub(
         pattern=r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)',
         repl=repl,
         string=md,
     )
 
-    # Before: [Link](https://example.com)
-    # After: [Link](<https://example.com>)
-    add_angle_brackets_md: str = re.sub(
-        pattern=r"\[([^\]]+)\]\((https?://[^\s)]+)\)",
-        repl=r"[\1](<\2>)",
-        string=formatted_links_md,
-    )
-
-    return add_angle_brackets_md
+    return formatted_links_md
 
 
 def handle_stars(text: str) -> str:
@@ -401,7 +392,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         converter: MarkdownConverter = MarkdownConverter(
             heading_style="ATX",
             bullets="-",
-            strip=["img"],
+            strip=["img", "pre", "code"],
             default_title="Link",
         )
         article_content_converted = str(converter.convert(article_content).strip())  # type: ignore  # noqa: PGH003
