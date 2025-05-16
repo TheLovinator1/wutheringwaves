@@ -8,6 +8,7 @@ dependencies = [
     "aiofiles",
     "beautifulsoup4",
     "httpx",
+    "markdown>=3.8",
     "markdownify",
     "markupsafe",
     "mdformat",

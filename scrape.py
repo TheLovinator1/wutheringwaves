@@ -12,7 +12,9 @@ from typing import TYPE_CHECKING, Any, Literal
 
 import aiofiles
 import httpx
+import markdown
 import mdformat
+from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter  # pyright: ignore[reportMissingTypeStubs]
 from markupsafe import Markup, escape
 
@@ -361,7 +363,7 @@ def handle_stars(text: str) -> str:
     return "\n\n".join(output)
 
 
-def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  # noqa: PLR0914
+def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  # noqa: PLR0914, PLR0915
     """Generate an Atom feed from a list of articles.
 
     Args:
@@ -492,23 +494,45 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
 
         article_category: str = article.get("articleTypeName", "Wuthering Waves")
         category: str = f'<category term="{escape(article_category)}"/>' if article_category else ""
+
+        html: str = markdown.markdown(
+            text=article_escaped,
+            extensions=[
+                "markdown.extensions.sane_lists",
+            ],
+        )
+
         atom_entries.append(
             f"""
-    <entry>
-        <id>{entry_id}</id>
-        <title>{escape(article_title)}</title>
-        <link href="{article_url}" rel="alternate" type="text/html"/>
-        <content type="text">{article_escaped}</content>
-        {published}
-        <updated>{updated}</updated>
-        {category}
-        <author>
-            <name>Wuthering Waves</name>
-            <email>wutheringwaves_ensupport@kurogames.com</email>
-            <uri>https://wutheringwaves.kurogames.com</uri>
-        </author>
-    </entry>""",
+                <entry>
+                    <id>{entry_id}</id>
+                    <title>{escape(article_title)}</title>
+                    <link href="{article_url}" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[{html}]]></content>
+                    {published}
+                    <updated>{updated}</updated>
+                    {category}
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        """,
         )
+
+        # If HTML not already saved to /html, save it
+        html_dir: Path = Path("html")
+        html_dir.mkdir(exist_ok=True)
+        html_file: Path = html_dir / f"{article_id}.html"
+        if not html_file.is_file():
+            with html_file.open("w", encoding="utf-8") as f:
+                f.write(str(BeautifulSoup(html, "html.parser").prettify()))
+            logger.info("Saved HTML for article %s to %s", article_id, html_file)
+
+            # Set the file timestamp
+            if not set_file_timestamp(html_file, article_create_time):
+                logger.error("Failed to set timestamp for %s", html_file)
 
     # Create the complete Atom feed
     atom_feed: str = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -529,7 +553,8 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     {"".join(atom_entries)}
-</feed>"""  # noqa: E501
+</feed>
+"""  # noqa: E501
 
     return atom_feed
 

@@ -14,5 +14,20 @@
     ],
     "python.analysis.ignore": [
         "**.json"
+    ],
+    "files.watcherExclude": {
+        "**/articles/**": true,
+        "**/html/**": true
+    },
+    "explorer.autoRevealExclude": {
+        "**/articles": true
+    },
+    "python.analysis.exclude": [
+        "**/articles",
+        "**/html"
+    ],
+    "ruff.exclude": [
+        "articles",
+        "html"
     ]
 }
