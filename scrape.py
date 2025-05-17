@@ -390,7 +390,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             article_content = article_title
 
         converter: MarkdownConverter = MarkdownConverter(
-            strip=["pre", "code"]
+            strip=["pre", "code"],
         )
         article_content_converted = str(converter.convert(article_content).strip())  # type: ignore  # noqa: PGH003
 
