@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-13T11:23:58+00:00</updated>
+    <updated>2025-05-16T16:12:53+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2613</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Ciaccona</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2613" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Bards are the couriers of heroes&#39; tales. No need for applause or flowers. I&#39;m just a storyteller like any other. Nice to meet you, great hero. You can call me Ciaccona.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/o5ajohgqd9ex82jkm1-1747382890406.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/yej4926iv9ap6ucpbk-1747382921608.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/ukl790hsmlwwec1lsv-1747383032933.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/5pnthguezqlksgf72w-1747383048693.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/ygsuh96868xbvbo8m6-1747383063430.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/qa3s8tgo0f53jua6fc-1747383076120.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/euwm10n84n9q0ku2se-1747383091730.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/87c0toiz4jh156vu4p-1747383105450.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/ayeeur2e9w5hxithqg-1747383115941.jpg" /></p>]]></content>
+                    <published>2025-05-16T16:12:53+00:00</published>
+                    <updated>2025-05-16T16:12:53+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2602</id>
                     <title>[Cubie Derby] Anniversary Spectator Event</title>

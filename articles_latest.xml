@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-13T11:23:58+00:00</updated>
+    <updated>2025-05-16T16:12:53+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2613</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Ciaccona</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2613" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Bards are the couriers of heroes&#39; tales. No need for applause or flowers. I&#39;m just a storyteller like any other. Nice to meet you, great hero. You can call me Ciaccona.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/o5ajohgqd9ex82jkm1-1747382890406.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/yej4926iv9ap6ucpbk-1747382921608.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/ukl790hsmlwwec1lsv-1747383032933.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/5pnthguezqlksgf72w-1747383048693.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/ygsuh96868xbvbo8m6-1747383063430.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/qa3s8tgo0f53jua6fc-1747383076120.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/euwm10n84n9q0ku2se-1747383091730.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/87c0toiz4jh156vu4p-1747383105450.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747324800000/ayeeur2e9w5hxithqg-1747383115941.jpg" /></p>]]></content>
+                    <published>2025-05-16T16:12:53+00:00</published>
+                    <updated>2025-05-16T16:12:53+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2602</id>
                     <title>[Cubie Derby] Anniversary Spectator Event</title>
@@ -1415,170 +1430,6 @@
                     <content type="html"><![CDATA[<p>I am Zani. I work for the Montelli family. Hmm? Oh, that&#39;s not eyeshadow. It&#39;s proof of my hard work, a badge of honor for my dedication. Ha, if I keep saying that, I might actually start believing it myself.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/bunqv8faxbngz3okmo-1745468041540.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/bqln2l3ceo6p91xkq7-1745468094413.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/k22eraew85tn318r34-1745468109912.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/gt0i5a3is59zftux1a-1745468127804.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/2ohy347l3u8bs0m2r5-1745468250917.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/4ib8b8yimkrebrm8km-1745468231411.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/pm2n7gohkun4309fp7-1745468279101.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/8517de5c6elg4qzz2a-1745468305214.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745424000000/s89mtwd9b56nvu0dm7-1745468333255.jpg" /></p>]]></content>
                     <published>2025-04-24T12:19:28+00:00</published>
                     <updated>2025-04-24T12:19:28+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2487</id>
-                    <title>Wuthering Waves Version 2.3 Update Maintenance Notice</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2487" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745251200000/sm0qfg313zndw9rdw4-1745328643562.png" />Dear Rover,</p>
-<p>To bring you exciting new content and a better gaming experience, we will soon be conducting the update maintenance for Version 2.3: Fiery Arpeggio of Summer Reunion.</p>
-<p>During the maintenance, you will be unable to log in to the game, so please plan your time accordingly. Additionally, due to the large size of the update, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause.</p>
-<h1>Maintenance Time &amp; Compensation Details</h1>
-<ul>
-<li>
-<p>Maintenance Time: 2025-04-29 04:00 - 2025-04-29 11:00 (UTC+8)</p>
-</li>
-<li>
-<p>Maintenance Compensation: Astrite x300, Crystal Solvent x2</p>
-</li>
-<li>
-<p>Compensation Eligibility: Create a character and unlock the Mails feature before 2025-04-29 04:00 (UTC+8). The compensation can be claimed before the next version update.</p>
-</li>
-</ul>
-<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
-<h1>How to Update</h1>
-<p>Once the maintenance for the version update begins, you can follow the following instructions to update your client.</p>
-<ul>
-<li>
-<p>PC: Close the game, restart the launcher, and then click on &#34;Update.&#34;</p>
-</li>
-<li>
-<p>Android: Launch the game and follow the instructions in the update pop-up window to complete the update.</p>
-</li>
-<li>
-<p>iOS: Download/update the game in the App Store.</p>
-</li>
-<li>
-<p>Mac: Download/update the game in the App Store.</p>
-</li>
-<li>
-<p>PS5™: Open the home screen &gt; Select Wuthering Waves &gt; Press the OPTIONS button to Check for Update</p>
-</li>
-</ul>
-<h1>Added Pre-download on Mobile</h1>
-<p>Starting with Version 2.3, Wuthering Waves supports pre-download both on mobile devices and through the PC launcher, available simultaneously.</p>
-<ul>
-<li>Pre-download Start Time: 2025-04-27 10:00 (UTC+8)</li>
-</ul>
-<h1>How to Pre-download</h1>
-<ul>
-<li>PC Launcher: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</li>
-</ul>
-<p><em>PC Pre-download Size: 6 GB. To ensure the smoothness of subsequent processes, such as decompressing, it is recommended that you have at least 12 GB of spare storage space on your PC.</em></p>
-<ul>
-<li>Mobile: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</li>
-</ul>
-<p><em>Mobile Pre-download Size: 6GB. Approximately 20 GB of storage space is needed for the decompression process. This space will be used only temporarily and will be freed up once the update maintenance is complete.</em></p>
-<p><em>You can continue playing the game while the pre-downloading process is ongoing on your mobile device or the PC launcher. The process can be paused at any time. Whether it is complete or not, pre-downloading will speed up the game update process to a certain degree.</em></p>
-<p><em>Please ensure that you have a stable network connection during the pre-downloading process.</em></p>
-<hr />
-<h1>Version 2.3 Preview</h1>
-<ul>
-<li>New Resonators</li>
-</ul>
-<p>5-Star Resonator: Zani (Spectro/Gauntlets)</p>
-<p><em>Obtainable through the [Between Light and Shadow] Featured Resonator Convene.</em></p>
-<p>5-Star Resonator: Ciaccona (Aero/Pistols)</p>
-<p><em>Obtainable through the [Through Verses and Rhythms] Featured Resonator Convene.</em></p>
-<ul>
-<li>New Weapons</li>
-</ul>
-<p>5-Star Weapon: Blazing Justice (Gauntlets)</p>
-<p><em>Obtainable through the [Absolute Pulsation - Blazing Justice] Featured Weapon Convene.</em></p>
-<p>5-Star Weapon: Woodland Aria (Pistols)</p>
-<p><em>Obtainable through the [Absolute Pulsation - Woodland Aria] Featured Weapon Convene.</em></p>
-<ul>
-<li>New Stories</li>
-</ul>
-<p>Zani&#39;s Companion Story: A Blaze in the Dark</p>
-<p>Event Quest: Your Summer Will Never Wither</p>
-<ul>
-<li>New Features</li>
-</ul>
-<p>Echo Aspect</p>
-<p>Data Modification</p>
-<p>Birthday Blessing</p>
-<p>Glossary</p>
-<p>Mobile Pre-download</p>
-<p>Upgraded [Reprise of Tides] Returnee Event</p>
-<ul>
-<li>New Events &amp; Gameplay Features</li>
-</ul>
-<p>Anniversary Events</p>
-<p>[Gifts of Grand Celebration] Anniversary Limited-Time Login Event</p>
-<p>[Cube, Cubic n Cubie] Anniversary Combat Event</p>
-<p>[Cubie Derby] Anniversary Spectator Event</p>
-<p>[Cubie Derby: Warmup] Anniversary Leisure Event</p>
-<p>[Memory Travelogue] Anniversary Photo Collection Event</p>
-<p>[Gilded Nightmarket] Anniversary Points Exchange Event</p>
-<p>Anniversary Web Events</p>
-<p>[Resounding Waves] Anniversary in Numbers</p>
-<p>[It&#39;s Carnevale Time!] Anniversary Returnee Invitation Event</p>
-<p>Special Events</p>
-<p>[Dreaming Deep] Solaris Film Festival</p>
-<p>[Your Summer Will Never Wither] Story Event</p>
-<p>[Beyond the Waves: Rinascita] Featured Exploration Event</p>
-<p>[Gifts of Grand Reunion] 7-Day Login Event</p>
-<p>[Gifts of Melodic Verses] Limited-Time Login Event</p>
-<ul>
-<li>Other New Content</li>
-</ul>
-<p>New &#34;Tactical Hologram: Phantom Pain&#34; Challenges: Fleurdelys, Lorelei</p>
-<p>New Phantom Echoes: Phantom - Nimbus Wraith, Phantom - Chest Mimic, Phantom - Crownless, Phantom - Nightmare Crownless</p>
-<p>Anniversary Specials</p>
-<p>Flight Aspect: The Laureate</p>
-<p><em>Participate in [Cubie Derby: Warmup] Anniversary Leisure Event to obtain.</em></p>
-<p>Avatar: Moment of Resonance</p>
-<p><em>Participate in [Gifts of Grand Celebration] Anniversary Limited-Time Login Event to obtain.</em></p>
-<p>Sigil: Once Together</p>
-<p><em>Participate in [Cube, Cubic n Cubie] Anniversary Combat Event to obtain.</em></p>
-<p>Limited-Time Rewards from Past Events</p>
-<p>Projection: Somnoire Anchor, Projection: Ocean&#39;s Gift, Phantom: Dreamless, Phantom: Inferno Rider, Phantom: Lorelei</p>
-<p><em>Participate in [Gilded Nightmarket] Anniversary Points Exchange Event to obtain.</em></p>
-<p><em>For more details on the new content, optimizations, and bug fixes coming to the game in Version 2.3, please stay tuned for the upcoming release notes.</em></p>
-<hr />
-<h1>Device Requirements</h1>
-<p>To ensure a smooth experience, please refer to the following requirements:</p>
-<ol>
-<li>Minimum</li>
-</ol>
-<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 835, MediaTek G71/72 or processors of better/equivalent performance; [RAM] 4 GB or more</p>
-<p>iOS: [System] iOS 14 or later; [Model] iPhone 11 or newer, iPad with A13 Bionic or processors of better/equivalent performance; [RAM] 4 GB or more</p>
-<p>Mac: [System] macOS 12.0 or later; [Model] m1 or newer; [RAM] 16 GB or more</p>
-<p>PC: [System] Windows 10 64-bit; [CPU] Intel I5 (9th Gen)/Ryzen 2700; [GPU] Geforce 1060/RX570/Intel ARC A380, [RAM] 16 GB or more</p>
-<ol start="2">
-<li>Recommended</li>
-</ol>
-<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 8 Gen1+/Gen2/Gen3 or MediaTek processors of better/equivalent performance; [RAM] 6 GB or more</p>
-<p>iOS: [System] iOS 15 or later; [Model] iPhone 13 or newer, iPad with A15 Bionic or processors of better/equivalent performance; [RAM] 6 GB or more</p>
-<p>Mac: [System] macOS 15.0 or later; [Model] m3 or newer; [RAM] 16 GB or more</p>
-<p>PC: [System] Windows 10 64-bit; [CPU] Intel I7 (9th Gen)/Ryzen 3700, [GPU] Geforce 2060/RX5700XT/Intel ARC A750; [RAM] 16 GB or more</p>
-<ol start="3">
-<li>Required Storage Space</li>
-</ol>
-<p>Android/iOS: 28 GB</p>
-<p>Mac: 60 GB</p>
-<p>PC: 60 GB; it&#39;s recommended to install the game on an SSD.</p>
-<p>PS5™: Please make sure your device has sufficient available storage to complete the update.</p>
-<ol start="4">
-<li>Controller Support</li>
-</ol>
-<p>Wuthering Waves currently supports the following controllers on Mobile.</p>
-<p>Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
-<p>Wuthering Waves currently supports the following controllers on Mac.</p>
-<p>Wired/Wireless Controllers: Xbox series, DualShock®4, DualSense®, DualSense Edge™</p>
-<p>Wuthering Waves currently supports the following controllers on PC.</p>
-<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualSense®、DualSense Edge™</p>
-<p>Wired Controllers: DualShock®4</p>]]></content>
-                    <published>2025-04-22T21:30:59+00:00</published>
-                    <updated>2025-04-22T21:30:59+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
