@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-04-30T16:53:39+00:00</updated>
+    <updated>2025-05-13T11:23:58+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,52 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2602</id>
+                    <title>[Cubie Derby] Anniversary Spectator Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2602" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747065600000/nqdnkrgjqfu17gtjx5-1747106616625.jpg" /></p>
+<p>The first Cube Games hosted by the Pioneer Association are officially up and running! Twelve Cube stars are set to showcase their skills on the track, setting aside their standings and identities, as they fully commit to compete for the title of fastest Cube!</p>
+<p>For those who cannot participate in the race, no worries! We&#39;ve got you covered! You can support potential winners through our official channels! Plus, the Pioneer Association will offer full live event coverage, and everyone is welcome to tune in and cheer for their favorite contestants!</p>
+<p>(This program is brought to you by the Montelli Second Coming of Solaris Branch, in partnership with the New Black Shores.)</p>
+<h1>Duration</h1>
+<p>2025-05-14 08:00 - 2025-05-26 03:59 (server time)</p>
+<p><em>From 2025-05-14 08:00 to 2025-05-23 19:30 (server time), you can support your favorite Cube every day. From 2025-05-23 19:30 to 2025-05-26 03:59 (server time), support will be closed. During this period, you can view race results, check the leaderboard, watch replays, and claim event rewards.</em></p>
+<h1>Rewards</h1>
+<p>Astrite x300, Shell Credit x116500</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>During the event, 12 Cubes will take part in elimination rounds in 2 Groups, with 1 round taking place per day and 10 rounds in total to decide the Ultimate Race Winner.</p>
+</li>
+<li>
+<p>From 08:00 to 19:30 (server time), you can support your favorite Cube by predicting the Round Winner of the day.</p>
+</li>
+</ul>
+<p>Each round starts at 20:00 (server time). From the event page, you can view the race live broadcast and cheer for your favorite Cube in the live chat. After the round, Popularity rewards are granted based on the Cubes&#39; final placements and the prediction outcomes.</p>
+<ul>
+<li>
+<p>Go to the event page to check out the schedule and videos of finished races.</p>
+</li>
+<li>
+<p>Support Cubes and confirm results to increase your Popularity. When your Popularity meets the requirements, you will be granted Popularity Rewards.</p>
+</li>
+<li>
+<p>If there are any unclaimed rewards after the event ends, they will be automatically sent to your inbox when you log in again within 30 days.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-05-13T11:23:58+00:00</published>
+                    <updated>2025-05-13T11:23:58+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2584</id>
                     <title>[Chord Cleansing] Limited-Time Echo Double Drop Event</title>
@@ -1533,21 +1579,6 @@
 <p>Wired Controllers: DualShock®4</p>]]></content>
                     <published>2025-04-22T21:30:59+00:00</published>
                     <updated>2025-04-22T21:30:59+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2485</id>
-                    <title>Wuthering Waves Version Preview | Version 2.3</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2485" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Wuthering Waves Version Preview | Version 2.3 &#34;Fiery Arpeggio of Summer Reunion&#34; Scheduled for Release on April 29 (UTC+8) with 1st Anniversary<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1744992000000/lqynw196uc51jk8kj6-1745050488761.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1744992000000/5w3gxrgp4fsayjoy3u-1745050508585.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1744992000000/cytmqbzksiwce4j7oz-1745057063009.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1744992000000/wgiwlm0wvdyjkuk1ud-1745050573580.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1744992000000/yvdqntr5wyitwzipxn-1745050612221.jpg" /></p>]]></content>
-                    <published>2025-04-19T16:17:11+00:00</published>
-                    <updated>2025-04-19T16:17:11+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

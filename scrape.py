@@ -390,6 +390,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             article_content = article_title
 
         converter: MarkdownConverter = MarkdownConverter(
+            heading_style="ATX",
             strip=["pre", "code"],
         )
         article_content_converted = str(converter.convert(article_content).strip())  # type: ignore  # noqa: PGH003
@@ -611,7 +612,6 @@ def add_data_to_articles(menu_data: dict[Any, Any], output_dir: Path) -> None:
     Fields not in the article JSON:
         - articleDesc (Currently empty in ArticleMenu.json)
         - createTime
-        - sortingMark
         - suggestCover
         - top
 
@@ -639,10 +639,11 @@ def add_data_to_articles(menu_data: dict[Any, Any], output_dir: Path) -> None:
                 logger.exception("Error decoding JSON from %s", article_file)
                 continue
 
-        old_article_data = article_data
+        old_article_data = article_data.copy()
 
         # Add missing fields from ArticleMenu.json
-        for key in ["articleDesc", "createTime", "sortingMark", "suggestCover", "top"]:
+        # Also has sortingMark, but it creates too many diffs
+        for key in ["articleDesc", "createTime", "suggestCover", "top"]:
             if key in item and key not in article_data:
                 article_data[key] = item[key]
 
