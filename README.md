@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Woven Melodies — Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/2616) [[json]](articles/2616.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/2613) [[json]](articles/2613.json)
 - [[Cubie Derby] Anniversary Spectator Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2602) [[json]](articles/2602.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2584) [[json]](articles/2584.json)
