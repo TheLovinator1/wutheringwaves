@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-16T19:40:01+00:00</updated>
+    <updated>2025-05-19T10:43:32+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,27 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2626</id>
+                    <title>Event Preview | Dreaming Deep: Solaris Film Festival, Available Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2626" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<h1>Duration</h1>
+<p>2025-05-22 04:00 - 2025-08-01 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x600, Phantom: Crownless x1, Phantom: Nightmare Crownless x1, Modifier x10, Premium Tuner x200, and other Materials.</p>
+<h1>As a Permanent Event</h1>
+<p>This event offers two types of rewards: Limited-time Rewards and Standard Rewards. When the initial period ends, the event will continue as a Permanent Event. The Limited-time Rewards will no longer be available when the event becomes a Permanent Event. You can participate in the Permanent Event to win Standard Rewards.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747584000000/gcishua3baxdnznnii-1747622882115.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747584000000/8u42m6ttqraw2jucu8-1747622527138.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747584000000/cthzhsdfelrjin18dg-1747622543504.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747584000000/srznpjc6k1giyawt1e-1747622559637.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747584000000/hptk24mucmld5tpc6z-1747622578827.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747584000000/te1ujqf2tzj2sein78-1747622597215.gif" /></p>]]></content>
+                    <published>2025-05-19T10:43:32+00:00</published>
+                    <updated>2025-05-19T10:43:32+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2616</id>
                     <title>Profile Reveal | Woven Melodies — Ciaccona</title>
@@ -1414,26 +1435,6 @@
 <p>She has made plenty of plans for her free time, but for now, her biggest mission is simple: clocking out on time.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/jahk05em8kdbie95mv-1745580484734.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/elcr12vej1u3gi7451-1745580502830.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/mgjzhytaf91iphxcb4-1745580523337.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/uiz2xngoo9tj6hwtou-1745580537647.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/5o4yrf73d0dbulj7yr-1745580552628.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/5xbtcnjfvu6t66f79c-1745580567938.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/eiscuqzk2t7yrrss8c-1745580583403.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/emtzbkbxnp8ho118sw-1745580597000.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/6y5w1n8wqlxgxy0wcp-1745580663997.jpg" /></p>]]></content>
                     <published>2025-04-25T19:31:20+00:00</published>
                     <updated>2025-04-25T19:31:20+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2504</id>
-                    <title>Event Preview | [Cube, Cubic n Cubie] Anniversary Combat Event, Available Soon!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2504" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<h1>Duration</h1>
-<p>Version 2.3 Update - 2025-06-11 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x1000, Sigil: Once Together, Premium Tuner, Forgery Premium Supply, Modifier, Shell Credit, and other Materials.</p>
-<h1>As a Permanent Event</h1>
-<p>This event offers two types of rewards: Limited-time Rewards and Standard Rewards. When the initial period ends, it will continue as a Permanent Event. The Limited-time Rewards will no longer be available when the event becomes a Permanent Event. However, you can participate in the Permanent Event to win Standard Rewards.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/0816yzfo1mzn8p8c0a-1745550889356.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/lds9bjsuq0decf630e-1745550973810.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/ze3rbovzg1k6p5fo90-1745550994842.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/16ehplcc2ny26ke2z9-1745551010892.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/cwvyelfurx3aswlnza-1745551032772.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/qtsx8dnkzc2x9wilio-1745551061364.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745510400000/fc9xz101uy914k6dbu-1745551080875.gif" /></p>]]></content>
-                    <published>2025-04-25T11:21:22+00:00</published>
-                    <updated>2025-04-25T11:21:22+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
