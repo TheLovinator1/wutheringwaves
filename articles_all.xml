@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-20T10:56:18+00:00</updated>
+    <updated>2025-05-20T15:47:53+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2635</id>
+                    <title>Anniversary Resonator Convene: Phase II</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2635" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Anniversary Resonator Convene: Phase II will be available soon. Here&#39;s a recap of what we know about these Resonators.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/73udaulxhdm832u7kg-1747727195898.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/g5thy3p4x825b7bze1-1747727215542.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/kbstlkmcrdquyr29xh-1747727227668.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/0ochghibul43h2yz1s-1747727239601.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/hmdoitc01s78nez90x-1747727253593.jpg" /></p>]]></content>
+                    <published>2025-05-20T15:47:53+00:00</published>
+                    <updated>2025-05-20T15:47:53+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2631</id>
                     <title>A Compilation of Upcoming Events in Version 2.3</title>
