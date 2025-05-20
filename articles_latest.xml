@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-20T10:56:18+00:00</updated>
+    <updated>2025-05-20T15:47:53+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2635</id>
+                    <title>Anniversary Resonator Convene: Phase II</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2635" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Anniversary Resonator Convene: Phase II will be available soon. Here&#39;s a recap of what we know about these Resonators.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/73udaulxhdm832u7kg-1747727195898.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/g5thy3p4x825b7bze1-1747727215542.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/kbstlkmcrdquyr29xh-1747727227668.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/0ochghibul43h2yz1s-1747727239601.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747670400000/hmdoitc01s78nez90x-1747727253593.jpg" /></p>]]></content>
+                    <published>2025-05-20T15:47:53+00:00</published>
+                    <updated>2025-05-20T15:47:53+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2631</id>
                     <title>A Compilation of Upcoming Events in Version 2.3</title>
@@ -1408,30 +1424,6 @@
                     <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745683200000/sunk4580zj5tsovntb-1745742355621.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/mdciwcdn4kwgfjgnox-1745824032813.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745683200000/h1tuvmhah1kcn6cpbr-1745742388771.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745683200000/xxjsprd3ufw74g0qwp-1745742404326.jpeg" /></p>]]></content>
                     <published>2025-04-27T16:27:03+00:00</published>
                     <updated>2025-04-27T16:27:03+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2513</id>
-                    <title>Event Preview | [Cubie Derby] Anniversary Events, Available Soon!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2513" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<h1>Duration</h1>
-<p>Cubie Derby: Warmup</p>
-<p>Version 2.3 Update - 2025-06-11 11:59 (server time)</p>
-<p>Cubie Derby</p>
-<p>2025-05-14 08:00 - 2025-05-26 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Cubie Derby: Warmup</p>
-<p>Radiant Tide x10, Flight Aspect: The Laureate, Phantom: Chest Mimic, Premium Enclosure Tank, Forgery Premium Supply, Premium Tuner, and other Materials.</p>
-<p>Cubie Derby</p>
-<p>Astrite x300, Shell Credit<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745596800000/1ueqsf15lc2zs6pw92-1745659544474.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745596800000/sokppm7bv43vnp34fa-1745659572669.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745596800000/nm43fozpu5vf2pqrzg-1745659831544.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745596800000/ntgngoorpgzfpcht01-1745659643028.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745596800000/qxfypcdubeslgohht6-1745659663975.gif" /></p>]]></content>
-                    <published>2025-04-26T17:31:16+00:00</published>
-                    <updated>2025-04-26T17:31:16+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
