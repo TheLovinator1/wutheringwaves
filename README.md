@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/2640) [[json]](articles/2640.json)
 - [Anniversary Resonator Convene: Phase II](https://wutheringwaves.kurogames.com/en/main/news/detail/2635) [[json]](articles/2635.json)
 - [A Compilation of Upcoming Events in Version 2.3](https://wutheringwaves.kurogames.com/en/main/news/detail/2631) [[json]](articles/2631.json)
 - [Event Preview | Dreaming Deep: Solaris Film Festival, Available Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/2626) [[json]](articles/2626.json)
