@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-21T11:12:21+00:00</updated>
+    <updated>2025-05-21T14:48:48+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,72 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2669</id>
+                    <title>[Bundles] Tidal Festivities Edition</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2669" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747756800000/263s1ppd4knfadadi6-1747810112635.jpg" /></p>
+<p>More Special Offers!</p>
+<p>For more details, visit the Bundles section of the in-game Store.</p>
+<h1>Duration</h1>
+<p>2025-05-22 10:00 - 2025-06-11 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in First Resonance and activate the Store function.</p>
+<h1>[Special Offers] Tidal Festivities Bundles</h1>
+<h1>Reunion&#39;s Tidal Aid</h1>
+<p>Special Offer: 1.99 USD</p>
+<p>Bundle includes: Radiant Tide x1, Forging Tide x1, Lustrous Tide x1</p>
+<p><em>Only 1 purchase available in the current version.</em></p>
+<h1>Reunion&#39;s Tidal Collection</h1>
+<p>Special Offer: 19.99 USD</p>
+<p>Bundle includes: Radiant Tide x10, Forging Tide x10</p>
+<p><em>Only 1 purchase available in the current version.</em></p>]]></content>
+                    <published>2025-05-21T14:48:48+00:00</published>
+                    <updated>2025-05-21T14:48:48+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:2662</id>
+                    <title>[Anniversary Weapon Convene: Phase II]</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2662" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747756800000/i12ituqfkh4mpww81m-1747809555542.jpg" /></p>
+<p>During the event, 5-Star Weapons: Ages of Harvest, Blazing Brilliance, The Last Dance, Tragicomedy, Unflickering Valor, and 4-Star Weapons: Undying Flame, Variation, Relativistic Jet receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2025-05-22 10:00 - 2025-06-11 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>This is an Anniversary Weapon Convene event banner. Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The Guarantee count is shared among all [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners. If a 5-Star Weapon is not obtained in this event banner, the Guarantee count is carried over across other [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners and resets once a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>You can select one 5-Star Weapon within a designated range as the Featured Weapon of the event banner (you can re-select at any time). The 5-Star Weapon you Convene is guaranteed to the selected 5-Star Weapon.</p>
+</li>
+<li>
+<p>Selectable 5-Star Weapons: Ages of Harvest, Blazing Brilliance, The Last Dance, Tragicomedy, Unflickering Valor</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-05-21T14:39:31+00:00</published>
+                    <updated>2025-05-21T14:39:31+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2654</id>
                     <title>[Anniversary Weapon Convene: Phase II]</title>
@@ -1418,60 +1484,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-04-28T18:17:21+00:00</published>
                     <updated>2025-04-28T18:17:21+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2532</id>
-                    <title>[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2532" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/dlv4701rnu1n19fv6a-1745835323743.jpg" /></p>
-<p>During the event, 5-Star Resonator: Zani, 4-Star Resonators: Lumi, Taoqi, Yuanwu receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.3 update - 2025-05-22 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Between Light and Shadow] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The Guarantee count is shared among all [Anniversary Resonator Convene] and [Featured Resonator Convene] event banners. If a 5-Star Resonator is not obtained in this event banner, the Guarantee count is carried over across other [Anniversary Resonator Convene] and [Featured Resonator Convene] event banners and resets once a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Zani is exclusive to the [Between Light and Shadow] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Zani&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-04-28T18:15:45+00:00</published>
-                    <updated>2025-04-28T18:15:45+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2527</id>
-                    <title>Anniversary Resonator Convene: Phase I</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2527" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Anniversary Resonator Convene: Phase I will be available soon. Here&#39;s a recap of what we know about these Resonators.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/mk4vpht6cjvdnjhhz8-1745833314135.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/xmwp6bxd35nci0i8kb-1745833375043.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/kq515hrmzm9ejupfk3-1745833392527.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/euk8946fihivouprgr-1745833409621.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/poc4pf3kgnvmvh7ng1-1745833425583.jpg" /></p>]]></content>
-                    <published>2025-04-28T17:45:02+00:00</published>
-                    <updated>2025-04-28T17:45:02+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
