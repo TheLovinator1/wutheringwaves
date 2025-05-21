@@ -49,6 +49,13 @@ jobs:
           git config user.name "Joakim Hellsén"
           git config user.email "tlovinator@gmail.com"
           git add .
-          git commit -m "Updated files: ${{ steps.get_modified_files.outputs.files }}" || echo "No changes to commit"
-          git pull --rebase https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git master
-          git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:master
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Commit changes since there are staged differences
+            git commit -m "Updated files: ${{ steps.get_modified_files.outputs.files }}"
+            git pull --rebase https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git master
+            git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:master
+          fi
