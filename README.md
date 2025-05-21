@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Anniversary Weapon Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/2654) [[json]](articles/2654.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria](https://wutheringwaves.kurogames.com/en/main/news/detail/2647) [[json]](articles/2647.json)
 - [[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/2640) [[json]](articles/2640.json)
 - [Anniversary Resonator Convene: Phase II](https://wutheringwaves.kurogames.com/en/main/news/detail/2635) [[json]](articles/2635.json)
