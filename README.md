@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Gifts of Grand Celebration] Anniversary Limited-Time Login Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2684) [[json]](articles/2684.json)
 - [[Bundles] Tidal Festivities Edition](https://wutheringwaves.kurogames.com/en/main/news/detail/2669) [[json]](articles/2669.json)
 - [[Anniversary Weapon Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/2662) [[json]](articles/2662.json)
 - [[Anniversary Resonator Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/2654) [[json]](articles/2654.json)

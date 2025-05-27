@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-21T14:48:48+00:00</updated>
+    <updated>2025-05-27T17:51:21+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,37 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2684</id>
+                    <title>[Gifts of Grand Celebration] Anniversary Limited-Time Login Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2684" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748275200000/yv4s1atxwimdouusdv-1748339463810.jpg" /></p>
+<p>To every Rover who&#39;s walked this long road with us, thank you for being here.</p>
+<h1>Duration</h1>
+<p>2025-05-23 00:00 (UTC+8) - 2025-06-11 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Radiant Tide x10, Anniversary Avatar: Moment of Resonance x1</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>Log in during the event period to claim the rewards.</p>
+</li>
+<li>
+<p>Rewards for this event will NOT be reissued via in-game mail once the event ends. Please pay close attention to the event time and claim the rewards beforehand.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-05-27T17:51:21+00:00</published>
+                    <updated>2025-05-27T17:51:21+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2669</id>
                     <title>[Bundles] Tidal Festivities Edition</title>
@@ -1443,47 +1474,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-04-28T18:18:09+00:00</published>
                     <updated>2025-04-28T18:18:09+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2533</id>
-                    <title>[Anniversary Resonator Convene: Phase I]</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2533" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/17258o1rykys0qezg4-1745835400552.jpg" /></p>
-<p>During the event, 5-Star Resonators: Jiyan, Yinlin, Zhezhi, Xiangli Yao, Phoebe, and 4-Star Resonators: Lumi, Taoqi, Yuanwu receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.3 update - 2025-05-22 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>This is an Anniversary Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The Guarantee count is shared among all [Anniversary Resonator Convene] and [Featured Resonator Convene] event banners. If a 5-Star Resonator is not obtained in this event banner, the Guarantee count is carried over across other [Anniversary Resonator Convene] and [Featured Resonator Convene] event banners and resets once a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>You can select one 5-Star Resonator within a designated range as the Featured Resonator of the event banner (you can re-select at any time). Every time a 5-Star Resonator is obtained, there is a 50.00000% chance it will be the Featured 5-Star Resonator of this event banner, and a 50.00000% chance it will be a random non-Featured 5-Star Resonator (not including the selectable Resonators for this event banner). All 5-Star non-Featured Resonators have equal drop rate. If the 5-Star Resonator obtained is not the Featured Resonator, the next 5-Star Resonator is guaranteed to be the Featured Resonator.</p>
-</li>
-<li>
-<p>Selectable 5-Star Resonators: Jiyan, Yinlin, Zhezhi, Xiangli Yao, Phoebe</p>
-</li>
-<li>
-<p>The selectable 5-Star Resonators&#39; Wavebands will become available in the Afterglow Coral Store, each with a limit of 2 purchases, and they will be removed once the Anniversary Resonator Convene event ends.</p>
-</li>
-</ul>
-<p><em>Reminder: Rewards for the 5-Star Trial Resonator event associated with [Anniversary Resonator Convene: Phase I] will be sent via in-game mail.</em></p>
-<p>Eligibility: Create a character and unlock the Mails feature before 2025-04-29 04:00 (UTC+8). The rewards will remain claimable until 2025-05-22 09:59 (server time).</p>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-04-28T18:17:21+00:00</published>
-                    <updated>2025-04-28T18:17:21+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
