@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-21T14:48:48+00:00</updated>
+    <updated>2025-05-27T17:51:21+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,37 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2684</id>
+                    <title>[Gifts of Grand Celebration] Anniversary Limited-Time Login Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2684" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748275200000/yv4s1atxwimdouusdv-1748339463810.jpg" /></p>
+<p>To every Rover who&#39;s walked this long road with us, thank you for being here.</p>
+<h1>Duration</h1>
+<p>2025-05-23 00:00 (UTC+8) - 2025-06-11 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Radiant Tide x10, Anniversary Avatar: Moment of Resonance x1</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>Log in during the event period to claim the rewards.</p>
+</li>
+<li>
+<p>Rewards for this event will NOT be reissued via in-game mail once the event ends. Please pay close attention to the event time and claim the rewards beforehand.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-05-27T17:51:21+00:00</published>
+                    <updated>2025-05-27T17:51:21+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2669</id>
                     <title>[Bundles] Tidal Festivities Edition</title>
