@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-27T17:51:21+00:00</updated>
+    <updated>2025-05-27T17:58:30+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,41 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2691</id>
+                    <title>[Beyond the Waves: Rinascita] Featured Exploration Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2691" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748275200000/xtzrvi87f2iuow2et3-1748339894641.jpg" /></p>
+<p>To encourage the Pioneers to further share their Jinzhou explorations, Lollo Logistics has partnered with the Pioneer Association to proudly present the campaign: Beyond the Waves!</p>
+<p>Participate and upload your exploration record at the Lollo courier truck to get various rewards!</p>
+<h1>Duration</h1>
+<p>2025-05-29 04:00 - 2025-06-11 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Lustrous Tide x5, Premium Enclosure Tank x20, Premium Tuner x90, Crystal Solvent x6, Shell Credit x420,000 and other development materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14.</p>
+<h1>Details</h1>
+<ul>
+<li>
+<p>During the event, you can complete event objectives once per day to obtain a set number of Adventure Logs. Each Adventure Log can be exchanged for an Adventure Package.</p>
+</li>
+<li>
+<p>Adventure Packages contain special mechanics that, when triggered, unlock a large amount of rewards.</p>
+</li>
+<li>
+<p>There are 3 Inventories for the Adventure Packages. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-05-27T17:58:30+00:00</published>
+                    <updated>2025-05-27T17:58:30+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2684</id>
                     <title>[Gifts of Grand Celebration] Anniversary Limited-Time Login Event</title>
@@ -1438,42 +1473,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-04-28T18:18:55+00:00</published>
                     <updated>2025-04-28T18:18:55+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2534</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2534" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/onz5oj4ihx5b08jqlo-1745835472128.jpg" /></p>
-<p>During the event, 5-Star Weapon: Blazing Justice, 4-Star Weapons: Dauntless Evernight, Overture, and Hollow Mirage receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.3 update - 2025-05-22 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event. Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The Guarantee count is shared among all [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners. If a 5-Star Weapon is not obtained in this event banner, the Guarantee count is carried over across other [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners and resets once a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Blazing Justice.</p>
-</li>
-<li>
-<p>Featured Weapon Blazing Justice is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-04-28T18:18:09+00:00</published>
-                    <updated>2025-04-28T18:18:09+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
