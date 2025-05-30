@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-27T17:58:30+00:00</updated>
+    <updated>2025-05-29T22:02:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2699</id>
+                    <title>Wuthering Waves Version Preview | Version 2.4</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2699" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Version Preview | Version 2.4 &#34;Lightly We Toss the Crown&#34; Scheduled for Release on June 12th (UTC+8)</p>
+<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/jsduiqogftodn0hr08-1748527239421.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/j2gmzra01a0nsdi770-1748527266077.jpg" /></p>]]></content>
+                    <published>2025-05-29T22:02:04+00:00</published>
+                    <updated>2025-05-29T22:02:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2691</id>
                     <title>[Beyond the Waves: Rinascita] Featured Exploration Event</title>
@@ -1434,45 +1451,6 @@
 </ul>]]></content>
                     <published>2025-04-28T22:37:25+00:00</published>
                     <updated>2025-04-28T22:37:25+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2535</id>
-                    <title>[Anniversary Weapon Convene: Phase I]</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2535" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745769600000/dxhg05b9433p35fyly-1745835514544.jpg" /></p>
-<p>During the event, selectable 5-Star Weapons: Verdant Summit, Stringmaster, Rime-Draped Sprouts, Verity&#39;s Handle, Luminous Hymn, and 4-Star Weapons: Dauntless Evernight, Overture, and Hollow Mirage receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.3 update - 2025-05-22 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>This is an Anniversary Weapon Convene event banner. Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The Guarantee count is shared among all [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners. If a 5-Star Weapon is not obtained in this event banner, the Guarantee count is carried over across other [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners and resets once a 5-Star Weapon is obtained.</p>
-</li>
-</ul>
-<p>You can select one 5-Star Weapon within a designated range as the Featured Weapon of the event banner (you can re-select at any time).</p>
-<ul>
-<li>
-<p>You can select one 5-Star Weapon within a designated range as the Featured Weapon of the event banner (you can re-select at any time). The 5-Star Weapon you Convene is guaranteed to the selected 5-Star Weapon.</p>
-</li>
-<li>
-<p>Selectable 5-Star Weapons: Verdant Summit, Stringmaster, Rime-Draped Sprouts, Verity&#39;s Handle, Luminous Hymn</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-04-28T18:18:55+00:00</published>
-                    <updated>2025-04-28T18:18:55+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
