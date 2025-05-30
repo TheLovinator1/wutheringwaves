@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-27T17:58:30+00:00</updated>
+    <updated>2025-05-29T22:02:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2699</id>
+                    <title>Wuthering Waves Version Preview | Version 2.4</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2699" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Version Preview | Version 2.4 &#34;Lightly We Toss the Crown&#34; Scheduled for Release on June 12th (UTC+8)</p>
+<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/jsduiqogftodn0hr08-1748527239421.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/j2gmzra01a0nsdi770-1748527266077.jpg" /></p>]]></content>
+                    <published>2025-05-29T22:02:04+00:00</published>
+                    <updated>2025-05-29T22:02:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2691</id>
                     <title>[Beyond the Waves: Rinascita] Featured Exploration Event</title>
