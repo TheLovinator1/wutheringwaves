@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Septimont](https://wutheringwaves.kurogames.com/en/main/news/detail/2700) [[json]](articles/2700.json)
 - [Wuthering Waves Version Preview | Version 2.4](https://wutheringwaves.kurogames.com/en/main/news/detail/2699) [[json]](articles/2699.json)
 - [[Beyond the Waves: Rinascita] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2691) [[json]](articles/2691.json)
 - [[Gifts of Grand Celebration] Anniversary Limited-Time Login Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2684) [[json]](articles/2684.json)
