@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-05-29T22:27:21+00:00</updated>
+    <updated>2025-06-02T02:07:50+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2712</id>
+                    <title>✦An Undisclosed Interview Record✦</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2712" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Off we go to Septimont! Before you set off, take a moment to check out this interview with a journalist from Ragunna for some valuable insights into the local customs and practices of Septimont.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/xvsha5kzvppcnbmrfe-1748801174313.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/paj25q0szll3ajxbs8-1748801193584.jpeg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/vs2ylfk72qy58ik19a-1748801214253.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/nvm3jrmq6rawedfu3d-1748801235583.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/q2m6zgarm0i91250rz-1748801254753.jpg" /></p>]]></content>
+                    <published>2025-06-02T02:07:50+00:00</published>
+                    <updated>2025-06-02T02:07:50+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2700</id>
                     <title>Post-Lament Anthropocene: Enemies — Collection of Small &amp; Medium Size Echoes in Septimont</title>
@@ -737,31 +752,6 @@
 <p><a href="https://x.com/ebonyblue00/status/1907826797443715239">@ebonyblue00</a></p>]]></content>
                     <published>2025-04-29T12:00:09+00:00</published>
                     <updated>2025-04-29T12:00:09+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2564</id>
-                    <title>[Tidal Photography] Now seeking top photographers for Solaris!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2564" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<h1>Event Duration</h1>
-<p>From now on - 2025-06-11 23:59 (UTC+8)</p>
-<h1>How to Participate</h1>
-<p>Use Wuthering Waves&#39; Camera feature or your screenshot to capture in-game footage. Post your work with hashtags #WutheringWaves and #wuwamoment included on X (Twitter)/Instagram/Facebook and fill out the form below for a chance to win Astrites, cash incentives, and more!</p>
-<ul>
-<li>Please quote your post link published publicly on social media.</li>
-</ul>
-<h1>Rewards</h1>
-<p>We&#39;ll select winners across all event platforms based on both quality and statistics. Winners will receive Astrites, cash incentives, and Sigil: Rhythmic Echoes x1.</p>
-<p>If you submit a purely scenic image, there is a chance that it will be selected for display in the in-game loading interface.</p>
-<p>View images for details about the event rules and proceed to submit: &lt;https://forms.gle/pU36UNBePp4nsk5y8&gt;<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1745856000000/ckboer6wzqu2rblnu6-1745897643873.jpg" /></p>]]></content>
-                    <published>2025-04-29T11:34:17+00:00</published>
-                    <updated>2025-04-29T11:34:17+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
