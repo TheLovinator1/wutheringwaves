@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Event Preview | [All Out! Towards the Peaks of Prestige] Echo Combat Event, Available Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/2721) [[json]](articles/2721.json)
 - [✦An Undisclosed Interview Record✦](https://wutheringwaves.kurogames.com/en/main/news/detail/2712) [[json]](articles/2712.json)
 - [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Septimont](https://wutheringwaves.kurogames.com/en/main/news/detail/2700) [[json]](articles/2700.json)
 - [Wuthering Waves Version Preview | Version 2.4](https://wutheringwaves.kurogames.com/en/main/news/detail/2699) [[json]](articles/2699.json)
