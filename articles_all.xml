@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-02T02:07:50+00:00</updated>
+    <updated>2025-06-04T19:48:42+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,26 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2721</id>
+                    <title>Event Preview | [All Out! Towards the Peaks of Prestige] Echo Combat Event, Available Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2721" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<h1>Duration</h1>
+<p>2025-06-14 04:00 - 2025-07-23 11:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x1200, Sigil: Card Duelist, Flight Aspect: Moment of Triumph, Phantom: Cuddle Wuddle, Modifier, Premium Tuner, Shell Credit, and other Materials.</p>
+<h1>As a Permanent Event</h1>
+<p>This event offers two types of rewards: Limited-time Rewards and Standard Rewards. When the initial period ends, the event will continue as a Permanent Event. The Limited-time Rewards will no longer be available when the event becomes a Permanent Event. You can participate in the Permanent Event to win Standard Rewards.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/tzvr04yvqwb4imd0sj-1749052816137.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/zad4o5ffdmf7gk20pe-1749052838775.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/3gkmeyuuc9p9bjg1i3-1749052861260.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/cc9nycvtsdo8q99hew-1749052880929.jpeg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/0wp9v6vv3g6ranq6jc-1749052905730.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/wofm024ltpnfuo3rqu-1749052973360.gif" /></p>]]></content>
+                    <published>2025-06-04T19:48:42+00:00</published>
+                    <updated>2025-06-04T19:48:42+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2712</id>
                     <title>✦An Undisclosed Interview Record✦</title>
