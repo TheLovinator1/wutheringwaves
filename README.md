@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Carlotta's Deluxe Outfit "Splashing Summer"](https://wutheringwaves.kurogames.com/en/main/news/detail/2743) [[json]](articles/2743.json)
+- [Changli's Deluxe Outfit "Laurel Nymph"](https://wutheringwaves.kurogames.com/en/main/news/detail/2742) [[json]](articles/2742.json)
 - [Wuthering Waves Version 2.4 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/2733) [[json]](articles/2733.json)
 - [Event Preview | [All Out! Towards the Peaks of Prestige] Echo Combat Event, Available Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/2721) [[json]](articles/2721.json)
 - [Post-Lament Anthropocene: Enemies — Lioness of Glory](https://wutheringwaves.kurogames.com/en/main/news/detail/2720) [[json]](articles/2720.json)
