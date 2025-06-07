@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/2748) [[json]](articles/2748.json)
 - [Carlotta's Deluxe Outfit "Splashing Summer"](https://wutheringwaves.kurogames.com/en/main/news/detail/2743) [[json]](articles/2743.json)
 - [Changli's Deluxe Outfit "Laurel Nymph"](https://wutheringwaves.kurogames.com/en/main/news/detail/2742) [[json]](articles/2742.json)
 - [Wuthering Waves Version 2.4 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/2733) [[json]](articles/2733.json)
