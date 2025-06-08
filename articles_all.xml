@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-07T00:32:22+00:00</updated>
+    <updated>2025-06-08T02:12:48+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2752</id>
+                    <title>New Region Preview | Septimont, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2752" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/ny8pl3sh7vky64habd-1749319770468.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/pgx2dsribpgr1wrn18-1749319770552.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/7ibzlcimb9nxefz26t-1749319809724.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/ynbp9qigusizrkl3br-1749319832564.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/kxf9rajqyqg0wmlw3m-1749319862888.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/0epw199qgfddaf8bar-1749319883976.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/jh57ru68r13h4lshyr-1749319900214.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/tgu9mac5mtbl9k6dar-1749319914973.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749312000000/moygatpk7easbw2sf3-1749319932769.gif" /></p>]]></content>
+                    <published>2025-06-08T02:12:48+00:00</published>
+                    <updated>2025-06-08T02:12:48+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2748</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Cartethyia</title>
