@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Defier's Thorn](https://wutheringwaves.kurogames.com/en/main/news/detail/2773) [[json]](articles/2773.json)
 - [[Dance in the Storm's Wake] Featured Resonator Convene: Boosted Drop Rate for Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/2766) [[json]](articles/2766.json)
 - [Wuthering Waves Update Content | Version 2.4 "Lightly We Toss the Crown" Planned for Release on June 12 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/2762) [[json]](articles/2762.json)
 - [Profile Reveal | Feathered Tempest — Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/2755) [[json]](articles/2755.json)
