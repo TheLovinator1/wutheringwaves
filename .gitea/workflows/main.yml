@@ -38,24 +38,28 @@ jobs:
       - name: Run script
         run: uv run python scrape.py
 
-      - name: Get the modified files
+      - name: Pull latest changes before staging
+        run: |
+          git config user.name "Joakim Hellsén"
+          git config user.email "tlovinator@gmail.com"
+          git pull --rebase https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git master
+
+      - name: Stage updated/deleted files
+        run: |
+          git add -u
+
+      - name: Get the files that will be committed
         id: get_modified_files
         run: |
-          files=$(git diff --name-only HEAD^ HEAD | xargs | sed 's/ /, /g')
+          files=$(git diff --cached --name-only | xargs | sed 's/ /, /g')
           echo "files=$files" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         run: |
-          git config user.name "Joakim Hellsén"
-          git config user.email "tlovinator@gmail.com"
-          git add .
-
-          # Check if there are changes to commit
-          if git diff --staged --quiet; then
+          # Check if there are any staged changes
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            # Commit changes since there are staged differences
             git commit -m "Updated files: ${{ steps.get_modified_files.outputs.files }}"
-            git pull --rebase https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git master
             git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:master
           fi
