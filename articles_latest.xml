@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-10T18:09:45+00:00</updated>
+    <updated>2025-06-10T21:06:45+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2788</id>
+                    <title>Post-Lament Anthropocene: Enemies — Nightmare: Kelpie</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2788" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/k10ij7xh8qg3jnhny1-1749560634924.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/av1u5m3jt2l3oi4oiw-1749560634815.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/glocxqgzrotkxp4ey8-1749560642799.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/msudej76jvf5wiir06-1749560642493.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/dn6wsuucrxh06k8tld-1749560634816.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/ogi45mgraa6iwnbi89-1749560641546.gif" /></p>]]></content>
+                    <published>2025-06-10T21:06:45+00:00</published>
+                    <updated>2025-06-10T21:06:45+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2773</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Defier&#39;s Thorn</title>
@@ -566,42 +582,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-05-21T11:12:21+00:00</published>
                     <updated>2025-05-21T11:12:21+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2647</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2647" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1747756800000/h8upuadc4kujvhl8kr-1747796328335.jpg" /></p>
-<p>During the event, 5-Star Weapon: Woodland Aria, 4-Star Weapons: Undying Flame, Variation, Relativistic Jet receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2025-05-22 10:00 - 2025-06-11 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event. Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The Guarantee count is shared among all [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners. If a 5-Star Weapon is not obtained in this event banner, the Guarantee count is carried over across other [Anniversary Weapon Convene] and [Featured Weapon Convene] event banners and resets once a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Woodland Aria.</p>
-</li>
-<li>
-<p>Featured Weapon Woodland Aria is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-05-21T10:59:07+00:00</published>
-                    <updated>2025-05-21T10:59:07+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
