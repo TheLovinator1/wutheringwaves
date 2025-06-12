@@ -20,6 +20,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [[Dance in the Storm's Wake] Featured Resonator Convene: Boosted Drop Rate for Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/2766) [[json]](articles/2766.json)
 - [Wuthering Waves Update Content | Version 2.4 "Lightly We Toss the Crown" Planned for Release on June 12 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/2762) [[json]](articles/2762.json)
 - [Profile Reveal | Feathered Tempest — Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/2755) [[json]](articles/2755.json)
+- [Wuthering Waves x Twitch: Support a Streamer is now underway!](https://wutheringwaves.kurogames.com/en/main/news/detail/2753) [[json]](articles/2753.json)
 - [New Region Preview | Septimont, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/2752) [[json]](articles/2752.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/2748) [[json]](articles/2748.json)
 - [Carlotta's Deluxe Outfit "Splashing Summer"](https://wutheringwaves.kurogames.com/en/main/news/detail/2743) [[json]](articles/2743.json)
