@@ -14,6 +14,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/2810) [[json]](articles/2810.json)
 - [V2.4 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/2809) [[json]](articles/2809.json)
 - [Wuthering Waves Fan Creation Event "Lightly We Toss the Crown" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/2808) [[json]](articles/2808.json)
+- [V2.4 WUWA Discord Quest Event is Now Live](https://wutheringwaves.kurogames.com/en/main/news/detail/2802) [[json]](articles/2802.json)
 - [Patch Notes for Version 2.4: Lightly We Toss the Crown](https://wutheringwaves.kurogames.com/en/main/news/detail/2801) [[json]](articles/2801.json)
 - [Post-Lament Anthropocene: Enemies — Nightmare: Kelpie](https://wutheringwaves.kurogames.com/en/main/news/detail/2788) [[json]](articles/2788.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Defier's Thorn](https://wutheringwaves.kurogames.com/en/main/news/detail/2773) [[json]](articles/2773.json)
