@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-12T11:01:39+00:00</updated>
+    <updated>2025-06-18T10:50:17+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,48 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2826</id>
+                    <title>[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2826" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750176000000/qpg3znnft2ghkowxwh-1750214997294.jpg" /></p>
+<p>Tethys&#39;s crisis simulation program is getting an upgrade. With newly gathered data from the Black Shores and Rinascita, even harsher scenarios now await those who dare to face the challenge…</p>
+<h1>Duration</h1>
+<p>2025-06-19 10:00 - 2025-07-23 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x500, Virtual Vanquisher (Title) x1, Premium Tuner x200, Advanced Resonance Potion x25, Advanced Sealed Tube x20, Shell Credit x500000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 30.</p>
+<h1>Event Rules</h1>
+<ul>
+<li>
+<p>As a member of the Black Shores, take on Crisis Trial challenges and Disaster Trial high-difficulty challenges under various combinations of Stress Modules.</p>
+</li>
+<li>
+<p>In Crisis Trials, select a Stress Level for each trial. The Stress Level must meet the requirements to complete the trial. Each trial has a default Stress Module. Support Modules are available to lower the trial&#39;s difficulty. After completing a Crisis Trial, the corresponding Disaster Trial along with its Stress Module and Support Module will be unlocked.</p>
+</li>
+<li>
+<p>Disaster Trials have no required Stress Level. Participating in a Disaster Trial will consume Support Modules, so select them carefully in advance.</p>
+</li>
+<li>
+<p>Obtain Matrix Crystals by achieving Challenge Objectives in the Crisis and Disaster Trials. Matrix Crystals can be exchanged for rewards at the Supply Station. The Supply Station closes when this event ends. Please exchange your Matrix Crystals in time.</p>
+</li>
+<li>
+<p>Completing certain Stress Level challenges in Disaster Trials will grant an event-exclusive Title &#34;&#34;Virtual Vanquisher.&#34;&#34;</p>
+</li>
+</ul>
+<p><em>Certain high-difficulty Stress Modules can only be unlocked after clearing a Disaster Trial. Warning: Equipping too many Stress Modules may make the trial excessively challenging.</em></p>
+<p><em>If a participant is downed in a trial, they can consume Stress Levels to revive. This also gives a corresponding buff. Please note that consuming Stress Levels will affect the completion and final result of Challenge Goals.</em></p>]]></content>
+                    <published>2025-06-18T10:50:17+00:00</published>
+                    <updated>2025-06-18T10:50:17+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2810</id>
                     <title>Wuthering Waves Fan Creation Event Winners Reveal</title>
@@ -1332,21 +1374,6 @@
                     <content type="html"><![CDATA[<p>Off we go to Septimont! Before you set off, take a moment to check out this interview with a journalist from Ragunna for some valuable insights into the local customs and practices of Septimont.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/xvsha5kzvppcnbmrfe-1748801174313.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/paj25q0szll3ajxbs8-1748801193584.jpeg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/vs2ylfk72qy58ik19a-1748801214253.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/nvm3jrmq6rawedfu3d-1748801235583.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748793600000/q2m6zgarm0i91250rz-1748801254753.jpg" /></p>]]></content>
                     <published>2025-06-02T02:07:50+00:00</published>
                     <updated>2025-06-02T02:07:50+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2700</id>
-                    <title>Post-Lament Anthropocene: Enemies — Collection of Small &amp; Medium Size Echoes in Septimont</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2700" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Drakes gather and Kerasaurs infest. In Septimont—a land shaped by its unique faith and relentless pursuit of strength—Echoes of diverse natures dwell.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/cz2knr5ntlbdy4np6v-1748528739033.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/4nka7i7g7pxgcbu7l3-1748528779108.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/aus86gr12s1y6himv4-1748528760591.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/nsp1wb62aahr0uoojs-1748528690680.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/28t3wym2byxwxf98fu-1748528650432.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1748448000000/6b90a9ctbb4le38ky1-1748528617675.jpg" /></p>]]></content>
-                    <published>2025-05-29T22:27:21+00:00</published>
-                    <updated>2025-05-29T22:27:21+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
