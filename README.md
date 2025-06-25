@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2839) [[json]](articles/2839.json)
 - [[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2826) [[json]](articles/2826.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/2810) [[json]](articles/2810.json)
 - [V2.4 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/2809) [[json]](articles/2809.json)
