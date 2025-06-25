@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-18T10:50:17+00:00</updated>
+    <updated>2025-06-25T17:05:00+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,39 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2839</id>
+                    <title>[Chord Cleansing] Limited-Time Echo Double Drop Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2839" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750780800000/wu1e74lp9zo5flm3mo-1750842281992.jpg" /></p>
+<p>The Tacet Fields are experiencing a surge in energy due to the Waveworn Phenomenon.</p>
+<p>Use the Waveplates to maximize your rewards from the Tacetite Blooms!</p>
+<h1>Duration</h1>
+<p>2025-06-26 04:00 - 2025-07-03 03:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 19.</p>
+<h1>Details</h1>
+<ul>
+<li>
+<p>Complete Tacet Suppression challenges during the event and spend Waveplates for double rewards.</p>
+</li>
+<li>
+<p>During [Chord Cleansing], you can claim double rewards 3 times a day, and the remaining double rewards claims can be viewed on the [Chord Cleansing] event page.</p>
+</li>
+<li>
+<p>During [Chord Cleansing], double rewards claims refresh daily at 04:00 (server time).</p>
+</li>
+</ul>]]></content>
+                    <published>2025-06-25T17:05:00+00:00</published>
+                    <updated>2025-06-25T17:05:00+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2826</id>
                     <title>[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event</title>
