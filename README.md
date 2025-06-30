@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Upcoming Events in Wuthering Waves Version 2.4](https://wutheringwaves.kurogames.com/en/main/news/detail/2861) [[json]](articles/2861.json)
 - [Profile Reveal | Howling Flame—Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/2856) [[json]](articles/2856.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/2850) [[json]](articles/2850.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2839) [[json]](articles/2839.json)

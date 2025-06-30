@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-27T18:13:36+00:00</updated>
+    <updated>2025-06-30T15:21:31+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2861</id>
+                    <title>Upcoming Events in Wuthering Waves Version 2.4</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2861" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.4. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/qudpw2lcieicwoi2p8-1751279020647.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/g41bqmsa5inybwvfs1-1751279031836.jpg" /></p>]]></content>
+                    <published>2025-06-30T15:21:31+00:00</published>
+                    <updated>2025-06-30T15:21:31+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2856</id>
                     <title>Profile Reveal | Howling Flame—Lupa</title>

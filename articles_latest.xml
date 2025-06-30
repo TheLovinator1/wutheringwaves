@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-27T18:13:36+00:00</updated>
+    <updated>2025-06-30T15:21:31+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2861</id>
+                    <title>Upcoming Events in Wuthering Waves Version 2.4</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2861" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.4. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/qudpw2lcieicwoi2p8-1751279020647.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/g41bqmsa5inybwvfs1-1751279031836.jpg" /></p>]]></content>
+                    <published>2025-06-30T15:21:31+00:00</published>
+                    <updated>2025-06-30T15:21:31+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2856</id>
                     <title>Profile Reveal | Howling Flame—Lupa</title>
@@ -1269,127 +1285,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/5mkctpkdc83nbw9cj6-1749180222549.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/eehsqsgbqho7525lqk-1749180236822.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/p52uoys68lqyb1cz06-1749180248727.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/sm8mr9eiyhzservbh7-1749180265644.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/kf2ax09w0e75p2jl6t-1749180276231.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/hfxaquthmn3kt1gdgl-1749180288540.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/0zru97rtcgdkckfwon-1749180298965.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/plyywqibhhnt7k9jjb-1749180308235.jpg" /></p>]]></content>
                     <published>2025-06-06T11:25:31+00:00</published>
                     <updated>2025-06-06T11:25:31+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2733</id>
-                    <title>Wuthering Waves Version 2.4 Update Maintenance Notice</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2733" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749052800000/y45yokqe9j70k01a6k-1749127702429.jpg" />Dear Rover,</p>
-<p>To bring you exciting new content and a better gaming experience, we will soon be conducting the update maintenance for Version 2.4: Lightly We Toss the Crown.</p>
-<p>During the maintenance, you will be unable to log in to the game, so please plan your time accordingly. Additionally, due to the large size of the update, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause.</p>
-<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
-<p><strong>✦Maintenance Time: 2025-06-12 04:00 - 2025-06-12 11:00 (UTC+8)</strong></p>
-<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
-<p><strong>✦Compensation Eligibility: Create a character and unlock the Mails feature before 2025-06-12 04:00 (UTC+8). The compensation can be claimed before the next version update.</strong></p>
-<p><strong>※In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</strong></p>
-<p><strong>[How to Update]</strong></p>
-<p><strong>Once the maintenance for the version update begins, you can follow the following instructions to update your client.</strong></p>
-<p><strong>✦PC: Close the game, restart the launcher, and then click on &#34;Update.&#34;</strong></p>
-<p><strong>✦Android: Launch the game and follow the instructions in the update pop-up window to complete the update.</strong></p>
-<p><strong>✦iOS: Download/update the game in the App Store.</strong></p>
-<p><strong>✦Mac: Download/update the game in the App Store.</strong></p>
-<p><strong>✦PS5™: Open the home screen &gt; Select Wuthering Waves &gt; Press the OPTIONS button to Check for Update.</strong></p>
-<p><strong>[Pre-download]</strong></p>
-<p><strong>✦Start Time: 2025-06-10 10:00 (UTC+8)</strong></p>
-<p><strong>[Pre-download Storage Requirements]</strong></p>
-<p><strong>✦PC: 19 GB. To ensure smoother subsequent processes, such as decompressing, it is recommended that you have at least 38 GB of spare storage space on your PC.</strong></p>
-<p><strong>✦Android/iOS: 11 GB. Approximately 22 GB of storage space is needed for the decompression process. This space will be used only temporarily and will be freed up once the maintenance is completed.</strong></p>
-<p><em>If your mobile device does not have enough spare storage space during the pre-download process or at its conclusion, merging, decompressing, or verifying files contained in the incremental resource package may fail, leading to the initiation of the downloading of the full resources. Please ensure that your mobile device has enough spare storage space. The full resources are larger in size (approximately 31 GB) and may take longer to download. The pre-download feature will be further optimized in future versions. We sincerely apologize for any inconvenience you may experience in the meantime.</em></p>
-<p><strong>[How to Pre-download]</strong></p>
-<p><strong>✦PC: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</strong></p>
-<p><strong>✦Android/iOS: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</strong></p>
-<p><em>You can continue playing the game while the pre-downloading process is ongoing on your mobile device or the PC launcher. The process can be paused at any time. Whether it is complete or not, the update maintenance will speed up to a certain degree when initiated.</em></p>
-<p><em>Please ensure that you have a stable network connection during the pre-downloading process.</em></p>
-<hr />
-<p><strong>[Version 2.4 Preview]</strong></p>
-<p><strong>[New Resonators]</strong></p>
-<p><strong>5-Star Resonator: Cartethyia (Aero/Sword)</strong></p>
-<p><strong>※Obtainable through the [Dance in the Storm&#39;s Wake] Featured Resonator Convene.</strong></p>
-<p><strong>5-Star Resonator: Lupa (Fusion/Broadblade)</strong></p>
-<p><strong>※Obtainable through the [Roar of Triumph] Featured Resonator Convene.</strong></p>
-<p><strong>[New Weapons]</strong></p>
-<p><strong>5-Star Weapon: Defier&#39;s Thorn (Sword)</strong></p>
-<p><strong>※ Obtainable through the [Absolute Pulsation - Defier&#39;s Thorn] Featured Weapon Convene.</strong></p>
-<p><strong>5-Star Weapon: Wildfire Mark (Broadblade)</strong></p>
-<p><strong>※Obtainable through the [Absolute Pulsation - Wildfire Mark] Featured Weapon Convene.</strong></p>
-<p><strong>[New Region]</strong></p>
-<p><strong>Septimont</strong></p>
-<p><strong>※Reach the location during Main Quest Chapter II Act V &#34;Shadow of Glory.&#34;</strong></p>
-<p><strong>Septimont - New Way of Exploration</strong></p>
-<p><strong>Slash: In Septimont, interact with a special mechanism to summon Hero&#39;s Legacy Armor to cut through roadblocks and venture into new areas.</strong></p>
-<p><strong>[New Echoes]</strong></p>
-<p><strong>Lioness of Glory, Kerasaur, Pilgrim&#39;s Shell, Devotee&#39;s Flesh, Spectro Drake, Fusion Drake, Havoc Drake, Nightmare: Kelpie</strong></p>
-<p><strong>New Sonata Sets: Windward Pilgrimage, Flaming Clawprint</strong></p>
-<p><strong>[New Stories]</strong></p>
-<p><strong>Main Quest Chapter II Act V: Shadow of Glory</strong></p>
-<p><strong>Main Quest Chapter II Act VI: Flames of Heart</strong></p>
-<p><strong>Exploration Quests: Where Sky is Clear and Glory Shines</strong></p>
-<p><strong>Exploration Quest: Flames in the Deep</strong></p>
-<p><strong>※Where Sky is Clear and Glory Shines consists of three Exploration Quests.</strong></p>
-<p><strong>[New Features]</strong></p>
-<p><strong>New Feature: Solaris New Voyage Celebration</strong></p>
-<p><strong>New Feature: Global Filter</strong></p>
-<p><strong>New Feature: Focus Mode</strong></p>
-<p><strong>New Feature: Guide Depot</strong></p>
-<p><strong>Upgrade to Next Stop: Rinascita</strong></p>
-<p><strong>Upgrade to Store</strong></p>
-<p><strong>[Other New Content]</strong></p>
-<p><strong>Tactical Hologram: Phantom Pain Challenge: Kelpie</strong></p>
-<p><strong>Phantom Echoes: Phantom - Cuddle Wuddle, Phantom - Fae Ignis</strong></p>
-<p><strong>Outfits: Laurel Nymph, Splashing Summer</strong></p>
-<p><strong>Echo Aspects: Dawn upon Thorns (Glide), Dawn Upon Thorns (Flight), Moment of Triumph (Flight)</strong></p>
-<p><strong>[Special Events]</strong></p>
-<p><strong>[Septimont] Area Events: [The Everglorious Summit] Area Exploration Event, [Septimont Travel Atlas] Featured Exploration Event, [Uncovering Past Heroes] Photo Collection Event</strong></p>
-<p><strong>[All Out! Towards the Peaks of Prestige] Echo Combat Event</strong></p>
-<p><strong>[Lollo Campaign: Verification] Featured Commission Event</strong></p>
-<p><strong>[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event</strong></p>
-<p><strong>[Gifts of Applause] 7-Day Login Event</strong></p>
-<p><strong>[New Gameplay Feature]</strong></p>
-<p><strong>[Banners Never Fall] New Permanent Challenge Gameplay</strong></p>
-<p><strong>※For more details on the new content, optimizations, and bug fixes coming to the game in Version 2.4, please stay tuned for the upcoming release notes.</strong></p>
-<hr />
-<p><strong>[Device Requirements]</strong></p>
-<p>To ensure a smooth experience, please refer to the following requirements:</p>
-<ol>
-<li>Minimum</li>
-</ol>
-<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 835, MediaTek G71/72 or processors of better/equivalent performance; [RAM] 4 GB or more</p>
-<p>iOS: [System] iOS 14 or later; [Model] iPhone 11 or newer, iPad with A13 Bionic or processors of better/equivalent performance; [RAM] 4 GB or more</p>
-<p>Mac: [System] macOS 12.0 or later; [Model] m1 or newer; [RAM] 16 GB or more</p>
-<p>PC: [System] Windows 10 64-bit; [CPU] Intel I5 (9th Gen)/Ryzen 2700; [GPU] Geforce 1060/RX570/Intel ARC A380, [RAM] 16 GB or more</p>
-<ol start="2">
-<li>Recommended</li>
-</ol>
-<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 8 Gen1+/Gen2/Gen3 or MediaTek processors of better/equivalent performance; [RAM] 6 GB or more</p>
-<p>iOS: [System] iOS 15 or later; [Model] iPhone 13 or newer, iPad with A15 Bionic or processors of better/equivalent performance; [RAM] 6 GB or more</p>
-<p>Mac: [System] macOS 15.0 or later; [Model] m3 or newer; [RAM] 16 GB or more</p>
-<p>PC: [System] Windows 10 64-bit; [CPU] Intel I7 (9th Gen)/Ryzen 3700, [GPU] Geforce 2060/RX5700XT/Intel ARC A750; [RAM] 16 GB or more</p>
-<ol start="3">
-<li>Required Storage Space</li>
-</ol>
-<p>Android/iOS: 31 GB</p>
-<p>Mac: 60 GB</p>
-<p>PC: 60 GB; it&#39;s recommended to install the game on an SSD.</p>
-<p>PS5™: Please make sure your device has sufficient available storage to complete the update.</p>
-<ol start="4">
-<li>Controller Support</li>
-</ol>
-<p>Wuthering Waves currently supports the following controllers on Mobile.</p>
-<p>Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
-<p>Wuthering Waves currently supports the following controllers on Mac.</p>
-<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
-<p>Wuthering Waves currently supports the following controllers on PC.</p>
-<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualSense®、DualSense Edge™</p>
-<p>Wired Controllers: DualShock®4</p>]]></content>
-                    <published>2025-06-05T20:48:36+00:00</published>
-                    <updated>2025-06-05T20:48:36+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
