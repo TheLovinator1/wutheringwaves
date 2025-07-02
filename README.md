@@ -64,7 +64,6 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani](https://wutheringwaves.kurogames.com/en/main/news/detail/2532) [[json]](articles/2532.json)
 - [Anniversary Resonator Convene: Phase I](https://wutheringwaves.kurogames.com/en/main/news/detail/2527) [[json]](articles/2527.json)
 - [Tactical Hologram Update, Available Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/2524) [[json]](articles/2524.json)
-- [Reminder Regarding Recent Complaints About Unauthorized Payment Platforms](https://wutheringwaves.kurogames.com/en/main/news/detail/2520) [[json]](articles/2520.json)
 - [Wuthering Waves Update Content | Version 2.3 "Fiery Arpeggio of Summer Reunion" Planned for Release on April 29 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/2517) [[json]](articles/2517.json)
 - [Event Preview | [Cubie Derby] Anniversary Events, Available Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/2513) [[json]](articles/2513.json)
 - [Profile Reveal | Scorched Radiance — Zani](https://wutheringwaves.kurogames.com/en/main/news/detail/2509) [[json]](articles/2509.json)
