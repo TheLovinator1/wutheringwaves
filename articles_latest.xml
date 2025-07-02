@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-06-30T15:21:31+00:00</updated>
+    <updated>2025-07-02T12:08:57+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
     <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
@@ -16,6 +16,82 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2874</id>
+                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2874" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751385600000/5nrz6y9bzsy0tyxsg7-1751429321336.jpg" />During the event, 5-Star Weapon: Wildfire Mark, 4-Star Weapons: Helios Cleaver, Commando of Conviction, and Jinzhou Keeper receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2025-07-03 10:00 - 2025-07-23 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Wildfire Mark.</p>
+</li>
+<li>
+<p>Featured Weapon Wildfire Mark is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-07-02T12:08:57+00:00</published>
+                    <updated>2025-07-02T12:08:57+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:2867</id>
+                    <title>[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2867" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751385600000/uim4gaz6v5fo924vsp-1751429032404.jpg" />During the event, 5-Star Resonator: Lupa, 4-Star Resonators: Sanhua, Taoqi and Chixia receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2025-07-03 10:00 - 2025-07-23 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Roar of Triumph] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Lupa is exclusive to the [Roar of Triumph] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Lupa&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-07-02T12:04:07+00:00</published>
+                    <updated>2025-07-02T12:04:07+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2861</id>
                     <title>Upcoming Events in Wuthering Waves Version 2.4</title>
@@ -1241,50 +1317,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/z77s9sngtzfjwrdzua-1749226970680.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/kr964lsy162iqsm36k-1749227001626.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/m4oj5zcx5wzcfbao4k-1749227019290.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/ud4t5oog5u5i11qa46-1749227160715.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/umms41k8hfn8oqp9sw-1749227434284.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/8bgdxh5eu4z9igznpt-1749227449998.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/rg3q0i9n0hdp0h9f0t-1749227463284.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/0titd8ora9auep4osl-1749227474719.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749225600000/v7pwvquwaxa1tr7ghr-1749227510735.jpg" /></p>]]></content>
                     <published>2025-06-07T00:32:22+00:00</published>
                     <updated>2025-06-07T00:32:22+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2743</id>
-                    <title>Carlotta&#39;s Deluxe Outfit &#34;Splashing Summer&#34;</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2743" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Soft satin flows from her body. Droplets on her skin glisten like luxurious gems. As she slips into the water, the Gem ripples across the pool and into your heart.</p>
-<p>Carlotta&#39;s Deluxe Outfit &#34;Splashing Summer&#34; will become available once Version 2.4 goes live. Get a sneak peek now!</p>
-<h1>How to Obtain</h1>
-<p>Carlotta&#39;s Deluxe Outfit &#34;Splashing Summer&#34; will be made permanently available in the Store once Version 2.4 goes live.</p>
-<p>Purchase the Outfit before the Version 2.5 update at a discount, for 1980 Lunites only. After Version 2.5 goes live, the Outfit will cost 2480 Lunites.</p>
-<p>Visit the event page for Tidal Festivities and watch the PV for the summer Outfits to obtain an Outfit Voucher. The Outfit Voucher entitles you to a price reduction of 300 Lunites on top of the discount and will remain valid until the Version 2.5 update maintenance starts.</p>
-<p>From the time Version 2.4 goes live until 2025-07-23 11:59 (server time), there will be a trial event where you can try out Splashing Summer. Complete the trial event to claim rewards.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/snhwkymrdrxis63zl6-1749181074864.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/3u9xacgw2qr2vu8pbt-1749181086059.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/t5jgton0id5qossx54-1749181095883.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/gjbbavzg155r0fj7ba-1749181105661.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/t286m6i54xkvnqj7kc-1749181115531.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/pgr4fmywk79guf48c1-1749181148499.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/884wag4c5sfcxoomex-1749181210600.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/kpjl4i3zr9c3i6p70m-1749181219846.jpg" /></p>]]></content>
-                    <published>2025-06-06T11:41:39+00:00</published>
-                    <updated>2025-06-06T11:41:39+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2742</id>
-                    <title>Changli&#39;s Deluxe Outfit &#34;Laurel Nymph&#34;</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2742" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>In the warm mist of the indoor hot spring, behind the fluttering chiffon veils, the laurel-crowned nymph casts her gentle gaze—an invitation to a long-awaited, carefree holiday.</p>
-<p>Changli&#39;s Deluxe Outfit &#34;Laurel Nymph&#34; will become available once Version 2.4 goes live. Get a sneak peek now!</p>
-<h1>How to Obtain</h1>
-<p>Changli&#39;s Deluxe Outfit &#34;Laurel Nymph&#34; will be made permanently available in the Store once Version 2.4 goes live.</p>
-<p>Purchase the Outfit before the Version 2.5 update at a discount, for 1980 Lunites only. After Version 2.5 goes live, the Outfit will cost 2480 Lunites.</p>
-<p>Visit the event page for Tidal Festivities and watch the PV for the summer Outfits to obtain an Outfit Voucher. The Outfit Voucher entitles you to a price reduction of 300 Lunites on top of the discount and will remain valid until the Version 2.5 update maintenance starts.</p>
-<p>From the time Version 2.4 goes live until 2025-07-23 11:59 (server time), there will be a trial event where you can try out Laurel Nymph. Complete the trial event to claim rewards.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/5mkctpkdc83nbw9cj6-1749180222549.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/eehsqsgbqho7525lqk-1749180236822.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/p52uoys68lqyb1cz06-1749180248727.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/sm8mr9eiyhzservbh7-1749180265644.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/kf2ax09w0e75p2jl6t-1749180276231.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/hfxaquthmn3kt1gdgl-1749180288540.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/0zru97rtcgdkckfwon-1749180298965.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749139200000/plyywqibhhnt7k9jjb-1749180308235.jpg" /></p>]]></content>
-                    <published>2025-06-06T11:25:31+00:00</published>
-                    <updated>2025-06-06T11:25:31+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
