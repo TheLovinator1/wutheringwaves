@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Lollo Campaign: Verification] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2891) [[json]](articles/2891.json)
 - [Cinematic Stills](https://wutheringwaves.kurogames.com/en/main/news/detail/2886) [[json]](articles/2886.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark](https://wutheringwaves.kurogames.com/en/main/news/detail/2874) [[json]](articles/2874.json)
 - [[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/2867) [[json]](articles/2867.json)
