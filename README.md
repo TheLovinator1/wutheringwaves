@@ -4,8 +4,8 @@
 
 Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
-- **[Latest Articles](https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_latest.xml)** - Contains the 20 newest entries (recommended for regular updates)
-- **[Complete Archive](https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/articles_all.xml)** - Access all published articles (approximately 1 MB)
+- **[Latest Articles](https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml)** - Contains the 20 newest entries (recommended for regular updates)
+- **[Complete Archive](https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml)** - Access all published articles (approximately 1 MB)
 
 *Subscribe to these feeds in your favorite RSS reader to automatically receive new announcements.*
 
