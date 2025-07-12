@@ -83,7 +83,9 @@ def set_file_timestamp(filepath: Path, timestamp_str: str) -> bool:
     """
     try:
         # Parse the timestamp string
-        dt: datetime = datetime.strptime(timestamp_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
+        dt: datetime = datetime.strptime(timestamp_str, "%Y-%m-%d %H:%M:%S").replace(
+            tzinfo=UTC
+        )
 
         # Convert to Unix timestamp
         timestamp: float = dt.timestamp()
@@ -114,7 +116,9 @@ def get_file_timestamp(timestamp_str: str) -> float:
 
     try:
         # Parse the timestamp string
-        dt: datetime = datetime.strptime(timestamp_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
+        dt: datetime = datetime.strptime(timestamp_str, "%Y-%m-%d %H:%M:%S").replace(
+            tzinfo=UTC
+        )
         # Convert to Unix timestamp
         return dt.timestamp()
     except ValueError:
@@ -133,7 +137,13 @@ def commit_file_with_timestamp(filepath: Path) -> bool:  # noqa: PLR0911
 
     """
     # Check in Git history if we already have this file
-    git_log_cmd: list[str] = ["git", "log", "--pretty=format:%H", "--follow", str(filepath)]
+    git_log_cmd: list[str] = [
+        "git",
+        "log",
+        "--pretty=format:%H",
+        "--follow",
+        str(filepath),
+    ]
     try:
         git_log_output: str = subprocess.check_output(git_log_cmd, text=True).strip()  # noqa: S603
         if git_log_output:
@@ -157,7 +167,9 @@ def commit_file_with_timestamp(filepath: Path) -> bool:  # noqa: PLR0911
 
         # Get the file's modification time
         timestamp: float = filepath.stat().st_mtime
-        git_time: str = datetime.fromtimestamp(timestamp, tz=UTC).strftime("%Y-%m-%dT%H:%M:%S")
+        git_time: str = datetime.fromtimestamp(timestamp, tz=UTC).strftime(
+            "%Y-%m-%dT%H:%M:%S"
+        )
 
         # Stage the file
         subprocess.run([git_executable, "add", str(filepath)], check=True, text=True)  # noqa: S603
@@ -210,7 +222,9 @@ def add_articles_to_readme(articles: dict[Any, Any] | None = None) -> None:
         # Create new content
         new_lines: list[str] = []
         if articles_section_index >= 0:
-            new_lines = lines[: articles_section_index + 1]  # Keep everything up to "## Articles"
+            new_lines = lines[
+                : articles_section_index + 1
+            ]  # Keep everything up to "## Articles"
         else:
             new_lines = lines
             if new_lines and not new_lines[-1].endswith("\n"):
@@ -219,10 +233,14 @@ def add_articles_to_readme(articles: dict[Any, Any] | None = None) -> None:
 
         # Add articles
         new_lines.append("\n")  # Add a blank line after the heading
-        for article in sorted(articles, key=lambda x: x.get("createTime", ""), reverse=True):
+        for article in sorted(
+            articles, key=lambda x: x.get("createTime", ""), reverse=True
+        ):
             article_id: str = str(article.get("articleId", ""))
             article_title: str = article.get("articleTitle", "No Title")
-            article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
+            article_url: str = (
+                f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
+            )
             new_lines.append(
                 f"- [{article_title}]({article_url}) [[json]](articles/{article_id}.json)\n",
             )
@@ -372,7 +390,11 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
     if articles:
         latest_entry = articles[0].get("createTime", "")
         if latest_entry:
-            latest_entry = datetime.strptime(str(latest_entry), "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC).isoformat()
+            latest_entry = (
+                datetime.strptime(str(latest_entry), "%Y-%m-%d %H:%M:%S")
+                .replace(tzinfo=UTC)
+                .isoformat()
+            )
 
     for article in articles:
         article_id: str = str(article.get("articleId", ""))
@@ -401,7 +423,9 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             article_content_converted = "No content available"
 
         # Remove non-breaking spaces
-        xa0_removed: str = re.sub(r"\xa0", " ", article_content_converted)  # Replace non-breaking spaces with regular spaces
+        xa0_removed: str = re.sub(
+            r"\xa0", " ", article_content_converted
+        )  # Replace non-breaking spaces with regular spaces
 
         # Replace non-breaking spaces with regular spaces
         non_breaking_space_removed: str = xa0_removed.replace(
@@ -427,7 +451,12 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         stars_converted: str = handle_stars(square_brackets_converted)
 
         # If `● Word` is in the content, replace it `## Word` instead with regex
-        ball_converted: str = re.sub(pattern=r"●\s*(.*?)\n", repl=r"\n\n## \1\n\n", string=stars_converted, flags=re.MULTILINE)
+        ball_converted: str = re.sub(
+            pattern=r"●\s*(.*?)\n",
+            repl=r"\n\n## \1\n\n",
+            string=stars_converted,
+            flags=re.MULTILINE,
+        )
 
         # If `※ Word` is in the content, replace it `* word * ` instead with regex
         reference_mark_converted: str = re.sub(
@@ -458,7 +487,12 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
                 flags=re.MULTILINE,
             )
 
-        space_before_star_added: str = re.sub(pattern=r"\\\*(.*)", repl=r"* \1", string=reference_mark_converted, flags=re.MULTILINE)
+        space_before_star_added: str = re.sub(
+            pattern=r"\\\*(.*)",
+            repl=r"* \1",
+            string=reference_mark_converted,
+            flags=re.MULTILINE,
+        )
 
         markdown_formatted: str = mdformat.text(  # type: ignore  # noqa: PGH003
             space_before_star_added,
@@ -470,19 +504,25 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         links_fixed: str = format_discord_links(markdown_formatted)
         article_escaped: Markup = escape(links_fixed)
 
-        article_url: str = f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
+        article_url: str = (
+            f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article_id}"
+        )
         article_create_time: str = article.get("createTime", "")
         published: str = ""
         updated: str = latest_entry
 
         if article_create_time:
-            timestamp: datetime = datetime.strptime(str(article_create_time), "%Y-%m-%d %H:%M:%S").replace(tzinfo=UTC)
+            timestamp: datetime = datetime.strptime(
+                str(article_create_time), "%Y-%m-%d %H:%M:%S"
+            ).replace(tzinfo=UTC)
             iso_time: str = timestamp.isoformat()
             published = f"<published>{iso_time}</published>"
             updated = iso_time
 
         article_category: str = article.get("articleTypeName", "Wuthering Waves")
-        category: str = f'<category term="{escape(article_category)}"/>' if article_category else ""
+        category: str = (
+            f'<category term="{escape(article_category)}"/>' if article_category else ""
+        )
 
         html: str = markdown.markdown(
             text=article_escaped,
@@ -528,12 +568,12 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Wuthering Waves Articles</title>
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
-    <link href="https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/{file_name}" rel="self" type="application/atom+xml"/>
+    <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/{file_name}" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
     <updated>{latest_entry}</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
-    <icon>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</icon>
-    <logo>https://git.lovinator.space/TheLovinator/wutheringwaves/raw/branch/master/logo.png</logo>
+    <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
+    <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
     <rights>Copyright © {datetime.now(tz=UTC).year} Wuthering Waves</rights>
     <generator uri="https://git.lovinator.space/TheLovinator/wutheringwaves" version="1.0">Python Script</generator>
     <author>
@@ -593,14 +633,22 @@ def create_atom_feeds(output_dir: Path) -> None:
         article_create_time: str = article.get("createTime", "")
         logger.info("\tArticle ID: %s, Date: %s", article_id, article_create_time)
 
-    atom_feed: str = generate_atom_feed(articles=latest_articles, file_name=atom_feed_path.name)
+    atom_feed: str = generate_atom_feed(
+        articles=latest_articles, file_name=atom_feed_path.name
+    )
     with atom_feed_path.open("w", encoding="utf-8") as f:
         f.write(atom_feed)
-    logger.info("Created Atom feed for the last %s articles: %s", len(latest_articles), atom_feed_path)
+    logger.info(
+        "Created Atom feed for the last %s articles: %s",
+        len(latest_articles),
+        atom_feed_path,
+    )
 
     # Create the Atom feed for all articles
     atom_feed_path_all: Path = Path("articles_all.xml")
-    atom_feed_all_articles: str = generate_atom_feed(articles=articles_sorted, file_name=atom_feed_path_all.name)
+    atom_feed_all_articles: str = generate_atom_feed(
+        articles=articles_sorted, file_name=atom_feed_path_all.name
+    )
     with atom_feed_path_all.open("w", encoding="utf-8") as f:
         f.write(atom_feed_all_articles)
     logger.info("Created Atom feed for all articles: %s", atom_feed_path_all)
@@ -663,7 +711,9 @@ async def main() -> Literal[1, 0]:
     """
     # Setup
     current_time = int(time.time() * 1000)  # Current time in milliseconds
-    base_url = "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en"
+    base_url = (
+        "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en"
+    )
     article_menu_url: str = f"{base_url}/ArticleMenu.json?t={current_time}"
     article_base_url: str = f"{base_url}/article/"
     output_dir = Path("articles")
@@ -685,19 +735,29 @@ async def main() -> Literal[1, 0]:
 
         # Extract article IDs
         logger.info("Extracting article IDs...")
-        article_ids: list[str] = [str(item["articleId"]) for item in menu_data if item.get("articleId")]
+        article_ids: list[str] = [
+            str(item["articleId"]) for item in menu_data if item.get("articleId")
+        ]
 
         if not article_ids:
-            logger.warning("No article IDs found. Please check the JSON structure of ArticleMenu.json.")
+            logger.warning(
+                "No article IDs found. Please check the JSON structure of ArticleMenu.json."
+            )
             logger.warning("Full menu response for debugging:")
             logger.warning(json.dumps(menu_data, indent=2))
             return 1
 
         # Get list of already downloaded article IDs
-        existing_files: list[str] = [file.stem for file in output_dir.glob("*.json") if file.stem != "ArticleMenu"]
+        existing_files: list[str] = [
+            file.stem
+            for file in output_dir.glob("*.json")
+            if file.stem != "ArticleMenu"
+        ]
 
         # Filter out already downloaded articles
-        new_article_ids: list[str] = [article_id for article_id in article_ids if article_id not in existing_files]
+        new_article_ids: list[str] = [
+            article_id for article_id in article_ids if article_id not in existing_files
+        ]
 
         if new_article_ids:
             logger.info("Found %s new articles to download", len(new_article_ids))
@@ -705,14 +765,18 @@ async def main() -> Literal[1, 0]:
             # Download each new article
             download_tasks: list[Coroutine[Any, Any, dict[Any, Any] | None]] = []
             for article_id in new_article_ids:
-                article_url: str = f"{article_base_url}{article_id}.json?t={current_time}"
+                article_url: str = (
+                    f"{article_base_url}{article_id}.json?t={current_time}"
+                )
                 output_file: Path = output_dir / f"{article_id}.json"
 
                 logger.info("Downloading article %s from %s", article_id, article_url)
                 download_tasks.append(fetch_json(article_url, client))
 
             # Wait for all downloads to complete
-            results: list[dict[Any, Any] | BaseException | None] = await asyncio.gather(*download_tasks, return_exceptions=True)
+            results: list[dict[Any, Any] | BaseException | None] = await asyncio.gather(
+                *download_tasks, return_exceptions=True
+            )
 
             # Process the downloaded articles
             for i, result in enumerate(results):
@@ -724,12 +788,18 @@ async def main() -> Literal[1, 0]:
                     continue
 
                 if not result:
-                    logger.warning("Downloaded article %s is empty or invalid", article_id)
+                    logger.warning(
+                        "Downloaded article %s is empty or invalid", article_id
+                    )
                     continue
 
                 # Save the article JSON
-                if isinstance(result, dict) and await save_prettified_json(result, output_file):
-                    logger.info("Successfully downloaded and prettified %s", output_file)
+                if isinstance(result, dict) and await save_prettified_json(
+                    result, output_file
+                ):
+                    logger.info(
+                        "Successfully downloaded and prettified %s", output_file
+                    )
         else:
             logger.info("No new articles to download")
 
