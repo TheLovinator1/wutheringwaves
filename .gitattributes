@@ -1,0 +1,7 @@
+# Mark generated folders as generated to exclude from language statistics
+articles/** linguist-generated=true
+html/** linguist-generated=true
+
+# Mark XML files as generated since they're also auto-generated
+articles_all.xml linguist-generated=true
+articles_latest.xml linguist-generated=true
