@@ -7,30 +7,27 @@ on:
   push:
     paths:
       - 'scrape.py'
-      - '.gitea/workflows/main.yml'
+      - '.github/workflows/main.yml'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Check for required secret
-        run: |
-          if [ -z "${{ secrets.REPO_WRITE_PAT }}" ]; then
-            echo "Missing REPO_WRITE_PAT secret. Aborting."
-            exit 1
-          fi
       - name: Checkout code
-        uses: https://github.com/actions/checkout@v4
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: https://github.com/actions/setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
       - name: Install uv
-        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+        id: setup-uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
 
       - name: Install dependencies
         run: uv sync
@@ -44,16 +41,16 @@ jobs:
 
       - name: Pull latest changes with rebase
         run: |
-          git config user.name "Joakim Hellsén"
-          git config user.email "tlovinator@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # If there are staged changes, commit them temporarily
           if ! git diff --cached --quiet; then
             git commit -m "Temporary commit for rebase"
-            git pull --rebase https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git master
+            git pull --rebase https://${{ secrets.GITHUB_TOKEN }}@github.com/TheLovinator1/wutheringwaves.git master
             # Reset to unstage the temporary commit but keep the changes
             git reset --soft HEAD~1
           else
-            git pull --rebase https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git master
+            git pull --rebase https://${{ secrets.GITHUB_TOKEN }}@github.com/TheLovinator1/wutheringwaves.git master
           fi
 
       - name: Get the files that will be committed
@@ -69,5 +66,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Updated files: ${{ steps.get_modified_files.outputs.files }}"
-            git push https://${{ secrets.REPO_WRITE_PAT }}@git.lovinator.space/TheLovinator/wutheringwaves.git HEAD:master
+            git push https://${{ secrets.GITHUB_TOKEN }}@github.com/TheLovinator1/wutheringwaves.git HEAD:master
           fi
