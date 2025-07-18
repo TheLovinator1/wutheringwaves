@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Update Preview | Version 2.5](https://wutheringwaves.kurogames.com/en/main/news/detail/2901) [[json]](articles/2901.json)
 - [[Lollo Campaign: Verification] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2891) [[json]](articles/2891.json)
 - [Cinematic Stills](https://wutheringwaves.kurogames.com/en/main/news/detail/2886) [[json]](articles/2886.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark](https://wutheringwaves.kurogames.com/en/main/news/detail/2874) [[json]](articles/2874.json)
