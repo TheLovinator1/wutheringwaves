@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version 2.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/2908) [[json]](articles/2908.json)
 - [Wuthering Waves Version Update Preview | Version 2.5](https://wutheringwaves.kurogames.com/en/main/news/detail/2901) [[json]](articles/2901.json)
 - [[Lollo Campaign: Verification] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2891) [[json]](articles/2891.json)
 - [Cinematic Stills](https://wutheringwaves.kurogames.com/en/main/news/detail/2886) [[json]](articles/2886.json)

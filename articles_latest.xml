@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-07-18T17:24:41+00:00</updated>
+    <updated>2025-07-18T18:57:51+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,121 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2908</id>
+                    <title>Wuthering Waves Version 2.5 Update Maintenance Notice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2908" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1752768000000/x845wvw9bb3hfq1qin-1752842770110.png" /></strong></p>
+<p>Dear Rover,</p>
+<p>To bring you exciting new content and a better gaming experience, we will soon be conducting the update maintenance for Version 2.5: Unfading Melody of Life.</p>
+<p>During the maintenance, you will be unable to log in to the game, so please plan your time accordingly. Additionally, due to the large size of the update, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time: 2025-07-24 04:00 - 2025-07-24 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mails feature before 2025-07-24 04:00 (UTC+8). The compensation can be claimed before the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<p><strong>[How to Update]</strong></p>
+<p><strong>Once the maintenance for the version update begins, you can follow the following instructions to update your client.</strong></p>
+<p><strong>✦PC: Close the game, restart the launcher, and then click on &#34;Update.&#34;</strong></p>
+<p><strong>✦Android: Launch the game and follow the instructions in the update pop-up window to complete the update.</strong></p>
+<p><strong>✦iOS: Download/update the game in the App Store.</strong></p>
+<p><strong>✦Mac: Download/update the game in the App Store.</strong></p>
+<p><strong>✦PS5™: Open the home screen &gt; Select Wuthering Waves &gt; Press the OPTIONS button to Check for Update</strong></p>
+<p><strong>[Pre-download]</strong></p>
+<p><strong>✦Pre-download Start Time: 2025-07-22 10:00 (UTC+8)</strong></p>
+<p><strong>[Pre-download Storage Requirements]</strong></p>
+<p><strong>✦PC: 8 GB. To ensure smoother subsequent processes, such as decompressing, it is recommended that you have approximately 16 GB of spare storage space on your PC.</strong></p>
+<p><strong>✦Android/iOS: 7 GB. Approximately 14 GB of storage space is needed for the decompression process. This space will be used only temporarily and will be freed up once the maintenance is completed.</strong></p>
+<p><em>Please note that pre-download may not be possible if your device does not have enough spare storage space.</em></p>
+<p><strong>[How to Pre-download]</strong></p>
+<p><strong>✦PC: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</strong></p>
+<p><strong>✦Android/iOS: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</strong></p>
+<p><em>You can continue playing the game while the pre-downloading process is ongoing on your mobile device or the PC launcher. The process can be paused at any time. Whether it is complete or not, the update maintenance will speed up to a certain degree when initiated.</em></p>
+<p><em>Please ensure that you have a stable network connection during the pre-downloading process.</em></p>
+<hr />
+<p><strong>[Version 2.5 Preview]</strong></p>
+<p><strong>[New Resonator]</strong></p>
+<p><strong>5-Star Resonator: Phrolova (Havoc/Rectifier)</strong></p>
+<p><strong>※Obtainable through the [Requiem Without End] Featured Resonator Convene.</strong></p>
+<p><strong>[New Weapon]</strong></p>
+<p><strong>5-Star Weapon: Lethean Elegy (Rectifier)</strong></p>
+<p><strong>※Obtainable through the [Absolute Pulsation - Lethean Elegy] Featured Weapon Convene.</strong></p>
+<p><strong>[New Location]</strong></p>
+<p><strong>Fabricatorium of the Deep</strong></p>
+<p><strong>※Reach the location during Main Quest Chapter II Act VII &#34;Dreamcatchers in the Secret Gardens.&#34;</strong></p>
+<p><strong>[Fabricatorium of the Deep] New Way of Exploration</strong></p>
+<p><strong>Orchestration: In Fabricatorium of the Deep areas, use Utility: Crimson Baton to Orchestrate and change the status of objects, so that you can get past mechanisms or gain advantages in combat.</strong></p>
+<p><strong>Orchestration Altar: Everything is made of frequencies, as Phrolova claims. Interact with Orchestration Altars and guide the notes in the right order to change the status of a door or mechanism and access more explorable areas.</strong></p>
+<p><strong>[New Echoes]</strong></p>
+<p><strong>Reminiscence: Fenrico, Nightmare: Hecate, Nightmare: Tambourinist, Nightmare: Glacio Predator, Nightmare: Havoc Warrior</strong></p>
+<p><strong>New Sonata Set: Dream of the Lost</strong></p>
+<p><strong>New Recurring Challenge: Nightmare Purification - Fallen Grave Nightmare Nest</strong></p>
+<p><strong>※A set number of Nightmare Tacet Discords are available daily. Defeat them to claim the corresponding Echoes without spending Waveplates.</strong></p>
+<p><strong>[New Stories]</strong></p>
+<p><strong>Main Quest Chapter II VII: Dreamcatchers in the Secret Gardens</strong></p>
+<p><strong>Main Quest Overture: Rust, Sword and the Sun</strong></p>
+<p><strong>[New Features]</strong></p>
+<p><strong>Added Echo Management</strong></p>
+<p><strong>Added Sync Tuning</strong></p>
+<p><strong>Upgraded the Team setup system</strong></p>
+<p><strong>Added the On/Off option for Resonator Skill Music</strong></p>
+<p><strong>[Other New Content]</strong></p>
+<p><strong>Phantom Echo: Phantom - Nightmare Inferno Rider</strong></p>
+<p><strong>Sigils: Dreamland Reverie, Deep Dreams Film Festival</strong></p>
+<p><strong>※Dreamland Reverie can be obtained by participating in [Phantasma Dreamland] Echo Dreamland Leisure Event, while Deep Dreams Film Festival can be obtained by participating in [Dreaming Deep] Solaris Film Festival.</strong></p>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[Phantasma Dreamland] Echo Dreamland Leisure Event</strong></p>
+<p><strong>[Deep Sea Survey] Photo Collection Event</strong></p>
+<p><strong>[Overflowing Picture Book] Leisure Event</strong></p>
+<p><strong>[Wuthering Exploration] Featured Exploration Event: The Border Mountains</strong></p>
+<p><strong>[Gifts of Grand Symphony] Limited-Time Login Event</strong></p>
+<p><strong>[Updated Event]</strong></p>
+<p><strong>[Dreaming Deep] Solaris Film Festival: New Theaters—Theater 4 &#34;Ragunna&#39;s Visitor,&#34; Theater 5 &#34;The Cinema House Murders&#34;</strong></p>
+<p><strong>※For more details on the new content, optimizations, and bug fixes coming to the game in Version 2.5, please stay tuned for the upcoming release notes.</strong></p>
+<p><strong>--------------------------------------------------------------------</strong></p>
+<p><strong>[Device Requirements]</strong></p>
+<p>To ensure a smooth experience, please refer to the following requirements:</p>
+<ol>
+<li>Minimum</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 835, MediaTek G71/72 or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>iOS: [System] iOS 14 or later; [Model] iPhone 11 or newer, iPad with A13 Bionic or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>Mac: [System] macOS 12.0 or later; [Model] m1 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I5 (9th Gen)/Ryzen 2700; [GPU] Geforce 1060/RX570/Intel ARC A380, [RAM] 16 GB or more</p>
+<ol start="2">
+<li>Recommended</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 8 Gen1+/Gen2/Gen3 or MediaTek processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>iOS: [System] iOS 15 or later; [Model] iPhone 13 or newer, iPad with A15 Bionic or processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>Mac: [System] macOS 15.0 or later; [Model] m3 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I7 (9th Gen)/Ryzen 3700, [GPU] Geforce 2060/RX5700XT/Intel ARC A750; [RAM] 16 GB or more</p>
+<ol start="3">
+<li>Required Storage Space</li>
+</ol>
+<p>Android/iOS: 31 GB</p>
+<p>Mac: 70 GB</p>
+<p>PC: 70 GB; it&#39;s recommended to install the game on an SSD.</p>
+<p>PS5™: Please make sure your device has sufficient available storage to complete the update successfully.</p>
+<ol start="4">
+<li>Controller Support</li>
+</ol>
+<p>Wuthering Waves currently supports the following controllers on Mobile.</p>
+<p>Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on Mac.</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on PC.</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualSense®、DualSense Edge™</p>
+<p>Wired Controllers: DualShock®4</p>]]></content>
+                    <published>2025-07-18T18:57:51+00:00</published>
+                    <updated>2025-07-18T18:57:51+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2901</id>
                     <title>Wuthering Waves Version Update Preview | Version 2.5</title>
@@ -1285,24 +1400,6 @@
                     <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/67956v4hrkvn2uwkbv-1749545616069.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/7fajrrn9yzei5yldpf-1749545734316.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/euj2nlwcps7f96cv22-1749545788914.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/f7d6qe7r5ps46w509c-1749545812758.jpg" /></p>]]></content>
                     <published>2025-06-10T16:57:03+00:00</published>
                     <updated>2025-06-10T16:57:03+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2755</id>
-                    <title>Profile Reveal | Feathered Tempest — Cartethyia</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2755" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
-<h1>Cartethyia</h1>
-<p>Cartethyia, the wandering knight who travels across Rinascita. Formerly known as the Blessed Maiden, the vessel of Divinity, and the Queen of Gale and Tide, she went by the name Fleurdelys. Now, she is simply a free and unfettered wandering knight.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/827rt9pwr5i00h1ktx-1749528583811.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/6319mlkmvnh12qdi70-1749528635756.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/1sll0kr76gydaa5ub6-1749528784333.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/s8zk0n8hoxamhxg4px-1749528881593.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/alsue1uibxgi04w68n-1749528897979.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/dcnf16zndnjp52ayey-1749528937043.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/9clj7bawppi6z8328c-1749528964837.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/iqc12ta0f20344usw1-1749528975195.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1749484800000/53c39xtpyxojss41c2-1749528984740.jpg" /></p>]]></content>
-                    <published>2025-06-10T12:20:40+00:00</published>
-                    <updated>2025-06-10T12:20:40+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
