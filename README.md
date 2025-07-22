@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Update Content | Version 2.5 "Unfading Melody of Life" Planned for Release on July 24 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/2927) [[json]](articles/2927.json)
 - [Wuthering Waves Version 2.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/2908) [[json]](articles/2908.json)
 - [Profile Reveal | Symphony of Beyond — Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/2907) [[json]](articles/2907.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/2906) [[json]](articles/2906.json)
