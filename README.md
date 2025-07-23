@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy](https://wutheringwaves.kurogames.com/en/main/news/detail/2957) [[json]](articles/2957.json)
+- [[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia](https://wutheringwaves.kurogames.com/en/main/news/detail/2950) [[json]](articles/2950.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy](https://wutheringwaves.kurogames.com/en/main/news/detail/2943) [[json]](articles/2943.json)
+- [[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/2936) [[json]](articles/2936.json)
 - [Wuthering Waves Update Content | Version 2.5 "Unfading Melody of Life" Planned for Release on July 24 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/2927) [[json]](articles/2927.json)
 - [Wuthering Waves Version 2.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/2908) [[json]](articles/2908.json)
 - [Profile Reveal | Symphony of Beyond — Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/2907) [[json]](articles/2907.json)
