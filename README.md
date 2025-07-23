@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Stage in the Box — Roccia](https://wutheringwaves.kurogames.com/en/main/news/detail/2963) [[json]](articles/2963.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy](https://wutheringwaves.kurogames.com/en/main/news/detail/2957) [[json]](articles/2957.json)
 - [[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia](https://wutheringwaves.kurogames.com/en/main/news/detail/2950) [[json]](articles/2950.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy](https://wutheringwaves.kurogames.com/en/main/news/detail/2943) [[json]](articles/2943.json)
