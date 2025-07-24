@@ -93,6 +93,535 @@
                 </entry>
         
                 <entry>
+                    <id>urn:article:2966</id>
+                    <title>Patch Notes for Version 2.5: Unfading Melody of Life</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2966" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753200000000/aroozd4a6ojkptpi2t-1753260826807.png" /></p>
+<p>Dear Rover,</p>
+<p>Thank you for your continued support. The following is a summary of content that will become available in Version 2.5: Unfading Melody of Life.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time: 2025-07-24 04:00 - 2025-07-24 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mails feature before 2025-07-24 04:00 (UTC+8). The compensation can be claimed before the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<ul>
+<li>
+<p>Bug Fixes Compensation: Astrite x300</p>
+</li>
+<li>
+<p>Compensation Eligibility: Create a character and unlock the Mails feature before 2025-07-24 04:00 (UTC+8). The compensation can be claimed before the next version update.</p>
+</li>
+</ul>
+<p><strong>[Version Update Details]</strong></p>
+<h1>New Resonator</h1>
+<p><strong>5-Star Resonator: Phrolova (Havoc/Rectifier)</strong></p>
+<p>Phrolova, a Fractsidus Overseer walking the fine line between life and death, an uncanny, deadly conductor.</p>
+<p>A silent wave of her baton is enough to attune the very frequencies of being and conduct the symphonies of &#34;souls.&#34; The music of hers can sculpt a better world or, just as easily, summon a legion to wreak havoc.</p>
+<h2>Combat Roles: Main Damage Dealer, Resonance Skill DMG, Havoc DMG Amplification, Heavy Attack DMG Amplification</h2>
+<p><em>Obtainable through the [Requiem Without End] Featured Resonator Convene.</em></p>
+<h1>New Weapon</h1>
+<p><strong>5-Star Weapon: Lethean Elegy (Rectifier)</strong></p>
+<p>I am not there. I do not die.</p>
+<p>I shall be death&#39;s companion—with euphoric delights I drown my fear, with the coming days I trade for the past.</p>
+<p><em>Obtainable through the [Absolute Pulsation - Lethean Elegy] Featured Weapon Convene.</em></p>
+<h1>New Location</h1>
+<p><strong>[Fabricatorium of the Deep]</strong></p>
+<p>A hidden facility at the depths of the sea. It serves as the distribution center for the Common Echoes. Few truly understand its full purpose.</p>
+<p>Beneath the calm lies madness, and at the end of the madness is a collection of unfulfilled, lingering desires.</p>
+<p><em>Reach the location during Main Quest Chapter II Act VII: Dreamcatchers in the Secret Gardens.</em></p>
+<h2>[Fabricatorium of the Deep] New Way of Exploration</h2>
+<p>Orchestration: In Fabricatorium of the Deep areas, use a special Utility to Orchestrate and change the status of objects, so that you can get past mechanisms or gain advantages in combat.</p>
+<p>Orchestration Altar: Everything is made of frequencies, as Phrolova claims. Interact with Orchestration Altars and return the notes to their right order to change the status of a door or mechanism and access more explorable areas.</p>
+<h1>New Echoes</h1>
+<p>Reminiscence: Fenrico, Nightmare: Hecate, Nightmare: Tambourinist, Nightmare: Glacio Predator, Nightmare: Havoc Warrior</p>
+<p>New Challenge: Nightmare Purification - Fallen Grave Nightmare Nest</p>
+<p><em>A set number of Nightmare Tacet Discords are available daily. Defeat them to claim the corresponding Echoes without spending Waveplates.</em></p>
+<h2>New Sonata Set: Dream of the Lost</h2>
+<p>Dream of the Lost (3pcs Set): Holding 0 Resonance Energy increases Crit. Rate by 20% and grants 35% Echo Skill DMG Bonus.</p>
+<h1>New Stories</h1>
+<p><strong>[Main Quest] Chapter II Act VII: Dreamcatchers in the Secret Gardens</strong></p>
+<p>The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.</p>
+<p>In the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?</p>
+<ul>
+<li>
+<p>Duration: Permanently available after the Version 2.5 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete [Main Quest] Chapter II Act VI: Flames of Heart.</p>
+</li>
+</ul>
+<p><strong>[Main Quest] Overture: Rust, Sword and the Sun</strong></p>
+<p>While waiting for contact from the Ephor&#39;s Palace, you and Abby arrive at Solis Tavern, where you run into a blind wandering bard—Nestor.</p>
+<p>Having learned of the Ephor&#39;s invitation to the hunt, Nestor shares with you Augusta&#39;s stories before she rose to power.</p>
+<ul>
+<li>
+<p>Duration: Permanently available after 2025-08-14 10:00 (server time)</p>
+</li>
+<li>
+<p>Eligibility: Complete [Main Quest] Chapter II Act VII: Dreamcatchers in the Secret Gardens.</p>
+</li>
+</ul>
+<h1>New Events &amp; Gameplay Features</h1>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[Phantasma Dreamland] Echo Dreamland Leisure Event</strong></p>
+<p>During this event, Phrolova will take charge of a long-abandoned amusement park within the Somnoire, directing Echoes to keep the park running. Strategically assign Echoes to maintain the park&#39;s stability and prolong its existence.</p>
+<ul>
+<li>Duration: 2025-07-26 10:00 - 2025-08-27 11:59 (server time)</li>
+</ul>
+<p><strong>[Deep Sea Survey] Photo Collection Event</strong></p>
+<p>A total of 6 Chrono Traces are scattered throughout Fabricatorium of the Deep. Explore areas according to the clues and snap the correct photo or search the target location to complete Collection tasks and claim the rewards.</p>
+<ul>
+<li>Duration: Version 2.5 Update - 2025-08-27 03:59 (server time)</li>
+</ul>
+<p><strong>[Overflowing Picture Book] Leisure Event</strong></p>
+<p>Familiar scenes now lie faded, stripped of the colors they once held. A picture book awaits your touch to bring its hues back to life.</p>
+<ul>
+<li>Duration: 2025-08-07 04:00 - 2025-08-25 03:59 (server time)</li>
+</ul>
+<p><strong>[Wuthering Exploration] Featured Exploration Event: The Border Mountains</strong></p>
+<p>Complete Survey Tasks daily to get Survey Points and claim rewards after meeting Survey Point requirements.</p>
+<ul>
+<li>Duration: 2025-08-11 04:00 - 2025-08-25 03:59 (server time)</li>
+</ul>
+<p><strong>[Gifts of Grand Symphony] Limited-Time Login Event</strong></p>
+<p>During the event, log in daily to claim the day&#39;s login rewards.</p>
+<ul>
+<li>Duration: Version 2.5 Update - 2025-08-27 03:59 (server time)</li>
+</ul>
+<p><strong>[Updated Event]</strong></p>
+<p><strong>[Dreaming Deep] Solaris Film Festival: New Theaters—Theater 4 &#34;Ragunna&#39;s Visitor,&#34; Theater 5 &#34;The Cinema House Murders&#34;</strong></p>
+<p>Encounter a variety of events during the Solaris Film Festival. Use Film Rolls to explore stories and reach different endings!</p>
+<ul>
+<li>Duration: Version 2.5 Update - 2025-08-27 03:59 (server time)</li>
+</ul>
+<p><strong>※The previous time frame for Dreaming Deep: Solaris Film Festival was 2025-05-22 04:00 - 2025-08-01 03:59 (server time). Following this update, this event lasts until 2025-08-27 03:59 (server time).</strong></p>
+<h1>Other New Content</h1>
+<h2>Phantom Echo: Phantom - Nightmare Inferno Rider</h2>
+<h2>Sigils: Dreamland Reverie, Deep Dreams Film Festival</h2>
+<p><em>Dreamland Reverie can be obtained by participating in [Phantasma Dreamland] Echo Dreamland Leisure Event, while Deep Dreams Film Festival can be obtained by participating in [Dreaming Deep] Solaris Film Festival.</em></p>
+<p><strong>[Adjustments and Optimizations]</strong></p>
+<h1>Features</h1>
+<p>**</p>
+<h2>Team:**</h2>
+<p>Optimized the Team function</p>
+<ul>
+<li>
+<p>The number of preset teams allowed has been increased from 5 to 10.</p>
+</li>
+<li>
+<p>This optimization is applicable to all situations where the Team function is available.</p>
+</li>
+</ul>
+<h1>Leveling</h1>
+<p>**</p>
+<h2>Data Bank:**</h2>
+<p>Added Echo Management</p>
+<ul>
+<li>
+<p>This feature is accessible via Data Bank &gt; Data Merge &gt; Echo Management. It allows you to Auto-Lock or Auto-Discard Echoes according to specific management plans.</p>
+</li>
+<li>
+<p>You can create multiple management plans for Echoes based on quality, COST, Sonata Effects, and Mainstats.</p>
+</li>
+<li>
+<p>Multiple plans can be active at the same time. When a new Echo is obtained, it will automatically be locked or marked for discard according to the active plans.</p>
+</li>
+</ul>
+<p><em>If an Echo meets both lock and discard criteria, it will be locked rather than discarded.</em></p>
+<p>**</p>
+<h2>Echo Upgrade:**</h2>
+<p><strong>Added Sync Tuning</strong></p>
+<ul>
+<li>
+<p>When upgrading Echoes, you can enable the Sync Tuning option in the Auto-Select Settings.</p>
+</li>
+<li>
+<p>With this option enabled, Tuners will be added automatically to unlock Substat upon upgrading an Echo to one of the Tunable levels (5/10/15/20/25).</p>
+</li>
+<li>
+<p>If you don&#39;t have enough Tuners, the Substat will remain locked, and a prompt will appear on the screen.</p>
+</li>
+<li>
+<p>The number of added items allowed for one Echo Upgrade attempt has been increased from 20 to 50.</p>
+</li>
+</ul>
+<h1>Challenges, Puzzles, &amp; Events</h1>
+<p>**</p>
+<h2>[Dreaming Deep] Solaris Film Festival:**</h2>
+<p><strong>Upgraded Dreaming Deep</strong></p>
+<ul>
+<li>
+<p>Added Theater 4: Ragunna&#39;s Visitor and Theater 5: The Cinema House Murders.</p>
+</li>
+<li>
+<p>Added the option to clear challenges directly.</p>
+</li>
+<li>
+<p>Optimized the Map exploration experience.</p>
+</li>
+<li>
+<p>Optimized the UI visuals.</p>
+</li>
+<li>
+<p>Optimized the interaction experience.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the notice about Dreaming Deep: Solaris Film Festival.</em></p>
+<h1>Controls</h1>
+<ul>
+<li>
+<p>Added controller vibration when wireless connection is established on PC between DualSense® or DualSense Edge™ and the game.</p>
+</li>
+<li>
+<p>Adjusted controller connection priority on PC. Wired access is prioritized over wireless access when both modes of connection are present.</p>
+</li>
+</ul>
+<h1>UI</h1>
+<p>**</p>
+<h2>Nightmare Purification:**</h2>
+<p><strong>Added the Nightmare Purification entry under Recurring Challenges</strong></p>
+<ul>
+<li>
+<p>This new Recurring Challenge is accessible via Guidebook - Recurring Challenges - Nightmare Purification.</p>
+</li>
+<li>
+<p>On the Nightmare Purification screen, you can quickly access the following gameplay features: Nightmare Tacet Discords and Grim Nightmare; you can also check out how many Nightmare Tacet Discords remain to be defeated.</p>
+</li>
+<li>
+<p>Adjusted the availability of Fast Travel for certain entries under Grim Nightmare; following this adjustment, Fast Travel is available by default for Nightmare: Lampylumen Myriad and Nightmare: Kelpie.</p>
+</li>
+</ul>
+<p><em>Please note that due to the addition of Recurring Challenge: Nightmare Purification and Sonata Set: Dream of the Lost, the data on the Echo suggestion panel (accessible via Resonators &gt; Echo &gt; Suggest) will be reset following the completion of the Version 2.5 update maintenance.</em></p>
+<p>**</p>
+<h2>Co-op Mode:**</h2>
+<p><strong>Optimized the UI in Co-op mode</strong></p>
+<ul>
+<li>
+<p>If a non-host player leaves Co-op mode, a prompt will appear on the screen.</p>
+</li>
+<li>
+<p>If a player leaves a domain after completing the challenge but before claiming the rewards, a prompt will appear on the screens of the other players.</p>
+</li>
+<li>
+<p>If a player leaves a domain before the challenge is completed, a prompt will appear on the screens of the other players upon completion of the challenge.</p>
+</li>
+<li>
+<p>Added the following sub-options under the Match option when starting a challenge in Co-op mode: Find Match, Invite.</p>
+</li>
+<li>
+<p>Added the following sub-options under the Co-op Challenge option when starting a challenge in Co-op mode: Solo Challenge, Invite.</p>
+</li>
+<li>
+<p>Added more details to the prompt &#34;Target area locked,&#34; which appears when an attempt to access a currently unavailable gameplay feature is made via Guidebook.</p>
+</li>
+<li>
+<p>Adjusted the order in which Resonators are listed on the Skill Training screen (accessible via Guidebook - Path of Growth - Skill Training). Following this adjustment, when a Resonator is acquired, this Resonator will be marked and listed at the top, and they will be returned to their original slot after the corresponding Resonator Skill Tutorial is completed or upon returning to the same screen after leaving it.</p>
+</li>
+<li>
+<p>Adjusted the display of the Details screen (accessible via Convene &gt; Details). Following this adjustment, the viewing angle is adjustable.</p>
+</li>
+<li>
+<p>Adjusted the display of the Events screen. Following this adjustment, the screen displays more event entries and content under certain resolution settings.</p>
+</li>
+<li>
+<p>Adjusted the display of the Resonators screen. Following this adjustment, newly acquired Resonators are marked, both on the left side of the screen and the view-more panel.</p>
+</li>
+</ul>
+<h1>Graphics &amp; Performance</h1>
+<p>**</p>
+<h2>Graphics Settings**</h2>
+<p><strong>Made the Capsule AO option available for some iOS devices</strong></p>
+<p>The Capsule AO option is now available for the following iPhone/iPad models:</p>
+<ol>
+<li>
+<p>iPhone 12 or newer models (not including iPhone 12 mini)</p>
+</li>
+<li>
+<p>iPad 10/iPad Pro4/iPad Air4/iPad mini6 or newer models</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>If your device meets the requirements, you can enable the option via Settings &gt; Graphics &gt; Capsule AO.</p>
+</li>
+<li>
+<p>Enable this option to enjoy a better shadow quality; shadows look more realistic with this option enabled.</p>
+</li>
+<li>
+<p>Optimized the presentation of some Resonators&#39; Convene animations.</p>
+</li>
+<li>
+<p>Optimized the game&#39;s performance on mobile in certain aspects, including the lighting effects.</p>
+</li>
+</ul>
+<h1>Audio</h1>
+<h2>Skill Music:</h2>
+<p><strong>Added an On/Off option for Resonator Skill Music</strong></p>
+<ul>
+<li>
+<p>The Skill Music option is accessible via Resonators &gt; Forte (available only for certain Resonators).</p>
+</li>
+<li>
+<p>With this option disabled, no skill music will play when the Resonator casts their skills.</p>
+</li>
+<li>
+<p>Adjusted the skill music being played while multiple Resonators are on the field to make it more suitable for the situation.</p>
+</li>
+<li>
+<p>Optimized the audio that plays when enemies take hits during combat to make it more stable.</p>
+</li>
+<li>
+<p>Adjusted certain Resonators&#39; Dash/Dodge voicelines to make them more suitable for the situation.</p>
+</li>
+<li>
+<p>Optimized the listening experience when Archive of Melodies is playing at close range.</p>
+</li>
+</ul>
+<h1>Other</h1>
+<ul>
+<li>
+<p>Adjusted the text of the quest guide for Side Quest: Dream Contagion.</p>
+</li>
+<li>
+<p>Optimized the reset mechanics for certain Septimont NPCs.</p>
+</li>
+<li>
+<p>Optimized the descriptions of certain in-game settings and functions.</p>
+</li>
+</ul>
+<p><strong>[Bug Fixes]</strong></p>
+<p>**</p>
+<h2>Resonators &amp; Weapons**</h2>
+<ul>
+<li>
+<p>Fixed an issue where disabling the Wounded Effect option might fail to take effect for Resonators Lupa, Cartethyia, Ciaccona, and Zani in combat.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Lupa&#39;s character model behaved abnormally on the Overview and Weapon screens when making certain movements.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could cause Echo Skill DMG dealt by the Echo Skill of Resonator Cartethyia/Fleurdelys to become abnormal.</p>
+</li>
+<li>
+<p>Fixed an issue where the animation for Resonator Cartethyia&#39;s Resonance Liberation &#34;A Knight&#39;s Heartfelt Prayers&#34; might fail to display properly on mobile.</p>
+</li>
+<li>
+<p>Fixed an issue where the icon for Resonator Cartethyia&#39;s Resonance Liberation might be incorrect.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Cartethyia&#39;s character model behaved abnormally when performing Dodges under certain circumstances.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Cartethyia&#39;s character model behaved abnormally upon reviving after being downed during the casting of Resonance Liberation.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Cartethyia&#39;s character model jittered after making certain movements.</p>
+</li>
+<li>
+<p>Fixed an issue where the screen went white when Resonator Fleurdelys cast Resonance Liberation &#34;&#34;Blade of Howling Squall&#34;&#34; under certain Global Filters.</p>
+</li>
+<li>
+<p>Fixed an issue where zooming in or out on mobile might cause Resonator Ciaccona&#39;s weapon model to behave abnormally when the Resonator was making certain movements.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Ciaccona&#39;s character model on the Overview screen behaved abnormally when making certain movements.</p>
+</li>
+<li>
+<p>Fixed an issue where the casting of Echo Skill &#34;Bell-Borne Geochelone&#34; or Echo Skill &#34;Mech Abomination&#34; by certain Resonators failed to trigger the effects of Resonator Cantarella&#39;s Forte Circuit &#34;Abyssal Rebirth.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where the lighting effects in Resonator Phoebe&#39;s Convene animation failed to display properly.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Roccia&#39;s Resonance Skill &#34;Acrobatic Trick&#34; and her Magic Box could not pull in the enemy &#34;Devotee&#39;s Flesh.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where players were not directed to the right screen when they tried to obtain Resonator Sanhua&#39;s Outfit &#34;Exorcistic Adjuration.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where the environment dimmed when certain Resonators cast certain skills in some parts of the Rinascita - Septimont - Mournfell Canyon area.</p>
+</li>
+<li>
+<p>Fixed an issue where text unexpectedly appeared in certain areas of the Forte screen (accessible via Resonators &gt; Forte).</p>
+</li>
+<li>
+<p>Fixed an issue where the Fallen voicelines that play when a Resonator is downed might be cut short.</p>
+</li>
+</ul>
+<h2><strong>Enemies &amp; Echoes</strong></h2>
+<ul>
+<li>
+<p>Fixed an issue where the Vibration Strength of certain enemies could not be reduced by Negative Statuses.</p>
+</li>
+<li>
+<p>Fixed an issue where it was impossible to remove the Tracking icon that appeared after the tracking of Nightmare: Kelpie was initiated via Exploration Progress.</p>
+</li>
+<li>
+<p>Fixed an issue where the Vibration Strength of Lev. 120 enemy &#34;Sinister Lurkers&#34; in the Rinascita - Septimont - Mournfell Canyon area was not displayed.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Features**</h2>
+<ul>
+<li>
+<p>Fixed an issue where selecting Ultra Performance for Graphics Quality on mobile could cause NPC models or enemy models to behave abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue in Co-op mode where 2P Rover and 3P Rover could not give input upon joining in certain quests or challenges that 1P Rover was currently playing.</p>
+</li>
+<li>
+<p>Fixed an issue where Hero&#39;s Slash could not be played after exiting Co-op mode.</p>
+</li>
+<li>
+<p>Fixed an issue in Co-op mode where the item &#34;Torn Pages from Avinoleum&#34; could be picked up by a non-1P Rover. If the item has been picked up by other Rovers, you can go to Avinoleum in the Rinascita region again following the Version 2.5 update, and the item will be reissued to your Backpack.</p>
+</li>
+<li>
+<p>Fixed an issue where the Archive of Melodies entry &#34;Ode to the Nameless Martyr&#34; could not be unlocked.</p>
+</li>
+<li>
+<p>Fixed an issue where the range within which the music in Archive of Melodies could be played was incorrect.</p>
+</li>
+<li>
+<p>Fixed an issue where the descriptions of certain &#34;Footprints in Rinascita III&#34; Trophies contained textual errors.</p>
+</li>
+<li>
+<p>Fixed an issue where duplicated content appeared in certain texts of Gallery - Main Story - Main Quests.</p>
+</li>
+<li>
+<p>Fixed an issue where highlights were not present in the instructional text for Cartethyia&#39;s Skill Tutorial.</p>
+</li>
+<li>
+<p>Fixed an issue where the Treasure Spot icon was pointing in the incorrect direction when tracking certain Treasure Spots in the Rinascita - Septimont area.</p>
+</li>
+<li>
+<p>Fixed an issue where the prompt &#34;Target area locked&#34; appeared when an attempt was made to track a target on the map.</p>
+</li>
+<li>
+<p>Fixed an issue where unlocked Resonance Beacons might be marked as locked on the Mini Map in the top left corner of the screen.</p>
+</li>
+<li>
+<p>Fixed an issue where certain audio was missing on iOS devices.</p>
+</li>
+<li>
+<p>Fixed an issue on PS5 where the Interactive Environment option appeared in the Graphics settings (accessible via Settings &gt; Graphics).</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Challenges, Puzzles, &amp; Events**</h2>
+<ul>
+<li>
+<p>Fixed an issue in the &#34;All Out! Towards the Peaks of Prestige&#34; event where the Echo &#34;Feilian Beringal&#34; could perform Mid-air Attacks in combat.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;All Out! Towards the Peaks of Prestige&#34; event where certain tutorial instructions could not be triggered.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;All Out! Towards the Peaks of Prestige&#34; event where the viewing angle could not be adjusted upon checking out the opponent&#39;s Deck when using a Controller.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;All Out! Towards the Peaks of Prestige&#34; event where certain player actions could cause the current deck to display abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue in Solaris New Voyage Celebration where a prompt appeared asking players to select a preferred 5-Star Resonator after logging in to their account on another device, despite having already made the selection.</p>
+</li>
+<li>
+<p>Fixed an issue where completing the &#34;Banners Never Fall&#34; event failed to reset some enemies in the Rinascita - Septimont area.</p>
+</li>
+<li>
+<p>Fixed an issue in Tactical Hologram: Phantom Pain - Fleurdelys where Special Mechanism &#34;Ripple&#34; did not take effect in Difficulty IV, Difficulty V, and Difficulty VI.</p>
+</li>
+<li>
+<p>Fixed an issue where the entries for some of the Echoes rewarded for clearing the Mournfell Canyon Tacet Field for the first time were incorrect.</p>
+</li>
+<li>
+<p>Fixed an issue in Underground Flight Challenge where the Supply Chest that appears upon completion of the challenge floated in mid-air.</p>
+</li>
+<li>
+<p>Fixed an issue where the camerawork and special effects displayed abnormally when steering an Echo Train.</p>
+</li>
+<li>
+<p>Fixed an issue in Tactical Hologram: Vitreum Dancer where the camerawork did not work properly upon starting certain challenges.</p>
+</li>
+<li>
+<p>Fixed an issue where interacting with Viewpoints in Huanglong failed to bring up photos.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Quests**</h2>
+<ul>
+<li>
+<p>Fixed an issue in Main Quest &#34;Shadow of Glory&#34; where the special effects involving open books might be missing during the objective &#34;Proceed.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in Main Quest &#34;The Maiden, The Defier, The Death Crier&#34; where the Trial Resonator might not join the team, preventing quest progression.</p>
+</li>
+<li>
+<p>Fixed an issue where the level limit for the unlocking of Tutorial Quest &#34;Banners Never Fall&#34; did not take effect. The lowest level required to unlock this quest will be 35 in Version 2.5. If you&#39;ve already unlocked this quest, it will remain unlocked after Version 2.5 goes live.</p>
+</li>
+<li>
+<p>Fixed an issue where some characters could move outside the bounds of the Map in certain parts of the Border Mountains after Exploration Quest &#34;Where Sky is Clear and Glory Shines: Trial Grounds&#34; was completed.</p>
+</li>
+<li>
+<p>Fixed an issue in Exploration Quest &#34;Flames in the Deep&#34; where certain player actions might prevent quest progression upon completing the current objective.</p>
+</li>
+<li>
+<p>Fixed an issue where entering the Huanglong - Sea of Flames area after Exploration Quest &#34;We Promise, We Deliver&#34; was completed could cause temporary abnormalities in the area&#39;s lighting effects.</p>
+</li>
+<li>
+<p>Fixed an issue where the Standard Supply Chest rewarded for completing Side Quest &#34;Plushie Squad&#39;s Clean Return&#34; would disappear if unclaimed. If you encounter this issue, the rewards contained in the Standard Supply Chest will be reissued within 7 working days of Version 2.5 going live.</p>
+</li>
+<li>
+<p>Fixed an issue where a wrong image might be used for the item &#34;Above the Stars,&#34; rewarded for completing Side Quest &#34;The Adventures of Plushie Squad.&#34; Following the Version 2.5 update, some items might be somewhat different based on which Rover you are playing.</p>
+</li>
+<li>
+<p>Fixed an issue where gameplay features available in Side Quest &#34;Quest of Faith&#34; remained viewable in some locations after its completion.</p>
+</li>
+<li>
+<p>Fixed an issue in Side Quest &#34;Quest of Faith&#34; where Fae Ignis&#39;s attack might fail to ignite the torches during the objective &#34;Use Fae Ignis&#39;s attack to ignite the torches,&#34; preventing quest progression.</p>
+</li>
+<li>
+<p>Fixed an issue where the text that accompanied Side Quest: Uncovering Past Heroes contained errors.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Environment**</h2>
+<ul>
+<li>
+<p>Fixed an issue where distant objects remained blurry and the lighting effects remained off on some PC and mobile devices when higher graphics settings were selected.</p>
+</li>
+<li>
+<p>Fixed an issue where smashing Amber Halite to obtain it was impossible under certain circumstances in the Rinascita - Septimont area.</p>
+</li>
+<li>
+<p>Fixed an issue where switching ambient sounds failed to switch under certain circumstances in the Rinascita - Septimont area.</p>
+</li>
+<li>
+<p>Fixed an issue where the sound effects for certain mechanisms in the Rinascita - Septimont area were too loud when triggered from a distance.</p>
+</li>
+<li>
+<p>Fixed an issue where certain NPC models in the Rinascita - Septimont area floated in mid-air.</p>
+</li>
+<li>
+<p>Fixed an issue where the lighting effects for certain stretches of the Septimont&#39;s coastline appeared abnormal.</p>
+</li>
+<li>
+<p>Fixed an issue where certain NPC models in the Rinascita - Whisperwind Haven area behaved abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue where interacting with certain Gondola Platforms in the Rinascita - Avinoleum area might cause characters to fall.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-07-23T17:07:00+00:00</published>
+                    <updated>2025-07-23T17:07:00+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
                     <id>urn:article:2963</id>
                     <title>Resonator Review | Stage in the Box — Roccia</title>
                     <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2963" rel="alternate" type="text/html"/>
@@ -654,48 +1183,6 @@
 </ul>]]></content>
                     <published>2025-06-25T17:05:00+00:00</published>
                     <updated>2025-06-25T17:05:00+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2826</id>
-                    <title>[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2826" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750176000000/qpg3znnft2ghkowxwh-1750214997294.jpg" /></p>
-<p>Tethys&#39;s crisis simulation program is getting an upgrade. With newly gathered data from the Black Shores and Rinascita, even harsher scenarios now await those who dare to face the challenge…</p>
-<h1>Duration</h1>
-<p>2025-06-19 10:00 - 2025-07-23 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x500, Virtual Vanquisher (Title) x1, Premium Tuner x200, Advanced Resonance Potion x25, Advanced Sealed Tube x20, Shell Credit x500000, and other Materials.</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 30.</p>
-<h1>Event Rules</h1>
-<ul>
-<li>
-<p>As a member of the Black Shores, take on Crisis Trial challenges and Disaster Trial high-difficulty challenges under various combinations of Stress Modules.</p>
-</li>
-<li>
-<p>In Crisis Trials, select a Stress Level for each trial. The Stress Level must meet the requirements to complete the trial. Each trial has a default Stress Module. Support Modules are available to lower the trial&#39;s difficulty. After completing a Crisis Trial, the corresponding Disaster Trial along with its Stress Module and Support Module will be unlocked.</p>
-</li>
-<li>
-<p>Disaster Trials have no required Stress Level. Participating in a Disaster Trial will consume Support Modules, so select them carefully in advance.</p>
-</li>
-<li>
-<p>Obtain Matrix Crystals by achieving Challenge Objectives in the Crisis and Disaster Trials. Matrix Crystals can be exchanged for rewards at the Supply Station. The Supply Station closes when this event ends. Please exchange your Matrix Crystals in time.</p>
-</li>
-<li>
-<p>Completing certain Stress Level challenges in Disaster Trials will grant an event-exclusive Title &#34;&#34;Virtual Vanquisher.&#34;&#34;</p>
-</li>
-</ul>
-<p><em>Certain high-difficulty Stress Modules can only be unlocked after clearing a Disaster Trial. Warning: Equipping too many Stress Modules may make the trial excessively challenging.</em></p>
-<p><em>If a participant is downed in a trial, they can consume Stress Levels to revive. This also gives a corresponding buff. Please note that consuming Stress Levels will affect the completion and final result of Challenge Goals.</em></p>]]></content>
-                    <published>2025-06-18T10:50:17+00:00</published>
-                    <updated>2025-06-18T10:50:17+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
