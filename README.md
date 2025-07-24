@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [V2.5 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/2989) [[json]](articles/2989.json)
 - [Wuthering Waves Fan Creation Event "Unfading Melody of Life" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/2981) [[json]](articles/2981.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/2967) [[json]](articles/2967.json)
 - [Patch Notes for Version 2.5: Unfading Melody of Life](https://wutheringwaves.kurogames.com/en/main/news/detail/2966) [[json]](articles/2966.json)
