@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-07-24T17:05:01+00:00</updated>
+    <updated>2025-07-25T11:22:15+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,27 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2991</id>
+                    <title>Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2991" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<h1>Duration</h1>
+<p>2025-07-26 10:00 - 2025-08-27 11:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x1200, Sigil: Dreamland Reverie, Phantom: Nightmare Inferno Rider, Modifier, Premium Tuner, Forgery Premium Supply, Shell Credit and other Materials.</p>
+<h1>As a Permanent Event</h1>
+<p>This event offers two types of rewards: Limited-time Rewards and Standard Rewards. When the initial period ends, the event will continue as a Permanent Event. The Limited-time Rewards will no longer be available when the event becomes a Permanent Event. You can participate in the Permanent Event to win Standard Rewards.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/y883l2jimaybshrzfl-1753413431757.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/c05frzeyrpxuw1ulzj-1753413672090.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/vtb1pmitk1vd7we21z-1753413684479.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/3j329u76hmtv0nq8f6-1753413699086.jpg" /></p>]]></content>
+                    <published>2025-07-25T11:22:15+00:00</published>
+                    <updated>2025-07-25T11:22:15+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2989</id>
                     <title>V2.5 Wuthering Waves Battle Rush</title>
@@ -1219,24 +1240,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/qudpw2lcieicwoi2p8-1751279020647.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/g41bqmsa5inybwvfs1-1751279031836.jpg" /></p>]]></content>
                     <published>2025-06-30T15:21:31+00:00</published>
                     <updated>2025-06-30T15:21:31+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2856</id>
-                    <title>Profile Reveal | Howling Flame—Lupa</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2856" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
-<h1>Lupa</h1>
-<p>A Gladiator of Septimont, a radiant star of the arena.</p>
-<p>Fiery and straightforward, Lupa lives like a wild lone wolf. As long as she can savor the adrenaline rush of battle, she doesn&#39;t mind if that same fire ends up consuming her whole.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/gra0unjepytxa3qua7-1751019170930.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/20rhs3dfrcezzzz4ql-1751019384910.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/s6iqnjlow2lykgq0sa-1751019406601.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/6edauzua3kanzmd7qy-1751019429196.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/6skh7609byx9tdcwri-1751019453341.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/u7bwwlr374nsi15t74-1751019575832.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/8y701bttt3adzeqwpk-1751019621948.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/dttgbxjtmq4zmmv11f-1751019652127.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1750953600000/bo1w3gi7urravoiepu-1751019672109.jpg" /></p>]]></content>
-                    <published>2025-06-27T18:13:36+00:00</published>
-                    <updated>2025-06-27T18:13:36+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
