@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Enemies — Fenrico](https://wutheringwaves.kurogames.com/en/main/news/detail/2992) [[json]](articles/2992.json)
 - [Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2991) [[json]](articles/2991.json)
 - [V2.5 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/2989) [[json]](articles/2989.json)
 - [Wuthering Waves Fan Creation Event "Unfading Melody of Life" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/2981) [[json]](articles/2981.json)

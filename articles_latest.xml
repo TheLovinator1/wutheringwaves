@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-07-25T11:22:15+00:00</updated>
+    <updated>2025-07-25T15:03:06+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:2992</id>
+                    <title>Post-Lament Anthropocene: Enemies — Fenrico</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2992" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Their grace and divine prophecy have descended, and the faceless Harbinger now stands before the gate.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/1v658ml6v3i7pdwyij-1753426779130.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/ci1tdcesjrhqkzrn86-1753426801042.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/ctxfct9oy26zy2v9zl-1753426822197.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/l7v17vvr950b5xggxs-1753426870265.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/0ndq1rdm8i05n552mm-1753426877989.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/eukwz31253qg6nxw63-1753426890629.gif" /></p>]]></content>
+                    <published>2025-07-25T15:03:06+00:00</published>
+                    <updated>2025-07-25T15:03:06+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2991</id>
                     <title>Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event</title>
@@ -1224,22 +1240,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-07-02T12:04:07+00:00</published>
                     <updated>2025-07-02T12:04:07+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2861</id>
-                    <title>Upcoming Events in Wuthering Waves Version 2.4</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2861" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.4. Don&#39;t miss out!</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/qudpw2lcieicwoi2p8-1751279020647.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751212800000/g41bqmsa5inybwvfs1-1751279031836.jpg" /></p>]]></content>
-                    <published>2025-06-30T15:21:31+00:00</published>
-                    <updated>2025-06-30T15:21:31+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
