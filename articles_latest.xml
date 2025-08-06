@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-07-25T15:03:06+00:00</updated>
+    <updated>2025-08-06T11:02:32+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,30 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3002</id>
+                    <title>[Overflowing Picture Book] Leisure Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3002" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1754409600000/o96wn3xfbd0kh5f562-1754449334698.jpg" /></p>
+<p>Familiar scenes now lie faded, stripped of the colors they once held. A picture book awaits your touch to bring its hues back to life.</p>
+<h1>Duration</h1>
+<p>2025-08-07 04:00 - 2025-08-25 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Premium Resonance Potion x12, Premium Energy Core x8, Premium Sealed Tube x8, Forgery Advanced Supply x21, Advanced Enclosure Tank x42, Shell Credit x560000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and complete Chapter II Prologue to unlock.</p>
+<h1>Event Rules</h1>
+<p>A new set of stages unlocks each day in this event, each offering three levels of difficulty: Easy, Normal, and Difficult. Complete a stage to earn rewards. Levels of higher difficulties will unlock once the previous ones are cleared. Solve the puzzle of colors to claim your rewards!</p>]]></content>
+                    <published>2025-08-06T11:02:32+00:00</published>
+                    <updated>2025-08-06T11:02:32+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:2992</id>
                     <title>Post-Lament Anthropocene: Enemies — Fenrico</title>
@@ -1202,44 +1226,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-07-02T12:08:57+00:00</published>
                     <updated>2025-07-02T12:08:57+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2867</id>
-                    <title>[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2867" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751385600000/uim4gaz6v5fo924vsp-1751429032404.jpg" />During the event, 5-Star Resonator: Lupa, 4-Star Resonators: Sanhua, Taoqi and Chixia receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2025-07-03 10:00 - 2025-07-23 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Roar of Triumph] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Lupa is exclusive to the [Roar of Triumph] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Lupa&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-07-02T12:04:07+00:00</published>
-                    <updated>2025-07-02T12:04:07+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
