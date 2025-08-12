@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-06T11:02:32+00:00</updated>
+    <updated>2025-08-12T11:37:51+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3012</id>
+                    <title>Upcoming Events in Wuthering Waves Version 2.5</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3012" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.5. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1754928000000/jbpp2kvcaa07hnkvlq-1754969811531.jpg" /></p>]]></content>
+                    <published>2025-08-12T11:37:51+00:00</published>
+                    <updated>2025-08-12T11:37:51+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3002</id>
                     <title>[Overflowing Picture Book] Leisure Event</title>
@@ -1188,44 +1204,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/p8jn7s3gxuk5ufm0sz-1751941625210.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/a3q3iw2vodyx4yajl2-1751941655344.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/oumlai5u5h3ulw4aw9-1751941671737.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/or2yjl352m0iv5fpdr-1751941697686.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/lzemjtw3jr8m297363-1751941737351.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/9720xqi0yki88so01s-1751941754755.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/r0ro5vy5gj1l8mtyc7-1751941775167.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/bfl56d04v3hnogdf6p-1751941795881.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/qiqllwrr21hviqv6a4-1751941817193.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/w4h3m2u7tukuf9nyo2-1751941834443.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/xvzk63krzxcnou4mda-1751941886661.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/ka24wqx8w79cds41sq-1751941933226.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751904000000/pyikgkzpxcafmycsnf-1751941948516.png" /></p>]]></content>
                     <published>2025-07-08T10:34:03+00:00</published>
                     <updated>2025-07-08T10:34:03+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2874</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2874" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1751385600000/5nrz6y9bzsy0tyxsg7-1751429321336.jpg" />During the event, 5-Star Weapon: Wildfire Mark, 4-Star Weapons: Helios Cleaver, Commando of Conviction, and Jinzhou Keeper receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2025-07-03 10:00 - 2025-07-23 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Wildfire Mark.</p>
-</li>
-<li>
-<p>Featured Weapon Wildfire Mark is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-07-02T12:08:57+00:00</published>
-                    <updated>2025-07-02T12:08:57+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

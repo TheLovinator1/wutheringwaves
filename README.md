@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Upcoming Events in Wuthering Waves Version 2.5](https://wutheringwaves.kurogames.com/en/main/news/detail/3012) [[json]](articles/3012.json)
 - [[Overflowing Picture Book] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3002) [[json]](articles/3002.json)
 - [Post-Lament Anthropocene: Enemies — Fenrico](https://wutheringwaves.kurogames.com/en/main/news/detail/2992) [[json]](articles/2992.json)
 - [Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/2991) [[json]](articles/2991.json)

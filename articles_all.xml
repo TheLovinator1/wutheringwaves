@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-06T11:02:32+00:00</updated>
+    <updated>2025-08-12T11:37:51+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3012</id>
+                    <title>Upcoming Events in Wuthering Waves Version 2.5</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3012" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.5. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1754928000000/jbpp2kvcaa07hnkvlq-1754969811531.jpg" /></p>]]></content>
+                    <published>2025-08-12T11:37:51+00:00</published>
+                    <updated>2025-08-12T11:37:51+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3002</id>
                     <title>[Overflowing Picture Book] Leisure Event</title>
