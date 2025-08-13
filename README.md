@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor](https://wutheringwaves.kurogames.com/en/main/news/detail/3042) [[json]](articles/3042.json)
+- [[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant](https://wutheringwaves.kurogames.com/en/main/news/detail/3035) [[json]](articles/3035.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens](https://wutheringwaves.kurogames.com/en/main/news/detail/3025) [[json]](articles/3025.json)
+- [[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella](https://wutheringwaves.kurogames.com/en/main/news/detail/3017) [[json]](articles/3017.json)
 - [Upcoming Events in Wuthering Waves Version 2.5](https://wutheringwaves.kurogames.com/en/main/news/detail/3012) [[json]](articles/3012.json)
 - [[Overflowing Picture Book] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3002) [[json]](articles/3002.json)
 - [Post-Lament Anthropocene: Enemies — Fenrico](https://wutheringwaves.kurogames.com/en/main/news/detail/2992) [[json]](articles/2992.json)
