@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-13T15:38:31+00:00</updated>
+    <updated>2025-08-13T15:43:37+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3050</id>
+                    <title>Resonator Review | Sea of Dreams—Cantarella</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3050" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>The [Neptune&#39;s Lullaby] Featured Resonator Convene will become available soon. Here&#39;s a recap of what we know about Resonator Cantarella.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/4igo0cz3c429na0hdc-1755070885830.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/i42qwwfxe8ft1ykl2v-1755070978075.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/13ej40x4ps0rphfd6y-1755071000312.jpg" /></p>]]></content>
+                    <published>2025-08-13T15:43:37+00:00</published>
+                    <updated>2025-08-13T15:43:37+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3049</id>
                     <title>Resonator Review | Flamebound Compass—Brant</title>
