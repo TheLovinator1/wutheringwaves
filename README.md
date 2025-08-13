@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Flamebound Compass—Brant](https://wutheringwaves.kurogames.com/en/main/news/detail/3049) [[json]](articles/3049.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor](https://wutheringwaves.kurogames.com/en/main/news/detail/3042) [[json]](articles/3042.json)
 - [[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant](https://wutheringwaves.kurogames.com/en/main/news/detail/3035) [[json]](articles/3035.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens](https://wutheringwaves.kurogames.com/en/main/news/detail/3025) [[json]](articles/3025.json)

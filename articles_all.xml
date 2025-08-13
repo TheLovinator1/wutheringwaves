@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-13T11:12:33+00:00</updated>
+    <updated>2025-08-13T15:38:31+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3049</id>
+                    <title>Resonator Review | Flamebound Compass—Brant</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3049" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>The [Blaze Across the Deep] Featured Resonator Convene will become available soon. Here&#39;s a recap of what we know about Resonator Brant.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/ouru58qizollsv5lkp-1755070688046.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/xfz7cgvgcp9dr4zksb-1755070659604.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/eiu032wah9zuienrhz-1755070674955.jpg" /></p>]]></content>
+                    <published>2025-08-13T15:38:31+00:00</published>
+                    <updated>2025-08-13T15:38:31+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3042</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor</title>
