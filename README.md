@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Preview | Version 2.6](https://wutheringwaves.kurogames.com/en/main/news/detail/3070) [[json]](articles/3070.json)
 - [Resonator Review | Sea of Dreams—Cantarella](https://wutheringwaves.kurogames.com/en/main/news/detail/3050) [[json]](articles/3050.json)
 - [Resonator Review | Flamebound Compass—Brant](https://wutheringwaves.kurogames.com/en/main/news/detail/3049) [[json]](articles/3049.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor](https://wutheringwaves.kurogames.com/en/main/news/detail/3042) [[json]](articles/3042.json)

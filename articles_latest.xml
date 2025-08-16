@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-13T15:43:37+00:00</updated>
+    <updated>2025-08-16T14:04:37+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3070</id>
+                    <title>Wuthering Waves Version Preview | Version 2.6</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3070" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Version Preview | Version 2.6 &#34;By Sun&#39;s Scourge, By Moon&#39;s Revelation&#34; Scheduled for Release on August 28th (UTC+8)</p>
+<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates by clicking the image below!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/f11t6gve87gpx2kfvp-1755324158145.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/ml2cjrxzpv6e70qkz6-1755324182807.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/o3s4on2wk69lef2hdu-1755324198040.jpg" /></p>]]></content>
+                    <published>2025-08-16T14:04:37+00:00</published>
+                    <updated>2025-08-16T14:04:37+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3050</id>
                     <title>Resonator Review | Sea of Dreams—Cantarella</title>
@@ -1155,21 +1172,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-07-23T10:04:58+00:00</published>
                     <updated>2025-07-23T10:04:58+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2927</id>
-                    <title>Wuthering Waves Update Content | Version 2.5 &#34;Unfading Melody of Life&#34; Planned for Release on July 24 (UTC+8)</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2927" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753113600000/rw4zzvpvbuz7t4ct9x-1753158484131.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753113600000/wh2s7i4tjzuf6c5zm7-1753158495009.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753113600000/9vw1dmazk2l3tddvi3-1753158498344.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753113600000/7iz3pd41io0viet7vn-1753158498629.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753113600000/pfgdytzc3zmy9gyxz9-1753158496938.jpg" /></p>]]></content>
-                    <published>2025-07-22T12:30:06+00:00</published>
-                    <updated>2025-07-22T12:30:06+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
