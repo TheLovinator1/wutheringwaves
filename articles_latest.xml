@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-16T14:04:37+00:00</updated>
+    <updated>2025-08-16T14:07:58+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3071</id>
+                    <title>Post-Lament Anthropocene: Enemies — Lady of the Sea</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3071" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A being slumbering beneath the ocean, the ashen remains of a glory long burned out.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/4hlruj7rmlr3cbshfz-1755324365111.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/8bv7g5qk604q3k8gsn-1755324380346.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/ed2sgjpwakcrtygd7g-1755324401478.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/ttresidgdirchoskka-1755324416534.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/mywhfvcm0c5hty30cc-1755324429979.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755273600000/2yyq34chtk0pata96u-1755324442463.gif" /></p>]]></content>
+                    <published>2025-08-16T14:07:58+00:00</published>
+                    <updated>2025-08-16T14:07:58+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3070</id>
                     <title>Wuthering Waves Version Preview | Version 2.6</title>
@@ -1133,45 +1149,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-07-23T10:10:50+00:00</published>
                     <updated>2025-07-23T10:10:50+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2936</id>
-                    <title>[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2936" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753200000000/svb0qcym9svysr7mj4-1753236272113.jpg" /></p>
-<p>During the event, 5-Star Resonator: Phrolova, 4-Star Resonators: Taoqi, Lumi, and Yuanwu receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.5 update - 2025-08-14 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Requiem Without End] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Phrolova is exclusive to the [Requiem Without End] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Phrolova&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-07-23T10:04:58+00:00</published>
-                    <updated>2025-07-23T10:04:58+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
