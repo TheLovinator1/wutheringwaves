@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3078) [[json]](articles/3078.json)
 - [Post-Lament Anthropocene: Enemies — Lady of the Sea](https://wutheringwaves.kurogames.com/en/main/news/detail/3071) [[json]](articles/3071.json)
 - [Wuthering Waves Version Preview | Version 2.6](https://wutheringwaves.kurogames.com/en/main/news/detail/3070) [[json]](articles/3070.json)
 - [Resonator Review | Sea of Dreams—Cantarella](https://wutheringwaves.kurogames.com/en/main/news/detail/3050) [[json]](articles/3050.json)
