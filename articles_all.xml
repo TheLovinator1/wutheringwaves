@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-18T10:27:08+00:00</updated>
+    <updated>2025-08-18T10:37:23+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3088</id>
+                    <title>[Fantasies of the Thousand Gateways] Maintenance Notice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3088" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/00mx8veujpbjx20hrc-1755484619962.jpg" /></p>
+<p>Dear Rovers,</p>
+<p>To bring you a better experience in &#34;&#34;Fantasies of the Thousand Gateways,&#34;&#34; scheduled maintenance of the event will be conducted in Version 2.6. Please note that access to the event will be closed for the duration of the maintenance. We sincerely apologize for any inconvenience you may experience.</p>
+<p>During the maintenance, the rewards that would normally be obtainable from &#34;&#34;Fantasies of the Thousand Gateways&#34;&#34; over the corresponding period will be issued to the in-game mailboxes of eligible Rovers. The details are as follows:</p>
+<ul>
+<li>
+<p>Maintenance Period: 2025-08-25 04:00 - 2025-09-01 04:00 (server time)</p>
+</li>
+<li>
+<p>Rewards Reissued: Astrite x160, Advanced Sealed Tube x5, Advanced Resonance Potion x5, Shell Credit x60000</p>
+</li>
+<li>
+<p>Mail Reception Period: 2025-08-25 04:00 - 2025-09-01 04:00 (server time)</p>
+</li>
+<li>
+<p>Eligibility: Reach Union Level 30 before the maintenance period ends. The mail containing the reissued rewards will remain valid for 30 days hence.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-08-18T10:37:23+00:00</published>
+                    <updated>2025-08-18T10:37:23+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3078</id>
                     <title>[Bountiful Crescendo] Limited-Time Material Double Drop Event</title>

@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Fantasies of the Thousand Gateways] Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3088) [[json]](articles/3088.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3078) [[json]](articles/3078.json)
 - [Wuthering Waves Version 2.6 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3075) [[json]](articles/3075.json)
 - [Post-Lament Anthropocene: Enemies — Lady of the Sea](https://wutheringwaves.kurogames.com/en/main/news/detail/3071) [[json]](articles/3071.json)
