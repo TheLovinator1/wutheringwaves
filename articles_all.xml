@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-18T10:37:23+00:00</updated>
+    <updated>2025-08-18T19:07:08+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3095</id>
+                    <title>Post-Lament Anthropocene: Weapons — Hunter&#39;s Growl</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3095" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A weapon awarded to Gladiators of exceptional merit. It&#39;s an embodiment of glory, and a powerful deterrent against the Dark Tide on the hunting grounds.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/25wblus9sipi1iilxs-1755515110004.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/cihz1yydbpid8if7t8-1755515167164.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/ukorex99v6q1t4ocjb-1755515167234.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/19ocoiejm0683yr5h6-1755515167239.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/kh5x4u6sizwhhi07sj-1755515167256.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755446400000/aiz79na9g6u19408bc-1755515167252.jpg" /></p>]]></content>
+                    <published>2025-08-18T19:07:08+00:00</published>
+                    <updated>2025-08-18T19:07:08+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3088</id>
                     <title>[Fantasies of the Thousand Gateways] Maintenance Notice</title>
