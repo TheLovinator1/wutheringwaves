@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-18T19:07:08+00:00</updated>
+    <updated>2025-08-20T11:49:00+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3103</id>
+                    <title>New Area Preview | Sanguis Plateaus, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3103" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755619200000/52igzzwv4fl6rgwe5f-1755661674442.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755619200000/cpmdc4nrbbsg2oievg-1755661704692.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755619200000/uxt88as4d5c5spu070-1755661720974.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755619200000/6ufcy393ut8oignni4-1755661556246.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755619200000/bx6qj5h809fmvqlwy2-1755661558703.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755619200000/ykfb8nq44gvccie8fy-1755661638560.gif" /></p>]]></content>
+                    <published>2025-08-20T11:49:00+00:00</published>
+                    <updated>2025-08-20T11:49:00+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3095</id>
                     <title>Post-Lament Anthropocene: Weapons — Hunter&#39;s Growl</title>

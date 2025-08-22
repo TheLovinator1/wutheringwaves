@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [New Area Preview | Sanguis Plateaus, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3103) [[json]](articles/3103.json)
 - [Post-Lament Anthropocene: Weapons — Hunter's Growl](https://wutheringwaves.kurogames.com/en/main/news/detail/3095) [[json]](articles/3095.json)
 - [[Fantasies of the Thousand Gateways] Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3088) [[json]](articles/3088.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3078) [[json]](articles/3078.json)
