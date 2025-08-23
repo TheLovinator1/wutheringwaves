@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-20T11:49:00+00:00</updated>
+    <updated>2025-08-22T19:22:26+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3115</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Augusta</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3115" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;I am Augusta, Ephor of Septimont. Etch this name into your memory—it belongs to the one who stands above, and whose mark will never fade. Whether we meet as foes or friends, my sword and I await the fierce fight between us.&#34;—Augusta</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/0ffgrfge5a4160x1ux-1755861378354.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/hepqxs9zfnaup9aomf-1755861400481.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/r8fl59pq1qgx7lbp9c-1755861479107.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/xa7kg04pndjz1u88wg-1755861496659.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/6mplgb45d0u224c8k4-1755861523641.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/y0muuidtlxubirtrc5-1755861540437.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/ot5w43r114qy79bxgd-1755861578372.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/m8gud5oleve6fh98ri-1755861593249.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/ogo58phssy3w9v385a-1755861605066.jpg" /></p>]]></content>
+                    <published>2025-08-22T19:22:26+00:00</published>
+                    <updated>2025-08-22T19:22:26+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3103</id>
                     <title>New Area Preview | Sanguis Plateaus, Coming Soon!</title>
