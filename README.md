@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Magnetism Before Light—Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3120) [[json]](articles/3120.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3115) [[json]](articles/3115.json)
 - [New Area Preview | Sanguis Plateaus, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3103) [[json]](articles/3103.json)
 - [Post-Lament Anthropocene: Weapons — Hunter's Growl](https://wutheringwaves.kurogames.com/en/main/news/detail/3095) [[json]](articles/3095.json)
