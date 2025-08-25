@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Update Content | Version 2.6 "By Sun's Scourge, By Moon's Revelation" Planned for Release on August 28 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3128) [[json]](articles/3128.json)
 - [Profile Reveal | Magnetism Before Light—Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3120) [[json]](articles/3120.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3115) [[json]](articles/3115.json)
 - [New Area Preview | Sanguis Plateaus, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3103) [[json]](articles/3103.json)

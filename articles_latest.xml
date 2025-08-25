@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-23T00:32:25+00:00</updated>
+    <updated>2025-08-25T16:51:47+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3128</id>
+                    <title>Wuthering Waves Update Content | Version 2.6 &#34;By Sun&#39;s Scourge, By Moon&#39;s Revelation&#34; Planned for Release on August 28 (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3128" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756051200000/c54af7aa117p5wgavr-1756111615664.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756051200000/nhnj6yu23vyejiqo3x-1756111631600.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756051200000/nhwykunzkzrcj0x51q-1756111716635.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756051200000/wbqpstp6wlk5f1y1k2-1756111732343.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756051200000/77vnbwwl21viakyo70-1756111776138.jpg" /></p>]]></content>
+                    <published>2025-08-25T16:51:47+00:00</published>
+                    <updated>2025-08-25T16:51:47+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3120</id>
                     <title>Profile Reveal | Magnetism Before Light—Augusta</title>
@@ -560,63 +575,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/y883l2jimaybshrzfl-1753413431757.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/c05frzeyrpxuw1ulzj-1753413672090.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/vtb1pmitk1vd7we21z-1753413684479.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/3j329u76hmtv0nq8f6-1753413699086.jpg" /></p>]]></content>
                     <published>2025-07-25T11:22:15+00:00</published>
                     <updated>2025-07-25T11:22:15+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2989</id>
-                    <title>V2.5 Wuthering Waves Battle Rush</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2989" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753286400000/in7yz392tirabc2xgs-1753347843208.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
-<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own combat video featuring Wuthering Waves.</p>
-<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
-<p><strong>How to Submit</strong></p>
-<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
-<p><strong>Submission Period</strong></p>
-<p>2025/07/24 - 2025/08/20 (PT)</p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
-                    <published>2025-07-24T17:05:01+00:00</published>
-                    <updated>2025-07-24T17:05:01+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
