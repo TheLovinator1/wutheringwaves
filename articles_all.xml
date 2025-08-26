@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-25T16:51:47+00:00</updated>
+    <updated>2025-08-26T14:15:24+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3134</id>
+                    <title>Resonator Review | Crystal Remorph — Carlotta</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3134" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>With the birth of an &#34;Opal&#34; comes the end of mortal life. In her ego&#39;s name, she reshapes reality across another dimension.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756137600000/j9ubcfegdcvox5rf07-1756188869286.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756137600000/k7ha4kbgkujx99tjj6-1756188880182.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756137600000/fq569ke57rgmduxtac-1756188897733.jpg" /></p>]]></content>
+                    <published>2025-08-26T14:15:24+00:00</published>
+                    <updated>2025-08-26T14:15:24+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3128</id>
                     <title>Wuthering Waves Update Content | Version 2.6 &#34;By Sun&#39;s Scourge, By Moon&#39;s Revelation&#34; Planned for Release on August 28 (UTC+8)</title>

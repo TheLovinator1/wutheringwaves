@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-25T16:51:47+00:00</updated>
+    <updated>2025-08-26T14:15:24+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3134</id>
+                    <title>Resonator Review | Crystal Remorph — Carlotta</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3134" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>With the birth of an &#34;Opal&#34; comes the end of mortal life. In her ego&#39;s name, she reshapes reality across another dimension.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756137600000/j9ubcfegdcvox5rf07-1756188869286.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756137600000/k7ha4kbgkujx99tjj6-1756188880182.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756137600000/fq569ke57rgmduxtac-1756188897733.jpg" /></p>]]></content>
+                    <published>2025-08-26T14:15:24+00:00</published>
+                    <updated>2025-08-26T14:15:24+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3128</id>
                     <title>Wuthering Waves Update Content | Version 2.6 &#34;By Sun&#39;s Scourge, By Moon&#39;s Revelation&#34; Planned for Release on August 28 (UTC+8)</title>
@@ -554,27 +570,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/1v658ml6v3i7pdwyij-1753426779130.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/ci1tdcesjrhqkzrn86-1753426801042.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/ctxfct9oy26zy2v9zl-1753426822197.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/l7v17vvr950b5xggxs-1753426870265.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/0ndq1rdm8i05n552mm-1753426877989.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/eukwz31253qg6nxw63-1753426890629.gif" /></p>]]></content>
                     <published>2025-07-25T15:03:06+00:00</published>
                     <updated>2025-07-25T15:03:06+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:2991</id>
-                    <title>Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/2991" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<h1>Duration</h1>
-<p>2025-07-26 10:00 - 2025-08-27 11:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x1200, Sigil: Dreamland Reverie, Phantom: Nightmare Inferno Rider, Modifier, Premium Tuner, Forgery Premium Supply, Shell Credit and other Materials.</p>
-<h1>As a Permanent Event</h1>
-<p>This event offers two types of rewards: Limited-time Rewards and Standard Rewards. When the initial period ends, the event will continue as a Permanent Event. The Limited-time Rewards will no longer be available when the event becomes a Permanent Event. You can participate in the Permanent Event to win Standard Rewards.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/y883l2jimaybshrzfl-1753413431757.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/c05frzeyrpxuw1ulzj-1753413672090.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/vtb1pmitk1vd7we21z-1753413684479.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1753372800000/3j329u76hmtv0nq8f6-1753413699086.jpg" /></p>]]></content>
-                    <published>2025-07-25T11:22:15+00:00</published>
-                    <updated>2025-07-25T11:22:15+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
