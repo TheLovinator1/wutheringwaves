@@ -12,6 +12,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 ## Articles
 
 - [Resonator Review | Crystal Remorph — Carlotta](https://wutheringwaves.kurogames.com/en/main/news/detail/3134) [[json]](articles/3134.json)
+- [Resonator Review | Euphonic Chrysalis—The Shorekeeper](https://wutheringwaves.kurogames.com/en/main/news/detail/3132) [[json]](articles/3132.json)
 - [Wuthering Waves Update Content | Version 2.6 "By Sun's Scourge, By Moon's Revelation" Planned for Release on August 28 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3128) [[json]](articles/3128.json)
 - [Profile Reveal | Magnetism Before Light—Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3120) [[json]](articles/3120.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3115) [[json]](articles/3115.json)
