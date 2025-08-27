@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony](https://wutheringwaves.kurogames.com/en/main/news/detail/3178) [[json]](articles/3178.json)
+- [[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper](https://wutheringwaves.kurogames.com/en/main/news/detail/3171) [[json]](articles/3171.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance](https://wutheringwaves.kurogames.com/en/main/news/detail/3164) [[json]](articles/3164.json)
 - [[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta](https://wutheringwaves.kurogames.com/en/main/news/detail/3157) [[json]](articles/3157.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Thunderflare Dominion](https://wutheringwaves.kurogames.com/en/main/news/detail/3155) [[json]](articles/3155.json)

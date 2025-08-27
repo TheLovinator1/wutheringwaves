@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-27T10:51:46+00:00</updated>
+    <updated>2025-08-27T11:01:15+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,85 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3178</id>
+                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3178" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756224000000/qayp14sq3gtany4mmw-1756263658400.jpg" /></p>
+<p>During the event, 5-Star Weapon: Stellar Symphony, 4-Star Weapons: Waning Redshift, Undying Flame, and Comet Flare receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>Version 2.6 update - 2025-09-17 09:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Stellar Symphony.</p>
+</li>
+<li>
+<p>Featured Weapon Stellar Symphony is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-08-27T11:01:15+00:00</published>
+                    <updated>2025-08-27T11:01:15+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3171</id>
+                    <title>[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3171" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756224000000/bobo17jsgtkgmpjfbr-1756263374674.jpg" /></p>
+<p>During the event, 5-Star Resonator: Shorekeeper, 4-Star Resonators: Chixia, Youhu, and Yuanwu receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>Version 2.6 update - 2025-09-17 09:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Till the Sea Turns Clear] is a Featured Resonator Convene event banner. Use Radiant Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Shorekeeper is exclusive to the [Till the Sea Turns Clear] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Shorekeeper&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>Due to technical limitations, the rewards for completing 4-Star Featured Resonator Yuanwu&#39;s Ascendant Aces challenge in this version will be issued via in-game mail. Optimization will be made in this regard in a future version update. Eligibility: Create a character and unlock the Mail feature before 2025-08-28 04:00 (UTC+8); the rewards will remain claimable until 2025-09-17 09:59 (server time).</em></p>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-08-27T10:56:27+00:00</published>
+                    <updated>2025-08-27T10:56:27+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3164</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance</title>
@@ -532,84 +611,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/xfz7cgvgcp9dr4zksb-1755070659604.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/eiu032wah9zuienrhz-1755070674955.jpg" /></p>]]></content>
                     <published>2025-08-13T15:38:31+00:00</published>
                     <updated>2025-08-13T15:38:31+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3042</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3042" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/l33b4467gietgxmt71-1755054738407.jpg" /></p>
-<p>During the event, 5-Star Weapon: Unflickering Valor, 4-Star Weapons: Overture, Variation, and Novaburst receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2025-08-14 10:00 - 2025-08-27 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Unflickering Valor.</p>
-</li>
-<li>
-<p>Featured Weapon &#34;&#34;Unflickering Valor&#34;&#34; is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-08-13T11:12:33+00:00</published>
-                    <updated>2025-08-13T11:12:33+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3035</id>
-                    <title>[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3035" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755014400000/fefteehkq1nr77ws28-1755054354365.jpg" /></p>
-<p>During the event, 5-Star Resonator: Brant, 4-Star Resonators: Danjin, Mortefi and Yangyang receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2025-08-14 10:00 - 2025-08-27 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Blaze Across the Deep] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Brant is exclusive to the [Blaze Across the Deep] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Brant&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-08-13T11:06:12+00:00</published>
-                    <updated>2025-08-13T11:06:12+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
