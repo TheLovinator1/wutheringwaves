@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance](https://wutheringwaves.kurogames.com/en/main/news/detail/3164) [[json]](articles/3164.json)
+- [[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta](https://wutheringwaves.kurogames.com/en/main/news/detail/3157) [[json]](articles/3157.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Thunderflare Dominion](https://wutheringwaves.kurogames.com/en/main/news/detail/3155) [[json]](articles/3155.json)
+- [[Eternal Radiance on the Crown] Featured Resonator Convene: Boosted Drop Rate for Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/3154) [[json]](articles/3154.json)
 - [Resonator Review | Crystal Remorph — Carlotta](https://wutheringwaves.kurogames.com/en/main/news/detail/3134) [[json]](articles/3134.json)
 - [Resonator Review | Euphonic Chrysalis—The Shorekeeper](https://wutheringwaves.kurogames.com/en/main/news/detail/3132) [[json]](articles/3132.json)
 - [Wuthering Waves Update Content | Version 2.6 "By Sun's Scourge, By Moon's Revelation" Planned for Release on August 28 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3128) [[json]](articles/3128.json)
