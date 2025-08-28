@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Fan Creation Event "By Sun's Scourge, By Moon's Revelation" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3209) [[json]](articles/3209.json)
 - [Patch Notes for Version 2.6: By Sun's Scourge, By Moon's Revelation](https://wutheringwaves.kurogames.com/en/main/news/detail/3194) [[json]](articles/3194.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/3193) [[json]](articles/3193.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony](https://wutheringwaves.kurogames.com/en/main/news/detail/3178) [[json]](articles/3178.json)
