@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-08-29T10:24:12+00:00</updated>
+    <updated>2025-09-03T17:27:39+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,40 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3223</id>
+                    <title>[Marks of the Wild] Limited-Time Puzzle Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3223" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756828800000/yu4soa27aaeeqsjrpr-1756891645300.jpg" /></p>
+<p>You receive a new message from the Hunter&#39;s Den: Please examine the traces left by TDs and track them down.</p>
+<h1>Duration</h1>
+<p>2025-09-04 04:00 - 2025-09-22 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Premium Resonance Potion x12, Premium Energy Core x8, Premium Sealed Tube x8, Forgery Advanced Supply x21, Advanced Enclosure Tank x42, Shell Credit x648888, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and complete the first hunt in Main Quest Chapter II Act VIII &#34;&#34;By Sun&#39;s Burning Hand.&#34;&#34;</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>The event unlocks a new set of samples each day.</p>
+</li>
+<li>
+<p>Each set contains samples that pose Easy, Normal, and Expert levels of challenge. Complete analyzing the corresponding samples to unlock the rewards.</p>
+</li>
+<li>
+<p>To challenge the more difficult samples in the same set, you need to first complete the analysis of the previous sample.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-09-03T17:27:39+00:00</published>
+                    <updated>2025-09-03T17:27:39+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3216</id>
                     <title>Event Preview | [Tidal Defense Simulator] Tacet Discord Tower Defense Event, Coming Soon!</title>

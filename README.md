@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Marks of the Wild] Limited-Time Puzzle Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3223) [[json]](articles/3223.json)
 - [Event Preview | [Tidal Defense Simulator] Tacet Discord Tower Defense Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3216) [[json]](articles/3216.json)
 - [Wuthering Waves [Tidal Photography]: The Search for Solaris' Top Photographers Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/3215) [[json]](articles/3215.json)
 - [Wuthering Waves Fan Creation Event "By Sun's Scourge, By Moon's Revelation" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3209) [[json]](articles/3209.json)
