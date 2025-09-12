@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/3242) [[json]](articles/3242.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3230) [[json]](articles/3230.json)
 - [[Marks of the Wild] Limited-Time Puzzle Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3223) [[json]](articles/3223.json)
 - [Event Preview | [Tidal Defense Simulator] Tacet Discord Tower Defense Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3216) [[json]](articles/3216.json)

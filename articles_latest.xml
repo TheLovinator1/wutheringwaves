@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-09-09T16:46:33+00:00</updated>
+    <updated>2025-09-12T10:16:44+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3242</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Iuno</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3242" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Iuno, the prodigy born under the lunar eclipse. The Priestess who sees the true future. Curious about what lies ahead? Come to me... But no promises of the perfect ending you seek.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/q06jw6y3zp8lom9d8c-1757643180383.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/23og8i65rbx4065sry-1757643192128.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/q7ui3bq46layrylpu9-1757643256268.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/h1dpejch4hnya7sq7k-1757643280292.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/vsr6a5lqa2grhk1yk4-1757643296834.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/mqdtwdnifkek74f1a9-1757643318951.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/s71g9j4pmtxopauat8-1757643339376.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/0tmidzphtuivba8pqg-1757643370074.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/czlkxjgtba3ubiacru-1757643384188.jpg" /></p>]]></content>
+                    <published>2025-09-12T10:16:44+00:00</published>
+                    <updated>2025-09-12T10:16:44+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3230</id>
                     <title>[Bountiful Crescendo] Limited-Time Material Double Drop Event</title>
@@ -1361,22 +1377,6 @@
                     <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/hbf0t6vmcnpu2xkvtm-1755880089323.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/yz0goql35xnpvm6rxu-1755880104003.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/3gqhbkz7vbyijjf258-1755880120523.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/clwdnpwa07hpdnprhp-1755880237555.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/ai94fx7ckahw9kwqci-1755880150833.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/i22qbdimd7ln6x2fni-1755880173881.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/sgfvyfg7w88bzvk66m-1755880268931.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/rd9plt6vep7wowxj4i-1755880287086.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755878400000/xlqkajjidj40qfx0zg-1755880303608.jpg" /></p>]]></content>
                     <published>2025-08-23T00:32:25+00:00</published>
                     <updated>2025-08-23T00:32:25+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3115</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Augusta</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3115" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;I am Augusta, Ephor of Septimont. Etch this name into your memory—it belongs to the one who stands above, and whose mark will never fade. Whether we meet as foes or friends, my sword and I await the fierce fight between us.&#34;—Augusta</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/0ffgrfge5a4160x1ux-1755861378354.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/hepqxs9zfnaup9aomf-1755861400481.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/r8fl59pq1qgx7lbp9c-1755861479107.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/xa7kg04pndjz1u88wg-1755861496659.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/6mplgb45d0u224c8k4-1755861523641.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/y0muuidtlxubirtrc5-1755861540437.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/ot5w43r114qy79bxgd-1755861578372.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/m8gud5oleve6fh98ri-1755861593249.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1755792000000/ogo58phssy3w9v385a-1755861605066.jpg" /></p>]]></content>
-                    <published>2025-08-22T19:22:26+00:00</published>
-                    <updated>2025-08-22T19:22:26+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
