@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-09-12T10:16:44+00:00</updated>
+    <updated>2025-09-12T18:04:11+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3252</id>
+                    <title>Profile Reveal | Stasis, Cycle, Renewal — Iuno</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3252" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/9q5plqmum2keg23ly8-1757671258356.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/9utnkpyec0wnxtjece-1757671282337.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/6nesvev441n5qsejh0-1757671306570.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/acep5v2jvyw4ki6a80-1757671324294.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/3xoif6jw2typqa5sew-1757671342966.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/ma2celvhczpmvhgiop-1757671362193.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/gyjs9pbgejrlrcye96-1757671390391.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/vbiw1wx56hd6e1y23b-1757671406325.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757606400000/3tyn4zm5ksesefpa9k-1757671415803.jpg" /></p>]]></content>
+                    <published>2025-09-12T18:04:11+00:00</published>
+                    <updated>2025-09-12T18:04:11+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3242</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Iuno</title>
