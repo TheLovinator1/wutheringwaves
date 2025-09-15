@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Woven Melodies — Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3255) [[json]](articles/3255.json)
 - [Upcoming Events in Wuthering Waves Version 2.6](https://wutheringwaves.kurogames.com/en/main/news/detail/3253) [[json]](articles/3253.json)
 - [Profile Reveal | Stasis, Cycle, Renewal — Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/3252) [[json]](articles/3252.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/3242) [[json]](articles/3242.json)
