@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria](https://wutheringwaves.kurogames.com/en/main/news/detail/3281) [[json]](articles/3281.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Moongazer's Sigil](https://wutheringwaves.kurogames.com/en/main/news/detail/3274) [[json]](articles/3274.json)
 - [[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3267) [[json]](articles/3267.json)
 - [[Across Time's Waxes and Wanes] Featured Resonator Convene: Boosted Drop Rate for Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/3260) [[json]](articles/3260.json)
