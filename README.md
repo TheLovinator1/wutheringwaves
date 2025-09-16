@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Gifts of the Moon Roamer] Event Details](https://wutheringwaves.kurogames.com/en/main/news/detail/3295) [[json]](articles/3295.json)
+- [[Second Coming of Solaris (Ultra)] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3288) [[json]](articles/3288.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria](https://wutheringwaves.kurogames.com/en/main/news/detail/3281) [[json]](articles/3281.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Moongazer's Sigil](https://wutheringwaves.kurogames.com/en/main/news/detail/3274) [[json]](articles/3274.json)
 - [[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3267) [[json]](articles/3267.json)

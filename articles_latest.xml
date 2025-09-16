@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-09-16T11:05:40+00:00</updated>
+    <updated>2025-09-16T18:29:12+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,68 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3295</id>
+                    <title>[Gifts of the Moon Roamer] Event Details</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3295" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757952000000/xtwawddbkby07zpkm9-1758018536005.jpg" /></p>
+<h1>Duration</h1>
+<p>2025-09-17 10:00 - 2025-10-08 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Radiant Tide x10, Forging Tide x10</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>Log in during the event period to claim the rewards.</p>
+</li>
+<li>
+<p>Rewards for this event will NOT be reissued via in-game mail once the event ends. Please pay close attention to the event time and claim the rewards beforehand.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-09-16T18:29:12+00:00</published>
+                    <updated>2025-09-16T18:29:12+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3288</id>
+                    <title>[Second Coming of Solaris (Ultra)] Leisure Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3288" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757952000000/kk4ik0xukb0xu2x1pw-1758017135035.jpg" /></p>
+<p>In Jinzhou, you come across a man who appears to be distressed. He claims to have survived a mysterious attack…</p>
+<p>Help the designer in resolving the strange anomalies surfacing in the Second Coming of Solaris, and uncover the culprit behind it all.</p>
+<h1>Duration</h1>
+<p>2025-09-17 04:00 - 2025-10-06 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Premium Resonance Potion x6, Premium Energy Core x6, Premium Sealed Tube x9, Forgery Advanced Supply x12, Advanced Enclosure Tank x18, Shell Credit x210000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>Certain anomalies can be found in the game scenes. After locating these anomalies, use the Utility: Zoom Camera to capture them, then work with Bertolt to modify them.</p>
+</li>
+<li>
+<p>You may choose to restore anomalies to their normal state or intentionally distort them further.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-09-16T18:05:49+00:00</published>
+                    <updated>2025-09-16T18:05:49+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3281</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria</title>
@@ -1345,85 +1407,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-08-27T10:56:27+00:00</published>
                     <updated>2025-08-27T10:56:27+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3164</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3164" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756224000000/lz7fukao5u927jph2t-1756263086171.jpg" /></p>
-<p>During the event, 5-Star Weapon: The Last Dance, 4-Star Weapons: Waning Redshift, Undying Flame, and Comet Flare receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.6 update - 2025-09-17 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be The Last Dance.</p>
-</li>
-<li>
-<p>Featured Weapon The Last Dance is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-08-27T10:51:46+00:00</published>
-                    <updated>2025-08-27T10:51:46+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3157</id>
-                    <title>[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3157" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756224000000/gof59w28hmsej69ntd-1756262743283.jpg" /></p>
-<p>During the event, 5-Star Resonator: Carlotta, 4-Star Resonators: Chixia, Youhu, and Yuanwu receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.6 update - 2025-09-17 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[When Silence Tolls] is a Featured Resonator Convene event banner. Use Radiant Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Carlotta is exclusive to the [When Silence Tolls] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Carlotta&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>Due to technical limitations, the rewards for completing 4-Star Featured Resonator Yuanwu&#39;s Ascendant Aces challenge in this version will be issued via in-game mail. Optimization will be made in this regard in a future version update. Eligibility: Create a character and unlock the Mail feature before 2025-08-28 04:00 (UTC+8); the rewards will remain claimable until 2025-09-17 09:59 (server time).</em></p>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-08-27T10:45:56+00:00</published>
-                    <updated>2025-08-27T10:45:56+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
