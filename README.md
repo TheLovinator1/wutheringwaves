@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Beyond the Waves: Rinascita] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3323) [[json]](articles/3323.json)
+- [[Moonlit Revelation] Lunar Phase Divination Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3317) [[json]](articles/3317.json)
 - [[Gifts of the Moon Roamer] Event Details](https://wutheringwaves.kurogames.com/en/main/news/detail/3295) [[json]](articles/3295.json)
 - [[Second Coming of Solaris (Ultra)] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3288) [[json]](articles/3288.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria](https://wutheringwaves.kurogames.com/en/main/news/detail/3281) [[json]](articles/3281.json)

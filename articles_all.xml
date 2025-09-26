@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-09-16T18:29:12+00:00</updated>
+    <updated>2025-09-26T18:57:57+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,83 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3323</id>
+                    <title>[Beyond the Waves: Rinascita] Featured Exploration Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3323" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758816000000/77mlpe0nwg2ixzcqlp-1758884262670.jpg" /></p>
+<p>To encourage the Pioneers to further share their Ragunna explorations, Lollo Logistics has partnered with the Pioneer Association to proudly present the campaign: Beyond the Waves!</p>
+<p>Participate and upload your Adventure Logs to the Lollo courier truck to get various Adventure Packages!</p>
+<h1>Duration</h1>
+<p>2025-09-25 04:00 - 2025-10-08 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Lustrous Tide x5, Premium Enclosure Tank x20, Premium Tuner x90, Crystal Solvent x6, Shell Credit x420000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and complete Main Quest &#34;&#34;Through the Sea Thou Break&#34;&#34; to unlock.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>During the event, you can complete event tasks once per day to obtain a set number of Adventure Logs. Each Adventure Log can be exchanged for an Adventure Package.</p>
+</li>
+<li>
+<p>Adventure Packages contain special mechanics that, when triggered, unlock a large amount of rewards.</p>
+</li>
+<li>
+<p>There are 3 Inventories for the Adventure Packages. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-09-26T18:57:57+00:00</published>
+                    <updated>2025-09-26T18:57:57+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3317</id>
+                    <title>[Moonlit Revelation] Lunar Phase Divination Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3317" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758816000000/792dbm0mn9czm9i7vt-1758882927326.jpg" /></p>
+<p>At Iuno&#39;s invitation, you ascend to the top of Tetragon Temple to gaze upon the starlit sky alongside her.</p>
+<p>Amidst drifting starlight where fate entwines with the constellations, she unveils the revelations and blessings hidden within Septimont&#39;s lunar phases…</p>
+<p>&#34;&#34;You&#39;re from Huanglong, right? Hehe, worry not. I can give you Huanglong-style moon readings.&#34;&#34;</p>
+<h1>Duration</h1>
+<p>2025-09-25 04:00 - 2025-10-08 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Wax and Wane (event-exclusive Avatar) x1, Premium Resonance Potion x5, Premium Energy Core x10, Premium Sealed Tube x5, Premium Tuner x100, Crystal Solvent x4, Shell Credit x170000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8.</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>Log in each day during the event to receive 1 Waveborn Moonstone, up to a total of 10.</p>
+</li>
+<li>
+<p>Use Waveborn Moonstones to decipher Lunar Phases and earn rewards along with limited-time buffs.</p>
+</li>
+<li>
+<p>Each buff lasts for 3 hours. Deciphering a new Lunar Phase within the buff&#39;s duration will replace the current buff.</p>
+</li>
+<li>
+<p>Buffs are only active in the open world and some of the Sonoro Sphere challenges.</p>
+</li>
+<li>
+<p>Decipher 7 Lunar Phases to obtain the exclusive Avatar &#34;Wax and Wane.&#34;</p>
+</li>
+</ul>]]></content>
+                    <published>2025-09-26T18:36:00+00:00</published>
+                    <updated>2025-09-26T18:36:00+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3295</id>
                     <title>[Gifts of the Moon Roamer] Event Details</title>
