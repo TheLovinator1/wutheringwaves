@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3365) [[json]](articles/3365.json)
 - [[Beyond the Waves: Rinascita] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3323) [[json]](articles/3323.json)
 - [[Moonlit Revelation] Lunar Phase Divination Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3317) [[json]](articles/3317.json)
 - [Wuthering Waves Version Preview | Version 2.7 "Dawn Breaks on Dark Tides" Scheduled for Release on October 9th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3310) [[json]](articles/3310.json)
