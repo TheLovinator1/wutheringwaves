@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-01T17:43:27+00:00</updated>
+    <updated>2025-10-03T16:25:05+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,24 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3371</id>
+                    <title>Notes on promotional event a certain platform</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3371" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Dear Rovers,</p>
+<p>We have temporarily halted the campaign of Wuthering Waves on a certain platform due to adjustments in promotional arrangements.</p>
+<p>However, it has recently come to our attention that this decision may have caused inconvenience and frustraton, particularly preventing you from using the points previously earned through the campaign. We sincerely apologize for this unsatisfactory handling of the situation. As a resolution, after further discussion with the platform, we have decided to relaunch the campaign on the platform from 2025-12-01, 11:00 (UTC+8) to 2025-12-21, 11:00 (UTC+8). During this period, you will once again be able to make in-game transactions via the platform&#39;s direct payment method and redeem the points you previously earned. After this period ends, access to the platform&#39;s direct payment method will be closed, so please be mindful of the event period.</p>
+<p>Should there be any further changes to platform-specific promotions, please refer to the respective platform&#39;s announcements for details. If you have any questions or need assistance, feel free to contact customer support via the platform or through our official Wuthering Waves support channels. Thank you for your understanding and support.</p>]]></content>
+                    <published>2025-10-03T16:25:05+00:00</published>
+                    <updated>2025-10-03T16:25:05+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3365</id>
                     <title>[Chord Cleansing] Limited-Time Echo Double Drop Event</title>

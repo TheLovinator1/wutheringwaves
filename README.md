@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Notes on promotional event a certain platform](https://wutheringwaves.kurogames.com/en/main/news/detail/3371) [[json]](articles/3371.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3365) [[json]](articles/3365.json)
 - [Wuthering Waves Version 2.7 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3340) [[json]](articles/3340.json)
 - [[Beyond the Waves: Rinascita] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3323) [[json]](articles/3323.json)
