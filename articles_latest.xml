@@ -225,6 +225,23 @@
                 </entry>
         
                 <entry>
+                    <id>urn:article:3332</id>
+                    <title>Wuthering Waves Update Content | Version 2.7 &#34;Dawn Breaks on Dark Tides&#34; Planned for Release on October 9 (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3332" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Update Content | Version 2.7 &#34;Dawn Breaks on Dark Tides&#34; Planned for Release on October 9 (UTC+8)</p>
+<p>Here&#39;s the event calendar for Version 2.7. Check it out for a quick overview of the event schedule! Full details about the update content can be viewed on our official website—be sure to take a look!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/y05rhuvx8g8b4st2cr-1759029138825.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/5vaqvcrc0ddoq4cx00-1759045082273.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/xi4cre8h2pk6gati07-1759029185482.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/jma8h5dvy5i272ssdm-1759029291176.jpg" /></p>]]></content>
+                    <published>2025-09-28T11:15:49+00:00</published>
+                    <updated>2025-09-28T11:15:49+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
                     <id>urn:article:3323</id>
                     <title>[Beyond the Waves: Rinascita] Featured Exploration Event</title>
                     <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3323" rel="alternate" type="text/html"/>
@@ -627,40 +644,6 @@
 </ul>]]></content>
                     <published>2025-09-09T16:46:33+00:00</published>
                     <updated>2025-09-09T16:46:33+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3223</id>
-                    <title>[Marks of the Wild] Limited-Time Puzzle Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3223" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1756828800000/yu4soa27aaeeqsjrpr-1756891645300.jpg" /></p>
-<p>You receive a new message from the Hunter&#39;s Den: Please examine the traces left by TDs and track them down.</p>
-<h1>Duration</h1>
-<p>2025-09-04 04:00 - 2025-09-22 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x400, Premium Resonance Potion x12, Premium Energy Core x8, Premium Sealed Tube x8, Forgery Advanced Supply x21, Advanced Enclosure Tank x42, Shell Credit x648888, and other Materials.</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 14 and complete the first hunt in Main Quest Chapter II Act VIII &#34;&#34;By Sun&#39;s Burning Hand.&#34;&#34;</p>
-<h1>Event Details</h1>
-<ul>
-<li>
-<p>The event unlocks a new set of samples each day.</p>
-</li>
-<li>
-<p>Each set contains samples that pose Easy, Normal, and Expert levels of challenge. Complete analyzing the corresponding samples to unlock the rewards.</p>
-</li>
-<li>
-<p>To challenge the more difficult samples in the same set, you need to first complete the analysis of the previous sample.</p>
-</li>
-</ul>]]></content>
-                    <published>2025-09-03T17:27:39+00:00</published>
-                    <updated>2025-09-03T17:27:39+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

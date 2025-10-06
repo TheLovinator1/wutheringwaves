@@ -16,6 +16,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [Profile Reveal | Infernal Descent — Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/3363) [[json]](articles/3363.json)
 - [Wuthering Waves Version 2.7 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3340) [[json]](articles/3340.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/3336) [[json]](articles/3336.json)
+- [Wuthering Waves Update Content | Version 2.7 "Dawn Breaks on Dark Tides" Planned for Release on October 9 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3332) [[json]](articles/3332.json)
 - [[Beyond the Waves: Rinascita] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3323) [[json]](articles/3323.json)
 - [[Moonlit Revelation] Lunar Phase Divination Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3317) [[json]](articles/3317.json)
 - [Wuthering Waves Version Preview | Version 2.7 "Dawn Breaks on Dark Tides" Scheduled for Release on October 9th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3310) [[json]](articles/3310.json)
