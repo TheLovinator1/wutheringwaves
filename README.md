@@ -15,6 +15,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3365) [[json]](articles/3365.json)
 - [Profile Reveal | Infernal Descent — Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/3363) [[json]](articles/3363.json)
 - [Wuthering Waves Version 2.7 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3340) [[json]](articles/3340.json)
+- [Resonator Review | Howling Flame—Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/3337) [[json]](articles/3337.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/3336) [[json]](articles/3336.json)
 - [Wuthering Waves Update Content | Version 2.7 "Dawn Breaks on Dark Tides" Planned for Release on October 9 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3332) [[json]](articles/3332.json)
 - [[Beyond the Waves: Rinascita] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3323) [[json]](articles/3323.json)
