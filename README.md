@@ -11,6 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/3394) [[json]](articles/3394.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lux & Umbra](https://wutheringwaves.kurogames.com/en/main/news/detail/3387) [[json]](articles/3387.json)
+- [[From Ashes] Featured Resonator Convene: Boosted Drop Rate for Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/3380) [[json]](articles/3380.json)
 - [Notes on promotional event a certain platform](https://wutheringwaves.kurogames.com/en/main/news/detail/3371) [[json]](articles/3371.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3365) [[json]](articles/3365.json)
 - [Profile Reveal | Infernal Descent — Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/3363) [[json]](articles/3363.json)
