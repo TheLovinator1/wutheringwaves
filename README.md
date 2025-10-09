@@ -12,6 +12,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 ## Articles
 
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/3419) [[json]](articles/3419.json)
+- [Wuthering Waves Fan Creation Event "Dawn Breaks on Dark Tides" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3417) [[json]](articles/3417.json)
 - [V2.7 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3415) [[json]](articles/3415.json)
 - [Patch Notes for Version 2.7: Dawn Breaks on Dark Tides](https://wutheringwaves.kurogames.com/en/main/news/detail/3412) [[json]](articles/3412.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark](https://wutheringwaves.kurogames.com/en/main/news/detail/3401) [[json]](articles/3401.json)
