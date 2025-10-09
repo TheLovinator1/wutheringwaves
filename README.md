@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Patch Notes for Version 2.7: Dawn Breaks on Dark Tides](https://wutheringwaves.kurogames.com/en/main/news/detail/3412) [[json]](articles/3412.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark](https://wutheringwaves.kurogames.com/en/main/news/detail/3401) [[json]](articles/3401.json)
 - [[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/3394) [[json]](articles/3394.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lux & Umbra](https://wutheringwaves.kurogames.com/en/main/news/detail/3387) [[json]](articles/3387.json)

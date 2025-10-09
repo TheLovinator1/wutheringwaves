@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-06T15:52:41+00:00</updated>
+    <updated>2025-10-09T09:40:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,567 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3412</id>
+                    <title>Patch Notes for Version 2.7: Dawn Breaks on Dark Tides</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3412" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759939200000/m2qgjxaa5k25bct31m-1759973975413.jpg" /></p>
+<p>Dear Rover,</p>
+<p>Thank you for your continued support. The following is a summary of content that will become available in Version 2.7: Dawn Breaks on Dark Tides.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time:</strong> <strong>2025-10-09 04:00 - 2025-10-09 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2025-10-09 04:00 (UTC+8). The compensation can be claimed before the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<p><strong>✦Bug Fixes Compensation: Astrite x300</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2025-10-09 04:00 (UTC+8). The compensation can be claimed before the next version update.</strong></p>
+<p><strong>[Version Update Details]</strong></p>
+<h1>New Resonators</h1>
+<p><strong>5-Star Resonator: Galbrena (Fusion/Pistols)</strong></p>
+<p>Cold and decisive, she is the &#34;Discord Slayer&#34; who hunts across Solaris and the same &#34;Fiend of Ever-burning Flame&#34; spoken of in whispers.</p>
+<h2>Combat Roles: Main Damage Dealer, Heavy Attack DMG</h2>
+<p><em>Obtainable through the [From Ashes] Featured Resonator Convene.</em></p>
+<p><strong>5-Star Resonator: Qiuyuan (Aero/Sword)</strong></p>
+<p>Former senior agent of Mingting&#39;s Internal Security Agency.</p>
+<p>Though enmity filled his younger days, loyalty defined his later years. However, scapegoated for a murder, he is now but a blind swordsman wandering the world alone.</p>
+<h2>Combat Roles: Concerto Efficiency, Heavy Attack DMG</h2>
+<p><em>Obtainable through the [Wanderer Knows No Far and Near] Featured Resonator Convene.</em></p>
+<h1>New Weapons</h1>
+<p><strong>5-Star Weapon: Lux &amp; Umbra (Pistols)</strong></p>
+<p>From darkness she seizes power, layering sins upon herself. To hunt. To kill. To deliver a relentless and fatal blow to all evil.</p>
+<p>From the light she falls, with her vows etched in her mind. For the deceased. For the living. For her pistol&#39;s true targets.</p>
+<p><em>Obtainable through the [Absolute Pulsation - Lux &amp; Umbra] Featured Weapon Convene.</em></p>
+<p><strong>5-Star Weapon: Emerald Sentence (Sword)</strong></p>
+<p>Bamboo, hollow yet full; People, whole yet seldom true.</p>
+<p>Bamboo speaks without deceit, acts without conceit, seeks no vanity. Few ever measure up thus.</p>
+<p><em>Obtainable through the [Absolute Pulsation - Emerald Sentence] Featured Weapon Convene.</em></p>
+<h1>New Locations</h1>
+<p><strong>Sanguis Plateaus - Three Heroes&#39; Crest</strong></p>
+<p>The highest peak in the Sanguis Plateaus, named for both its unique summit and the three Heroes of Heroes—Fabius, Atilius, and Valeria, who once stood there.</p>
+<p><em>Accessible in Version 2.7 upon unlocking the Sanguis Plateaus.</em></p>
+<p><strong>Plane of Dark Tide - Journeying Paradise</strong></p>
+<p>Another world concealed within the Dark Tide. From its depths resound the whispers of the ancient &#34;Divinity,&#34; the origin of all malice and fear.</p>
+<p>At the edge of the underworld, an immaculate Paradise draws bewildered souls, whose lifeless forms chant in unison, day and night—for naught but to earn Its grace and redemption.</p>
+<p><em>Reach the location during Main Quest Chapter II Act XI &#34;Dawn Breaks on Dark Tides.&#34;</em></p>
+<h1>New Echoes</h1>
+<p>Nightmare: Viridblaze Saurian, Nightmare: Baby Viridblaze Saurian, Nightmare: Baby Roseshroom</p>
+<p>New Nightmare Purification Challenge: Three Heroes&#39; Crest Nightmare Nest</p>
+<p><em>In Nightmare Purification, a set number of Nightmare Tacet Discords are available daily. Defeat them to claim the corresponding Echoes without spending Waveplates.</em></p>
+<h2>New Sonata Effect: Flamewing&#39;s Shadow</h2>
+<p>Flamewing&#39;s Shadow (3pcs Set): Dealing Echo Skill DMG increases Heavy Attack Crit. Rate by 20% for 6s. Dealing Heavy Attack DMG increases Echo Skill Crit. Rate by 20% for 6s. While both effects are active, gain 16% Fusion DMG Bonus.</p>
+<h1>New Stories</h1>
+<p><strong>[Main Quest] Chapter II Act X: The Bygone Shall Always Return</strong></p>
+<p>To open the Civilization Capsule left by Imperator, you and Abby prep for Ragunna to find Cartethyia, only to discover that the people of Ragunna are being plagued by nightmares. Meanwhile, inside the Inverted Tower, Avinoleum, the returning Discord Slayer fires her pistol at the once Blessed Maiden... On the other hand, the Fractsidus&#39;s &#34;story&#34; in Rinascita approaches its final chapter.</p>
+<ul>
+<li>
+<p>Duration: Permanently available after the Version 2.7 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter II Act IX &#34;By Moon&#39;s Fated Light.&#34;</p>
+</li>
+</ul>
+<p><strong>[Main Quest] Chapter II Act XI: Dawn Breaks on Dark Tides</strong></p>
+<p>The prophesied Journeying Paradise makes its descent. Even though no Divinity remains on this land, familiar faces have begun to take action to prevent Rinascita&#39;s doom. Bearing everyone&#39;s will, you are determined to step into the Dark Tide... Go now. Gather every last hope and face the inevitable showdown with the ancient &#34;Divinity.&#34;</p>
+<ul>
+<li>
+<p>Duration: Permanently available after the Version 2.7 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter II Act X &#34;The Bygone Shall Always Return.&#34;</p>
+</li>
+</ul>
+<p><strong>[Segue - Afterstory] A Stranger in a Strange Land</strong></p>
+<p>In this battle that sealed the fate of Rinascita, its people rose in defiance. And among them stood another, a swordsman of Huanglong, guided across the seas by Huanglong Mingting to lend you his strength. He fought as one among the countless souls drawn to this hour, but the story of his own journey, and the shadows of his past, remain known to few…</p>
+<ul>
+<li>
+<p>Duration: Permanently available after 2025-10-30 10:00 (server time)</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter II Act XI &#34;Dawn Breaks on Dark Tides.&#34;</p>
+</li>
+</ul>
+<h1>New Events &amp; Gameplay Features</h1>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[Lament Recon: Solaris Soldier] Combat Event</strong></p>
+<p>To help prevent another Waveworn Phenomenon on the scale of a Dark Tide, the Black Shores and Rinascita have come together on a joint project: to conduct simulations using a hologram device in regions vulnerable to the Threnodian&#39;s power. Thus, you and your reliable companions have been invited to help test this unique device.</p>
+<ul>
+<li>Duration: 2025-10-11 10:00 - 2025-11-19 03:59 (server time)</li>
+</ul>
+<p><strong>[Septimont Weather Forecast] Featured Platforming Event</strong></p>
+<p>KU-Ryan, a Black Shores robot, is currently looking for help in gathering Surveillance Datasets on Waveworn Phenomena in Septimont. Interested individuals are welcome to speak with him.</p>
+<ul>
+<li>Duration: 2025-10-16 04:00 - 2025-10-30 03:59 (server time)</li>
+</ul>
+<p><strong>[Freeze Frame: Action Highlights] Combat Photography Event</strong></p>
+<p>Behold! Wutherium Film Studio Special Feature: Resonators in Combat Edition has officially launched! Capture Resonators&#39; exhilarating moments during combat, then submit the photos to Fulmine and C-MOSS to earn plenty of rewards!</p>
+<ul>
+<li>Duration: 2025-10-30 10:00 - 2025-11-19 03:59 (server time)</li>
+</ul>
+<p><strong>[Lollo Campaign: Ice Savior] Featured Commission Event</strong></p>
+<p>Complete the campaigns to claim your Lollo Stamps—a gift of gratitude from Lollo Logistics. Lollo Stamps can be exchanged for Lollo Helper special deliveries.</p>
+<ul>
+<li>Duration: 2025-11-06 04:00 - 2025-11-19 03:59 (server time)</li>
+</ul>
+<p><strong>[Gifts of Approaching Dawn] 7-Day Login Event</strong></p>
+<p>During the event, log in to claim the day&#39;s login rewards from the event page.</p>
+<ul>
+<li>Duration: Version 2.7 update - 2025-11-19 03:59 (server time)</li>
+</ul>
+<p><strong>[Gifts of Ink Song] Limited-Time Login Event</strong></p>
+<p>During the event, log in to claim the day&#39;s login rewards from the event page.</p>
+<ul>
+<li>Duration: 2025-10-30 10:00 - 2025-11-19 03:59 (server time)</li>
+</ul>
+<h1>Other New Content</h1>
+<h2>New &#34;Tactical Hologram: Phantom Pain&#34; Challenge: Lioness of Glory</h2>
+<h2>New Sigil: &#34;Lighthouse and Blake Bloom&#34; Medal</h2>
+<h2>New Avatar: Lighthouse and Blake Bloom</h2>
+<p><em>Participate in the Combat Event &#34;Lament Recon: Solaris Soldier&#34; to obtain the &#34;Lighthouse and Blake Bloom&#34; Medal and the Sigil &#34;Lighthouse and Blake Bloom.&#34;</em></p>
+<p><strong>[Adjustments and Optimizations]</strong></p>
+<h1>Resonators &amp; Weapons</h1>
+<p>**</p>
+<h2>Resonator Ascension Planner:**</h2>
+<p><strong>Added &#34;Resonator Ascension Planner&#34;</strong></p>
+<ul>
+<li>
+<p>This feature is accessible via Terminal &gt; Resonators &gt; Ascension Planner.</p>
+</li>
+<li>
+<p>Ascension plans are generated based on your current highest SOL3 Phase. The planner has four sections: Resonator, Weapon, Echo, and Skill, with each section providing relevant upgrade recommendations and details. Moreover, by pressing the &#34;Go&#34; button, you can quickly track the locations where specific Materials are available.</p>
+</li>
+<li>
+<p>The Resonator panel on the Resonator Ascension Planner page lists the featured Resonators in the current version, along with the Resonators that will become available in the next version, whose Ascension plans will be partially released a short time ahead of the upcoming Featured Resonator Convene.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Terminal Swap:**</h2>
+<p><strong>Added &#34;Terminal Swap&#34; (for switching between Terminals)</strong></p>
+<ul>
+<li>
+<p>In addition to the current switchable features (Resonator Outfits, Weapon Projection, and Echo Aspect), Terminal Swap will be available.</p>
+</li>
+<li>
+<p>Switching to a different Terminal will change the appearance of the main interface and the Echo upgrade page and affect the Echo absorption animation, but will not affect a Resonator&#39;s stats.</p>
+</li>
+</ul>
+<p><em>Complete Main Quest Chapter II Act XI &#34;Dawn Breaks on Dark Tides&#34; in Version 2.7 to obtain a new Terminal: Daylight Flintstone.</em></p>
+<p>**</p>
+<h2>Weapons:**</h2>
+<p><strong>Optimized the display effects of some weapons on the upgrade menu.</strong></p>
+<ul>
+<li>
+<p>Both the blade and scabbard/sheath of a Sword will be shown on the page and in finer detail.</p>
+</li>
+<li>
+<p>Pistols and Gauntlets will be shown in pairs.</p>
+</li>
+</ul>
+<h1>Features</h1>
+<p>**</p>
+<h2>Gallery:**</h2>
+<p><strong>Added a new Gallery category: Enemies</strong></p>
+<ul>
+<li>
+<p>This Gallery category is accessible via Terminal &gt; Gallery &gt; Enemies.</p>
+</li>
+<li>
+<p>Defeat specific enemies for the first time to unlock the corresponding images. The defeated enemies are divided into four categories: Calamity Class, Overlord Class, Elite Class, and Common Class.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Journey Log:**</h2>
+<p><strong>Added &#34;Journey Log&#34;</strong></p>
+<ul>
+<li>
+<p>Press the button at the bottom left of the Quest menu to access this feature.</p>
+</li>
+<li>
+<p>The Journey Log lists all the Main Quests you&#39;ve completed. By pressing an image for a specific Main Quest, you can view an enlarged version of the image and a summary of the Main Quest.</p>
+</li>
+<li>
+<p>You can gain early access to Main Quest Chapter II via Next Stop: Rinascita (Main Quest Fast Track Event) and unlock the corresponding images (along with text) in the Journey Log.</p>
+</li>
+</ul>
+<p><em>More Quest types will be included in the Journey Log in future versions.</em></p>
+<h1>Challenges, Puzzles, &amp; Events</h1>
+<ul>
+<li>
+<p>Added a countdown mechanic for the Burning Waves state after it&#39;s been triggered (in Whimpering Wastes), to show how much longer it will last via a progress bar and percentage number.</p>
+</li>
+<li>
+<p>Added a level cap for &#34;Septimont Sonance Casket Collector&#34; and opened access to Levels 7, 8, and 9.</p>
+</li>
+<li>
+<p>Adjusted the availability of the &#34;Fast Travel&#34; button on the Banners Never Fall menu. The &#34;Fast Travel&#34; button will remain on the relevant screen if a challenge is completed without all the chests being claimed.</p>
+</li>
+<li>
+<p>Adjusted the description of the Trophy &#34;The Horn That Never Dies.&#34; This adjustment will not affect the requirement for obtaining this Trophy.</p>
+</li>
+<li>
+<p>Adjusted some of the images that accompany the Permanent Events.</p>
+</li>
+</ul>
+<h1>Controls</h1>
+<p>**</p>
+<h2>Keyboard and Mouse**</h2>
+<ul>
+<li>
+<p>Added skill icon layout self-adjustment. On screens where skill icons are displayed (as in combat scenes), the layout will be adjusted automatically based on the number of the current Resonator&#39;s skill icons and the current resolution.</p>
+</li>
+<li>
+<p>Adjusted the WASD movement speed while using the Map. The smaller the scale, the higher the movement speed.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Controller Mode**</h2>
+<ul>
+<li>
+<p>Added Controller: Cursor Magnetism to Map Settings. You can manually adjust the level of Cursor Magnetism.</p>
+</li>
+<li>
+<p>Adjusted the left joystick movement speed while using the map. The smaller the scale, the higher the movement speed.</p>
+</li>
+</ul>
+<p><em>Tip: When you connect a controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>
+<h1>UI</h1>
+<p>**</p>
+<h2>Quick Access**</h2>
+<p><strong>Added an &#34;Overworld&#34; button</strong></p>
+<ul>
+<li>
+<p>The &#34;Overworld&#34; button can be found on the top right corner of most in-game menus, next to the &#34;Exit&#34; button.</p>
+</li>
+<li>
+<p>Press this button to jump right back to the Overworld after you&#39;ve opened up several menus.</p>
+</li>
+<li>
+<p>This button is not available on menus where you need to edit or save settings.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Profile**</h2>
+<p><strong>Adjusted the functionality of the Profile panel</strong></p>
+<ul>
+<li>
+<p>The equipped Sigil is now displayed.</p>
+</li>
+<li>
+<p>Access to Resonator Showcase has been added.</p>
+</li>
+<li>
+<p>A slider has been added to the Avatar section of the Edit Profile menu, as in the Sigil and Title sections.</p>
+</li>
+<li>
+<p>The equipped Avatar, Sigil, or Title will jump to the first slot of their respective section of the Edit Profile menu.</p>
+</li>
+<li>
+<p>Previews of locked Titles and your progress in meeting the unlocking requirement are now accessible, and a message will appear when a new Title is unlocked.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Event Page**</h2>
+<p><strong>Updated the event menu</strong></p>
+<ul>
+<li>
+<p>Better categorization. Events will be divided into three categories: Featured Events, Recurring Events, and Permanent Events.</p>
+</li>
+<li>
+<p>Latest limited-time events will be shown first as Featured Events.</p>
+</li>
+<li>
+<p>Events that receive regular updates will appear under Recurring Events.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Co-op Mode**</h2>
+<p><strong>Adjusted display and functions in Co-op Mode</strong></p>
+<ul>
+<li>
+<p>When you are in Co-op Mode but no other players have joined you, a prompt will pop up to remind you that you&#39;re in Co-op Mode and will appear again at set times after you close it.</p>
+</li>
+<li>
+<p>In Co-op Mode, the recommended level for a specific domain will appear when you enter it.</p>
+</li>
+<li>
+<p>Added a &#34;Refresh&#34; button that allows you to refresh the list of players.</p>
+</li>
+<li>
+<p>Added a shortcut to Data Modify on the Echo upgrade menu (in addition to the already available Echo Enhancement and Echo Tuning), making it easier to modify the stats of the selected Echo.</p>
+</li>
+<li>
+<p>When an Echo is successfully modified, a prompt will appear letting you jump straight to that Echo&#39;s page and start upgrading.</p>
+</li>
+<li>
+<p>Adjusted the display of the screen that shows the details of a Weekly Challenge, and the prompt that appears after a challenge is completed now shows how many challenge attempts remain.</p>
+</li>
+<li>
+<p>Adjusted the functionality of the weapon Syntonization feature; with weapons that can only be Syntonized using specific Materials (weapons such as Bloodpact&#39;s Pledge), the Syntonize page now displays the state of such Materials.</p>
+</li>
+<li>
+<p>Added an icon in the bottom right corner of each Echo image in Nightmare Purification; the icon shows which of Sonata Sets the Echo belongs to.</p>
+</li>
+<li>
+<p>Optimized the display of the menu that lists the gameplay of a Trial Character in Ascendant Aces and added the &#34;Instructions&#34; section.</p>
+</li>
+<li>
+<p>Removed the &#34;Tower of Adversity&#34; icon on the top right corner of the Map and added a new icon that can be pressed to show all the Recurring Events and your progress in each of them.</p>
+</li>
+<li>
+<p>Added an image representing the weapon type to each of the selectable weapons when you open a weapon chest.</p>
+</li>
+<li>
+<p>When upgrading/tuning Echoes or upgrading weapons, the Returned Item image will not be shown on its own screen, but on the bottom left corner of the screen that appears upon completing an upgrade attempt.</p>
+</li>
+</ul>
+<h1>Graphics &amp; Performance</h1>
+<p>**</p>
+<h2>Graphics Settings**</h2>
+<p><strong>Adjusted Global Filter</strong></p>
+<ul>
+<li>
+<p>Global Filter will become available on mobile, in addition to the platforms where this feature is already available (PC/PS5™/Mac).</p>
+</li>
+<li>
+<p>This feature is accessible via Settings &gt; Graphics &gt; Image Display Mode. Change Image Display Mode to Global Filter and proceed to adjust the settings.</p>
+</li>
+<li>
+<p>In addition to the already available Color Palette, an &#34;Advanced&#34; button has been added. Under &#34;Advanced,&#34; you can find the existing color options (Brightness, Saturation, Contrast), along with many more new ones.</p>
+</li>
+<li>
+<p>Cutscenes and UI elements will not be affected by the filter.</p>
+</li>
+</ul>
+<p><strong>Added Eye Comfort</strong></p>
+<ul>
+<li>
+<p>Select Global Filter or Eye Comfort via Settings &gt; Graphics &gt; Image Display Mode. (※Please note that these two options are mutually exclusive. They cannot be enabled at the same time.)</p>
+</li>
+<li>
+<p>Eye Comfort comes with three options: Low Light, Bright Light, and Custom. With the Custom option, you can adjust color temperature, intensity, brightness, and texture intensity. Please adjust the settings according to your personal preferences.</p>
+</li>
+<li>
+<p>Cutscenes and UI elements will not be affected by Eye Comfort mode.</p>
+</li>
+</ul>
+<p><strong>Adjusted Auto FPS</strong></p>
+<ul>
+<li>
+<p>The Auto FPS option will be available on PC (in addition to the Android devices on which this option is already available).</p>
+</li>
+<li>
+<p>With this option enabled, if your device&#39;s utilization becomes too high (causing issues such as hardware overheating or unstable frame rates), the graphics settings will be lowered automatically; and when the device&#39;s utilization normalizes, the settings will revert to their original configurations.</p>
+</li>
+</ul>
+<p><em>If your device utilization becomes too high, a prompt will pop up to advise you to adjust your graphics settings or enable the Auto FPS function.</em></p>
+<ul>
+<li>
+<p>Added better environmental interactions on PC between certain skills and fallen leaves.</p>
+</li>
+<li>
+<p>The &#34;DLSS&#34; option under Graphics Quality is now enabled by default on devices that support this option.</p>
+</li>
+<li>
+<p>Better environmental interactions on PC between grass and Resonators when they sheath their blades.</p>
+</li>
+</ul>
+<h1>Audio</h1>
+<ul>
+<li>
+<p>Optimized the volume of the music for Resonator Ciaccona&#39;s Resonance Liberation relative to distance; optimized the sound effects of switching to another Resonator after the skill has been cast.</p>
+</li>
+<li>
+<p>Adjusted how Voicelines play when Resonators are moving, to reduce instances of Voicelines being cut off.</p>
+</li>
+<li>
+<p>Adjusted the background music in certain combat scenes to better reflect the strength of the enemies.</p>
+</li>
+<li>
+<p>Adjusted the background music and sound effects in certain scenes.</p>
+</li>
+</ul>
+<h1>Other</h1>
+<p>**</p>
+<h2>Cursor (Mouse)**</h2>
+<p><strong>Added the &#34;hidden cursor&#34; feature</strong></p>
+<ul>
+<li>
+<p>The cursor is now hidden by default on PC during text reading, cutscenes and dialogues.</p>
+</li>
+<li>
+<p>To reveal the cursor, move or click the mouse.</p>
+</li>
+<li>
+<p>The cursor will be hidden again if no mouse input for 5s.</p>
+</li>
+<li>
+<p>Adjusted the mechanics of how certain information becomes available in the Crossing Stars and Weapons sections of the Gallery. Following this adjustment, the information of the upcoming featured Resonators and Weapons will not be shown until the corresponding Convene events go live.</p>
+</li>
+<li>
+<p>Pressing the &#34;Go&#34; button for the Activity task &#34;Complete Synthesis once&#34; now opens the Synthesis page directly.</p>
+</li>
+<li>
+<p>Adjusted the maximum number of certain openable Materials, such as Morphable Overlord Class Echoes, that can be opened at once. Following the Version 2.7 update, the number will be increased to 999.</p>
+</li>
+<li>
+<p>Optimized the descriptions of certain in-game settings and functions.</p>
+</li>
+</ul>
+<p><strong>[Bug Fixes]</strong></p>
+<p>**</p>
+<h2>Resonators &amp; Weapons**</h2>
+<ul>
+<li>
+<p>Fixed an issue where the character models of Resonators Iuno and Augusta might appear blurry on some Android devices with the AMD FSR option enabled.</p>
+</li>
+<li>
+<p>Fixed an issue in Co-op mode where the special effects for Resonator Iuno&#39;s Resonance Liberation &#34;Beneath Lunar Tides&#34; or Heavy Attack &#34;Absolute Fullness&#34; would be imposed on other Resonators.</p>
+</li>
+<li>
+<p>Fixed a clipping issue that affected Resonator Iuno&#39;s character model when shown in Idle Animation: I.</p>
+</li>
+<li>
+<p>Fixed an issue in Co-op mode where the special effects for some of Resonator Augusta&#39;s skills would be imposed on other Resonators.</p>
+</li>
+<li>
+<p>Fixed an issue where the visual effects of Resonator Augusta&#39;s Outro Skill &#34;Battlesong of the Unyielding&#34; looked skewed.</p>
+</li>
+<li>
+<p>Fixed an issue in Dreams of Cindertides where switching Resonator Augusta off the field after casting Resonance Liberation &#34;Sublime is the Sun - Sunborne&#34; might prevent time from being added to the timer.</p>
+</li>
+<li>
+<p>Fixed an issue in Camera mode where Resonator Augusta&#39;s headgear was duplicated and overlapping.</p>
+</li>
+<li>
+<p>Fixed an issue that affected the sound effects being played when certain skills of Resonator Augusta hit an enemy.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Augusta&#39;s skill tutorial contained incorrect icons.</p>
+</li>
+<li>
+<p>Fixed an issue where some of Resonator Phrolova&#39;s motions on her Overview menu failed to display properly.</p>
+</li>
+<li>
+<p>Fixed an issue where enabling &#34;Ray Tracing&#34; might cause Resonators&#39; shadows to display abnormally while in motion.</p>
+</li>
+<li>
+<p>Fixed an issue where switching between Resonators when logged in to the game for the first time could cause the screen to flash.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Enemies &amp; Echoes**</h2>
+<ul>
+<li>Fixed an issue where the special effects for certain skills of the enemy Glacio Drake were missing.</li>
+</ul>
+<p>**</p>
+<h2>Features**</h2>
+<ul>
+<li>
+<p>Fixed an issue where the game might crash on some Android devices when logging in from the login screen.</p>
+</li>
+<li>
+<p>Fixed an issue where enabling the Frame Generation option on Android devices equipped with Qualcomm Snapdragon 8 Elite might cause the game to crash.</p>
+</li>
+<li>
+<p>Fixed an issue where the items &#34;Unfading Glory&#34; and &#34;Truth in Lies&#34; could not be recovered.</p>
+</li>
+<li>
+<p>Fixed an issue where a wrong &#34;Reminiscence - Glory of Blazing Crown&#34; icon appeared in the mail to claim this reward.</p>
+</li>
+<li>
+<p>Fixed an issue where the &#34;Lady of the Sea&#34; domain was marked as accessible in the &#34;Guidebook - Recurring Challenges - Boss Challenge&#34; menu when this domain had yet to be unlocked.</p>
+</li>
+<li>
+<p>Fixed an issue where the game might crash on PC with the Volumetric Fog option enabled (in Graphics &gt; Volumetric Fog).</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Challenges, Puzzles, &amp; Events**</h2>
+<ul>
+<li>
+<p>Fixed an issue where tracking Blobflies via Map &gt; Exploration Progress might cause the Blobfly icon to appear outside the Map.</p>
+</li>
+<li>
+<p>Fixed an issue where quest tacking was impossible while in the vicinity of a Nightmare Nest.</p>
+</li>
+<li>
+<p>Fixed an issue where the Trophy &#34;Bird Without Legs&#34; might not be granted after the requirement was met in the &#34;Over the Edge - Turbulent Surge&#34; challenge while in the &#34;Rinascita - Septimont&#34; area. If you encounter this issue, you can try this challenge again in Version 2.7 and claim the Trophy.</p>
+</li>
+<li>
+<p>Fixed an issue where certain NPC models in the &#34;Rinascita - Septimont&#34; area overlapped each other.</p>
+</li>
+<li>
+<p>Fixed an issue in Echo Challenge: Clear Cloud where transforming into Lottie Lost was impossible under certain circumstances in some parts of the &#34;Rinascita - Whisperwind Haven&#34; area, preventing task completion.</p>
+</li>
+<li>
+<p>Fixed an issue where certain scenery lighting was overly bright in the &#34;Rinascita - Septimont - Capitoline Hill&#34; area.</p>
+</li>
+<li>
+<p>Fixed an issue on PS5 where entering the Lost Beyond might cause some scenery models to behave abnormally.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Quests**</h2>
+<ul>
+<li>
+<p>Fixed an issue where Rover&#39;s character model floated in mid-air while sitting after Main Quest &#34;By Moon&#39;s Fated Light&#34; was completed.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Augusta&#39;s shadow failed to display properly during certain cutscenes in Main Quest &#34;By Sun&#39;s Burning Hand.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where following the conclusion of Main Quest &#34;By Sun&#39;s Burning Hand,&#34; some visuals in the skies above the &#34;Rinascita - Sanguis Plateaus - Murmurstown&#34; area failed to display properly.</p>
+</li>
+<li>
+<p>Fixed an issue in Main Quest &#34;Dreamcatchers in the Secret Gardens&#34; where certain player actions might result in the quest objectives not appearing on the quest panel, preventing task tracking.</p>
+</li>
+<li>
+<p>Fixed an issue where exiting Co-op Mode after entering it during Main Quest &#34;First Resonance&#34; might cause certain in-game features to become inaccessible.</p>
+</li>
+<li>
+<p>Fixed an issue where the quest guide for Side Quest &#34;Dreams of Cindertides&#34; contained errors.</p>
+</li>
+<li>
+<p>Fixed an issue where the character model of the NPC &#34;Dane&#34; was missing under certain circumstances, preventing the completion of Event Quest &#34;Love of Wisdom.&#34; If you encounter this issue, this Event Quest will be completed automatically when you log in to the game in Version 2.7.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Environment**</h2>
+<ul>
+<li>
+<p>Fixed an issue where enabling &#34;Ray Tracing&#34; might cause surface reflections or object shadows to display abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue in the PC version where the graphics quality might drop or reflections of objects on water surfaces might fail to display properly after Fast Traveling from the Sanguis Plateaus to Huanglong.</p>
+</li>
+<li>
+<p>Fixed an issue where climbing or walking in mid-air was possible in certain parts of the &#34;Huanglong - Port City of Guixu&#34; area.</p>
+</li>
+<li>
+<p>Adjusted the mechanics of how certain information becomes available in the Crossing Stars and Weapons sections of the Gallery. Following this adjustment, the information of the upcoming featured Resonators and Weapons will not be shown until the corresponding Convene events go live.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Augusta&#39;s skill tutorial contained incorrect icons.</p>
+</li>
+<li>
+<p>Fixed an issue where the items &#34;Unfading Glory&#34; and &#34;Truth in Lies&#34; could not be recovered.</p>
+</li>
+<li>
+<p>Fixed an issue where exiting Co-op Mode after entering it during Main Quest &#34;First Resonance&#34; might cause certain in-game features to become inaccessible.</p>
+</li>
+<li>
+<p>Fixed an issue where the character model of the NPC &#34;Dane&#34; was missing under certain circumstances, preventing the completion of Event Quest &#34;Love of Wisdom.&#34; If you encounter this issue, this Event Quest will be completed automatically when you log in to the game in Version 2.7.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-10-09T09:40:04+00:00</published>
+                    <updated>2025-10-09T09:40:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3401</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark</title>
