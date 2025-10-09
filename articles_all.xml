@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-09T09:40:04+00:00</updated>
+    <updated>2025-10-09T14:59:50+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,63 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3415</id>
+                    <title>V2.7 Wuthering Waves Battle Rush</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3415" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759939200000/ymw9n5l3ve0v511ojp-1759992971815.jpg" /></p>
+<p>Dear Rovers,</p>
+<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
+<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
+<p><strong>Content Requirement</strong></p>
+<p>Create your own combat video featuring Wuthering Waves.</p>
+<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
+<p><strong>How to Submit</strong></p>
+<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
+<p><strong>Submission Period</strong></p>
+<p>2025/10/09 - 2025/11/06 (PT)</p>
+<p><strong>Judging Criteria</strong></p>
+<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
+<p><strong>Notes</strong></p>
+<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
+<p>Deleted posts will not be qualified for entitlement of rewards.</p>
+<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
+<p>Entries listed below may be excluded from the judging process:</p>
+<ul>
+<li>
+<p>Works not created in accordance with Wuthering Waves</p>
+</li>
+<li>
+<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
+</li>
+<li>
+<p>Works submitted outside the event period</p>
+</li>
+<li>
+<p>Works created with the assistance of AI technology</p>
+</li>
+<li>
+<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
+</li>
+<li>
+<p>Works that have already been used for commercial purposes</p>
+</li>
+<li>
+<p>Works deemed inappropriate by the judges</p>
+</li>
+</ul>
+<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
+<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
+                    <published>2025-10-09T14:59:50+00:00</published>
+                    <updated>2025-10-09T14:59:50+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3412</id>
                     <title>Patch Notes for Version 2.7: Dawn Breaks on Dark Tides</title>
