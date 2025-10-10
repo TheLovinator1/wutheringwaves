@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Lament Recon: Solaris Soldier] Combat Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3431) [[json]](articles/3431.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/3419) [[json]](articles/3419.json)
 - [Wuthering Waves Fan Creation Event "Dawn Breaks on Dark Tides" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3417) [[json]](articles/3417.json)
 - [V2.7 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3415) [[json]](articles/3415.json)

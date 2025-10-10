@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-09T17:14:39+00:00</updated>
+    <updated>2025-10-10T14:14:34+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,43 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3431</id>
+                    <title>[Lament Recon: Solaris Soldier] Combat Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3431" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760025600000/m96vgfxjjtjd3hklc0-1760076855378.jpg" /></p>
+<p>To help prevent another Waveworn Phenomenon on the scale of a Dark Tide, the Black Shores and Rinascita have come together on a joint project: to conduct simulations using a hologram device in regions vulnerable to the Threnodian&#39;s power. Thus, you and your reliable companions have been invited to help test this unique device.</p>
+<h1>Duration</h1>
+<p>2025-10-11 10:00 - 2025-11-19 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x800, &#34;&#34;Lighthouse and Blake Bloom&#34;&#34; Medal x1 (Sigil), Lighthouse and Blake Bloom x1 (Avatar), Modifier x6, Premium Tuner x100, Forgery Premium Supply x9, Premium Enclosure Tank x12, Shell Credit x380000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and unlock the Resonance Nexus in Ragunna City during Main Quest &#34;&#34;The Sacred Breeze So Often Breathes.&#34;&#34;</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>Choose a participating Resonator and dive into simulated combat drills! Under a special tactical view, you&#39;ll direct them as they fend off waves of enemies with brand-new weapons. As you battle, spend the Enhancement Modules gained to power up your Resonator or improve their weapons. To clear a drill, you must survive every wave of attack.</p>
+</li>
+<li>
+<p>Clearing a combat drill for the first time grants you Enhancement Modules, which can be used to unlock various buffs on the Talents page.</p>
+</li>
+<li>
+<p>Complete Milestone Tasks and Achievement Tasks in combat drills to obtain Simulation Data. When the total Simulation Data point meets the requirement, you will receive the event-exclusive rewards: &#34;&#34;Lighthouse and Blake Bloom&#34;&#34; Medal (Sigil), Lighthouse and Blake Bloom (Avatar).</p>
+</li>
+<li>
+<p>Any unclaimed rewards will be sent via Mail the next time you log in within 30 days after the event ends.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-10-10T14:14:34+00:00</published>
+                    <updated>2025-10-10T14:14:34+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3419</id>
                     <title>Wuthering Waves Fan Creation Event Winners Reveal</title>
