@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-10T14:14:34+00:00</updated>
+    <updated>2025-10-13T12:08:44+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3442</id>
+                    <title>Post-Lament Anthropocene: Enemies — Threnodian: Leviathan</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3442" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>The &#34;divinity&#34; who wields the power to merge. A Threnodian rooted in the civilization of Rinascita.</p>
+<p>Its frequency, once bound by the Sentinel&#39;s shackles, was reborn through the Gem. Taking the form of the once Blessed Maiden, Fleurdelys, It made Itself a vessel anew.</p>
+<p>Born of the yearning for life and sustained by the eternal dread that haunts all living beings, It gazes unceasingly, silent as the abyss.</p>
+<p>All heretics and non-believers shall stand before Its judgment.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/ctimdkkqwj4cwha3g8-1760328328794.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/ulf184edug3q6moolw-1760328343881.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/ynb6gfgdspe8snyvfi-1760328410949.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/w6gikcd65zgt1kxihp-1760328433159.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/uqnaodp6nyznursrkp-1760328453742.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/m14fk5b2mzjigr64dl-1760328478022.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760284800000/kbjugj57tjz2v4qce2-1760328502245.jpg" /></p>]]></content>
+                    <published>2025-10-13T12:08:44+00:00</published>
+                    <updated>2025-10-13T12:08:44+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3431</id>
                     <title>[Lament Recon: Solaris Soldier] Combat Event</title>
@@ -1377,36 +1396,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758729600000/wdimcp4fpj5nragz5a-1758802328128.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758729600000/690qcxi9ssxxfwli66-1758802349188.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758729600000/uxrathv1d2485xk367-1758802374904.jpg" /></p>]]></content>
                     <published>2025-09-25T20:14:46+00:00</published>
                     <updated>2025-09-25T20:14:46+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3295</id>
-                    <title>[Gifts of the Moon Roamer] Event Details</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3295" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1757952000000/xtwawddbkby07zpkm9-1758018536005.jpg" /></p>
-<h1>Duration</h1>
-<p>2025-09-17 10:00 - 2025-10-08 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Radiant Tide x10, Forging Tide x10</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8.</p>
-<h1>Event Details</h1>
-<ul>
-<li>
-<p>Log in during the event period to claim the rewards.</p>
-</li>
-<li>
-<p>Rewards for this event will NOT be reissued via in-game mail once the event ends. Please pay close attention to the event time and claim the rewards beforehand.</p>
-</li>
-</ul>]]></content>
-                    <published>2025-09-16T18:29:12+00:00</published>
-                    <updated>2025-09-16T18:29:12+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
