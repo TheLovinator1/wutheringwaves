@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-13T12:08:44+00:00</updated>
+    <updated>2025-10-15T15:47:10+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,43 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3447</id>
+                    <title>[Septimont Weather Forecast] Featured Platforming Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3447" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1760457600000/x7v29irjjxivu29n5u-1760514412759.jpg" /></p>
+<p>KU-Ryan, a Black Shores robot, is currently looking for help in gathering Surveillance Datasets on Waveworn Phenomena in Septimont. Interested individuals are welcome to speak with him.</p>
+<h1>Duration</h1>
+<p>2025-10-16 04:00 - 2025-10-30 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Advanced Enclosure Tank x42, Forgery Advanced Supply x14, Advanced Resonance Potion x20, Advanced Energy Core x20, Advanced Sealed Tube x16, Shell Credit x420000</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and successfully &#34;&#34;collapse the experimental unit&#34;&#34; during Main Quest Chapter II Act V &#34;&#34;Shadow of Glory.&#34;&#34;</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>During the event, you need to activate challenges across different locations.</p>
+</li>
+<li>
+<p>After a challenge starts, Surveillance Datasets will appear. Try to collect as many Surveillance Datasets as possible within the time limit by utilizing various modules available in the challenge.</p>
+</li>
+<li>
+<p>When all the datasets have been collected or when time runs out, you will receive rewards based on the points obtained.</p>
+</li>
+<li>
+<p>Any unclaimed rewards will be sent via Mail the next time you log in within 30 days after the event ends.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-10-15T15:47:10+00:00</published>
+                    <updated>2025-10-15T15:47:10+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3442</id>
                     <title>Post-Lament Anthropocene: Enemies — Threnodian: Leviathan</title>
