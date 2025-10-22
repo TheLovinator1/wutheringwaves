@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3462) [[json]](articles/3462.json)
 - [[Septimont Weather Forecast] Featured Platforming Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3447) [[json]](articles/3447.json)
 - [Post-Lament Anthropocene: Enemies — Threnodian: Leviathan](https://wutheringwaves.kurogames.com/en/main/news/detail/3442) [[json]](articles/3442.json)
 - [[Lament Recon: Solaris Soldier] Combat Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3431) [[json]](articles/3431.json)
