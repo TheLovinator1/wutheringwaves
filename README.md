@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/3478) [[json]](articles/3478.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3462) [[json]](articles/3462.json)
 - [[Septimont Weather Forecast] Featured Platforming Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3447) [[json]](articles/3447.json)
 - [Post-Lament Anthropocene: Enemies — Threnodian: Leviathan](https://wutheringwaves.kurogames.com/en/main/news/detail/3442) [[json]](articles/3442.json)

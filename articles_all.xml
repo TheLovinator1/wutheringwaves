@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-22T16:38:21+00:00</updated>
+    <updated>2025-10-24T17:42:24+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3478</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Qiuyuan</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3478" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Qiuyuan, a blade drawn at your word. Wield me as you will.&#34;—Qiuyuan</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/gv8n6b934mf2mz3uvc-1761298742895.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/r1yv3oe8cyd6hahsu8-1761298757798.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/gup38m8w2a6008z9mw-1761298774821.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/apo55zrsdj7p6uqbdp-1761298787096.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/uaw1lu5iumlvzbmghw-1761298818329.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/i8c7u155blgguummx1-1761298835479.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/kq51iugw3vpqq9iefp-1761298899415.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/y6juiyc3z96e5kb8xh-1761313313414.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/2z5b7strfvpod1igza-1761298929525.jpg" /></p>]]></content>
+                    <published>2025-10-24T17:42:24+00:00</published>
+                    <updated>2025-10-24T17:42:24+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3462</id>
                     <title>[Bountiful Crescendo] Limited-Time Material Double Drop Event</title>
