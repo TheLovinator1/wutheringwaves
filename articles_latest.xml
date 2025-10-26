@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-24T17:42:24+00:00</updated>
+    <updated>2025-10-24T17:47:25+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3479</id>
+                    <title>Profile Reveal | Bambooscape — Qiuyuan</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3479" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Qiuyuan</h1>
+<p>Former senior agent of Mingting&#39;s Internal Security Agency.</p>
+<p>Though enmity filled his younger days, loyalty defined his later years. However, scapegoated for a murder, he is now but a blind swordsman wandering the world alone.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/49hnq56kq025754d05-1761299130631.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/1fwy45l6pw6goinf6a-1761299142121.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/gy448titzfwzf8fiiw-1761299157911.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/w7sdo42zuglj2kwggd-1761299172131.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/bjpqk198t5vov5nq70-1761309311110.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/0c6p0lyijhqreomp0w-1761299198366.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/g0zqjbuuardco7obab-1761299213050.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/12be0mlfq7kkfih9sv-1761299224595.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761235200000/xwht5oaj0b7xgtdg82-1761299232057.jpg" /></p>]]></content>
+                    <published>2025-10-24T17:47:25+00:00</published>
+                    <updated>2025-10-24T17:47:25+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3478</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Qiuyuan</title>
@@ -1375,23 +1394,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/er0yd5cdzol99xmumu-1759131180012.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/v56mc4o1so7og0ag2p-1759131196159.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/w1834cvzgnrcht3i4v-1759131235227.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/8or4vwngwbib48hvvk-1759131249011.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/qk1fv74wf3hmh26ne6-1759131278144.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/937uohn0da3aheuric-1759131319053.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/j20l94acylf62kg45f-1759131348717.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/xacvu68owp1rkz4omj-1759131370715.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/8d5gvq2uv0hks04883-1759131383148.jpg" /></p>]]></content>
                     <published>2025-09-29T15:36:47+00:00</published>
                     <updated>2025-09-29T15:36:47+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3332</id>
-                    <title>Wuthering Waves Update Content | Version 2.7 &#34;Dawn Breaks on Dark Tides&#34; Planned for Release on October 9 (UTC+8)</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3332" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Wuthering Waves Update Content | Version 2.7 &#34;Dawn Breaks on Dark Tides&#34; Planned for Release on October 9 (UTC+8)</p>
-<p>Here&#39;s the event calendar for Version 2.7. Check it out for a quick overview of the event schedule! Full details about the update content can be viewed on our official website—be sure to take a look!</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/y05rhuvx8g8b4st2cr-1759029138825.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/5vaqvcrc0ddoq4cx00-1759045082273.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/xi4cre8h2pk6gati07-1759029185482.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1758988800000/jma8h5dvy5i272ssdm-1759029291176.jpg" /></p>]]></content>
-                    <published>2025-09-28T11:15:49+00:00</published>
-                    <updated>2025-09-28T11:15:49+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
