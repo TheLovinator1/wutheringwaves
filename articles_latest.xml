@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-24T17:47:25+00:00</updated>
+    <updated>2025-10-27T18:04:26+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3484</id>
+                    <title>Upcoming Events in Wuthering Waves Version 2.7</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3484" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.7. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761494400000/tv5e3jifau3ijn7x70-1761559290803.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761494400000/suw4txapeqdeib0h1f-1761559310439.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761494400000/lbm82jcqcassd7r4o0-1761559439213.jpg" /></p>]]></content>
+                    <published>2025-10-27T18:04:26+00:00</published>
+                    <updated>2025-10-27T18:04:26+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3479</id>
                     <title>Profile Reveal | Bambooscape — Qiuyuan</title>
@@ -1378,22 +1394,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/31i0hkkiy3gnuvm1n4-1759131634556.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/eondizkr4zq9zxtqm6-1759131646976.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/swy0ob0jw0ovvrrwga-1759131664067.jpg" /></p>]]></content>
                     <published>2025-09-29T15:41:33+00:00</published>
                     <updated>2025-09-29T15:41:33+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3336</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Galbrena</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3336" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;Galbrena. The Fiend of Ever-burning Flame. The Discord Slayer. Call me what you want. Just point me to the monsters.&#34;—Galbrena</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/er0yd5cdzol99xmumu-1759131180012.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/v56mc4o1so7og0ag2p-1759131196159.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/w1834cvzgnrcht3i4v-1759131235227.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/8or4vwngwbib48hvvk-1759131249011.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/qk1fv74wf3hmh26ne6-1759131278144.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/937uohn0da3aheuric-1759131319053.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/j20l94acylf62kg45f-1759131348717.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/xacvu68owp1rkz4omj-1759131370715.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759075200000/8d5gvq2uv0hks04883-1759131383148.jpg" /></p>]]></content>
-                    <published>2025-09-29T15:36:47+00:00</published>
-                    <updated>2025-09-29T15:36:47+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

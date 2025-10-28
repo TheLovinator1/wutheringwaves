@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Upcoming Events in Wuthering Waves Version 2.7](https://wutheringwaves.kurogames.com/en/main/news/detail/3484) [[json]](articles/3484.json)
 - [Profile Reveal | Bambooscape — Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/3479) [[json]](articles/3479.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/3478) [[json]](articles/3478.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3462) [[json]](articles/3462.json)
