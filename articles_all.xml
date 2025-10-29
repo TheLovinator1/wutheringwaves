@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-29T15:35:42+00:00</updated>
+    <updated>2025-10-29T16:18:48+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,119 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3523</id>
+                    <title>[Freeze Frame: Action Highlights] Combat Photography Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3523" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761667200000/mng4tbka6xst41ypkj-1761725914978.jpg" /></p>
+<p>Behold! Wutherium Film Studio Special Feature: Resonators in Combat Edition has officially launched!</p>
+<p>Capture Resonators&#39; exhilarating moments during combat, then submit the photos to Fulmine and C-MOSS to earn plenty of rewards!</p>
+<h1>Duration</h1>
+<p>2025-10-30 10:00 - 2025-11-19 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Premium Resonance Potion x15, Premium Energy Core x10, Premium Sealed Tube x10, Forgery Advanced Supply x35, Advanced Enclosure Tank x70, Shell Credit x280000</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and complete Main Quest Chapter II Prologue &#34;&#34;Through the Sea Thou Break.&#34;&#34;</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>During the event, you will be given different daily Freeze Frame challenges, each with Normal and Hard modes. Complete Normal Mode to unlock Hard Mode for that challenge and the Normal Mode for the next Freeze Frame challenge.</p>
+</li>
+<li>
+<p>Each Freeze Frame challenge will center on a specific Resonator. Your goal is to capture highlights of these Resonators in combat by meeting specific objectives. Completing these tasks earns you rewards.</p>
+</li>
+<li>
+<p>Any unclaimed rewards will be sent via Mail the next time you log in within 30 days after the event ends.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-10-29T16:18:48+00:00</published>
+                    <updated>2025-10-29T16:18:48+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3516</id>
+                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3516" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761667200000/8liq7pqi13u6nrqe86-1761725602807.jpg" /></p>
+<p>During the event, 5-Star Weapon: Blazing Justice, 4-Star Weapons: Endless Collapse, Hollow Mirage, and Dauntless Evernight receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2025-10-30 10:00 - 2025-11-19 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Blazing Justice.</p>
+</li>
+<li>
+<p>Featured Weapon Blazing Justice is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-10-29T16:13:41+00:00</published>
+                    <updated>2025-10-29T16:13:41+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3509</id>
+                    <title>[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3509" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761667200000/d23ofj7bdqidvomcuz-1761725284376.jpg" /></p>
+<p>During the event, 5-Star Resonator: Zani, 4-Star Resonators: Yangyang, Taoqi, and Danjin receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2025-10-30 10:00 - 2025-11-19 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Between Light and Shadow] is a Featured Resonator Convene event banner. Use Radiant Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Zani is exclusive to the [Between Light and Shadow] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Zani&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2025-10-29T16:08:18+00:00</published>
+                    <updated>2025-10-29T16:08:18+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3501</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Emerald Sentence</title>
