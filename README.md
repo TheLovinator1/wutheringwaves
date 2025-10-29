@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Emerald Sentence](https://wutheringwaves.kurogames.com/en/main/news/detail/3501) [[json]](articles/3501.json)
+- [[Wanderer Knows No Far and Near] Featured Resonator Convene: Boosted Drop Rate for Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/3494) [[json]](articles/3494.json)
 - [Upcoming Events in Wuthering Waves Version 2.7](https://wutheringwaves.kurogames.com/en/main/news/detail/3484) [[json]](articles/3484.json)
 - [Profile Reveal | Bambooscape — Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/3479) [[json]](articles/3479.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/3478) [[json]](articles/3478.json)
