@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Tidal Photography: Capture Your Action Highlights of Resonators!](https://wutheringwaves.kurogames.com/en/main/news/detail/3532) [[json]](articles/3532.json)
 - [[Freeze Frame: Action Highlights] Combat Photography Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3523) [[json]](articles/3523.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice](https://wutheringwaves.kurogames.com/en/main/news/detail/3516) [[json]](articles/3516.json)
 - [[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani](https://wutheringwaves.kurogames.com/en/main/news/detail/3509) [[json]](articles/3509.json)

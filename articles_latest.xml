@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-10-29T16:18:48+00:00</updated>
+    <updated>2025-10-29T18:55:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,39 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3532</id>
+                    <title>Tidal Photography: Capture Your Action Highlights of Resonators!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3532" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Freeze Frame: Action Highlights - Combat Photography Event is now underway!</p>
+<p>Capture Resonators&#39; exhilarating moments during combat with your camera!</p>
+<h1>Duration</h1>
+<p>From now until 2025-11-19 23:59 (UTC+8)</p>
+<h1>How to Submit</h1>
+<p>You can submit your work in the following ways:</p>
+<ol>
+<li>
+<p>Use the [Settings - Camera] feature in Wuthering Waves or take a screenshot to capture in-game footage. Apply your preferred filter and frame the Resonators&#39; battle moments.</p>
+</li>
+<li>
+<p>Join the &#34;Freeze Frame: Action Highlights&#34; Combat Photography Event. Choose your desired Resonator and use the Slow Motion Gadget to capture their battle scenes.</p>
+</li>
+</ol>
+<p>Post your work with both hashtags #WutheringWaves and #WuWaMoment included and join the event.</p>
+<h1>Rewards</h1>
+<p>We&#39;ll select winners based on the quality and statistics of the entries. Winners will receive Astrites and cash incentives!</p>
+<p>Check the image for more detailed info and proceed to submit: https://forms.gle/8foXGMp3p9pzj1Tb9</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1761667200000/e6ytovb1kgx824jkwo-1761735233381.jpg" /></p>]]></content>
+                    <published>2025-10-29T18:55:04+00:00</published>
+                    <updated>2025-10-29T18:55:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3523</id>
                     <title>[Freeze Frame: Action Highlights] Combat Photography Event</title>
@@ -1314,45 +1347,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-10-06T15:46:30+00:00</published>
                     <updated>2025-10-06T15:46:30+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3387</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lux &amp; Umbra</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3387" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1759680000000/twbimhh2yaz2tgy8ho-1759735717268.jpg" /></p>
-<p>During the event, 5-Star Weapon: Lux &amp; Umbra, 4-Star Weapons: Novaburst, Helios Cleaver, and Fusion Accretion receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.7 update - 2025-10-30 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to Convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Lux &amp; Umbra.</p>
-</li>
-<li>
-<p>Featured Weapon Lux &amp; Umbra is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-10-06T15:28:59+00:00</published>
-                    <updated>2025-10-06T15:28:59+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
