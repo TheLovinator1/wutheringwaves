@@ -14,7 +14,6 @@ import aiofiles
 import httpx
 import markdown
 import mdformat
-from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter  # pyright: ignore[reportMissingTypeStubs]
 from markupsafe import Markup, escape
 
@@ -27,6 +26,36 @@ logging.basicConfig(
 )
 
 logger: logging.Logger = logging.getLogger("wutheringwaves")
+
+# Compile regex patterns for better performance
+DISCORD_LINK_PATTERN = re.compile(r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)')
+SQUARE_BRACKETS_PATTERN = re.compile(r"^\s*\[([^\]]+)\]\s*$", re.MULTILINE)
+BALL_PATTERN = re.compile(r"●\s*(.*?)\n", re.MULTILINE)
+REFERENCE_MARK_PATTERN = re.compile(r"^\s*※\s*(\S.*?)\s*$", re.MULTILINE)
+ESCAPED_STAR_PATTERN = re.compile(r"\\\*(.*)", re.MULTILINE)
+NON_BREAKING_SPACE_PATTERN = re.compile(r"[\xa0\u2002\u2003\u2009]")  # Various nbsp characters
+EMPTY_CODE_BLOCK_PATTERN = re.compile(r"```[ \t]*\n[ \t]*\n```")
+
+# Circled number patterns - precompile for better performance
+CIRCLED_NUMBERS = {
+    "①": ("1", re.compile(r"^\s*①\s*(.*?)\s*$", re.MULTILINE)),
+    "②": ("2", re.compile(r"^\s*②\s*(.*?)\s*$", re.MULTILINE)),
+    "③": ("3", re.compile(r"^\s*③\s*(.*?)\s*$", re.MULTILINE)),
+    "④": ("4", re.compile(r"^\s*④\s*(.*?)\s*$", re.MULTILINE)),
+    "⑤": ("5", re.compile(r"^\s*⑤\s*(.*?)\s*$", re.MULTILINE)),
+    "⑥": ("6", re.compile(r"^\s*⑥\s*(.*?)\s*$", re.MULTILINE)),
+    "⑦": ("7", re.compile(r"^\s*⑦\s*(.*?)\s*$", re.MULTILINE)),
+    "⑧": ("8", re.compile(r"^\s*⑧\s*(.*?)\s*$", re.MULTILINE)),
+    "⑨": ("9", re.compile(r"^\s*⑨\s*(.*?)\s*$", re.MULTILINE)),
+    "⑩": ("10", re.compile(r"^\s*⑩\s*(.*?)\s*$", re.MULTILINE)),
+}
+
+# Markdown converter instance - reuse instead of creating for each article
+MARKDOWN_CONVERTER = MarkdownConverter(
+    heading_style="ATX",
+    strip=["pre", "code"],
+)
+
 
 
 async def fetch_json(url: str, client: httpx.AsyncClient) -> dict[Any, Any] | None:
@@ -325,13 +354,7 @@ def format_discord_links(md: str) -> str:
 
     # Before: [Link](https://example.com "Link")
     # After: [Link](https://example.com)
-    formatted_links_md: str = re.sub(
-        pattern=r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)',
-        repl=repl,
-        string=md,
-    )
-
-    return formatted_links_md
+    return DISCORD_LINK_PATTERN.sub(repl, md)
 
 
 def handle_stars(text: str) -> str:
@@ -411,91 +434,38 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         if not article_content:
             article_content = article_title
 
-        converter: MarkdownConverter = MarkdownConverter(
-            heading_style="ATX",
-            strip=["pre", "code"],
-        )
-        article_content_converted = str(converter.convert(article_content).strip())  # type: ignore  # noqa: PGH003
+        article_content_converted = str(MARKDOWN_CONVERTER.convert(article_content).strip())  # type: ignore  # noqa: PGH003
 
         if not article_content_converted:
             msg: str = f"Article content is empty for article ID: {article_id}"
             logger.warning(msg)
             article_content_converted = "No content available"
 
-        # Remove non-breaking spaces
-        xa0_removed: str = re.sub(
-            r"\xa0", " ", article_content_converted
-        )  # Replace non-breaking spaces with regular spaces
-
-        # Replace non-breaking spaces with regular spaces
-        non_breaking_space_removed: str = xa0_removed.replace(
-            " ",  # noqa: RUF001
-            " ",
-        )
-
-        # Remove code blocks that has only spaces and newlines inside them
-        empty_code_block_removed: str = re.sub(
-            pattern=r"```[ \t]*\n[ \t]*\n```",
-            repl="",
-            string=non_breaking_space_removed,  # type: ignore  # noqa: PGH003
-        )
-
+        # Combine non-breaking space replacements in one pass
+        content = NON_BREAKING_SPACE_PATTERN.sub(" ", article_content_converted)
+        
+        # Remove empty code blocks
+        content = EMPTY_CODE_BLOCK_PATTERN.sub("", content)
+        
         # [How to Update] should be # How to Update
-        square_brackets_converted: str = re.sub(
-            pattern=r"^\s*\[([^\]]+)\]\s*$",
-            repl=r"# \1",
-            string=empty_code_block_removed,  # type: ignore  # noqa: PGH003
-            flags=re.MULTILINE,
-        )
-
-        stars_converted: str = handle_stars(square_brackets_converted)
-
-        # If `● Word` is in the content, replace it `## Word` instead with regex
-        ball_converted: str = re.sub(
-            pattern=r"●\s*(.*?)\n",
-            repl=r"\n\n## \1\n\n",
-            string=stars_converted,
-            flags=re.MULTILINE,
-        )
-
-        # If `※ Word` is in the content, replace it `* word * ` instead with regex
-        reference_mark_converted: str = re.sub(
-            pattern=r"^\s*※\s*(\S.*?)\s*$",
-            repl=r"\n\n*\1*\n\n",
-            string=ball_converted,
-            flags=re.MULTILINE,
-        )
-
-        # Replace circled Unicode numbers (①-⑳) with plain numbered text (e.g., "1. ", "2. ", ..., "20. ")
-        number_symbol: dict[str, str] = {
-            "①": "1",
-            "②": "2",
-            "③": "3",
-            "④": "4",
-            "⑤": "5",
-            "⑥": "6",
-            "⑦": "7",
-            "⑧": "8",
-            "⑨": "9",
-            "⑩": "10",
-        }
-        for symbol, number in number_symbol.items():
-            reference_mark_converted = re.sub(
-                pattern=rf"^\s*{re.escape(symbol)}\s*(.*?)\s*$",
-                repl=rf"\n\n{number}. \1\n\n",
-                string=reference_mark_converted,
-                flags=re.MULTILINE,
-            )
-
-        space_before_star_added: str = re.sub(
-            pattern=r"\\\*(.*)",
-            repl=r"* \1",
-            string=reference_mark_converted,
-            flags=re.MULTILINE,
-        )
+        content = SQUARE_BRACKETS_PATTERN.sub(r"# \1", content)
+        
+        content = handle_stars(content)
+        
+        # If `● Word` is in the content, replace it `## Word` instead
+        content = BALL_PATTERN.sub(r"\n\n## \1\n\n", content)
+        
+        # If `※ Word` is in the content, replace it `* word * ` instead
+        content = REFERENCE_MARK_PATTERN.sub(r"\n\n*\1*\n\n", content)
+        
+        # Replace circled Unicode numbers with plain numbered text (using precompiled patterns)
+        for number, pattern in CIRCLED_NUMBERS.values():
+            content = pattern.sub(rf"\n\n{number}. \1\n\n", content)
+        
+        content = ESCAPED_STAR_PATTERN.sub(r"* \1", content)
 
         markdown_formatted: str = mdformat.text(  # type: ignore  # noqa: PGH003
-            space_before_star_added,
+            content,
             options={
                 "number": True,  # Allow 1., 2., 3. numbering
             },
@@ -556,7 +526,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         html_file: Path = html_dir / f"{article_id}.html"
         if not html_file.is_file():
             with html_file.open("w", encoding="utf-8") as f:
-                f.write(str(BeautifulSoup(html, "html.parser").prettify()))
+                f.write(html)
             logger.info("Saved HTML for article %s to %s", article_id, html_file)
 
             # Set the file timestamp
@@ -588,7 +558,30 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
     return atom_feed
 
 
-def create_atom_feeds(output_dir: Path) -> None:
+def load_all_articles(output_dir: Path) -> list[dict[Any, Any]]:
+    """Load all article JSON files from the output directory.
+    
+    Args:
+        output_dir (Path): The directory containing article JSON files.
+        
+    Returns:
+        list[dict[Any, Any]]: List of article data dictionaries.
+    """
+    articles: list[dict[Any, Any]] = []
+    for file in output_dir.glob("*.json"):
+        if file.stem == "ArticleMenu":
+            continue
+        with file.open("r", encoding="utf-8") as f:
+            try:
+                article_data: dict[Any, Any] = json.load(f)
+                articles.append(article_data)
+            except json.JSONDecodeError:
+                logger.exception("Error decoding JSON from %s", file)
+                continue
+    return articles
+
+
+def create_atom_feeds(articles: list[dict[Any, Any]], output_dir: Path) -> None:
     """Create Atom feeds for the articles.
 
     Current feeds are:
@@ -596,28 +589,16 @@ def create_atom_feeds(output_dir: Path) -> None:
         - All articles
 
     Args:
+        articles (list[dict[Any, Any]]): List of article data.
         output_dir (Path): The directory to save the RSS feed files.
 
     """
-    menu_data: list[dict[Any, Any]] = []
-    # Load data from all the articles
-    for file in output_dir.glob("*.json"):
-        if file.stem == "ArticleMenu":
-            continue
-        with file.open("r", encoding="utf-8") as f:
-            try:
-                article_data: dict[Any, Any] = json.load(f)
-                menu_data.append(article_data)
-            except json.JSONDecodeError:
-                logger.exception("Error decoding JSON from %s", file)
-                continue
-
-    if not menu_data:
-        logger.error("Can't create Atom feeds, no articles found in %s", output_dir)
+    if not articles:
+        logger.error("Can't create Atom feeds, no articles provided")
         return
 
     articles_sorted: list[dict[Any, Any]] = sorted(
-        menu_data,
+        articles,
         key=lambda x: get_file_timestamp(x.get("createTime", "")),
         reverse=True,
     )
@@ -803,9 +784,12 @@ async def main() -> Literal[1, 0]:
         else:
             logger.info("No new articles to download")
 
+    # Load all articles once for efficient processing
+    all_articles = load_all_articles(output_dir)
+    
     add_data_to_articles(menu_data, output_dir)
     add_articles_to_readme(menu_data)
-    create_atom_feeds(output_dir)
+    create_atom_feeds(all_articles, output_dir)
     batch_process_timestamps(menu_data, output_dir)
 
     logger.info("Script finished. Articles are in the '%s' directory.", output_dir)
