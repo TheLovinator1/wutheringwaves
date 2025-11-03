@@ -50,6 +50,12 @@ CIRCLED_NUMBERS = {
     "⑩": ("10", re.compile(r"^\s*⑩\s*(.*?)\s*$", re.MULTILINE)),
 }
 
+# Markdown converter instance - reuse instead of creating for each article
+MARKDOWN_CONVERTER = MarkdownConverter(
+    heading_style="ATX",
+    strip=["pre", "code"],
+)
+
 
 
 async def fetch_json(url: str, client: httpx.AsyncClient) -> dict[Any, Any] | None:
@@ -428,11 +434,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         if not article_content:
             article_content = article_title
 
-        converter: MarkdownConverter = MarkdownConverter(
-            heading_style="ATX",
-            strip=["pre", "code"],
-        )
-        article_content_converted = str(converter.convert(article_content).strip())  # type: ignore  # noqa: PGH003
+        article_content_converted = str(MARKDOWN_CONVERTER.convert(article_content).strip())  # type: ignore  # noqa: PGH003
 
         if not article_content_converted:
             msg: str = f"Article content is empty for article ID: {article_id}"
