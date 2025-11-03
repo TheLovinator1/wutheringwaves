@@ -14,7 +14,6 @@ import aiofiles
 import httpx
 import markdown
 import mdformat
-from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter  # pyright: ignore[reportMissingTypeStubs]
 from markupsafe import Markup, escape
 
@@ -27,6 +26,21 @@ logging.basicConfig(
 )
 
 logger: logging.Logger = logging.getLogger("wutheringwaves")
+
+# Compile regex patterns for better performance
+DISCORD_LINK_PATTERN = re.compile(r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)')
+SQUARE_BRACKETS_PATTERN = re.compile(r"^\s*\[([^\]]+)\]\s*$", re.MULTILINE)
+BALL_PATTERN = re.compile(r"●\s*(.*?)\n", re.MULTILINE)
+REFERENCE_MARK_PATTERN = re.compile(r"^\s*※\s*(\S.*?)\s*$", re.MULTILINE)
+ESCAPED_STAR_PATTERN = re.compile(r"\\\*(.*)", re.MULTILINE)
+NON_BREAKING_SPACE_PATTERN = re.compile(r"[\xa0 ]")  # noqa: RUF001
+EMPTY_CODE_BLOCK_PATTERN = re.compile(r"```[ \t]*\n[ \t]*\n```")
+
+# Circled number patterns
+CIRCLED_NUMBERS = {
+    "①": "1", "②": "2", "③": "3", "④": "4", "⑤": "5",
+    "⑥": "6", "⑦": "7", "⑧": "8", "⑨": "9", "⑩": "10",
+}
 
 
 async def fetch_json(url: str, client: httpx.AsyncClient) -> dict[Any, Any] | None:
@@ -325,13 +339,7 @@ def format_discord_links(md: str) -> str:
 
     # Before: [Link](https://example.com "Link")
     # After: [Link](https://example.com)
-    formatted_links_md: str = re.sub(
-        pattern=r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)',
-        repl=repl,
-        string=md,
-    )
-
-    return formatted_links_md
+    return DISCORD_LINK_PATTERN.sub(repl, md)
 
 
 def handle_stars(text: str) -> str:
@@ -422,80 +430,36 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             logger.warning(msg)
             article_content_converted = "No content available"
 
-        # Remove non-breaking spaces
-        xa0_removed: str = re.sub(
-            r"\xa0", " ", article_content_converted
-        )  # Replace non-breaking spaces with regular spaces
-
-        # Replace non-breaking spaces with regular spaces
-        non_breaking_space_removed: str = xa0_removed.replace(
-            " ",  # noqa: RUF001
-            " ",
-        )
-
-        # Remove code blocks that has only spaces and newlines inside them
-        empty_code_block_removed: str = re.sub(
-            pattern=r"```[ \t]*\n[ \t]*\n```",
-            repl="",
-            string=non_breaking_space_removed,  # type: ignore  # noqa: PGH003
-        )
-
+        # Combine non-breaking space replacements in one pass
+        content = NON_BREAKING_SPACE_PATTERN.sub(" ", article_content_converted)
+        
+        # Remove empty code blocks
+        content = EMPTY_CODE_BLOCK_PATTERN.sub("", content)
+        
         # [How to Update] should be # How to Update
-        square_brackets_converted: str = re.sub(
-            pattern=r"^\s*\[([^\]]+)\]\s*$",
-            repl=r"# \1",
-            string=empty_code_block_removed,  # type: ignore  # noqa: PGH003
-            flags=re.MULTILINE,
-        )
-
-        stars_converted: str = handle_stars(square_brackets_converted)
-
-        # If `● Word` is in the content, replace it `## Word` instead with regex
-        ball_converted: str = re.sub(
-            pattern=r"●\s*(.*?)\n",
-            repl=r"\n\n## \1\n\n",
-            string=stars_converted,
-            flags=re.MULTILINE,
-        )
-
-        # If `※ Word` is in the content, replace it `* word * ` instead with regex
-        reference_mark_converted: str = re.sub(
-            pattern=r"^\s*※\s*(\S.*?)\s*$",
-            repl=r"\n\n*\1*\n\n",
-            string=ball_converted,
-            flags=re.MULTILINE,
-        )
-
-        # Replace circled Unicode numbers (①-⑳) with plain numbered text (e.g., "1. ", "2. ", ..., "20. ")
-        number_symbol: dict[str, str] = {
-            "①": "1",
-            "②": "2",
-            "③": "3",
-            "④": "4",
-            "⑤": "5",
-            "⑥": "6",
-            "⑦": "7",
-            "⑧": "8",
-            "⑨": "9",
-            "⑩": "10",
-        }
-        for symbol, number in number_symbol.items():
-            reference_mark_converted = re.sub(
+        content = SQUARE_BRACKETS_PATTERN.sub(r"# \1", content)
+        
+        content = handle_stars(content)
+        
+        # If `● Word` is in the content, replace it `## Word` instead
+        content = BALL_PATTERN.sub(r"\n\n## \1\n\n", content)
+        
+        # If `※ Word` is in the content, replace it `* word * ` instead
+        content = REFERENCE_MARK_PATTERN.sub(r"\n\n*\1*\n\n", content)
+        
+        # Replace circled Unicode numbers with plain numbered text
+        for symbol, number in CIRCLED_NUMBERS.items():
+            content = re.sub(
                 pattern=rf"^\s*{re.escape(symbol)}\s*(.*?)\s*$",
                 repl=rf"\n\n{number}. \1\n\n",
-                string=reference_mark_converted,
+                string=content,
                 flags=re.MULTILINE,
             )
-
-        space_before_star_added: str = re.sub(
-            pattern=r"\\\*(.*)",
-            repl=r"* \1",
-            string=reference_mark_converted,
-            flags=re.MULTILINE,
-        )
+        
+        content = ESCAPED_STAR_PATTERN.sub(r"* \1", content)
 
         markdown_formatted: str = mdformat.text(  # type: ignore  # noqa: PGH003
-            space_before_star_added,
+            content,
             options={
                 "number": True,  # Allow 1., 2., 3. numbering
             },
@@ -556,7 +520,7 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         html_file: Path = html_dir / f"{article_id}.html"
         if not html_file.is_file():
             with html_file.open("w", encoding="utf-8") as f:
-                f.write(str(BeautifulSoup(html, "html.parser").prettify()))
+                f.write(html)
             logger.info("Saved HTML for article %s to %s", article_id, html_file)
 
             # Set the file timestamp
