@@ -36,11 +36,20 @@ ESCAPED_STAR_PATTERN = re.compile(r"\\\*(.*)", re.MULTILINE)
 NON_BREAKING_SPACE_PATTERN = re.compile(r"[\xa0 ]")  # noqa: RUF001
 EMPTY_CODE_BLOCK_PATTERN = re.compile(r"```[ \t]*\n[ \t]*\n```")
 
-# Circled number patterns
+# Circled number patterns - precompile for better performance
 CIRCLED_NUMBERS = {
-    "①": "1", "②": "2", "③": "3", "④": "4", "⑤": "5",
-    "⑥": "6", "⑦": "7", "⑧": "8", "⑨": "9", "⑩": "10",
+    "①": ("1", re.compile(r"^\s*①\s*(.*?)\s*$", re.MULTILINE)),
+    "②": ("2", re.compile(r"^\s*②\s*(.*?)\s*$", re.MULTILINE)),
+    "③": ("3", re.compile(r"^\s*③\s*(.*?)\s*$", re.MULTILINE)),
+    "④": ("4", re.compile(r"^\s*④\s*(.*?)\s*$", re.MULTILINE)),
+    "⑤": ("5", re.compile(r"^\s*⑤\s*(.*?)\s*$", re.MULTILINE)),
+    "⑥": ("6", re.compile(r"^\s*⑥\s*(.*?)\s*$", re.MULTILINE)),
+    "⑦": ("7", re.compile(r"^\s*⑦\s*(.*?)\s*$", re.MULTILINE)),
+    "⑧": ("8", re.compile(r"^\s*⑧\s*(.*?)\s*$", re.MULTILINE)),
+    "⑨": ("9", re.compile(r"^\s*⑨\s*(.*?)\s*$", re.MULTILINE)),
+    "⑩": ("10", re.compile(r"^\s*⑩\s*(.*?)\s*$", re.MULTILINE)),
 }
+
 
 
 async def fetch_json(url: str, client: httpx.AsyncClient) -> dict[Any, Any] | None:
@@ -447,14 +456,9 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
         # If `※ Word` is in the content, replace it `* word * ` instead
         content = REFERENCE_MARK_PATTERN.sub(r"\n\n*\1*\n\n", content)
         
-        # Replace circled Unicode numbers with plain numbered text
-        for symbol, number in CIRCLED_NUMBERS.items():
-            content = re.sub(
-                pattern=rf"^\s*{re.escape(symbol)}\s*(.*?)\s*$",
-                repl=rf"\n\n{number}. \1\n\n",
-                string=content,
-                flags=re.MULTILINE,
-            )
+        # Replace circled Unicode numbers with plain numbered text (using precompiled patterns)
+        for symbol, (number, pattern) in CIRCLED_NUMBERS.items():
+            content = pattern.sub(rf"\n\n{number}. \1\n\n", content)
         
         content = ESCAPED_STAR_PATTERN.sub(r"* \1", content)
 
@@ -552,7 +556,30 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
     return atom_feed
 
 
-def create_atom_feeds(output_dir: Path) -> None:
+def load_all_articles(output_dir: Path) -> list[dict[Any, Any]]:
+    """Load all article JSON files from the output directory.
+    
+    Args:
+        output_dir (Path): The directory containing article JSON files.
+        
+    Returns:
+        list[dict[Any, Any]]: List of article data dictionaries.
+    """
+    articles: list[dict[Any, Any]] = []
+    for file in output_dir.glob("*.json"):
+        if file.stem == "ArticleMenu":
+            continue
+        with file.open("r", encoding="utf-8") as f:
+            try:
+                article_data: dict[Any, Any] = json.load(f)
+                articles.append(article_data)
+            except json.JSONDecodeError:
+                logger.exception("Error decoding JSON from %s", file)
+                continue
+    return articles
+
+
+def create_atom_feeds(articles: list[dict[Any, Any]], output_dir: Path) -> None:
     """Create Atom feeds for the articles.
 
     Current feeds are:
@@ -560,28 +587,19 @@ def create_atom_feeds(output_dir: Path) -> None:
         - All articles
 
     Args:
+        articles (list[dict[Any, Any]]): List of article data.
         output_dir (Path): The directory to save the RSS feed files.
 
     """
-    menu_data: list[dict[Any, Any]] = []
-    # Load data from all the articles
-    for file in output_dir.glob("*.json"):
-        if file.stem == "ArticleMenu":
-            continue
-        with file.open("r", encoding="utf-8") as f:
-            try:
-                article_data: dict[Any, Any] = json.load(f)
-                menu_data.append(article_data)
-            except json.JSONDecodeError:
-                logger.exception("Error decoding JSON from %s", file)
-                continue
-
-    if not menu_data:
-        logger.error("Can't create Atom feeds, no articles found in %s", output_dir)
+    if not articles:
+        logger.error("Can't create Atom feeds, no articles provided")
+        return
+    if not articles:
+        logger.error("Can't create Atom feeds, no articles provided")
         return
 
     articles_sorted: list[dict[Any, Any]] = sorted(
-        menu_data,
+        articles,
         key=lambda x: get_file_timestamp(x.get("createTime", "")),
         reverse=True,
     )
@@ -767,9 +785,12 @@ async def main() -> Literal[1, 0]:
         else:
             logger.info("No new articles to download")
 
+    # Load all articles once for efficient processing
+    all_articles = load_all_articles(output_dir)
+    
     add_data_to_articles(menu_data, output_dir)
     add_articles_to_readme(menu_data)
-    create_atom_feeds(output_dir)
+    create_atom_feeds(all_articles, output_dir)
     batch_process_timestamps(menu_data, output_dir)
 
     logger.info("Script finished. Articles are in the '%s' directory.", output_dir)
