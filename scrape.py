@@ -596,9 +596,6 @@ def create_atom_feeds(articles: list[dict[Any, Any]], output_dir: Path) -> None:
     if not articles:
         logger.error("Can't create Atom feeds, no articles provided")
         return
-    if not articles:
-        logger.error("Can't create Atom feeds, no articles provided")
-        return
 
     articles_sorted: list[dict[Any, Any]] = sorted(
         articles,
