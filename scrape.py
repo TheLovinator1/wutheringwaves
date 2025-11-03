@@ -33,7 +33,7 @@ SQUARE_BRACKETS_PATTERN = re.compile(r"^\s*\[([^\]]+)\]\s*$", re.MULTILINE)
 BALL_PATTERN = re.compile(r"●\s*(.*?)\n", re.MULTILINE)
 REFERENCE_MARK_PATTERN = re.compile(r"^\s*※\s*(\S.*?)\s*$", re.MULTILINE)
 ESCAPED_STAR_PATTERN = re.compile(r"\\\*(.*)", re.MULTILINE)
-NON_BREAKING_SPACE_PATTERN = re.compile(r"[\xa0 ]")  # noqa: RUF001
+NON_BREAKING_SPACE_PATTERN = re.compile(r"[\xa0\u00a0\u2002\u2003\u2009]")  # Various nbsp characters
 EMPTY_CODE_BLOCK_PATTERN = re.compile(r"```[ \t]*\n[ \t]*\n```")
 
 # Circled number patterns - precompile for better performance
