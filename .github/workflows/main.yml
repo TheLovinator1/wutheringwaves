@@ -2,12 +2,12 @@ name: Run Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: "0 */15 * * *" # Every 15 minutes
   workflow_dispatch:
   push:
     paths:
-      - 'scrape.py'
-      - '.github/workflows/main.yml'
+      - "scrape.py"
+      - ".github/workflows/main.yml"
 
 jobs:
   scrape:
@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: "3.14"
 
       - name: Install uv
         id: setup-uv
@@ -30,7 +30,7 @@ jobs:
           enable-cache: true
 
       - name: Install dependencies
-        run: uv sync
+        run: uv sync --all-groups -U
 
       - name: Run script
         run: uv run python scrape.py
