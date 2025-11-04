@@ -19259,7 +19259,7 @@
 </li>
 </ol>
 <h1>Other</h1>
-<ol start="01">
+<ol>
 <li>
 <p>Increased the redemption limit in the &#34;Item Exchange - Oscillated Coral&#34; Store page for convene items including Radiant Tide, Forging Tide, and Lustrous Tide from 6 to 7 per version.</p>
 </li>
@@ -19299,7 +19299,7 @@
 </ol>
 <p>Bug Fixes</p>
 <p>Resonators</p>
-<ol start="01">
+<ol>
 <li>
 <p>Fixed the issue where Yinlin&#39;s voice line did not play when opening Supply Chests.</p>
 </li>
@@ -19360,7 +19360,7 @@
 <li>Fixed the issue where certain actions would increase the Shell Credit costs when leveling up Echoes and Resonators. To make up for any inconvenience this may have caused, we will issue Shell Credit x300,000 as compensation.</li>
 </ol>
 <p>Eligibility: Create a character and unlock the Mail function before 2024-06-28 06:00 (UTC+8). The compensation is valid until 2024-08-15 06:00 (UTC+8).</p>
-<ol start="02">
+<ol start="2">
 <li>
 <p>Fixed the issue where the Custom Markers on the map would shift abnormally in certain situations.</p>
 </li>
