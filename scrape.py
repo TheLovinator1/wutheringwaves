@@ -30,6 +30,28 @@ logging.basicConfig(level=logging.DEBUG, format="%(message)s")
 
 logger: logging.Logger = logging.getLogger("wutheringwaves")
 
+DISCORD_LINK_PATTERN: re.Pattern[str] = re.compile(r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)')
+URL_PREFIX_PATTERN: re.Pattern[str] = re.compile(r"^https?://(www\.)?")
+NON_BREAKING_SPACE_PATTERN: re.Pattern[str] = re.compile(r"\xa0")
+EMPTY_CODE_BLOCK_PATTERN: re.Pattern[str] = re.compile(r"```[ \t]*\n[ \t]*\n```")
+SQUARE_BRACKETS_PATTERN: re.Pattern[str] = re.compile(r"^\s*\[([^\]]+)\]\s*$", re.MULTILINE)
+BALL_PATTERN: re.Pattern[str] = re.compile(r"●\s*(.*?)\n", re.MULTILINE)
+REFERENCE_MARK_PATTERN: re.Pattern[str] = re.compile(r"^\s*※\s*(\S.*?)\s*$", re.MULTILINE)
+ESCAPED_STAR_PATTERN: re.Pattern[str] = re.compile(r"\\\*(.*)", re.MULTILINE)
+
+CIRCLED_NUMBER_PATTERNS: dict[str, tuple[re.Pattern[str], str]] = {
+    "①": (re.compile(r"^\s*①\s*(.*?)\s*$", re.MULTILINE), "1"),
+    "②": (re.compile(r"^\s*②\s*(.*?)\s*$", re.MULTILINE), "2"),
+    "③": (re.compile(r"^\s*③\s*(.*?)\s*$", re.MULTILINE), "3"),
+    "④": (re.compile(r"^\s*④\s*(.*?)\s*$", re.MULTILINE), "4"),
+    "⑤": (re.compile(r"^\s*⑤\s*(.*?)\s*$", re.MULTILINE), "5"),
+    "⑥": (re.compile(r"^\s*⑥\s*(.*?)\s*$", re.MULTILINE), "6"),
+    "⑦": (re.compile(r"^\s*⑦\s*(.*?)\s*$", re.MULTILINE), "7"),
+    "⑧": (re.compile(r"^\s*⑧\s*(.*?)\s*$", re.MULTILINE), "8"),
+    "⑨": (re.compile(r"^\s*⑨\s*(.*?)\s*$", re.MULTILINE), "9"),
+    "⑩": (re.compile(r"^\s*⑩\s*(.*?)\s*$", re.MULTILINE), "10"),
+}
+
 
 async def fetch_json(url: str, client: httpx.AsyncClient) -> dict[Any, Any] | None:
     """Fetch JSON data from a URL.
@@ -293,12 +315,12 @@ def format_discord_links(md: str) -> str:
 
     def repl(match: re.Match[str]) -> str:
         url: str | Any = match.group(2)
-        display: str = re.sub(pattern=r"^https?://(www\.)?", repl="", string=url)
+        display: str = URL_PREFIX_PATTERN.sub("", url)
         return f"[{display}]({url})"
 
     # Before: [Link](https://example.com "Link")
     # After: [Link](https://example.com)
-    formatted_links_md: str = re.sub(pattern=r'\[([^\]]+)\]\((https?://[^\s)]+) "\2"\)', repl=repl, string=md)
+    formatted_links_md: str = DISCORD_LINK_PATTERN.sub(repl, md)
 
     return formatted_links_md
 
@@ -385,51 +407,35 @@ def generate_atom_feed(articles: list[dict[Any, Any]], file_name: str) -> str:  
             article_content_converted = "No content available"
 
         # Remove non-breaking spaces
-        xa0_removed: str = re.sub(r"\xa0", " ", article_content_converted)  # Replace non-breaking spaces with regular spaces
+        xa0_removed: str = NON_BREAKING_SPACE_PATTERN.sub(" ", article_content_converted)  # Replace non-breaking spaces with regular spaces
 
         # Replace non-breaking spaces with regular spaces
         non_breaking_space_removed: str = xa0_removed.replace(" ", " ")  # noqa: RUF001
 
         # Remove code blocks that has only spaces and newlines inside them
-        empty_code_block_removed: str = re.sub(pattern=r"```[ \t]*\n[ \t]*\n```", repl="", string=non_breaking_space_removed)
+        empty_code_block_removed: str = EMPTY_CODE_BLOCK_PATTERN.sub("", non_breaking_space_removed)
 
         # [How to Update] should be # How to Update
-        square_brackets_converted: str = re.sub(pattern=r"^\s*\[([^\]]+)\]\s*$", repl=r"# \1", string=empty_code_block_removed, flags=re.MULTILINE)
+        square_brackets_converted: str = SQUARE_BRACKETS_PATTERN.sub(r"# \1", empty_code_block_removed)
 
         stars_converted: str = handle_stars(square_brackets_converted)
 
         # If `● Word` is in the content, replace it `## Word` instead with regex
-        ball_converted: str = re.sub(pattern=r"●\s*(.*?)\n", repl=r"\n\n## \1\n\n", string=stars_converted, flags=re.MULTILINE)
+        ball_converted: str = BALL_PATTERN.sub(r"\n\n## \1\n\n", stars_converted)
 
         # If `※ Word` is in the content, replace it `* word * ` instead with regex
-        reference_mark_converted: str = re.sub(pattern=r"^\s*※\s*(\S.*?)\s*$", repl=r"\n\n*\1*\n\n", string=ball_converted, flags=re.MULTILINE)
+        reference_mark_converted: str = REFERENCE_MARK_PATTERN.sub(r"\n\n*\1*\n\n", ball_converted)
 
-        # Replace circled Unicode numbers (①-⑳) with plain numbered text (e.g., "1. ", "2. ", ..., "20. ")
-        number_symbol: dict[str, str] = {
-            "①": "1",
-            "②": "2",
-            "③": "3",
-            "④": "4",
-            "⑤": "5",
-            "⑥": "6",
-            "⑦": "7",
-            "⑧": "8",
-            "⑨": "9",
-            "⑩": "10",
-        }
-        for symbol, number in number_symbol.items():
-            reference_mark_converted = re.sub(
-                pattern=rf"^\s*{re.escape(symbol)}\s*(.*?)\s*$",
-                repl=rf"\n\n{number}. \1\n\n",
-                string=reference_mark_converted,
-                flags=re.MULTILINE,
+        # Replace circled Unicode numbers (①-⑩) with plain numbered text (e.g., "1. ", "2. ", ..., "10. ")
+        for pattern, number in CIRCLED_NUMBER_PATTERNS.values():
+            reference_mark_converted = pattern.sub(
+                rf"\n\n{number}. \1\n\n",
+                reference_mark_converted,
             )
 
-        space_before_star_added: str = re.sub(
-            pattern=r"\\\*(.*)",
-            repl=r"* \1",
-            string=reference_mark_converted,
-            flags=re.MULTILINE,
+        space_before_star_added: str = ESCAPED_STAR_PATTERN.sub(
+            r"* \1",
+            reference_mark_converted,
         )
 
         # Format Markdown safely. mdformat doesn't support a "number" option here,
