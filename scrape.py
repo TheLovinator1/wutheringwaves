@@ -26,7 +26,7 @@ from markupsafe import escape
 if TYPE_CHECKING:
     from collections.abc import Coroutine
 
-logging.basicConfig(level=logging.DEBUG, format="%(message)s")
+logging.basicConfig(level=logging.INFO, format="%(message)s")
 
 logger: logging.Logger = logging.getLogger("wutheringwaves")
 
