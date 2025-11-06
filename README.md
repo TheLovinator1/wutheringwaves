@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Insider Channel: Special Program | Signs of Imprisonment: Part Two](https://wutheringwaves.kurogames.com/en/main/news/detail/3547) [[json]](articles/3547.json)
 - [[Lollo Campaign: Ice Savior] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3541) [[json]](articles/3541.json)
 - [Insider Channel: Special Program | Signs of Imprisonment: Part One](https://wutheringwaves.kurogames.com/en/main/news/detail/3538) [[json]](articles/3538.json)
 - [Tidal Photography: Capture Your Action Highlights of Resonators!](https://wutheringwaves.kurogames.com/en/main/news/detail/3532) [[json]](articles/3532.json)
