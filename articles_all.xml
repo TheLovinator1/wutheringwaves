@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-11-10T16:51:46+00:00</updated>
+    <updated>2025-11-14T14:44:48+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3572</id>
+                    <title>Wuthering Waves Version Preview | Version 2.8 &#34;To the City Set in Amber&#34; Scheduled for Release on November 20th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3572" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates:</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/80lk8p3zq0f06k7meo-1763102612556.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/m6odgabp8gfpmbc937-1763102627210.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/0gy70in8ksod74rbj9-1763102656359.jpg" /></p>]]></content>
+                    <published>2025-11-14T14:44:48+00:00</published>
+                    <updated>2025-11-14T14:44:48+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3554</id>
                     <title>[Chord Cleansing] Limited-Time Echo Double Drop Event</title>
