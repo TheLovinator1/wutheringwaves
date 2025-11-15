@@ -11,6 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/3592) [[json]](articles/3592.json)
+- [Zani's Deluxe Outfit "Downtown Repose"](https://wutheringwaves.kurogames.com/en/main/news/detail/3588) [[json]](articles/3588.json)
+- [Wuthering Waves Version 2.8 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3583) [[json]](articles/3583.json)
 - [Wuthering Waves Version Preview | Version 2.8 "To the City Set in Amber" Scheduled for Release on November 20th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3572) [[json]](articles/3572.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3554) [[json]](articles/3554.json)
 - [Insider Channel: Special Program | Signs of Imprisonment: Part Three](https://wutheringwaves.kurogames.com/en/main/news/detail/3549) [[json]](articles/3549.json)
