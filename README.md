@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Event Preview | [Stranger Things in Honami] Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3603) [[json]](articles/3603.json)
 - [Profile Reveal | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/3595) [[json]](articles/3595.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/3592) [[json]](articles/3592.json)
 - [Zani's Deluxe Outfit "Downtown Repose"](https://wutheringwaves.kurogames.com/en/main/news/detail/3588) [[json]](articles/3588.json)
