@@ -11,6 +11,11 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn](https://wutheringwaves.kurogames.com/en/main/news/detail/3639) [[json]](articles/3639.json)
+- [Resonator Review | Graceful Luminescence—Phoebe](https://wutheringwaves.kurogames.com/en/main/news/detail/3637) [[json]](articles/3637.json)
+- [[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe](https://wutheringwaves.kurogames.com/en/main/news/detail/3631) [[json]](articles/3631.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Kumokiri](https://wutheringwaves.kurogames.com/en/main/news/detail/3623) [[json]](articles/3623.json)
+- [[Horizon of Dawnbreak] Featured Resonator Convene: Boosted Drop Rate for Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/3616) [[json]](articles/3616.json)
 - [Wuthering Waves Update Content | Version 2.8 "To the City Set in Amber" Planned for Release on November 20th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3613) [[json]](articles/3613.json)
 - [Event Preview | [Stranger Things in Honami] Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3603) [[json]](articles/3603.json)
 - [Profile Reveal | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/3595) [[json]](articles/3595.json)
