@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [V2.8 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3665) [[json]](articles/3665.json)
+- [Wuthering Waves Fan Creation Event "To the City Set in Amber" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3664) [[json]](articles/3664.json)
+- [Patch Notes for Version 2.8: To the City Set in Amber](https://wutheringwaves.kurogames.com/en/main/news/detail/3657) [[json]](articles/3657.json)
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/3648) [[json]](articles/3648.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn](https://wutheringwaves.kurogames.com/en/main/news/detail/3639) [[json]](articles/3639.json)
 - [Resonator Review | Graceful Luminescence—Phoebe](https://wutheringwaves.kurogames.com/en/main/news/detail/3637) [[json]](articles/3637.json)
 - [[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe](https://wutheringwaves.kurogames.com/en/main/news/detail/3631) [[json]](articles/3631.json)
