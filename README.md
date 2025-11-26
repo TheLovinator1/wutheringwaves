@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Tactical Simulacra: Off Tune] Featured Combat Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3672) [[json]](articles/3672.json)
 - [V2.8 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3665) [[json]](articles/3665.json)
 - [Wuthering Waves Fan Creation Event "To the City Set in Amber" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3664) [[json]](articles/3664.json)
 - [Patch Notes for Version 2.8: To the City Set in Amber](https://wutheringwaves.kurogames.com/en/main/news/detail/3657) [[json]](articles/3657.json)
