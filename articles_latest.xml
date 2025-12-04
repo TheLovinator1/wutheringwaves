@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-11-27T19:01:23+00:00</updated>
+    <updated>2025-12-04T10:46:06+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,43 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3691</id>
+                    <title>Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3691" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/6yo7tf6t68n5r3y0p0-1764816334174.jpg" /></strong></p>
+<p>Dear Rover,</p>
+<p>To enhance your gameplay experience, we will be upgrading the Reprise of Tides Returnee Event in Version 3.0. As part of this update, the event will be temporarily unavailable for maintenance. Please take note of the scheduled maintenance time, and we appreciate your understanding for any inconvenience caused.</p>
+<p><em>For details about the improved Reprise of Tides Returnee Event, please refer to the upcoming official announcements.</em></p>
+<h1>Maintenance Schedule</h1>
+<p>2025-12-10 04:00 (server time) - Version 3.0 update</p>
+<h1>Requirements for Participation in Reprise of Tides</h1>
+<ul>
+<li>
+<p>You have reached Union Level 8.</p>
+</li>
+<li>
+<p>You have not logged in for at least 30 consecutive days.</p>
+</li>
+<li>
+<p>At least 30 days have passed since the end date of the last Reprise of Tides event that you participated in.</p>
+</li>
+</ul>
+<p><em>Rovers who meet the above requirements can activate Reprise of Tides, which will last for 14 days upon activation.</em></p>
+<h1>Regarding the Accessibility of Reprise of Tides</h1>
+<h2>If you activate Reprise of Tides before maintenance starts, your access will remain unaffected.</h2>
+<h2>If you meet the returnee requirements during the maintenance period, you will temporarily be unable to access the event until maintenance is over. Access will be granted to the updated Reprise of Tides Returnee Event once Version 3.0 goes live.</h2>
+<p>●If you meet the returnee requirements after maintenance, you will be able to access the updated Reprise of Tides Returnee Event.</p>]]></content>
+                    <published>2025-12-04T10:46:06+00:00</published>
+                    <updated>2025-12-04T10:46:06+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3678</id>
                     <title>Post-Lament Anthropocene: Comprehensive Mirror for Historians—Lahai-Roi</title>
@@ -1312,23 +1349,6 @@
 </ul>]]></content>
                     <published>2025-11-10T16:51:46+00:00</published>
                     <updated>2025-11-10T16:51:46+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3549</id>
-                    <title>Insider Channel: Special Program | Signs of Imprisonment: Part Three</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3549" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Qiuyuan once investigated a medicinal-herb corruption case at Mingting&#39;s order during his service as the senior agent of the Internal Security Agency. But there&#39;s more to it than meets the eye on his trip to capture the fugitive...</p>
-<p>Beneath the surface of an odd case, hidden motives lurked. What appeared to be a routine order quietly signaled trouble was on the horizon.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1762444800000/fgbqbrqeirp5emnbg4-1762482878492.jpg" /></p>]]></content>
-                    <published>2025-11-06T15:15:18+00:00</published>
-                    <updated>2025-11-06T15:15:18+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

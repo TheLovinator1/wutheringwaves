@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3691) [[json]](articles/3691.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians—Lahai-Roi](https://wutheringwaves.kurogames.com/en/main/news/detail/3678) [[json]](articles/3678.json)
 - [[Tactical Simulacra: Off Tune] Featured Combat Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3672) [[json]](articles/3672.json)
 - [V2.8 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3665) [[json]](articles/3665.json)
