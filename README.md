@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Upcoming Events in Wuthering Waves Version 2.8](https://wutheringwaves.kurogames.com/en/main/news/detail/3714) [[json]](articles/3714.json)
+- [Profile Reveal | Divine Hearing — Buling](https://wutheringwaves.kurogames.com/en/main/news/detail/3699) [[json]](articles/3699.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Buling](https://wutheringwaves.kurogames.com/en/main/news/detail/3698) [[json]](articles/3698.json)
 - [Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3691) [[json]](articles/3691.json)
 - [[Lollo Campaign: Rising Anew] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3684) [[json]](articles/3684.json)
