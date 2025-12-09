@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-08T15:18:13+00:00</updated>
+    <updated>2025-12-09T15:23:10+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3720</id>
+                    <title>Resonator Review | Symphony of Beyond — Phrolova</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3720" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Phrolova, a Fractsidus Overseer walking the fine line between life and death, an uncanny, deadly conductor.</p>
+<p>A silent wave of her baton is enough to attune the very frequencies of being and conduct the symphonies of &#34;souls.&#34; The music of hers can sculpt a better world or, just as easily, summon a legion to wreak havoc.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765209600000/9sumcyrbdx0iamwpq6-1765264878263.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765209600000/k5p66bcqpi8sigqpe8-1765264942774.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765209600000/sx8z94uk6j8ufi2q7z-1765264965214.jpg" /></p>]]></content>
+                    <published>2025-12-09T15:23:10+00:00</published>
+                    <updated>2025-12-09T15:23:10+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3714</id>
                     <title>Upcoming Events in Wuthering Waves Version 2.8</title>
@@ -1226,22 +1242,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/tcz1fpjdqkq0ra8ntk-1763198623393.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/hpr01unab7lqnskowi-1763198642805.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/jpn5h8dpbq401v7eyh-1763198658324.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/y3dx66ba9y3f6vk5yk-1763198671685.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/bzxanra03of92wdjef-1763198685129.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/rfbhh1lqk2tm8e9qpt-1763198698636.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/m51y3ba8bpelsza8zt-1763198742175.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/bwss4p2fk24t05vpw7-1763198756676.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763136000000/bvkfihh6czehzhx87t-1763208460141.jpg" /></p>]]></content>
                     <published>2025-11-15T17:26:41+00:00</published>
                     <updated>2025-11-15T17:26:41+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3592</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Chisa</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3592" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;Kuchiba Chisa. Tactical Development Program, Department of Engineering, Startorch Academy. Forte Specialization: structural dissection... Apologies, this might not be the time for formalities.&#34;—Chisa</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/8mo5g0ez8yh4tqdh2b-1763126375972.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/7wl7dhwcf6rnnb75aj-1763126391523.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/mvost8tdegosefrf15-1763126414477.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/nzu8onk6t8fjbcad4z-1763126466514.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/0dels41peppqosldca-1763126486040.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/k844e8vq4umkf12pxo-1763126608314.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/l5bqkqgkgvtzt12419-1763126625486.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/8xwma7cxh5kmtm38g2-1763126682626.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763049600000/h0smpxd26tov8ip4ix-1763126696478.jpg" /></p>]]></content>
-                    <published>2025-11-14T21:10:52+00:00</published>
-                    <updated>2025-11-14T21:10:52+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

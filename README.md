@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Symphony of Beyond — Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/3720) [[json]](articles/3720.json)
 - [Upcoming Events in Wuthering Waves Version 2.8](https://wutheringwaves.kurogames.com/en/main/news/detail/3714) [[json]](articles/3714.json)
 - [Profile Reveal | Divine Hearing — Buling](https://wutheringwaves.kurogames.com/en/main/news/detail/3699) [[json]](articles/3699.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Buling](https://wutheringwaves.kurogames.com/en/main/news/detail/3698) [[json]](articles/3698.json)
