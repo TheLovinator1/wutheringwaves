@@ -15,6 +15,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella](https://wutheringwaves.kurogames.com/en/main/news/detail/3737) [[json]](articles/3737.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy](https://wutheringwaves.kurogames.com/en/main/news/detail/3730) [[json]](articles/3730.json)
 - [[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/3723) [[json]](articles/3723.json)
+- [Resonator Review | Sea of Dreams — Cantarella](https://wutheringwaves.kurogames.com/en/main/news/detail/3721) [[json]](articles/3721.json)
 - [Resonator Review | Symphony of Beyond — Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/3720) [[json]](articles/3720.json)
 - [Upcoming Events in Wuthering Waves Version 2.8](https://wutheringwaves.kurogames.com/en/main/news/detail/3714) [[json]](articles/3714.json)
 - [Profile Reveal | Divine Hearing — Buling](https://wutheringwaves.kurogames.com/en/main/news/detail/3699) [[json]](articles/3699.json)
