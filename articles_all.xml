@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-10T10:10:38+00:00</updated>
+    <updated>2025-12-12T14:23:59+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,39 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3755</id>
+                    <title>New Utility Revealed | Expedition Motorbike</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3755" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>New Utility Revealed | Expedition Motorbike</p>
+<p>A new Utility will soon become available in your Lahai-Roi adventure: Expedition Motorbike. Let&#39;s take a look at its features and capabilities!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/v859ho0k8e8a79wsmy-1765520332777.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/kgx43elkqdcwkzr386-1765520346985.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/zf1qgd294bidscbc0i-1765520367640.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/9wjaey8mc71wmtfneu-1765520385775.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/8ctnlycfpnctjf4ccc-1765520415583.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/uacvekldb58mzqckud-1765520434557.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/iufl19l3imgx78z4vn-1765520452456.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/eon35pyyo6vdmmof3w-1765520474563.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/ye197jereynqpyhi3j-1765520494954.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/fpwptjjiwsy6hzbyi1-1765520522316.gif" /></p>]]></content>
+                    <published>2025-12-12T14:23:59+00:00</published>
+                    <updated>2025-12-12T14:23:59+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3754</id>
+                    <title>Wuthering Waves Version Preview | Version 3.0 &#34;We Who See the Stars&#34; Scheduled for Release on December 25th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3754" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Version Preview | Version 3.0 &#34;We Who See the Stars&#34; Scheduled for Release on December 25th (UTC+8)</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/09gogumg79wiph3e6i-1765519992619.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/pjrao5pjo2dqw239p7-1765520013212.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/52nvet7fb3zjyhc31e-1765520034090.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/s2pj8kqqvs3azzyvlb-1765520054403.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/4m7aw2py3tr4lxz6je-1765520070473.jpg" /></p>]]></content>
+                    <published>2025-12-12T14:15:04+00:00</published>
+                    <updated>2025-12-12T14:15:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3744</id>
                     <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens</title>

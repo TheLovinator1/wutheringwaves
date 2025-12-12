@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [New Utility Revealed | Expedition Motorbike](https://wutheringwaves.kurogames.com/en/main/news/detail/3755) [[json]](articles/3755.json)
+- [Wuthering Waves Version Preview | Version 3.0 "We Who See the Stars" Scheduled for Release on December 25th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3754) [[json]](articles/3754.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens](https://wutheringwaves.kurogames.com/en/main/news/detail/3744) [[json]](articles/3744.json)
 - [[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella](https://wutheringwaves.kurogames.com/en/main/news/detail/3737) [[json]](articles/3737.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy](https://wutheringwaves.kurogames.com/en/main/news/detail/3730) [[json]](articles/3730.json)
