@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-12T14:23:59+00:00</updated>
+    <updated>2025-12-12T21:50:35+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3766</id>
+                    <title>New Battle Mechanic Revealed | Off-Tune Mechanic</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3766" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A new battle Mechanic has been added in Version 3.0 when Resonators battle enemies: Off-Tune Mechanic. Get a sneak peek now!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/waylmpfpi383zkm4py-1765547369249.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/z45s3p9m6xjxtc528n-1765547388457.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/1yiz721e6lif81rffq-1765547402261.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765468800000/sm8qxe9jcqm6sjr5xo-1765547414162.jpg" /></p>]]></content>
+                    <published>2025-12-12T21:50:35+00:00</published>
+                    <updated>2025-12-12T21:50:35+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3755</id>
                     <title>New Utility Revealed | Expedition Motorbike</title>
@@ -1228,45 +1244,6 @@
 <p><a href="https://x.com/Gu_lina_">@Gu_lina_</a></p>]]></content>
                     <published>2025-11-19T16:11:19+00:00</published>
                     <updated>2025-11-19T16:11:19+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3639</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3639" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763481600000/zxey5yua1ksodf8nqs-1763522369708.jpg" /></p>
-<p>During the event, 5-Star Weapon: Luminous Hymn, 4-Star Weapons: Commando of Conviction, Fusion Accretion, and Helios Cleaver receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 2.8 update - 2025-12-11 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8 or complete the combat trial in &#34;&#34;First Resonance&#34;&#34; and activate the Convene function.</p>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Luminous Hymn.</p>
-</li>
-<li>
-<p>Featured Weapon Luminous Hymn is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-11-19T11:19:45+00:00</published>
-                    <updated>2025-11-19T11:19:45+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
