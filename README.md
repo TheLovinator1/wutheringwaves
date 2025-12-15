@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Lahai-Roi](https://wutheringwaves.kurogames.com/en/main/news/detail/3767) [[json]](articles/3767.json)
 - [New Battle Mechanic Revealed | Off-Tune Mechanic](https://wutheringwaves.kurogames.com/en/main/news/detail/3766) [[json]](articles/3766.json)
 - [New Utility Revealed | Expedition Motorbike](https://wutheringwaves.kurogames.com/en/main/news/detail/3755) [[json]](articles/3755.json)
 - [Wuthering Waves Version Preview | Version 3.0 "We Who See the Stars" Scheduled for Release on December 25th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3754) [[json]](articles/3754.json)
