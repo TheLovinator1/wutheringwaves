@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-12T21:55:45+00:00</updated>
+    <updated>2025-12-16T15:10:34+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,57 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3780</id>
+                    <title>Notes on promotional event a certain platform</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3780" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Dear Rovers,</p>
+<p>We have temporarily halted the campaign of Wuthering Waves on a certain platform due to adjustments in promotional arrangements.</p>
+<p>However, it has recently come to our attention that this decision may have caused inconvenience and frustraton, particularly preventing you from using the points previously earned through the campaign. We sincerely apologize for this unsatisfactory handling of the situation. As a resolution, after further discussion with the platform, we have decided to relaunch the campaign on the platform from 2025-12-01, 11:00 (UTC+8) to 2025-12-21, 11:00 (UTC+8). During this period, you will once again be able to make in-game transactions via the platform&#39;s direct payment method and redeem the points you previously earned. After this period ends, access to the platform&#39;s direct payment method will be closed, so please be mindful of the event period.</p>
+<p>Should there be any further changes to platform-specific promotions, please refer to the respective platform&#39;s announcements for details. If you have any questions or need assistance, feel free to contact customer support via the platform or through our official Wuthering Waves support channels. Thank you for your understanding and support.</p>]]></content>
+                    <published>2025-12-16T15:10:34+00:00</published>
+                    <updated>2025-12-16T15:10:34+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3774</id>
+                    <title>[Chord Cleansing] Limited-Time Echo Double Drop Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3774" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765728000000/7jb8zpknkde2ejk96t-1765788453918.jpg" /></p>
+<p>The Tacet Fields are experiencing a surge in energy due to the Waveworn Phenomenon.</p>
+<p>Use the Waveplates to maximize your rewards from the Tacetite Blooms!</p>
+<h1>Duration</h1>
+<p>2025-12-17 04:00 - 2025-12-24 03:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 19.</p>
+<h1>Details</h1>
+<ul>
+<li>
+<p>Complete Tacet Suppression challenges during the event and spend Waveplates for double rewards.</p>
+</li>
+<li>
+<p>During [Chord Cleansing], you can claim double rewards 3 times a day, and the remaining double rewards claims can be viewed on the [Chord Cleansing] event page.</p>
+</li>
+<li>
+<p>During [Chord Cleansing], double rewards claims refresh daily at 04:00 (server time).</p>
+</li>
+</ul>]]></content>
+                    <published>2025-12-15T16:47:52+00:00</published>
+                    <updated>2025-12-15T16:47:52+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3767</id>
                     <title>Post-Lament Anthropocene: Enemies — Collection of Small &amp; Medium Size Echoes in Lahai-Roi</title>
