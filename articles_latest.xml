@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-16T15:10:34+00:00</updated>
+    <updated>2025-12-18T10:44:11+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,162 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3800</id>
+                    <title>Wuthering Waves Version 3.0 Update Maintenance Notice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3800" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/r3ntwtmim8pka7rz7u-1766025827897.png" />Dear Rovers,</p>
+<p>To bring you exciting new content and a better gaming experience, we will soon be conducting the update maintenance for Version 3.0: We Who See the Stars.</p>
+<p>During the maintenance, you will be unable to log in to the game, so please plan your time accordingly. Additionally, due to the large size of the update, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time:</strong> <strong>2025-12-25 04:00 - 2025-12-25 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2025-12-25 04:00 (UTC+8). The compensation will remain claimable until the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<p><strong>[How to Update]</strong></p>
+<p><strong>Once the maintenance for the version update begins, you can follow the following instructions to update your client.</strong></p>
+<p><strong>✦PC: Close the game, restart the launcher, and then click on &#34;Update.&#34;</strong></p>
+<p><strong>✦Android: Launch the game and follow the instructions in the update pop-up window to complete the update.</strong></p>
+<p><strong>✦iOS: Download/update the game in the App Store.</strong></p>
+<p><strong>✦Mac: Download/update the game in the App Store.</strong></p>
+<p><strong>✦PS5™: Open the home screen &gt; Select Wuthering Waves &gt; Press the OPTIONS button to Check for Update.</strong></p>
+<p><strong>[Pre-download]</strong></p>
+<p><strong>✦Pre-download Start Time:</strong> <strong>2025-12-23 10:00 (UTC+8)</strong></p>
+<p><strong>[Pre-download Storage Requirements]</strong></p>
+<p><strong>✦PC: 36 GB. To ensure smoother subsequent processes, such as decompressing, it is recommended that you have at least 50 GB of spare storage space on your PC.</strong></p>
+<p><strong>✦Android/iOS: 18 GB. Approximately 58 GB of storage space is needed for the decompression process. This space will be used only temporarily and will be freed up once the maintenance is completed.</strong></p>
+<p><em>Please note that pre-download may not be possible if your device does not have enough spare storage space.</em></p>
+<p><strong>[How to Pre-download]</strong></p>
+<p><strong>✦PC: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</strong></p>
+<p><strong>✦Android/iOS: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</strong></p>
+<p><em>You can continue playing the game while the pre-downloading process is ongoing on PC or mobile. The process can be paused at any time. Whether it is complete or not, the update maintenance will speed up to a certain degree when initiated.</em></p>
+<p><em>Please ensure that you have a stable network connection during the pre-downloading process.</em></p>
+<hr />
+<p><strong>[Version 3.0 Preview]</strong></p>
+<p><strong>[New Resonators]</strong></p>
+<p><strong>5-Star Resonator: Lynae (Spectro/Pistols)</strong></p>
+<p><strong>※Obtainable through the [Undefined Spectrum] Featured Resonator Convene.</strong></p>
+<p><strong>5-Star Resonator: Mornye (Fusion/Broadblade)</strong></p>
+<p><strong>※Obtainable through the [Distant May the Starlights Be] Featured Resonator Convene.</strong></p>
+<p><strong>[New Weapons]</strong></p>
+<p><strong>5-Star Weapon: Spectrum Blaster (Pistols)</strong></p>
+<p><strong>※Obtainable through the [Spectrum Blaster] Featured Weapon Convene.</strong></p>
+<p><strong>5-Star Weapon: Starfield Calibrator (Broadblade)</strong></p>
+<p><strong>※Obtainable through the [Starfield Calibrator] Featured Weapon Convene.</strong></p>
+<p><strong>Synth Armament Series (5-Star):</strong></p>
+<p><strong>Laser Shearer (Sword), Radiance Cleaver (Broadblade), Phasic Homogenizer (Pistols), Pulsation Bracer (Gauntlets), Boson Astrolabe (Rectifier)</strong></p>
+<p><strong>※The weapons in the Synth Armament series are obtainable through Standard Weapon Convene.</strong></p>
+<p><strong>[New Area]</strong></p>
+<p><strong>Lahai-Roi</strong></p>
+<p><strong>Area includes: Starward Riseway, Fangspire Chasm, Bjartr Woods, Stagnant Run, Rebirth Uplands, Etching Plains, Startorch Academy, Mawburrow Desert, Giant&#39;s Gaze</strong></p>
+<p><strong>※Reach the area during Main Quest Chapter III Prologue &#34;When the Unknown Thrums.&#34;</strong></p>
+<p><strong>[New Echoes]</strong></p>
+<p><strong>Hyvatia, Reactor Husk, Twin Nova: Nebulous Cannon, Twin Nova: Collapsar Blade, Flora Reindeer, Mining Reindeer, Ironhoof, Spacetrek Explorer, Sabercat Reaver, Sabercat Prowler, Frostbite Coleoid, Windlash Coleoid, Flora Drone, Mining Drone, Geospider S4, Zip Zap, Tremor Warrior</strong></p>
+<p><strong>New Sonata Effects: Pact of Neonlight Leap (5pcs Set), Halo of Starry Radiance (5pcs Set), Rite of Gilded Revelation (5pcs Set)</strong></p>
+<p><strong>New Tacet Discord Nest: Tacet Discord Nest - Lahai-Roi</strong></p>
+<p><strong>※It has two difficulty modes: normal and difficult. A set number of Tacet Discords are available daily. Defeat them to claim the corresponding Echoes without spending Waveplates.</strong></p>
+<p><strong>[New Stories]</strong></p>
+<p><strong>Main Quest Chapter III Prologue: When the Unknown Thrums</strong></p>
+<p><strong>Main Quest Chapter III Act I: What Burns Beneath Frostlands</strong></p>
+<p><strong>Main Quest Chapter III Act II: Ode to the Second Sunrise</strong></p>
+<p><strong>Exploration Quest: Where Light Takes Shape</strong></p>
+<p><strong>Exploration Quest: No. 1 Biker</strong></p>
+<p><strong>Exploration Quest: Lost Melodies</strong></p>
+<p><strong>[New Features]</strong></p>
+<p><strong>New Combat Mechanic: Off-Tune</strong></p>
+<p><strong>New Utility: Expedition Motorbike</strong></p>
+<p><strong>New Terminal Messaging Feature: WavesLine</strong></p>
+<p><strong>New Main Quest Fast Track Event: Next Stop - Lahai-Roi</strong></p>
+<p><strong>Resource Download Options, Resource Cleanup on Mobile</strong></p>
+<p><strong>[Gameplay Optimizations]</strong></p>
+<p><strong>Upgraded the &#34;Reprise of Tides&#34; Returnee Event</strong></p>
+<p><strong>Adjusted &#34;Fantasies of the Thousand Gateways&#34;</strong></p>
+<p><strong>[Interface Optimizations]</strong></p>
+<p><strong>Added a Startorch Academy-style interface for the Birthday System</strong></p>
+<p><strong>Added dynamic visuals to the lineup interface</strong></p>
+<p><strong>Improved display for the event interface</strong></p>
+<p><strong>[Other Optimizations]</strong></p>
+<p><strong>Raised the Data Bank&#39;s max level to 30; after upgrading the Data Bank, COST1 (Common) and COST3 (Elite) Echoes will also receive enhanced drop rate counts.</strong></p>
+<p><strong>[Other New Content]</strong></p>
+<p><strong>&#34;Tactical Hologram: Synchronization&#34; Challenge: Dreamless</strong></p>
+<p><strong>New Phantom Echoes: Phantom: Twin Nova - Collapsar Blade, Phantom: Twin Nova - Nebulous Cannon, Phantom: Chop Chop</strong></p>
+<p><strong>New Sigil: Voyager of the World</strong></p>
+<p><strong>New Titles: Bathed in Pain, Calamity Ender</strong></p>
+<p><strong>Expedition Motorbike Liveries: Carefree Rainbow, Student Abby!</strong></p>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[Lahai-Roi Pioneers] Area Exploration Event</strong></p>
+<p><strong>[Capturing Starlight] Photo Collection Event</strong></p>
+<p><strong>[Beyond the Waves: Lahai-Roi] Featured Exploration Event</strong></p>
+<p><strong>[Peaks of Prestige: Rekindled Duel] Echo Combat Event</strong></p>
+<p><strong>[Signs of a Silent Star] Leisure Event</strong></p>
+<p><strong>[Startorch Racing] Leisure Event</strong></p>
+<p><strong>[Gifts of Freshers Week] 7-Day Login Event</strong></p>
+<p><strong>[Collab Event]</strong></p>
+<p><strong>Persona Sonic</strong></p>
+<p><strong>[New Gameplay Features]</strong></p>
+<p><strong>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge)</strong></p>
+<p><strong>Operation: Frontier Renewal (New Permanent Event)</strong></p>
+<p><strong>※For more details on the new content, optimizations, and bug fixes coming to the game in Version 3.0, please stay tuned for the upcoming release notes.</strong></p>
+<hr />
+<h1>Device Requirements</h1>
+<p>To ensure a smooth experience, please refer to the following requirements:</p>
+<ol>
+<li>Minimum</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 835, MediaTek G71/72 or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>iOS: [System] iOS 14 or later; [Model] iPhone 11 or newer, iPad with A13 Bionic or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>Mac: [System] macOS 12.0 or later; [Model] m1 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I5 (9th Gen)/Ryzen 2700; [GPU] Geforce 1060/RX570/Intel ARC A380, [RAM] 16 GB or more</p>
+<ol start="2">
+<li>Recommended</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 8 Gen1+/Gen2/Gen3 or MediaTek processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>iOS: [System] iOS 15 or later; [Model] iPhone 13 or newer, iPad with A15 Bionic or processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>Mac: [System] macOS 15.0 or later; [Model] m3 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I7 (9th Gen)/Ryzen 3700, [GPU] Geforce 2060/RX5700XT/Intel ARC A750; [RAM] 16 GB or more</p>
+<ol start="3">
+<li>Required Storage Space</li>
+</ol>
+<p>Android/iOS: 70 GB</p>
+<p>Mac: 150 GB</p>
+<p>PC: 150 GB; it&#39;s recommended to install the game on an SSD.</p>
+<p>PS5™: Please make sure your device has sufficient available storage to complete the update successfully.</p>
+<ol start="4">
+<li>Controller Support</li>
+</ol>
+<p>Wuthering Waves currently supports the following controllers on Mobile.</p>
+<p>Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on Mac.</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on PC.</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualSense®、DualSense Edge™</p>
+<p>Wired Controllers: DualShock®4</p>
+<p><em>When you connect any other controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>]]></content>
+                    <published>2025-12-18T10:44:11+00:00</published>
+                    <updated>2025-12-18T10:44:11+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3790</id>
+                    <title>Post-Lament Anthropocene: Weapons — Synth Armament Series</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3790" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Forged from compound technology that fuses Exostrider biomorphic components and Tactite, the Spacetrek Collective&#39;s &#34;Synth Armament&#34; series offers two core features: frequency auto-adaptation and user binding.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765900800000/9hdrkmniei9ox91k02-1765961455429.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/ncnjol2zfoo87ma6ub-1766023310925.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/ftojmxn69aye2xxl26-1766023332338.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/w1uxwy2yvcrirfxdy8-1766023349074.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/o96yr9jdad7w64d7i4-1766023362547.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/wnofapd6kqzao1eud9-1766023376768.jpg" /></p>]]></content>
+                    <published>2025-12-17T16:54:30+00:00</published>
+                    <updated>2025-12-17T16:54:30+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3780</id>
                     <title>Notes on promotional event a certain platform</title>
@@ -468,101 +624,6 @@
 <p>Take a sneak peek at Lahai-Roi before heading there!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764172800000/93jn2zp7g88a3kjygr-1764241069863.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764172800000/rnkmhv0ikcd3y8ylb2-1764241216529.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764432000000/iokk61mczb3qio1wr1-1764481943503.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764172800000/hp3f5o0z1rj4jqqlpi-1764241229834.jpg" /></p>]]></content>
                     <published>2025-11-27T19:01:23+00:00</published>
                     <updated>2025-11-27T19:01:23+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3672</id>
-                    <title>[Tactical Simulacra: Off Tune] Featured Combat Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3672" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764086400000/ldt3k8vm9hq09qzl7v-1764152839874.jpg" /></p>
-<p>As the Tactical Simulacra project advances, the Huaxu Academy has successfully achieved the measurement of Tunability, a property through which countless Reverberations converge into Tacet Discords. Disrupting their Tunability would mean a lethal blow that paralyzes them...</p>
-<h1>Duration</h1>
-<p>2025-11-27 04:00 - 2025-12-15 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x600, Premium Resonance Potion x16, Premium Energy Core x16, Premium Sealed Tube x16, Premium Tuner x100, Shell Credit x608888, and other Materials.</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 14.</p>
-<h1>Event Rules</h1>
-<ul>
-<li>
-<p>In Tactical Simulacra: Off Tune, challenge waves of powerful enemies using special buffs across different simulation domains.</p>
-</li>
-<li>
-<p>Tactical Simulacra: Off Tune has a total of 6 stages. Reach 1000 points in a stage to unlock the next one.</p>
-</li>
-<li>
-<p>As you complete more challenges, new special buffs will be available to you in the subsequent challenges.</p>
-</li>
-<li>
-<p>The results of each challenge will be tallied based on Monster Points, Time Points, and Technical Points. Monster Points are earned by defeating enemies in challenges; Time Points are earned based on the time remaining at challenge completion and a conversation factor that increases with the number of enemies that are defeated; Technical Points are earned by triggering Counterattacks, successful Dodges, and Dodge Counters.</p>
-</li>
-</ul>
-<p><em>In Tactical Simulacra: Off Tune, some of your attacks build up certain enemies&#39; Off-Tune Level. Once their Off-Tune Level reaches the limit, they enter the Mistune state. During this state, you can unleash a powerful Tune Break to shatter their defenses. Landing a Tune Break resets the enemies&#39; Off-Tune Level and inflicts Tune Disruption, leaving them vulnerable to follow-up attacks.</em></p>]]></content>
-                    <published>2025-11-26T18:27:39+00:00</published>
-                    <updated>2025-11-26T18:27:39+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3665</id>
-                    <title>V2.8 Wuthering Waves Battle Rush</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3665" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1763568000000/cxsrylia22we4cxm7r-1763609239807.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
-<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own combat video featuring Wuthering Waves.</p>
-<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
-<p><strong>How to Submit</strong></p>
-<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
-<p><strong>Submission Period</strong></p>
-<p>2025/11/20 - 2025/12/18 (PT)</p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
-                    <published>2025-11-20T11:25:03+00:00</published>
-                    <updated>2025-11-20T11:25:03+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

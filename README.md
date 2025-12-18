@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version 3.0 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3800) [[json]](articles/3800.json)
+- [Post-Lament Anthropocene: Weapons — Synth Armament Series](https://wutheringwaves.kurogames.com/en/main/news/detail/3790) [[json]](articles/3790.json)
 - [Notes on promotional event a certain platform](https://wutheringwaves.kurogames.com/en/main/news/detail/3780) [[json]](articles/3780.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3774) [[json]](articles/3774.json)
 - [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Lahai-Roi](https://wutheringwaves.kurogames.com/en/main/news/detail/3767) [[json]](articles/3767.json)
