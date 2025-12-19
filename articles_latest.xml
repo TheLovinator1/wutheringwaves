@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-18T10:44:11+00:00</updated>
+    <updated>2025-12-18T18:48:09+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3808</id>
+                    <title>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3808" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!</p>
+<p>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge) will be introduced in Version 3.0. Get a sneak peek at the basic rules!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/2itjoup49ajfpon2ox-1766054816011.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/1afkrhm464n9orl7ew-1766054831519.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/2d4ayrw7ved0zmzwd5-1766054843078.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/evudzvx6in2lxri911-1766054853723.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/7p91uufh39dxl4rmm7-1766054864823.jpg" /></p>]]></content>
+                    <published>2025-12-18T18:48:09+00:00</published>
+                    <updated>2025-12-18T18:48:09+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3800</id>
                     <title>Wuthering Waves Version 3.0 Update Maintenance Notice</title>
@@ -607,23 +624,6 @@
 </ul>]]></content>
                     <published>2025-12-02T15:09:36+00:00</published>
                     <updated>2025-12-02T15:09:36+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3678</id>
-                    <title>Post-Lament Anthropocene: Comprehensive Mirror for Historians—Lahai-Roi</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3678" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Post-Lament Anthropocene: Comprehensive Mirror for Historians—Lahai-Roi</p>
-<p>Lahai-Roi, known as Solaris&#39;s Extreme, is situated beneath the Roya Frostlands and is where Spacetrek Collective&#39;s Startorch Academy was established.</p>
-<p>Take a sneak peek at Lahai-Roi before heading there!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764172800000/93jn2zp7g88a3kjygr-1764241069863.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764172800000/rnkmhv0ikcd3y8ylb2-1764241216529.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764432000000/iokk61mczb3qio1wr1-1764481943503.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764172800000/hp3f5o0z1rj4jqqlpi-1764241229834.jpg" /></p>]]></content>
-                    <published>2025-11-27T19:01:23+00:00</published>
-                    <updated>2025-11-27T19:01:23+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

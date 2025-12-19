@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3808) [[json]](articles/3808.json)
 - [Wuthering Waves Version 3.0 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3800) [[json]](articles/3800.json)
 - [Post-Lament Anthropocene: Weapons — Synth Armament Series](https://wutheringwaves.kurogames.com/en/main/news/detail/3790) [[json]](articles/3790.json)
 - [Notes on promotional event a certain platform](https://wutheringwaves.kurogames.com/en/main/news/detail/3780) [[json]](articles/3780.json)
