@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/3837) [[json]](articles/3837.json)
+- [New Region Preview | Lahai-Roi, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3830) [[json]](articles/3830.json)
 - [Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3808) [[json]](articles/3808.json)
 - [Wuthering Waves Version 3.0 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3800) [[json]](articles/3800.json)
 - [Post-Lament Anthropocene: Weapons — Synth Armament Series](https://wutheringwaves.kurogames.com/en/main/news/detail/3790) [[json]](articles/3790.json)

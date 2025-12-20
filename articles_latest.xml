@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-18T18:48:09+00:00</updated>
+    <updated>2025-12-20T01:17:37+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,37 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3837</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Lynae</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3837" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Don&#39;t blink... you&#39;ll miss the best part!&#34;— Lynae</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/jpv6j1g1p1j7nburf1-1766164083702.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/tfu07u87f042gef0p7-1766164345781.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/f43lndffbk9a1l7ri8-1766164385603.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/jut5ja2c5hqhh8gxnx-1766164423930.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/ka2asgm3ynh60itr84-1766164444527.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/zej7djvapbmevxdxox-1766164468408.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/vgcvo0bln0srskihp6-1766164487886.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/6onqlvxl870sp56ruh-1766164501396.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/48xvdqtmr9g40ohi3l-1766164635783.jpg" /></p>]]></content>
+                    <published>2025-12-20T01:17:37+00:00</published>
+                    <updated>2025-12-20T01:17:37+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3830</id>
+                    <title>New Region Preview | Lahai-Roi, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3830" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/0ck3krx58kqcp5mabn-1766138083305.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/v17sjnu1t5gmce3qru-1766138095818.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/6eq25gder9yx0ey0tc-1766138108511.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/ox1ht23o4v5a77es8b-1766138124404.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/mtln48mf9q37zic7hp-1766138176311.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/m3tv8ls0xmpqf37o9a-1766138217543.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/2mbivansrbinuedz7z-1766138281178.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/6ax7oee6chcx5yfahv-1766138309664.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/lgvl90yiffjeqrvgde-1766138387740.gif" /></p>]]></content>
+                    <published>2025-12-19T18:00:59+00:00</published>
+                    <updated>2025-12-19T18:00:59+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3808</id>
                     <title>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!</title>
@@ -555,75 +586,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/aykfcytolnn2uhrxk2-1764846693772.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/nykum70ppmaa2pr30a-1764846711899.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/qtgbsxoueb1m0ifz3l-1764846768516.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/ar86b05v0kdm0qy2ys-1764846796061.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/pdp640123ddznj496s-1764846811552.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/06353ta6uvdibutxg7-1764846824343.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/apvnvymu4vd0s3ekfo-1764846839180.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/27gx8tdyr6k3gsaamo-1764846851456.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/1xcwsprccb3zjsaj6c-1764846859951.jpg" /></p>]]></content>
                     <published>2025-12-04T19:14:53+00:00</published>
                     <updated>2025-12-04T19:14:53+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3691</id>
-                    <title>Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3691" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/6yo7tf6t68n5r3y0p0-1764816334174.jpg" /></strong></p>
-<p>Dear Rover,</p>
-<p>To enhance your gameplay experience, we will be upgrading the Reprise of Tides Returnee Event in Version 3.0. As part of this update, the event will be temporarily unavailable for maintenance. Please take note of the scheduled maintenance time, and we appreciate your understanding for any inconvenience caused.</p>
-<p><em>For details about the improved Reprise of Tides Returnee Event, please refer to the upcoming official announcements.</em></p>
-<h1>Maintenance Schedule</h1>
-<p>2025-12-10 04:00 (server time) - Version 3.0 update</p>
-<h1>Requirements for Participation in Reprise of Tides</h1>
-<ul>
-<li>
-<p>You have reached Union Level 8.</p>
-</li>
-<li>
-<p>You have not logged in for at least 30 consecutive days.</p>
-</li>
-<li>
-<p>At least 30 days have passed since the end date of the last Reprise of Tides event that you participated in.</p>
-</li>
-</ul>
-<p><em>Rovers who meet the above requirements can activate Reprise of Tides, which will last for 14 days upon activation.</em></p>
-<h1>Regarding the Accessibility of Reprise of Tides</h1>
-<h2>If you activate Reprise of Tides before maintenance starts, your access will remain unaffected.</h2>
-<h2>If you meet the returnee requirements during the maintenance period, you will temporarily be unable to access the event until maintenance is over. Access will be granted to the updated Reprise of Tides Returnee Event once Version 3.0 goes live.</h2>
-<p>●If you meet the returnee requirements after maintenance, you will be able to access the updated Reprise of Tides Returnee Event.</p>]]></content>
-                    <published>2025-12-04T10:46:06+00:00</published>
-                    <updated>2025-12-04T10:46:06+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3684</id>
-                    <title>[Lollo Campaign: Rising Anew] Featured Commission Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3684" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764604800000/hf2vtdv8g7qkbed4s7-1764659357406.jpg" /></p>
-<p>Maji, the idea king, is back with yet another new campaign. This time, he&#39;s riding the tech wave and trying to create his very own smart assistant, Lollo Genie.</p>
-<p>Interact with adorable Echoes and submit their behavioural data to Maji to collect Lollo Stamps and participate in the thrilling lottery!</p>
-<h1>Duration</h1>
-<p>2025-12-08 04:00 - 2025-12-22 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x400, Lustrous Tide x5, Premium Tuner x100, Forgery Premium Supply x10, Premium Sealed Tube x15, Crystal Solvent x6, Advanced Enclosure Tank x12, Advanced Sealed Tube x24, Shell Credit x100000</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 14 and complete Main Quest Chapter II Prologue &#34;&#34;Through the Sea Thou Break.&#34;&#34;</p>
-<h1>Event Rules</h1>
-<ul>
-<li>
-<p>During the event, you can complete Lollo Campaigns to obtain a set number of Lollo Stamps. Each Lollo Stamp lets you peel off one Lollo Campaign lottery ticket.</p>
-</li>
-<li>
-<p>After the event ends, the unfinished Lollo Campaigns will not be available, and all the remaining Lollo Stamps will be recycled.</p>
-</li>
-</ul>]]></content>
-                    <published>2025-12-02T15:09:36+00:00</published>
-                    <updated>2025-12-02T15:09:36+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
