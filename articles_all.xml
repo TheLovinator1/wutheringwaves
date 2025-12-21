@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-20T01:17:37+00:00</updated>
+    <updated>2025-12-20T21:21:55+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,24 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3842</id>
+                    <title>Profile Reveal | Radiant Spectrum — Lynae</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3842" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Lynae</h1>
+<p>A Startorch Academy prep student whose head-turning, electric style hides an inner focus as explosive as a coiled spring.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/9c31b5kkx6t277ci1a-1766236339793.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/grkg8rv21d0v4rlq52-1766236795787.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/6b0n9yyxh7k17d7hby-1766236814209.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/2zymzu97zjlen56cic-1766236831296.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/f0k5w2p60yjadeuref-1766236849476.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/35vx7jc3jhaqf8th0m-1766236867293.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/1ebqlzwzuyknkbh431-1766236882739.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/jxy1gj1xji9f5r86hq-1766236895554.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/uqnhbpfkc99nikvtz3-1766236907958.jpg" /></p>]]></content>
+                    <published>2025-12-20T21:21:55+00:00</published>
+                    <updated>2025-12-20T21:21:55+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3837</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Lynae</title>
