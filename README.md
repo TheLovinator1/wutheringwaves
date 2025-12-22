@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Update Content | Version 3.0 "We Who See the Stars" Planned for Release on December 25th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3843) [[json]](articles/3843.json)
 - [Profile Reveal | Radiant Spectrum — Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/3842) [[json]](articles/3842.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/3837) [[json]](articles/3837.json)
 - [New Region Preview | Lahai-Roi, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/3830) [[json]](articles/3830.json)

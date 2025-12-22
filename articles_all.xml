@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-20T21:21:55+00:00</updated>
+    <updated>2025-12-22T15:40:33+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3843</id>
+                    <title>Wuthering Waves Update Content | Version 3.0 &#34;We Who See the Stars&#34; Planned for Release on December 25th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3843" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Update Content | Version 3.0 &#34;We Who See the Stars&#34; Planned for Release on December 25th (UTC+8)</p>
+<p>Here&#39;s the event calendar for Version 3.0. Check it out for a quick overview of the event schedule! <img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/86h1z00zh5e2btxegm-1766389137304.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/2xm6l40hpb7mhboryq-1766389153083.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/qcrbzcy64apiav0nje-1766396898193.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/vue5qye9vls18bb0xi-1766389193512.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/gs19r3dvcbbc089rtz-1766389215911.jpg" /></p>]]></content>
+                    <published>2025-12-22T15:40:33+00:00</published>
+                    <updated>2025-12-22T15:40:33+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3842</id>
                     <title>Profile Reveal | Radiant Spectrum — Lynae</title>

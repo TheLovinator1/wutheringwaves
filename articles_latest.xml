@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-20T21:21:55+00:00</updated>
+    <updated>2025-12-22T15:40:33+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3843</id>
+                    <title>Wuthering Waves Update Content | Version 3.0 &#34;We Who See the Stars&#34; Planned for Release on December 25th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3843" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Update Content | Version 3.0 &#34;We Who See the Stars&#34; Planned for Release on December 25th (UTC+8)</p>
+<p>Here&#39;s the event calendar for Version 3.0. Check it out for a quick overview of the event schedule! <img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/86h1z00zh5e2btxegm-1766389137304.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/2xm6l40hpb7mhboryq-1766389153083.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/qcrbzcy64apiav0nje-1766396898193.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/vue5qye9vls18bb0xi-1766389193512.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766332800000/gs19r3dvcbbc089rtz-1766389215911.jpg" /></p>]]></content>
+                    <published>2025-12-22T15:40:33+00:00</published>
+                    <updated>2025-12-22T15:40:33+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3842</id>
                     <title>Profile Reveal | Radiant Spectrum — Lynae</title>
@@ -569,25 +586,6 @@
                     <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 2.8. Don&#39;t miss out!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765123200000/c4vkobqzbyzfktae9v-1765178287582.jpg" /></p>]]></content>
                     <published>2025-12-08T15:18:13+00:00</published>
                     <updated>2025-12-08T15:18:13+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3699</id>
-                    <title>Profile Reveal | Divine Hearing — Buling</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3699" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
-<h1>Buling</h1>
-<p>Taoist of Mengzhou, Black Shores Consultant, feng shui master, and veteran forum dweller.</p>
-<p>Easygoing and well-traveled, Buling will &#34;bling&#34; whatever you seek.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/9oyj0uaj60gt28p0sh-1764847169651.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/phy1h8tjjaw6r3dsb1-1764847182638.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/32z3z94pk6q1ftroqz-1764847195330.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/b0bi495v4x76olx6nl-1764847208600.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/n69imhe9owope66m2a-1764847220001.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/p2deh8z8ybj4xp49ac-1764847231499.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/g18dvicozvl360ruxy-1764847243753.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/2m2mk0ci43t2t5edv0-1764847255738.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1764777600000/of2y5hxphtde0u4kne-1764847265395.jpg" /></p>]]></content>
-                    <published>2025-12-04T19:21:26+00:00</published>
-                    <updated>2025-12-04T19:21:26+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
