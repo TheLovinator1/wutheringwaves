@@ -11,6 +11,13 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Woven Melodies—Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3879) [[json]](articles/3879.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Woodland Aria](https://wutheringwaves.kurogames.com/en/main/news/detail/3863) [[json]](articles/3863.json)
+- [[Through Verses and Rhythms] Featured Resonator Convene: Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3862) [[json]](articles/3862.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Defier's Thorn](https://wutheringwaves.kurogames.com/en/main/news/detail/3861) [[json]](articles/3861.json)
+- [[Dance in the Storm's Wake] Featured Resonator Convene: Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/3860) [[json]](articles/3860.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Spectrum Blaster](https://wutheringwaves.kurogames.com/en/main/news/detail/3859) [[json]](articles/3859.json)
+- [[Undefined Spectrum] Featured Resonator Convene: Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/3858) [[json]](articles/3858.json)
 - [Resonator Review | Feathered Tempest—Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/3850) [[json]](articles/3850.json)
 - [Wuthering Waves Update Content | Version 3.0 "We Who See the Stars" Planned for Release on December 25th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/3843) [[json]](articles/3843.json)
 - [Profile Reveal | Radiant Spectrum — Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/3842) [[json]](articles/3842.json)
