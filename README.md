@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Fan Creation Event "We Who See the Stars" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3930) [[json]](articles/3930.json)
+- [V3.0 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3929) [[json]](articles/3929.json)
+- [Patch Notes for Version 3.0: We Who See the Stars](https://wutheringwaves.kurogames.com/en/main/news/detail/3920) [[json]](articles/3920.json)
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/3914) [[json]](articles/3914.json)
 - [Resonator Review | Woven Melodies—Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3879) [[json]](articles/3879.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Woodland Aria](https://wutheringwaves.kurogames.com/en/main/news/detail/3863) [[json]](articles/3863.json)
 - [[Through Verses and Rhythms] Featured Resonator Convene: Ciaccona](https://wutheringwaves.kurogames.com/en/main/news/detail/3862) [[json]](articles/3862.json)
