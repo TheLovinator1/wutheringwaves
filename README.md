@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves V3.0 Short-form Video Creative Event is officially live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3941) [[json]](articles/3941.json)
+- [V3.0 WUWA Discord Quest Livestream Event Begins!](https://wutheringwaves.kurogames.com/en/main/news/detail/3936) [[json]](articles/3936.json)
 - [Wuthering Waves Fan Creation Event "We Who See the Stars" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3930) [[json]](articles/3930.json)
 - [V3.0 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/3929) [[json]](articles/3929.json)
 - [Patch Notes for Version 3.0: We Who See the Stars](https://wutheringwaves.kurogames.com/en/main/news/detail/3920) [[json]](articles/3920.json)
