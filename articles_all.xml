@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-26T12:39:28+00:00</updated>
+    <updated>2025-12-30T12:17:09+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,41 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3946</id>
+                    <title>[Beyond the Waves: Lahai-Roi] Featured Exploration Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3946" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767024000000/tye6hmfqtxk4ttgexk-1767068208964.jpg" /></p>
+<p>To encourage the Pioneers to further share their Lahai-Roi explorations, Lollo Logistics has partnered with the Pioneer Association to proudly present the campaign: Beyond the Waves!</p>
+<p>Participate and upload your Adventure Logs to the Lollo courier truck to get various Adventure Packages!</p>
+<h1>Duration</h1>
+<p>2026-01-01 04:00 - 2026-01-19 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Lustrous Tide x5, Premium Enclosure Tank - Lahai-Roi x20, Premium Tuner x90, Crystal Solvent x6, Shell Credit x420000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during Main Quest Chapter III Act I &#34;&#34;What Burns Beneath Frostlands.&#34;&#34;</p>
+<h1>Event Details</h1>
+<ul>
+<li>
+<p>During the event, you can complete event objectives once per day to obtain a set number of Adventure Logs. Each Adventure Log can be exchanged for an Adventure Package.</p>
+</li>
+<li>
+<p>Adventure Packages contain special mechanics that, when triggered, unlock a large amount of rewards.</p>
+</li>
+<li>
+<p>There are 3 Inventories for the Adventure Packages. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.</p>
+</li>
+</ul>]]></content>
+                    <published>2025-12-30T12:17:09+00:00</published>
+                    <updated>2025-12-30T12:17:09+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3941</id>
                     <title>Wuthering Waves V3.0 Short-form Video Creative Event is officially live!</title>
