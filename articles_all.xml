@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-30T12:17:09+00:00</updated>
+    <updated>2026-01-05T10:24:42+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,24 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3956</id>
+                    <title>Post-Lament Anthropocene: Enemies — Hyvatia</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3956" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Hyvatia is Spacetrek Collective&#39;s first detection array built at Sundermere to monitor and stabilize the Reactor Drive&#39;s energy state in real time.</p>
+<p>The Research Institute implanted the Exostrider&#39;s space-time error correction module runtime into Hyvatia&#39;s core, allowing Hyvatia to adjust the Exostrider&#39;s orbit and detect hidden spaceborne threats with high precision. Therefore, Hyvatia possesses sufficient computational power to predict the Reactor Drive&#39;s rotation.</p>
+<p>Hyvatia&#39;s core function is to detect abnormal or dangerous energy fluctuations, perform immediate emergency calibrations, and feed this data back to the Drive to ensure stable operation.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/nhzo07ndoetofjec5w-1767579707949.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/ghib6yf059dfnmxw8y-1767579724544.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/thr3q4oc0lhbsvg30f-1767579772974.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/sig4encw9xux7erba4-1767579786069.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/0trgexzpmm387lvhqb-1767579812153.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/mzz2bxpjvhp8os8l5a-1767579828396.gif" /></p>]]></content>
+                    <published>2026-01-05T10:24:42+00:00</published>
+                    <updated>2026-01-05T10:24:42+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3946</id>
                     <title>[Beyond the Waves: Lahai-Roi] Featured Exploration Event</title>

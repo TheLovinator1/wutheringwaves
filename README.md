@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Enemies — Hyvatia](https://wutheringwaves.kurogames.com/en/main/news/detail/3956) [[json]](articles/3956.json)
 - [[Beyond the Waves: Lahai-Roi] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3946) [[json]](articles/3946.json)
 - [Wuthering Waves V3.0 Short-form Video Creative Event is officially live!](https://wutheringwaves.kurogames.com/en/main/news/detail/3941) [[json]](articles/3941.json)
 - [V3.0 WUWA Discord Quest Livestream Event Begins!](https://wutheringwaves.kurogames.com/en/main/news/detail/3936) [[json]](articles/3936.json)

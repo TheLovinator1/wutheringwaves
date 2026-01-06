@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2025-12-30T12:17:09+00:00</updated>
+    <updated>2026-01-05T10:24:42+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,24 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3956</id>
+                    <title>Post-Lament Anthropocene: Enemies — Hyvatia</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3956" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Hyvatia is Spacetrek Collective&#39;s first detection array built at Sundermere to monitor and stabilize the Reactor Drive&#39;s energy state in real time.</p>
+<p>The Research Institute implanted the Exostrider&#39;s space-time error correction module runtime into Hyvatia&#39;s core, allowing Hyvatia to adjust the Exostrider&#39;s orbit and detect hidden spaceborne threats with high precision. Therefore, Hyvatia possesses sufficient computational power to predict the Reactor Drive&#39;s rotation.</p>
+<p>Hyvatia&#39;s core function is to detect abnormal or dangerous energy fluctuations, perform immediate emergency calibrations, and feed this data back to the Drive to ensure stable operation.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/nhzo07ndoetofjec5w-1767579707949.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/ghib6yf059dfnmxw8y-1767579724544.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/thr3q4oc0lhbsvg30f-1767579772974.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/sig4encw9xux7erba4-1767579786069.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/0trgexzpmm387lvhqb-1767579812153.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/mzz2bxpjvhp8os8l5a-1767579828396.gif" /></p>]]></content>
+                    <published>2026-01-05T10:24:42+00:00</published>
+                    <updated>2026-01-05T10:24:42+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3946</id>
                     <title>[Beyond the Waves: Lahai-Roi] Featured Exploration Event</title>
@@ -1387,23 +1405,6 @@
                     <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/0ck3krx58kqcp5mabn-1766138083305.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/v17sjnu1t5gmce3qru-1766138095818.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/6eq25gder9yx0ey0tc-1766138108511.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/ox1ht23o4v5a77es8b-1766138124404.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/mtln48mf9q37zic7hp-1766138176311.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/m3tv8ls0xmpqf37o9a-1766138217543.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/2mbivansrbinuedz7z-1766138281178.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/6ax7oee6chcx5yfahv-1766138309664.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766073600000/lgvl90yiffjeqrvgde-1766138387740.gif" /></p>]]></content>
                     <published>2025-12-19T18:00:59+00:00</published>
                     <updated>2025-12-19T18:00:59+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3808</id>
-                    <title>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3808" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!</p>
-<p>Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge) will be introduced in Version 3.0. Get a sneak peek at the basic rules!</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/2itjoup49ajfpon2ox-1766054816011.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/1afkrhm464n9orl7ew-1766054831519.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/2d4ayrw7ved0zmzwd5-1766054843078.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/evudzvx6in2lxri911-1766054853723.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1765987200000/7p91uufh39dxl4rmm7-1766054864823.jpg" /></p>]]></content>
-                    <published>2025-12-18T18:48:09+00:00</published>
-                    <updated>2025-12-18T18:48:09+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
