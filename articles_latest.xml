@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-07T11:27:58+00:00</updated>
+    <updated>2026-01-07T16:36:52+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,24 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3972</id>
+                    <title>Post-Lament Anthropocene: Enemies — Reactor Husk</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3972" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>After the Reactor Drive was set above Lahai-Roi by the Exostrider, it remained on high alert to the activities of Aleph-1.</p>
+<p>When the Drive&#39;s immune response is triggered, a mechanized &#34;Reactor Husk&#34; will arise from the depths of the energy well, with the sole purpose of eliminating intruders at all costs.</p>
+<p>Research by Spacetrek Collective shows that Reactor Husk was once part of the Exostrider. Both share a mission to resist the Threnodian threat and safeguard civilization.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/768mv4r6p1lgv7vdg0-1767775040512.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/vgkwoh0yt2wx7tmpk2-1767775050953.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/yhuh4q42baryhcv9xf-1767775140058.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/or22wm1xbpxbds748l-1767775541692.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/u7ke0szn7fzajq3cpg-1767775567900.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/j2v9rhml8er8glhdn1-1767775593159.gif" /></p>]]></content>
+                    <published>2026-01-07T16:36:52+00:00</published>
+                    <updated>2026-01-07T16:36:52+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3962</id>
                     <title>[Bountiful Crescendo] Limited-Time Material Double Drop Event</title>
@@ -1410,22 +1428,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/9c31b5kkx6t277ci1a-1766236339793.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/grkg8rv21d0v4rlq52-1766236795787.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/6b0n9yyxh7k17d7hby-1766236814209.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/2zymzu97zjlen56cic-1766236831296.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/f0k5w2p60yjadeuref-1766236849476.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/35vx7jc3jhaqf8th0m-1766236867293.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/1ebqlzwzuyknkbh431-1766236882739.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/jxy1gj1xji9f5r86hq-1766236895554.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/uqnhbpfkc99nikvtz3-1766236907958.jpg" /></p>]]></content>
                     <published>2025-12-20T21:21:55+00:00</published>
                     <updated>2025-12-20T21:21:55+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3837</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Lynae</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3837" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;Don&#39;t blink... you&#39;ll miss the best part!&#34;— Lynae</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/jpv6j1g1p1j7nburf1-1766164083702.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/tfu07u87f042gef0p7-1766164345781.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/f43lndffbk9a1l7ri8-1766164385603.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/jut5ja2c5hqhh8gxnx-1766164423930.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/ka2asgm3ynh60itr84-1766164444527.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/zej7djvapbmevxdxox-1766164468408.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/vgcvo0bln0srskihp6-1766164487886.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/6onqlvxl870sp56ruh-1766164501396.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766160000000/48xvdqtmr9g40ohi3l-1766164635783.jpg" /></p>]]></content>
-                    <published>2025-12-20T01:17:37+00:00</published>
-                    <updated>2025-12-20T01:17:37+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

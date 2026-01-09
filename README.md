@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Enemies — Reactor Husk](https://wutheringwaves.kurogames.com/en/main/news/detail/3972) [[json]](articles/3972.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3962) [[json]](articles/3962.json)
 - [Post-Lament Anthropocene: Enemies — Hyvatia](https://wutheringwaves.kurogames.com/en/main/news/detail/3956) [[json]](articles/3956.json)
 - [[Beyond the Waves: Lahai-Roi] Featured Exploration Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3946) [[json]](articles/3946.json)
