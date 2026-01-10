@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wutherium Geographic: Lands and Waters — Lahai-Roi Vol. 1](https://wutheringwaves.kurogames.com/en/main/news/detail/3986) [[json]](articles/3986.json)
+- [Post-Lament Anthropocene: Stars Intertwined | Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/3973) [[json]](articles/3973.json)
 - [Post-Lament Anthropocene: Enemies — Reactor Husk](https://wutheringwaves.kurogames.com/en/main/news/detail/3972) [[json]](articles/3972.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/3962) [[json]](articles/3962.json)
 - [Post-Lament Anthropocene: Enemies — Hyvatia](https://wutheringwaves.kurogames.com/en/main/news/detail/3956) [[json]](articles/3956.json)
