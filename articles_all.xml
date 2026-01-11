@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-09T18:19:11+00:00</updated>
+    <updated>2026-01-09T18:37:09+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,27 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:3990</id>
+                    <title>Profile Reveal | Astral Mapping — Mornye</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3990" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Mornye</h1>
+<p>Mornye, a Spacetrek Collective Research Institute engineer and a Department of Exostrider Engineering professor at Startorch Academy.</p>
+<p>Each step on her prosthetic legs carries her toward the stars of her dreams.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/v8ovakuptj99hwtk28-1767954561638.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/sq0th5k2xwx13fnd4p-1767954653069.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/cbi1mrc1ncekvyt3dz-1767954671951.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/2kbemzvu19o972j7af-1767954850679.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/ge39ifck8yp3d9jowm-1767954788907.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/4v2wd0sqolybwy10nj-1767954806381.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/204gc1iqwpdi6egjke-1767954872730.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/by2utj05w8iwle0njq-1767954888180.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/po9huvwbxm4bway996-1767954914267.jpg" /></p>]]></content>
+                    <published>2026-01-09T18:37:09+00:00</published>
+                    <updated>2026-01-09T18:37:09+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3986</id>
                     <title>Wutherium Geographic: Lands and Waters — Lahai-Roi Vol. 1</title>
