@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-09T18:37:09+00:00</updated>
+    <updated>2026-01-13T11:04:11+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,39 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4000</id>
+                    <title>Resonator Review | Stasis, Cycle, Renewal — Iuno</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4000" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>She is favored by fate under one name, and swept away by it in another. Yet never once has she been defeated, nor has she ever yielded.</p>
+<p>Now, witness the defiant Priestess. Witness what keeps her striding forward, never to look back. Witness how she walks the intricate web of destiny and becomes the only answer.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768233600000/uvv78vfbwj6glq15c7-1768273276784.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768233600000/81dlrh0thzoij6bau1-1768273290215.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768233600000/n1atgqr369xclcq1vc-1768273323837.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768233600000/wiv57g3uswgdr4ltuu-1768273388907.jpg" /></p>]]></content>
+                    <published>2026-01-13T11:04:11+00:00</published>
+                    <updated>2026-01-13T11:04:11+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:3993</id>
+                    <title>Upcoming Events in Wuthering Waves Version 3.0</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3993" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 3.0. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768147200000/qyrzlt58zco9vxzzlj-1768200603385.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768147200000/mbxdys8u4gv09k226i-1768200616031.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768147200000/8tpcyhih05akgnbp85-1768200628957.jpg" /></p>]]></content>
+                    <published>2026-01-12T14:53:04+00:00</published>
+                    <updated>2026-01-12T14:53:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:3990</id>
                     <title>Profile Reveal | Astral Mapping — Mornye</title>
@@ -1332,104 +1365,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2025-12-24T12:08:12+00:00</published>
                     <updated>2025-12-24T12:08:12+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3859</id>
-                    <title>[Absolute Pulsation] Featured Weapon Convene: Spectrum Blaster</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3859" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766505600000/p3vizxxxfi0b5zrbpm-1766549202039.jpg" /></p>
-<p>During the event, 5-Star Weapon: Spectrum Blaster, 4-Star Weapons: Relativistic Jet, Endless Collapse, and Undying Flame receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 3.0 Update - 2026-01-15 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Spectrum Blaster.</p>
-</li>
-<li>
-<p>Featured Weapon Spectrum Blaster is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-12-24T12:06:59+00:00</published>
-                    <updated>2025-12-24T12:06:59+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3858</id>
-                    <title>[Undefined Spectrum] Featured Resonator Convene: Lynae</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3858" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1766505600000/4pcrkf6n4r7wvjp4gz-1766549125682.jpg" /></p>
-<p>During the event, 5-Star Resonator: Lynae, 4-Star Resonators: Yangyang, Youhu, and Baizhi receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 3.0 Update - 2026-01-15 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Undefined Spectrum] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Lynae is exclusive to the [Undefined Spectrum] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Lynae&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2025-12-24T12:05:48+00:00</published>
-                    <updated>2025-12-24T12:05:48+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
