@@ -11,6 +11,13 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Absolute Pulsation] Featured Weapon Convene: Moongazer's Sigil](https://wutheringwaves.kurogames.com/en/main/news/detail/4049) [[json]](articles/4049.json)
+- [[Across Time's Waxes and Wanes] Featured Resonator Convene: Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/4041) [[json]](articles/4041.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Thunderflare Dominion](https://wutheringwaves.kurogames.com/en/main/news/detail/4033) [[json]](articles/4033.json)
+- [[Eternal Radiance on the Crown] Featured Resonator Convene: Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/4025) [[json]](articles/4025.json)
+- [[Absolute Pulsation] Featured Weapon Convene: Starfield Calibrator](https://wutheringwaves.kurogames.com/en/main/news/detail/4017) [[json]](articles/4017.json)
+- [[Distant May the Starlights Be] Featured Resonator Convene: Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/4009) [[json]](articles/4009.json)
+- [Resonator Review | Magnetism Before Light — Augusta](https://wutheringwaves.kurogames.com/en/main/news/detail/4007) [[json]](articles/4007.json)
 - [Resonator Review | Stasis, Cycle, Renewal — Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/4000) [[json]](articles/4000.json)
 - [Upcoming Events in Wuthering Waves Version 3.0](https://wutheringwaves.kurogames.com/en/main/news/detail/3993) [[json]](articles/3993.json)
 - [Profile Reveal | Astral Mapping — Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/3990) [[json]](articles/3990.json)
