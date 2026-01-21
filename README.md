@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wutherium Geographic: Lands and Waters — Lahai-Roi Vol.2 - 4](https://wutheringwaves.kurogames.com/en/main/news/detail/4076) [[json]](articles/4076.json)
+- [[Signs of a Silent Star] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4064) [[json]](articles/4064.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Moongazer's Sigil](https://wutheringwaves.kurogames.com/en/main/news/detail/4049) [[json]](articles/4049.json)
 - [[Across Time's Waxes and Wanes] Featured Resonator Convene: Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/4041) [[json]](articles/4041.json)
 - [[Absolute Pulsation] Featured Weapon Convene: Thunderflare Dominion](https://wutheringwaves.kurogames.com/en/main/news/detail/4033) [[json]](articles/4033.json)
