@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-23T16:47:01+00:00</updated>
+    <updated>2026-01-28T15:11:29+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,177 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4102</id>
+                    <title>Wuthering Waves Version 3.1 Update Maintenance Notice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4102" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769529600000/69ew17rp5s0l52lxbr-1769584218012.jpg" /></p>
+<p>Dear Rovers,</p>
+<p>To bring you exciting new content and a better gaming experience, we will soon be conducting the update maintenance for Version 3.1: For You Who Walk in Snow.</p>
+<p>During the maintenance, you will be unable to log in to the game, so please plan your time accordingly. Additionally, due to the large size of the update, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause.</p>
+<h1>Maintenance Time &amp; Compensation Details</h1>
+<ul>
+<li>
+<p>Maintenance Time: 2026-02-05 04:00 - 2026-02-05 11:00 (UTC+8)</p>
+</li>
+<li>
+<p>Maintenance Compensation: Astrite x300, Crystal Solvent x2</p>
+</li>
+<li>
+<p>Compensation Eligibility: Create a character and unlock the Mail feature before 2026-02-05 04:00 (UTC+8). The compensation will remain claimable until the next version update.</p>
+</li>
+</ul>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<h1>How to Update</h1>
+<p>Once the maintenance for the version update begins, you can follow the following instructions to update your client.</p>
+<ul>
+<li>
+<p>PC: Close the game, restart the launcher, and then click on &#34;Update.&#34;</p>
+</li>
+<li>
+<p>Android: Launch the game and follow the instructions in the update pop-up window to complete the update.</p>
+</li>
+<li>
+<p>iOS: Download/update the game in the App Store.</p>
+</li>
+<li>
+<p>Mac: Download/update the game in the App Store.</p>
+</li>
+<li>
+<p>PS5™: Open the home screen &gt; Select Wuthering Waves &gt; Press the OPTIONS button to Check for Update</p>
+</li>
+</ul>
+<h1>Pre-download</h1>
+<ul>
+<li>Pre-download Start Time: 2026-02-03 10:00 (UTC+8)</li>
+</ul>
+<h1>Pre-download Storage Requirements</h1>
+<ul>
+<li>
+<p>PC: 35 GB. To ensure smoother subsequent processes, such as decompressing, it is recommended that you have at least 40 GB of spare storage space on your PC.</p>
+</li>
+<li>
+<p>Android/iOS: 18 GB. Approximately 61 GB of storage space is needed for the decompression process. This space will be used only temporarily and will be freed up once the maintenance is completed.</p>
+</li>
+</ul>
+<p><em>Please note that pre-download may not be possible if your device does not have enough spare storage space.</em></p>
+<h1>How to Pre-download</h1>
+<ul>
+<li>
+<p>PC: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</p>
+</li>
+<li>
+<p>Android/iOS: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</p>
+</li>
+</ul>
+<p><em>You can continue playing the game while the pre-downloading process is ongoing on PC or mobile. The process can be paused at any time. Whether it is complete or not, the update maintenance will speed up to a certain degree when initiated.</em></p>
+<p><em>Please ensure that you have a stable network connection during the pre-downloading process.</em></p>
+<hr />
+<h1>Version 3.1 Preview# New Resonators</h1>
+<p>5-Star Resonator: Aemeath (Fusion/Sword)</p>
+<p><em>Obtainable through the [Take Flight in Spring] Featured Resonator Convene.</em></p>
+<p>5-Star Resonator: Luuk Herssen (Spectro/Gauntlets)</p>
+<p><em>Obtainable through the [When Winter Thaws] Featured Resonator Convene.</em></p>
+<h1>New Weapons</h1>
+<p>5-Star Weapon: Everbright Polestar (Sword)</p>
+<p><em>Obtainable through the [Everbright Polestar] Featured Weapon Convene.</em></p>
+<p>5-Star Weapon: Daybreaker&#39;s Spine (Gauntlets)</p>
+<p><em>Obtainable through the [Daybreaker&#39;s Spine] Featured Weapon Convene.</em></p>
+<h1>New Area</h1>
+<p>Roya Frostlands: Frostlands Surface</p>
+<p>Area includes: Frostlands Transit Port, Mount Gjallar, Starblind Crashsite, Upphaf Forest Ruins, Tidelost Forest</p>
+<p><em>Reach the location during Main Quest Chapter III Act III &#34;The Star That Voyages Far.&#34;</em></p>
+<h1>Utility: Expedition Motorbike</h1>
+<p>Added Glacier Track, allowing the motorbike to drive across open water.</p>
+<p>Added &#34;All-Terrain Tactics&#34; Expansion Module.</p>
+<p>Optimized Autopilot Mode and visual presentation.</p>
+<p>Optimized controls on mobile devices.</p>
+<h1>New Echoes</h1>
+<p>Sigillum, Nameless Explorer, Iceglint Dancer, Shadow Stepper, Kronablight, Reminiscence - Kronaclaw, Glommoth</p>
+<p>New Sonata Effects: Trailblazing Star (5pcs Set), Chromatic Foam (5pcs Set), Sound of True Name (5pcs Set)</p>
+<p>New Tacet Discord Nest: Starblind Crashsite Tacet Discord Nest</p>
+<p><em>A set number of Tacet Discords are available daily. Defeat them to claim the corresponding Echoes without spending Waveplates.</em></p>
+<h1>New Stories</h1>
+<p>[Main Quest Chapter III Act III] The Star That Voyages Far</p>
+<p>[Segue: Afterstory] All That Sunlight Touches</p>
+<h1>New Feature</h1>
+<p>&#34;Starpaths Intertwined&#34; Giveback Event</p>
+<h1>Gameplay Optimizations</h1>
+<p>Added Batch Operations to Data Modify.</p>
+<p>Added Targeted Merge to Data Merge.</p>
+<h1>Other Optimizations</h1>
+<p>Added support for HDR on HDR-capable devices.</p>
+<p>Optimized action performance.</p>
+<p>Optimized resource loading performance.</p>
+<h1>Other New Content</h1>
+<p>New &#34;Tactical Hologram: Synchronization&#34; Challenge: Reactor Husk</p>
+<p>New Phantom Echo: Phantom - Sigillum</p>
+<p>New Sigils: A Night to Remember, Concealed Starlight</p>
+<p>New Titles: Law of Stars, Roving Lodestar</p>
+<p>Glider Aspect: Cosmic Spindle</p>
+<p><em>Participate in the Limited-Time Event &#34;Where Stars Cascade Down&#34; to win Phantom: Sigillum and Sigil: A Night to Remember; participate in the Leisure Event &#34;Full Throttle! Bolt &amp; Blitz!&#34; to win Title: Roving Lodestar.</em></p>
+<h1>Special Events</h1>
+<p>[Where Stars Cascade Down] Limited-Time Event</p>
+<p>[Unfrozen Traces] Area Exploration Event</p>
+<p>[Footprints on Frostlands] Photo Collection Event</p>
+<p>[TERM-X: Outreach] Exploration Event</p>
+<p>[Peaks of Prestige: Rekindled Duel] Echo Combat Event</p>
+<p>[Blade Hunter: Wilderness] Featured Combat Event</p>
+<p>[Rein Back! Migration Mayhem!] Leisure Event</p>
+<p>[Full Throttle! Bolt &amp; Blitz!] Leisure Event</p>
+<p>[Lollo Campaign: Implementation] Featured Commission Event</p>
+<p>[Gifts of Soft Snow] 7-Day Login Event</p>
+<h1>Web Event</h1>
+<p>Veins of the Frostlands</p>
+<h1>Special Gift Giving Events</h1>
+<p>Unsigned Good Wishes</p>
+<p>Startorch for You</p>
+<p><em>For more details on the new content, optimizations, and bug fixes coming to the game in Version 3.1, please stay tuned for the upcoming release notes.</em></p>
+<hr />
+<h1>Device Requirements</h1>
+<p>To ensure a smooth experience, please refer to the following requirements:</p>
+<ol>
+<li>Minimum</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 835, MediaTek G71/72 or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>iOS: [System] iOS 14 or later; [Model] iPhone 11 or newer, iPad with A13 Bionic or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>Mac: [System] macOS 12.0 or later; [Model] m1 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I5 (9th Gen)/Ryzen 2700; [GPU] Geforce 1060/RX570/Intel ARC A380, [RAM] 16 GB or more</p>
+<ol start="2">
+<li>Recommended</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 8 Gen1+/Gen2/Gen3 or MediaTek processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>iOS: [System] iOS 15 or later; [Model] iPhone 13 or newer, iPad with A15 Bionic or processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>Mac: [System] macOS 15.0 or later; [Model] m3 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I7 (9th Gen)/Ryzen 3700, [GPU] Geforce 2060/RX5700XT/Intel ARC A750; [RAM] 16 GB or more</p>
+<ol start="3">
+<li>Required Storage Space</li>
+</ol>
+<p>Android/iOS: 70 GB</p>
+<p>Mac: 150 GB</p>
+<p>PC: 150 GB; it&#39;s recommended to install the game on an SSD.</p>
+<p>PS5™: Please make sure your device has sufficient available storage to complete the update successfully.</p>
+<ol start="4">
+<li>Controller Support</li>
+</ol>
+<p>Wuthering Waves currently supports the following controllers on Mobile.</p>
+<p>Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on Mac.</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on PC.</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualSense®, DualSense Edge™</p>
+<p>Wired Controllers: DualShock®4</p>
+<p><em>When you connect any other controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>]]></content>
+                    <published>2026-01-28T15:11:29+00:00</published>
+                    <updated>2026-01-28T15:11:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4082</id>
                     <title>Wuthering Waves Version Preview | Version 3.1 &#34;For You Who Walk in Snow&#34; Scheduled for Release on February 5th (UTC+8)</title>
@@ -573,41 +744,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/ghib6yf059dfnmxw8y-1767579724544.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/thr3q4oc0lhbsvg30f-1767579772974.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/sig4encw9xux7erba4-1767579786069.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/0trgexzpmm387lvhqb-1767579812153.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/mzz2bxpjvhp8os8l5a-1767579828396.gif" /></p>]]></content>
                     <published>2026-01-05T10:24:42+00:00</published>
                     <updated>2026-01-05T10:24:42+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3946</id>
-                    <title>[Beyond the Waves: Lahai-Roi] Featured Exploration Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3946" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767024000000/tye6hmfqtxk4ttgexk-1767068208964.jpg" /></p>
-<p>To encourage the Pioneers to further share their Lahai-Roi explorations, Lollo Logistics has partnered with the Pioneer Association to proudly present the campaign: Beyond the Waves!</p>
-<p>Participate and upload your Adventure Logs to the Lollo courier truck to get various Adventure Packages!</p>
-<h1>Duration</h1>
-<p>2026-01-01 04:00 - 2026-01-19 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x400, Lustrous Tide x5, Premium Enclosure Tank - Lahai-Roi x20, Premium Tuner x90, Crystal Solvent x6, Shell Credit x420000, and other Materials.</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during Main Quest Chapter III Act I &#34;&#34;What Burns Beneath Frostlands.&#34;&#34;</p>
-<h1>Event Details</h1>
-<ul>
-<li>
-<p>During the event, you can complete event objectives once per day to obtain a set number of Adventure Logs. Each Adventure Log can be exchanged for an Adventure Package.</p>
-</li>
-<li>
-<p>Adventure Packages contain special mechanics that, when triggered, unlock a large amount of rewards.</p>
-</li>
-<li>
-<p>There are 3 Inventories for the Adventure Packages. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.</p>
-</li>
-</ul>]]></content>
-                    <published>2025-12-30T12:17:09+00:00</published>
-                    <updated>2025-12-30T12:17:09+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
