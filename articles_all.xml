@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-30T14:37:32+00:00</updated>
+    <updated>2026-01-30T22:28:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4134</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Aemeath</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4134" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Aemeath, Synchronist of the Exostrider from Rabelle College. That was me back when I was alive. Now? I&#39;m a digital ghost!&#34;— Aemeath</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/fginweaaop2snunxp2-1769782061823.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/57f2p5xz3m1v2qm6nk-1769782094675.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/f4b5a60eh2k2ja0da2-1769782126421.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/c3kb1lm3jeres9jgi3-1769782149440.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/xeinnygp004okgfd7e-1769782207867.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/hacaassbwkwi4crj82-1769782745061.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/y0zev7plgdtc44n2ay-1769782859530.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/x0130otc4dx998iejf-1769782959473.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/js1slrqk1zjbjqknxp-1769783047202.gif" /></p>]]></content>
+                    <published>2026-01-30T22:28:04+00:00</published>
+                    <updated>2026-01-30T22:28:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4123</id>
                     <title>Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider</title>

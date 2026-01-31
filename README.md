@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Aemeath](https://wutheringwaves.kurogames.com/en/main/news/detail/4134) [[json]](articles/4134.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider](https://wutheringwaves.kurogames.com/en/main/news/detail/4123) [[json]](articles/4123.json)
 - [New Area Preview | Roya Frostlands - Frostlands Surface, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4113) [[json]](articles/4113.json)
 - [Wuthering Waves Version 3.1 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4102) [[json]](articles/4102.json)
