@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-28T15:11:29+00:00</updated>
+    <updated>2026-01-30T14:37:32+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4123</id>
+                    <title>Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4123" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Current archives and Royan tales speak of the Exostrider, who descended through the Stridergate buried deep within Lahai-Roi. Down along its trail came Threnodian Aleph-1, and the two clashed in a fierce battle. At last, the Exostrider sealed Aleph-1 within the Stridergate itself. The Exostrider then drove its greatsword into the earth to hold up Lahai-Roi and the Roya Frostlands above.</p>
+<p>Current research suggests the Exostriders and Sentinels were created with technology from the same civilization.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/chlsfexc8hlxgozwqj-1769754973869.png" /></p>]]></content>
+                    <published>2026-01-30T14:37:32+00:00</published>
+                    <updated>2026-01-30T14:37:32+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4113</id>
+                    <title>New Area Preview | Roya Frostlands - Frostlands Surface, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4113" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/8ymdbak85eptkpqnhy-1769679568228.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/kqsow029gx3o29i0ji-1769679944880.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/kmrxb89e7iky8gpr6j-1769667412681.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/cmuvq9w7mju7bryo4e-1769667426918.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/x7qrfa3ahzfeduvz6d-1769667443737.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/v7696gvdoz1dpsm203-1769667457654.gif" /></p>]]></content>
+                    <published>2026-01-29T14:17:59+00:00</published>
+                    <updated>2026-01-29T14:17:59+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4102</id>
                     <title>Wuthering Waves Version 3.1 Update Maintenance Notice</title>
@@ -179,6 +211,25 @@
 <p><em>When you connect any other controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>]]></content>
                     <published>2026-01-28T15:11:29+00:00</published>
                     <updated>2026-01-28T15:11:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4100</id>
+                    <title>Rover&#39;s Signature Outfit &#34;Perpetual Spark&#34; will become available once Version 3.1 goes live.</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4100" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Rover&#39;s uniform from the past days at Startorch Academy. The black-and-white combination, accented with gold stripes, weaves past and future together, ensuring that what has happened is remembered and what is yet to come feels within reach.</p>
+<p>Rover&#39;s Signature Outfit &#34;Perpetual Spark&#34; will become available once Version 3.1 goes live. Get a sneak peek now!</p>
+<h1>How to Obtain</h1>
+<p>The &#34;Startorch for You&#34; event will be available once Version 3.1 goes live and will remain permanently available. From the event page, you can claim the free Signature Outfit &#34;Perpetual Spark&#34; for Rover, along with the associated Avatar, once you&#39;ve completed Main Quest Chapter III Act III &#34;The Star That Voyages Far.&#34;</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/c5u71qtomx9yh7gm93-1769511333573.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/buykuijrpozdtqqfkp-1769511345627.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/r30kar7loj5q6i7d3w-1769511455308.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/fh9eanivf5qpl7gcai-1769511597987.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/2xbymnikqxingciveu-1769511614824.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/p413ezhzwmpv6751dp-1769511625398.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/myig1kygqd7snviuny-1769511663710.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/6ezw81w6q3ibmuw92r-1769511802888.jpg" /></p>]]></content>
+                    <published>2026-01-27T19:05:48+00:00</published>
+                    <updated>2026-01-27T19:05:48+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
@@ -672,78 +723,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/lzmywi9siezquqfwtc-1767964451889.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/gxs1ggnkzlqavvxz5x-1767964476456.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/to5hegouwkvi89zorv-1767964567510.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/ndo35q8ypeqvycflzr-1767964679058.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/hv7oyorelh0e1c4dmb-1767964720305.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/x3k7c1xvwuxw04eauo-1767965397675.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/fwfd3s58k5k2xu1qcc-1767965483009.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/h9j3q5bauczeyakaau-1767965538807.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767888000000/khenum0csouzorgsua-1767965643431.jpg" /></p>]]></content>
                     <published>2026-01-07T16:48:48+00:00</published>
                     <updated>2026-01-07T16:48:48+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3972</id>
-                    <title>Post-Lament Anthropocene: Enemies — Reactor Husk</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3972" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>After the Reactor Drive was set above Lahai-Roi by the Exostrider, it remained on high alert to the activities of Aleph-1.</p>
-<p>When the Drive&#39;s immune response is triggered, a mechanized &#34;Reactor Husk&#34; will arise from the depths of the energy well, with the sole purpose of eliminating intruders at all costs.</p>
-<p>Research by Spacetrek Collective shows that Reactor Husk was once part of the Exostrider. Both share a mission to resist the Threnodian threat and safeguard civilization.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/768mv4r6p1lgv7vdg0-1767775040512.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/vgkwoh0yt2wx7tmpk2-1767775050953.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/yhuh4q42baryhcv9xf-1767775140058.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/or22wm1xbpxbds748l-1767775541692.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/u7ke0szn7fzajq3cpg-1767775567900.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/j2v9rhml8er8glhdn1-1767775593159.gif" /></p>]]></content>
-                    <published>2026-01-07T16:36:52+00:00</published>
-                    <updated>2026-01-07T16:36:52+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3962</id>
-                    <title>[Bountiful Crescendo] Limited-Time Material Double Drop Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3962" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/xm3ojhoidz1utkw2nx-1767756441883.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767715200000/kmlzix5o9l8dbgjm0q-1767756461735.jpg" /></p>
-<p>The Sonoro Spheres are undergoing an accelerating collapse due to the Waveworn Phenomenon. However, this is also intensifying the energy within, resulting in more valuable materials.</p>
-<p>Use the Waveplates to maximize your rewards from the Remnant Crystals.</p>
-<h1>Duration</h1>
-<p>2026-01-08 04:00 - 2026-01-15 03:59 (server time)</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 14.</p>
-<h1>Details</h1>
-<ul>
-<li>
-<p>Complete Simulation Challenge and Forgery Challenges during the event and spend Waveplates for double rewards.</p>
-</li>
-<li>
-<p>Simulation Challenge and Forgery Challenge share the double rewards claims.</p>
-</li>
-<li>
-<p>During [Bountiful Crescendo], you can claim double rewards 3 times a day, and the remaining double rewards claims can be viewed on the [Bountiful Crescendo] event page.</p>
-</li>
-<li>
-<p>During [Bountiful Crescendo], double rewards claims refresh daily at 04:00 (server time).</p>
-</li>
-</ul>]]></content>
-                    <published>2026-01-07T11:27:58+00:00</published>
-                    <updated>2026-01-07T11:27:58+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:3956</id>
-                    <title>Post-Lament Anthropocene: Enemies — Hyvatia</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/3956" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Hyvatia is Spacetrek Collective&#39;s first detection array built at Sundermere to monitor and stabilize the Reactor Drive&#39;s energy state in real time.</p>
-<p>The Research Institute implanted the Exostrider&#39;s space-time error correction module runtime into Hyvatia&#39;s core, allowing Hyvatia to adjust the Exostrider&#39;s orbit and detect hidden spaceborne threats with high precision. Therefore, Hyvatia possesses sufficient computational power to predict the Reactor Drive&#39;s rotation.</p>
-<p>Hyvatia&#39;s core function is to detect abnormal or dangerous energy fluctuations, perform immediate emergency calibrations, and feed this data back to the Drive to ensure stable operation.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/nhzo07ndoetofjec5w-1767579707949.jpg" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/ghib6yf059dfnmxw8y-1767579724544.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/thr3q4oc0lhbsvg30f-1767579772974.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/sig4encw9xux7erba4-1767579786069.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/0trgexzpmm387lvhqb-1767579812153.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1767542400000/mzz2bxpjvhp8os8l5a-1767579828396.gif" /></p>]]></content>
-                    <published>2026-01-05T10:24:42+00:00</published>
-                    <updated>2026-01-05T10:24:42+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

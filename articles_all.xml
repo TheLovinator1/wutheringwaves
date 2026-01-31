@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-28T15:11:29+00:00</updated>
+    <updated>2026-01-30T14:37:32+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4123</id>
+                    <title>Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4123" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Current archives and Royan tales speak of the Exostrider, who descended through the Stridergate buried deep within Lahai-Roi. Down along its trail came Threnodian Aleph-1, and the two clashed in a fierce battle. At last, the Exostrider sealed Aleph-1 within the Stridergate itself. The Exostrider then drove its greatsword into the earth to hold up Lahai-Roi and the Roya Frostlands above.</p>
+<p>Current research suggests the Exostriders and Sentinels were created with technology from the same civilization.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769702400000/chlsfexc8hlxgozwqj-1769754973869.png" /></p>]]></content>
+                    <published>2026-01-30T14:37:32+00:00</published>
+                    <updated>2026-01-30T14:37:32+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4113</id>
+                    <title>New Area Preview | Roya Frostlands - Frostlands Surface, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4113" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/8ymdbak85eptkpqnhy-1769679568228.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/kqsow029gx3o29i0ji-1769679944880.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/kmrxb89e7iky8gpr6j-1769667412681.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/cmuvq9w7mju7bryo4e-1769667426918.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/x7qrfa3ahzfeduvz6d-1769667443737.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769616000000/v7696gvdoz1dpsm203-1769667457654.gif" /></p>]]></content>
+                    <published>2026-01-29T14:17:59+00:00</published>
+                    <updated>2026-01-29T14:17:59+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4102</id>
                     <title>Wuthering Waves Version 3.1 Update Maintenance Notice</title>
@@ -179,6 +211,25 @@
 <p><em>When you connect any other controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>]]></content>
                     <published>2026-01-28T15:11:29+00:00</published>
                     <updated>2026-01-28T15:11:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4100</id>
+                    <title>Rover&#39;s Signature Outfit &#34;Perpetual Spark&#34; will become available once Version 3.1 goes live.</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4100" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Rover&#39;s uniform from the past days at Startorch Academy. The black-and-white combination, accented with gold stripes, weaves past and future together, ensuring that what has happened is remembered and what is yet to come feels within reach.</p>
+<p>Rover&#39;s Signature Outfit &#34;Perpetual Spark&#34; will become available once Version 3.1 goes live. Get a sneak peek now!</p>
+<h1>How to Obtain</h1>
+<p>The &#34;Startorch for You&#34; event will be available once Version 3.1 goes live and will remain permanently available. From the event page, you can claim the free Signature Outfit &#34;Perpetual Spark&#34; for Rover, along with the associated Avatar, once you&#39;ve completed Main Quest Chapter III Act III &#34;The Star That Voyages Far.&#34;</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/c5u71qtomx9yh7gm93-1769511333573.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/buykuijrpozdtqqfkp-1769511345627.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/r30kar7loj5q6i7d3w-1769511455308.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/fh9eanivf5qpl7gcai-1769511597987.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/2xbymnikqxingciveu-1769511614824.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/p413ezhzwmpv6751dp-1769511625398.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/myig1kygqd7snviuny-1769511663710.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769443200000/6ezw81w6q3ibmuw92r-1769511802888.jpg" /></p>]]></content>
+                    <published>2026-01-27T19:05:48+00:00</published>
+                    <updated>2026-01-27T19:05:48+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
