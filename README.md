@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Update Content | Version 3.1 "For You Who Walk in Snow" Planned for Release on February 5th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4156) [[json]](articles/4156.json)
+- [Resonator Review | Howling Flame — Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/4149) [[json]](articles/4149.json)
 - [Profile Reveal | Guiding Starlance — Aemeath](https://wutheringwaves.kurogames.com/en/main/news/detail/4140) [[json]](articles/4140.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Aemeath](https://wutheringwaves.kurogames.com/en/main/news/detail/4134) [[json]](articles/4134.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider](https://wutheringwaves.kurogames.com/en/main/news/detail/4123) [[json]](articles/4123.json)

@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-01-31T18:24:19+00:00</updated>
+    <updated>2026-02-02T15:42:43+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,41 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4156</id>
+                    <title>Wuthering Waves Update Content | Version 3.1 &#34;For You Who Walk in Snow&#34; Planned for Release on February 5th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4156" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Update Content | Version 3.1 &#34;For You Who Walk in Snow&#34; Planned for Release on February 5th (UTC+8)</p>
+<p>Here&#39;s the event calendar for Version 3.1. Check it out for a quick overview of the event schedule!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/9l0l4vpkm46exny0fq-1770019241868.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/773qbhqsrxn48yymw4-1770022485662.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/hf78vrysa97h2pixy3-1770026532744.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/t2f06pe10xscrz4eup-1770022568215.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/k2r7pg29yau564lyb1-1770022960454.jpg" /></p>]]></content>
+                    <published>2026-02-02T15:42:43+00:00</published>
+                    <updated>2026-02-02T15:42:43+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4149</id>
+                    <title>Resonator Review | Howling Flame — Lupa</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4149" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A Gladiator of Septimont, a radiant star of the arena.</p>
+<p>Fiery and straightforward, Lupa lives like a wild lone wolf. As long as she can savor the adrenaline rush of battle, she doesn&#39;t mind if that same fire ends up consuming her whole.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/fa719f9b21m63ptpzk-1770014003987.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769961600000/cblyhgtrxrlc1lplfy-1770014028026.jpg" /></p>]]></content>
+                    <published>2026-02-02T14:35:45+00:00</published>
+                    <updated>2026-02-02T14:35:45+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4140</id>
                     <title>Profile Reveal | Guiding Starlance — Aemeath</title>
