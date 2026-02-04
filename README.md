@@ -11,6 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Everbright Polestar] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4204) [[json]](articles/4204.json)
+- [[Take Flight in Spring] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4196) [[json]](articles/4196.json)
+- [[Version 3.1 Featured Resonator/Weapon Convene: Phase I]](https://wutheringwaves.kurogames.com/en/main/news/detail/4167) [[json]](articles/4167.json)
 - [Resonator Review | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/4164) [[json]](articles/4164.json)
 - [Wuthering Waves Update Content | Version 3.1 "For You Who Walk in Snow" Planned for Release on February 5th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4156) [[json]](articles/4156.json)
 - [Resonator Review | Howling Flame — Lupa](https://wutheringwaves.kurogames.com/en/main/news/detail/4149) [[json]](articles/4149.json)
