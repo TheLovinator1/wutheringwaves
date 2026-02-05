@@ -11,8 +11,12 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Fan Creation Event "For You Who Walk in Snow" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4233) [[json]](articles/4233.json)
+- [V3.1 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/4215) [[json]](articles/4215.json)
 - [[Everbright Polestar] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4204) [[json]](articles/4204.json)
 - [[Take Flight in Spring] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4196) [[json]](articles/4196.json)
+- [Patch Notes for Version 3.1: For You Who Walk in Snow](https://wutheringwaves.kurogames.com/en/main/news/detail/4188) [[json]](articles/4188.json)
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4172) [[json]](articles/4172.json)
 - [[Version 3.1 Featured Resonator/Weapon Convene: Phase I]](https://wutheringwaves.kurogames.com/en/main/news/detail/4167) [[json]](articles/4167.json)
 - [Resonator Review | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/4164) [[json]](articles/4164.json)
 - [Wuthering Waves Update Content | Version 3.1 "For You Who Walk in Snow" Planned for Release on February 5th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4156) [[json]](articles/4156.json)
