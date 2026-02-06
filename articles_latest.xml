@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-02-05T19:14:36+00:00</updated>
+    <updated>2026-02-05T21:00:00+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,71 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4236</id>
+                    <title>V3.1 WUWA Discord Quest Livestream Event Begins!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4236" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770307200000/9buqgz153hibmtos08-1770346285943.jpg" /></p>
+<p>Dear Rover,</p>
+<p>V3.1 WUWA Discord Quest Event has begun. Click the link below to complete the streaming quest on Discord and get a chance to win rewards, including Astrite!</p>
+<p><a href="https://discord.com/quests/1448749066774380766">https://discord.com/quests/1466549730191343881</a></p>
+<h2>Event Duration</h2>
+<p>2026/02/05 ~ 2026/02/11 (PT)</p>
+<h2>Rewards</h2>
+<p>Shell Credit* 20,000</p>
+<p>Advanced Resonance Potion* 3</p>
+<p>Advanced Energy Core* 3</p>
+<p>Astrite* 30</p>
+<p><strong>Please</strong> <strong>note that the rewards are limited to 300,000 in total and will be given out on a first-come, first-served basis, determined by the time the Redemption Code is claimed after completing the streaming quest. The Redemption Code will expire on 2026/05/04 at 8:59 (PT). The reward will be limited to one reward redemption per account.</strong></p>
+<h2>Who is Eligible</h2>
+<p>Available to players on PC where both Discord and Wuthering Waves are available. Discord’s premium services are restricted in some regions.</p>
+<h2><strong>Other Terms</strong></h2>
+<p>Limit of one reward redemption per account. For more information on Discord Quests, please visit <a href="https://support.discord.com/hc/articles/22225719947543">Discord Quest Help Center</a>.</p>
+<h2>How to Participate</h2>
+<p>In order to successfully complete the <strong>V3.1 WUWA Discord Quest</strong>, players who meet the eligibility criteria must play the game for 15 minutes. You must be logged into the Discord desktop app to track your progress.</p>
+<h2>Redemption Instructions</h2>
+<ol>
+<li>
+<p>Once you have completed the Quest by playing 15 minutes of Wuthering Waves, you will receive a reward code in Quest Home (Discovery &gt; Quests). For detailed instructions on how to claim your reward code, please refer to our <a href="https://support.discord.com/hc/articles/22225719947543-Discord-Quests-FAQ#h_01HVPBZR5FKKSQ3R1JXB9E4DM3">Discord Quests FAQ</a>.</p>
+</li>
+<li>
+<p>Select your server and enter Wuthering Waves, and then go to [Settings] - [Other] - [Redemption Code].</p>
+</li>
+<li>
+<p>Enter the [Redemption Code] and hit [Confirm] to redeem rewards. You can then claim them in your in-game mail.</p>
+</li>
+<li>
+<p>The [Redemption Code] function will be unlocked once you&#39;ve reached Union Level 2.</p>
+</li>
+<li>
+<p>The Redemption Code obtained in this event will expire on 2026/05/04 at 08:59 (PT). Redemption Codes that expire will be unable to be redeemed.</p>
+</li>
+</ol>
+<h2>Discord Quest FAQ</h2>
+<p><strong>Q: Is there a limit on how many Quests I can redeem on my Discord account?</strong></p>
+<p>A: Eligible users can redeem one of each of the available Quest campaigns on their Discord account.</p>
+<p>For more information on Discord Quests, visit our <a href="https://support.discord.com/hc/articles/22225719947543">Discord Quest Help Center</a>.</p>
+<p><strong>Q: Is this feature/promotion available in my region?</strong></p>
+<p>A: Some Quests will not be available in all regions based on terms and conditions. If you are in an ineligible region for a Quest, you will not be able to complete it.</p>
+<p>Additionally, Discord’s premium services are restricted in some regions. If you are unable to access the Gift Inventory, you are not eligible for Quests.</p>
+<p><strong>Q: I have concerns or questions regarding privacy and Quests.</strong></p>
+<p>A: We encourage you to review <a href="https://discord.com/privacy">Discord’s Privacy Policy</a> for further details about how we use your information. You can head over to our <a href="https://support.discord.com/hc/en-us/articles/22225542459415">Data Used for In-Game Rewards</a> article, to learn more about how we use data for Quests.</p>
+<p><strong>Q: Why am I unable to complete Quest while using Linux?</strong></p>
+<p>A: Currently, Quest rewards are unable to be earned on Linux devices.</p>
+<p>However, Discord team is looking into a resolution for this issue so that earning Quest rewards is possible on Linux in the future. For now, we recommend completing the requirement on a different operating system, like Windows or MacOS.</p>
+<p>Discord support team does not have an exact ETA for when a solution will be available, and won&#39;t be able to provide any status updates on this specific issue.</p>
+<p><strong>Q: I no longer see a Quest. Where did it go?</strong></p>
+<p>A: Quests are typically only available for a limited amount of time. If you no longer see a Quest in the Quest Home or in-app notifications about the quest, the period to complete and claim the reward for the Quest is over.</p>]]></content>
+                    <published>2026-02-05T21:00:00+00:00</published>
+                    <updated>2026-02-05T21:00:00+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4233</id>
                     <title>Wuthering Waves Fan Creation Event &#34;For You Who Walk in Snow&#34; is now live!</title>
@@ -110,6 +175,37 @@
 </ol>]]></content>
                     <published>2026-02-05T19:14:36+00:00</published>
                     <updated>2026-02-05T19:14:36+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4224</id>
+                    <title>[Full Throttle! Bolt &amp; Blitz!] Leisure Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4224" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770220800000/m5kdbvgwenkohnjot5-1770286787406.jpg" /></p>
+<p>To help Startorch freshmen learn to drive safely, the Biological Mechanical Exoswarm Materials Manufacturing and Research Club developed H.E.R.M.E.S., a motorbike simulator running on heuristic algorithms. But due to some issues with the model&#39;s training data, the system accidentally became sentient and refused to be driven. In their last-ditch effort, the developer reached out to you for help with the testing.</p>
+<h1>Duration</h1>
+<p>2026-02-07 04:00 - 2026-03-18 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x600, Roving Lodestar (Title) x1, Premium Enclosure Tank - Lahai-Roi x16, Forgery Premium Supply - Lahai-Roi x8, Shell Credit x330000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and obtain the expedition motorbike to unlock.</p>
+<h1>Event Rules</h1>
+<ul>
+<li>
+<p>Select a Resonator to challenge the tracks with H.E.R.M.E.S. with an arsenal of new weapons. Use enhancement modules to boost the stats of H.E.R.M.E.S. and upgrade their weapons. Complete all tracks to finalize the testing.</p>
+</li>
+<li>
+<p>After the event ends, if you have any claimable rewards that were not claimed, these rewards will be reissued via in-game Mail the next time you log in to the game within 30 days after the event ends.</p>
+</li>
+</ul>]]></content>
+                    <published>2026-02-05T18:20:08+00:00</published>
+                    <updated>2026-02-05T18:20:08+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
@@ -1608,66 +1704,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769097600000/r8fz94dfmk25uew7r8-1769165166008.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769097600000/adr6hhqt8b6484ai80-1769157290986.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769097600000/t6ez2me6f88f9gupw9-1769174596164.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1769097600000/f0jr90hookjfxo5h2n-1769157581062.jpg" /></p>]]></content>
                     <published>2026-01-23T16:41:34+00:00</published>
                     <updated>2026-01-23T16:41:34+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4076</id>
-                    <title>Wutherium Geographic: Lands and Waters — Lahai-Roi Vol.2 - 4</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4076" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<h1>Starward Riseway</h1>
-<p>A colossal lift linking Lahai-Roi to the Roya Frostlands, its structure resembling a spine piercing both heaven and earth. Powered by orbital-acceleration technology, it plummets and ascends through the deep cavern, serving as one of Lahai-Roi&#39;s most important transportation hubs.</p>
-<h1>Lahai-Roi</h1>
-<p>Hidden beneath the frozen crust of Roya Frostlands, Lahai-Roi rose as Solaris&#39; new pole after the devastating strike of Lament.</p>
-<p>The subterranean world blossomed with strange landscapes, fostering life and civilization, all aglow in the light of the Exostrider&#39;s Drive.</p>
-<h1>Bjartr Woods</h1>
-<p>A sacred homeland of the Roya and the habitat of the Soliskin. Bathed in the radiance of the Reactor Drive, its towering trees reach hungrily toward the light, their deep, interwoven roots returning that energy to the earth.</p>
-<h1>Stagnant Run</h1>
-<p>The river valley was once alive with thousands of circling fish and the rolling boil of rays in flight. Now, its waters have grown stagnant, reduced to a swamp-like pool where even giants can no longer tread.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/ehvzs7cl40aqw9bm1w-1768985214229.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/qbgsyyo0lpw58l9srx-1768985654952.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/pzbx1yuhqf82gue4us-1768985673072.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/uqr1lqjkjv6zwe8k9h-1768985684467.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/9thykf2u8d61fxl0oq-1768985694128.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/0lgx7ssfzmuefw8w1n-1768985704814.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/l6pwaf0b665i4k1m0x-1768985714427.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/61pihdnp59n0ntccof-1768985723557.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/bmepb6ajgz5za1nvuc-1768986321071.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/khbwxpxppjhp928m06-1768986669272.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/qhk78qeca1y84mo01v-1768986691130.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/5mumfn3214kr86vjqe-1768986792002.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/6h54yvb8gmcoz1dh2t-1768987923058.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/u5d6i9n21zrhzndo6v-1768987935464.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/h3ad21xh3ehjbmj1ao-1768987995090.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/nx4762v5dbub2m2mj1-1768988023822.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/gwlszkednymnb6j0tw-1768988049809.jpg" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/irr59rk52xhzy143us-1768988147198.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/4k7cgbw6nl3ytip4bp-1768988164185.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/0bn3rbajokhwk7d3rz-1768988176011.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/2v6r4amdbnockr6ll7-1768988189280.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/hftcsafu0twpjcogid-1768988205804.jpg" /></p>]]></content>
-                    <published>2026-01-21T17:38:30+00:00</published>
-                    <updated>2026-01-21T17:38:30+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4064</id>
-                    <title>[Signs of a Silent Star] Leisure Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4064" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1768924800000/2q0nzcyhg5h68wadb3-1768962641613.jpg" /></p>
-<p>A window suddenly blinks open, choking messages filled with garbled letters from unknown signals.</p>
-<p>Who&#39;s sending the messages? What&#39;s this noise trying to say? Perhaps by untangling these cryptic messages, you could get a clearer picture of the sender.</p>
-<h1>Duration</h1>
-<p>2026-01-22 04:00 - 2026-02-04 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x280, Premium Resonance Potion x4, Premium Energy Core x4, Premium Sealed Tube x4, Forgery Premium Supply - Lahai-Roi x2, Premium Enclosure Tank - Lahai-Roi x4, Shell Credit x180000 and other Materials</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 8.</p>
-<h1>Event Details</h1>
-<ul>
-<li>
-<p>One WavesLine message to be deciphered will be sent daily at 04:00 server time.</p>
-</li>
-<li>
-<p>There are a total of 7 WavesLine messages that need to be deciphered in order.</p>
-</li>
-<li>
-<p>Deciphering an unknown Wavesline message will reveal its true message and earn you rewards.</p>
-</li>
-</ul>]]></content>
-                    <published>2026-01-21T10:30:59+00:00</published>
-                    <updated>2026-01-21T10:30:59+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

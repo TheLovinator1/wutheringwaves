@@ -11,7 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [V3.1 WUWA Discord Quest Livestream Event Begins!](https://wutheringwaves.kurogames.com/en/main/news/detail/4236) [[json]](articles/4236.json)
 - [Wuthering Waves Fan Creation Event "For You Who Walk in Snow" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4233) [[json]](articles/4233.json)
+- [[Full Throttle! Bolt & Blitz!] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4224) [[json]](articles/4224.json)
 - [V3.1 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/4215) [[json]](articles/4215.json)
 - [[Everbright Polestar] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4204) [[json]](articles/4204.json)
 - [[Take Flight in Spring] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4196) [[json]](articles/4196.json)
