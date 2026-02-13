@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Where Stars Cascade Down] Limited-Time Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4275) [[json]](articles/4275.json)
 - [V3.1 WUWA Discord Quest Livestream Event Begins!](https://wutheringwaves.kurogames.com/en/main/news/detail/4236) [[json]](articles/4236.json)
 - [Wuthering Waves Fan Creation Event "For You Who Walk in Snow" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4233) [[json]](articles/4233.json)
 - [[Full Throttle! Bolt & Blitz!] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4224) [[json]](articles/4224.json)
