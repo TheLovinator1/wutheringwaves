@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wutherium Geographic: Lands and Waters — Roya Frostlands: Frostlands Surface](https://wutheringwaves.kurogames.com/en/main/news/detail/4276) [[json]](articles/4276.json)
 - [[Where Stars Cascade Down] Limited-Time Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4275) [[json]](articles/4275.json)
 - [V3.1 WUWA Discord Quest Livestream Event Begins!](https://wutheringwaves.kurogames.com/en/main/news/detail/4236) [[json]](articles/4236.json)
 - [Wuthering Waves Fan Creation Event "For You Who Walk in Snow" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4233) [[json]](articles/4233.json)
@@ -28,6 +29,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 - [Post-Lament Anthropocene: Stars Intertwined | Aemeath](https://wutheringwaves.kurogames.com/en/main/news/detail/4134) [[json]](articles/4134.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider](https://wutheringwaves.kurogames.com/en/main/news/detail/4123) [[json]](articles/4123.json)
 - [New Area Preview | Roya Frostlands - Frostlands Surface, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4113) [[json]](articles/4113.json)
+- [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Roya Frostlands](https://wutheringwaves.kurogames.com/en/main/news/detail/4109) [[json]](articles/4109.json)
 - [Wuthering Waves Version 3.1 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4102) [[json]](articles/4102.json)
 - [Rover's Signature Outfit "Perpetual Spark" will become available once Version 3.1 goes live.](https://wutheringwaves.kurogames.com/en/main/news/detail/4100) [[json]](articles/4100.json)
 - [Wuthering Waves Version Preview | Version 3.1 "For You Who Walk in Snow" Scheduled for Release on February 5th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4082) [[json]](articles/4082.json)
