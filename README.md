@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Tidal Photography: Capture Your Action Highlights of Resonators! | Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4295) [[json]](articles/4295.json)
 - [Wutherium Geographic: Lands and Waters — Roya Frostlands: Frostlands Surface](https://wutheringwaves.kurogames.com/en/main/news/detail/4276) [[json]](articles/4276.json)
 - [[Where Stars Cascade Down] Limited-Time Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4275) [[json]](articles/4275.json)
 - [V3.1 WUWA Discord Quest Livestream Event Begins!](https://wutheringwaves.kurogames.com/en/main/news/detail/4236) [[json]](articles/4236.json)
