@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Phase Transition — Luuk Herssen](https://wutheringwaves.kurogames.com/en/main/news/detail/4302) [[json]](articles/4302.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Luuk Herssen](https://wutheringwaves.kurogames.com/en/main/news/detail/4301) [[json]](articles/4301.json)
 - [Post-Lament Anthropocene: Enemies — Sigillum](https://wutheringwaves.kurogames.com/en/main/news/detail/4299) [[json]](articles/4299.json)
 - [Post-Lament Anthropocene: Enemies — Nameless Explorer](https://wutheringwaves.kurogames.com/en/main/news/detail/4298) [[json]](articles/4298.json)
