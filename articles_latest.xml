@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-02-12T23:33:33+00:00</updated>
+    <updated>2026-02-13T14:05:59+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4303</id>
+                    <title>Upcoming Events in Wuthering Waves Version 3.1</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4303" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770912000000/ft77hvmt4zdx3ktwea-1770962696755.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770912000000/urwnvvh5lz0g7ilj0p-1770962696772.jpg" /></p>]]></content>
+                    <published>2026-02-13T14:05:59+00:00</published>
+                    <updated>2026-02-13T14:05:59+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4302</id>
                     <title>Profile Reveal | Phase Transition — Luuk Herssen</title>
@@ -1707,23 +1722,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770048000000/3uxghjiy2dpzm57m7e-1770114313235.jpg" /></p>]]></content>
                     <published>2026-02-03T18:25:39+00:00</published>
                     <updated>2026-02-03T18:25:39+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4164</id>
-                    <title>Resonator Review | Eye of Unraveling — Chisa</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4164" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;Just an ordinary student.&#34;</p>
-<p>Calmly, she introduces herself, a faint iridescent shimmer flickering in her eyes. Again, the structures of the world reveal themselves in her vision. Narrowing her eyes, she singles out the very thread that tugs at life itself.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770048000000/u1bs5pl1qvh0wgpprf-1770105644303.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770048000000/iwqifbtgwzofyw9qi6-1770105660195.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770048000000/3sz0ddydnzh5r4gwee-1770105678904.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1770048000000/5700tuvvough3xtihc-1770105697355.jpg" /></p>]]></content>
-                    <published>2026-02-03T16:02:28+00:00</published>
-                    <updated>2026-02-03T16:02:28+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
