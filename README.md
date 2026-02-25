@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Lux & Umbra] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4345) [[json]](articles/4345.json)
+- [[From Ashes] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4337) [[json]](articles/4337.json)
+- [[Daybreaker's Spine] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4329) [[json]](articles/4329.json)
+- [[When Winter Thaws] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4321) [[json]](articles/4321.json)
 - [Resonator Review | Infernal Descent—Galbrena](https://wutheringwaves.kurogames.com/en/main/news/detail/4308) [[json]](articles/4308.json)
 - [Upcoming Events in Wuthering Waves Version 3.1](https://wutheringwaves.kurogames.com/en/main/news/detail/4303) [[json]](articles/4303.json)
 - [Profile Reveal | Phase Transition — Luuk Herssen](https://wutheringwaves.kurogames.com/en/main/news/detail/4302) [[json]](articles/4302.json)
