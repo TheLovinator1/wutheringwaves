@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Lollo Campaign: Implementation] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4355) [[json]](articles/4355.json)
 - [[Lux & Umbra] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4345) [[json]](articles/4345.json)
 - [[From Ashes] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4337) [[json]](articles/4337.json)
 - [[Daybreaker's Spine] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4329) [[json]](articles/4329.json)
