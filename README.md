@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [High Difficulty Recurring Challenge: Endstate Matrix, Coming in Version 3.2!](https://wutheringwaves.kurogames.com/en/main/news/detail/4386) [[json]](articles/4386.json)
+- [Wuthering Waves Version Preview | Version 3.2 "Resolution to Illuminate the Shadows" Scheduled for Release on March 19th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4380) [[json]](articles/4380.json)
 - [[Chord Cleansing] Limited-Time Echo Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4368) [[json]](articles/4368.json)
 - [[Lollo Campaign: Implementation] Featured Commission Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4355) [[json]](articles/4355.json)
 - [[Lux & Umbra] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4345) [[json]](articles/4345.json)
