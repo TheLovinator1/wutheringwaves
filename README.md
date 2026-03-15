@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | True Name Manifestation — Sigrika](https://wutheringwaves.kurogames.com/en/main/news/detail/4410) [[json]](articles/4410.json)
 - [Wuthering Waves Version 3.2 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4403) [[json]](articles/4403.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Sigrika](https://wutheringwaves.kurogames.com/en/main/news/detail/4393) [[json]](articles/4393.json)
 - [High Difficulty Recurring Challenge: Endstate Matrix, Coming in Version 3.2!](https://wutheringwaves.kurogames.com/en/main/news/detail/4386) [[json]](articles/4386.json)
