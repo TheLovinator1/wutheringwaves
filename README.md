@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4429) [[json]](articles/4429.json)
+- [Resonator Review | Bambooscape — Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/4422) [[json]](articles/4422.json)
 - [Wuthering Waves Update Content | Version 3.2 "Resolution to Illuminate the Shadows" Planned for Release on March 19th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4418) [[json]](articles/4418.json)
 - [Profile Reveal | True Name Manifestation — Sigrika](https://wutheringwaves.kurogames.com/en/main/news/detail/4410) [[json]](articles/4410.json)
 - [Wuthering Waves Version 3.2 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4403) [[json]](articles/4403.json)
