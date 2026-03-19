@@ -11,6 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [V3.2 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/4452) [[json]](articles/4452.json)
+- [Wuthering Waves Fan Creation Event "Resolution to Illuminate the Shadows" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4451) [[json]](articles/4451.json)
+- [Patch Notes for Version 3.2: Resolution to Illuminate the Shadows](https://wutheringwaves.kurogames.com/en/main/news/detail/4447) [[json]](articles/4447.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4429) [[json]](articles/4429.json)
 - [Resonator Review | Bambooscape — Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/4422) [[json]](articles/4422.json)
 - [Wuthering Waves Update Content | Version 3.2 "Resolution to Illuminate the Shadows" Planned for Release on March 19th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4418) [[json]](articles/4418.json)
