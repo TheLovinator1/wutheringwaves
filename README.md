@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4466) [[json]](articles/4466.json)
+- [[Speed up! F.U.E.L. Instrumentality Project!] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4458) [[json]](articles/4458.json)
 - [V3.2 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/4452) [[json]](articles/4452.json)
 - [Wuthering Waves Fan Creation Event "Resolution to Illuminate the Shadows" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4451) [[json]](articles/4451.json)
 - [Patch Notes for Version 3.2: Resolution to Illuminate the Shadows](https://wutheringwaves.kurogames.com/en/main/news/detail/4447) [[json]](articles/4447.json)

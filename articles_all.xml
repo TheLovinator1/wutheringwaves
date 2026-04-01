@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-03-19T11:30:03+00:00</updated>
+    <updated>2026-04-01T17:03:16+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,83 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4466</id>
+                    <title>[Bountiful Crescendo] Limited-Time Material Double Drop Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4466" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1774972800000/n8o111j9b0bmqkn5ay-1775034174004.jpg" /></p>
+<p>The Sonoro Spheres are undergoing an accelerating collapse due to the Waveworn Phenomenon. However, this is also intensifying the energy within, resulting in more valuable materials.</p>
+<p>Use the Waveplates to maximize your rewards from the Remnant Crystals.</p>
+<h1>Duration</h1>
+<p>2026-04-02 04:00 - 2026-04-09 03:59 (server time)</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14.</p>
+<h1>Details</h1>
+<ul>
+<li>
+<p>Complete Simulation Challenge and Forgery Challenges during the event and spend Waveplates for double rewards.</p>
+</li>
+<li>
+<p>Simulation Challenge and Forgery Challenge share the double rewards claims.</p>
+</li>
+<li>
+<p>During [Bountiful Crescendo], you can claim double rewards 3 times a day, and the remaining double rewards claims can be viewed on the [Bountiful Crescendo] event page.</p>
+</li>
+<li>
+<p>During [Bountiful Crescendo], double rewards claims refresh daily at 04:00 (server time).</p>
+</li>
+</ul>]]></content>
+                    <published>2026-04-01T17:03:16+00:00</published>
+                    <updated>2026-04-01T17:03:16+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4458</id>
+                    <title>[Speed up! F.U.E.L. Instrumentality Project!] Leisure Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4458" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1774972800000/91wet1p3kfz4xry1o0-1775033587407.jpg" /></p>
+<p>At this year&#39;s Club Show &amp; Tell, Van Tassie of the Psychological Threshold Alternative Therapy Society proudly unveils his latest project: the &#34;&#34;F.U.E.L. Optimization Simulator.&#34;&#34; He claims this game will revolutionize the Academy&#39;s culinary experience by gathering the essential data. As is par for the course, your name is on the playtest roster. Yet, something about the project&#39;s core design seems... slightly off from the outset.</p>
+<h1>Duration</h1>
+<p>2026-04-02 04:00 - 2026-04-20 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x400, Forgery Advanced Supply - Lahai-Roi x14, Advanced Enclosure Tank - Lahai-Roi x28, Advanced Resonance Potion x20, Advanced Energy Core x20, Advanced Sealed Tube x16, Shell Credit x280000</p>
+<h1>Eligibility</h1>
+<p>Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during Main Quest Chapter III Act I &#34;&#34;What Burns Beneath Frostlands&#34;&#34; to unlock.</p>
+<p>(For the best experience, please complete this event&#39;s preceding quest &#34;&#34;Gold Suspended in Shadows.&#34;&#34;)</p>
+<h1>Event Rules</h1>
+<ul>
+<li>
+<p>Access the event from the Mind Dive Arcade machine or the Event Page. Control your Resonator to move left and right to catch falling food and earn Gourmet Points.</p>
+</li>
+<li>
+<p>Catch food to build Energy. Once your Energy bar is full, you can activate a powerful Resonator Skill. Be careful—catching certain negative foods will drain your Energy and slow you down.</p>
+</li>
+<li>
+<p>Reach the target Gourmet Points to earn 1 Star to clear the stage. Quitting the game midway will finalize this stage based on the Gourmet Points earned.</p>
+</li>
+<li>
+<p>Stage 1 is available when the event begins. A new stage unlocks each following day, each featuring a new Resonator with unique skills.</p>
+</li>
+<li>
+<p>Any unclaimed rewards will be sent to your in-game mailbox automatically if you log in within 30 days after the event ends.</p>
+</li>
+</ul>]]></content>
+                    <published>2026-04-01T16:53:39+00:00</published>
+                    <updated>2026-04-01T16:53:39+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4452</id>
                     <title>V3.2 Wuthering Waves Battle Rush</title>
