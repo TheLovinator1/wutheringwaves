@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-03T17:14:50+00:00</updated>
+    <updated>2026-04-07T14:53:17+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4491</id>
+                    <title>Resonator Review | Graceful Luminescence—Phoebe</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4491" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Phoebe, Acolyte of the Order of the Deep, is a young woman of quiet devotion. With a kind heart, she fulfills her duties with unwavering diligence. Her prayers, like the light she carries, offer comfort and peace to all.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/s77o4qotla88xuymad-1775544754918.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/qhbduy4gc77065k6gj-1775544764330.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/hpvz0orizfkwt6a54u-1775544778763.jpg" /></p>]]></content>
+                    <published>2026-04-07T14:53:17+00:00</published>
+                    <updated>2026-04-07T14:53:17+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4490</id>
+                    <title>Resonator Review | Scorched Radiance—Zani</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4490" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A member of Averardo Vault&#39;s security team and holder of &#34;Best Employee&#34; for longer than she cares to count. She has made plenty of plans for her free time, but for now, her biggest mission is simple: clocking out on time.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/gtfnlo868lguhzynyv-1775544646510.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/bwaxped68jg8zcdw5y-1775544657425.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/lhpq0nhzv7dynw8til-1775544674360.jpg" /></p>]]></content>
+                    <published>2026-04-07T14:51:34+00:00</published>
+                    <updated>2026-04-07T14:51:34+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4480</id>
                     <title>Upcoming Events in Wuthering Waves Version 3.2</title>

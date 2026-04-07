@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Graceful Luminescence—Phoebe](https://wutheringwaves.kurogames.com/en/main/news/detail/4491) [[json]](articles/4491.json)
+- [Resonator Review | Scorched Radiance—Zani](https://wutheringwaves.kurogames.com/en/main/news/detail/4490) [[json]](articles/4490.json)
 - [Upcoming Events in Wuthering Waves Version 3.2](https://wutheringwaves.kurogames.com/en/main/news/detail/4480) [[json]](articles/4480.json)
 - [[Bountiful Crescendo] Limited-Time Material Double Drop Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4466) [[json]](articles/4466.json)
 - [[Speed up! F.U.E.L. Instrumentality Project!] Leisure Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4458) [[json]](articles/4458.json)
