@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-07T14:53:17+00:00</updated>
+    <updated>2026-04-08T13:35:37+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,254 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4501</id>
+                    <title>Resonator Review | Radiant Spectrum — Lynae</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4501" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A Startorch Academy prep student whose head-turning, electric style hides an inner focus as explosive as a coiled spring.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775577600000/kg1s01ib56qq2xizgb-1775626514596.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775577600000/200pi7x0zapy09ela4-1775633244299.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775577600000/ac0tgkiufoobhwdhy7-1775633265924.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775577600000/mimpobr14h9u82sjpa-1775633304856.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775577600000/bool5tht891ryaopv6-1775633454547.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775577600000/faxtwd9ze4qciwhxsa-1775633502889.jpg" /></p>]]></content>
+                    <published>2026-04-08T13:35:37+00:00</published>
+                    <updated>2026-04-08T13:35:37+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4493</id>
+                    <title>[Version 3.2 Featured Resonator/Weapon Convene: Phase II]</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4493" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><strong>[Undefined Spectrum] Featured Resonator Convene</strong></p>
+<p>During the event, <strong>5-Star Resonator: Lynae, 4-Star Resonators: Taoqi, Youhu, and Danjin</strong> receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-04-09 10:00 - 2026-04-29 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Undefined Spectrum] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Lynae is exclusive to the [Undefined Spectrum] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Lynae&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/a55uoj6n8otp87beyh-1775557292284.jpg" /></p>
+<p><strong>[Spectrum Blaster] Featured Weapon Convene</strong></p>
+<p>During the event, <strong>5-Star Weapon: Spectrum Blaster, 4-Star Weapons: Relativistic Jet, Marcato, and Variation</strong> receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-04-09 10:00 - 2026-04-29 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Spectrum Blaster.</p>
+</li>
+<li>
+<p>Featured Weapon Spectrum Blaster is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/etwfeqm2qcvw04fh4c-1775557313393.jpg" /></p>
+<p><strong>[Between Light and Shadow] Featured Resonator Convene</strong></p>
+<p>During the event, <strong>5-Star Resonator: Zani, 4-Star Resonators: Taoqi, Youhu, and Danjin</strong> receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-04-09 10:00 - 2026-04-29 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Between Light and Shadow] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Zani is exclusive to the [Between Light and Shadow] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Zani&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/gl8yw8zwac1xxsx1oe-1775557348606.jpg" /></p>
+<p><strong>[Blazing Justice] Featured Weapon Convene</strong></p>
+<p>During the event, <strong>5-Star Weapon: Blazing Justice, 4-Star Weapons: Relativistic Jet, Marcato, and Variation</strong> receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-04-09 10:00 - 2026-04-29 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Blazing Justice.</p>
+</li>
+<li>
+<p>Featured Weapon Blazing Justice is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/0b576rdibbvgklt7f3-1775557534724.jpg" /></p>
+<p><strong>[With Hushed Whispers] Featured Resonator Convene</strong></p>
+<p>During the event, <strong>5-Star Resonator: Phoebe, 4-Star Resonators: Taoqi, Youhu, and Danjin</strong> receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-04-09 10:00 - 2026-04-29 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[With Hushed Whispers] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Phoebe is exclusive to the [With Hushed Whispers] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Phoebe&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/ffgqhds65vbydtzgnh-1775557559660.jpg" /></p>
+<p><strong>[Luminous Hymn] Featured Weapon Convene</strong></p>
+<p>During the event, <strong>5-Star Weapon: Luminous Hymn, 4-Star Weapons: Relativistic Jet, Marcato, and Variation</strong> receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-04-09 10:00 - 2026-04-29 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Luminous Hymn.</p>
+</li>
+<li>
+<p>Featured Weapon Luminous Hymn is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1775491200000/yh3ebhqlqv9kc488at-1775557429730.jpg" /></p>]]></content>
+                    <published>2026-04-07T17:46:45+00:00</published>
+                    <updated>2026-04-07T17:46:45+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4491</id>
                     <title>Resonator Review | Graceful Luminescence—Phoebe</title>
