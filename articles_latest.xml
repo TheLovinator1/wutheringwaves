@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-08T13:35:37+00:00</updated>
+    <updated>2026-04-15T09:35:34+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,40 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4506</id>
+                    <title>[The Flaming Red in Memory] Showcase Event</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4506" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776182400000/svdhjnhi224ehrafyu-1776216922503.jpg" /></p>
+<p>Platya, a Black Shores Bloom Bearer, has come to Startorch Academy chasing rumors of a Ghost Miko—whispers that seem to echo the legend of the &#34;&#34;Lady Miko&#34;&#34; of her distant homeland. Intrigued, you join her search.</p>
+<h1>Duration</h1>
+<p>2026-04-16 04:00 - 2026-04-29 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x280, Premium Resonance Potion x4, Premium Energy Core x4, Premium Sealed Tube x4, Premium Enclosure Tank - Lahai-Roi x4, Forgery Premium Supply - Lahai-Roi x2, Shell Credit x180000, and other Materials.</p>
+<h1>Eligibility</h1>
+<p>Complete the quest &#34;&#34;The Flaming Red from Tomorrow&#34;&#34; to unlock.</p>
+<h1>Event Rules</h1>
+<ul>
+<li>
+<p>You will receive a quest as soon as the event begins. A new quest will unlock daily for a total of seven days.</p>
+</li>
+<li>
+<p>Complete the quests to win Astrites and other rewards.</p>
+</li>
+<li>
+<p>Any unclaimed rewards will be sent to your in-game mailbox automatically if you log in within 30 days after the event ends.</p>
+</li>
+</ul>]]></content>
+                    <published>2026-04-15T09:35:34+00:00</published>
+                    <updated>2026-04-15T09:35:34+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4501</id>
                     <title>Resonator Review | Radiant Spectrum — Lynae</title>
@@ -1345,45 +1379,6 @@
 </ul>]]></content>
                     <published>2026-03-09T18:13:48+00:00</published>
                     <updated>2026-03-09T18:13:48+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4355</id>
-                    <title>[Lollo Campaign: Implementation] Featured Commission Event</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4355" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1772553600000/1u7o778uhtxphzsxta-1772611856410.jpg" /></p>
-<p>The Lollo Campaign has encountered yet another crisis! To save Maji&#39;s career, and to keep those extra bucks flowing in, help him complete his new program, Lollo Springtime!</p>
-<p>Complete the campaigns to claim your Lollo Stamps—a gift of gratitude from Lollo Logistics. Lollo Stamps can be exchanged for Lollo Helper special deliveries.</p>
-<h1>Duration</h1>
-<p>2026-03-05 04:00 - 2026-03-18 03:59 (server time)</p>
-<h1>Rewards</h1>
-<p>Astrite x400, Lustrous Tide x5, Premium Tuner x40, Premium Enclosure Tank - Lahai-Roi x5, Forgery Premium Supply - Lahai-Roi x10, Crystal Solvent x5, Shell Credit x340000, and other Materials.</p>
-<h1>Eligibility</h1>
-<p>Reach Union Level 14 and activate the Resonance Nexus of the Startorch Academy during Main Quest Chapter III Act I &#34;&#34;What Burns Beneath Frostlands&#34;&#34; to unlock.</p>
-<h1>Event Rules</h1>
-<ul>
-<li>
-<p>During the event, you can complete Lollo Campaigns to obtain a set number of Lollo Stamps.</p>
-</li>
-<li>
-<p>Each Lollo Stamp can be exchanged for a Lollo Helper special delivery.</p>
-</li>
-<li>
-<p>There are 3 Inventories for the Lollo Helper special deliveries. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.</p>
-</li>
-<li>
-<p>If you win the Lollo Express special delivery service, you can claim all deliveries in the current Inventory.</p>
-</li>
-</ul>
-<p><em>After the event ends, the unfinished Lollo Campaigns will not be available, and all the remaining Lollo Stamps will be recycled.</em></p>]]></content>
-                    <published>2026-03-04T16:11:43+00:00</published>
-                    <updated>2026-03-04T16:11:43+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
