@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Version 3.3 "Reverbs From the End of Galaxies" Special Report](https://wutheringwaves.kurogames.com/en/main/news/detail/4519) [[json]](articles/4519.json)
 - [[The Flaming Red in Memory] Showcase Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4506) [[json]](articles/4506.json)
 - [Resonator Review | Radiant Spectrum — Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/4501) [[json]](articles/4501.json)
 - [[Version 3.2 Featured Resonator/Weapon Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/4493) [[json]](articles/4493.json)

@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-15T09:35:34+00:00</updated>
+    <updated>2026-04-17T16:22:21+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4519</id>
+                    <title>Version 3.3 &#34;Reverbs From the End of Galaxies&#34; Special Report</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4519" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Discover the special events and exciting new arrivals in the Store for Version 3.3! Take part in various anniversary activities to earn various rewards, including Radiant Tide, Forging Tide, Lustrous Tide, Character Outfit Accessory, Expedition Motorbike Livery, Expedition Motorbike Accessory, Astrites, and more. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/1fa6a3x8po5ohr0lmh-1776414490467.png" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/5jhuyvs202m8d3xhy9-1776415210323.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/mjqd06fmp2oulc03ps-1776415277622.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/r4femzvhgct0q3z601-1776415677311.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/vztifkktmi6mftsrpa-1776415398377.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/jhsmaab3ynzc6wc4i2-1776415430277.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/fos2frgq9j42f6x9vs-1776415792193.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/rvh77hlyemz3v4vli3-1776415503366.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/wer836io4n9ay45vm0-1776415871803.gif" /></p>]]></content>
+                    <published>2026-04-17T16:22:21+00:00</published>
+                    <updated>2026-04-17T16:22:21+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4506</id>
                     <title>[The Flaming Red in Memory] Showcase Event</title>
