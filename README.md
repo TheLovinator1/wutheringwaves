@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Pioneer Observations: What Lies Beneath Lahai-Roi](https://wutheringwaves.kurogames.com/en/main/news/detail/4562) [[json]](articles/4562.json)
+- [New Location Preview | Roya Frostlands: Dimmr Plains, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4561) [[json]](articles/4561.json)
 - [Wuthering Waves Version 3.3 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4547) [[json]](articles/4547.json)
 - [Mornye's Deluxe Outfit [Plush Dream]](https://wutheringwaves.kurogames.com/en/main/news/detail/4544) [[json]](articles/4544.json)
 - [Wuthering Waves Version Preview | Version 3.3 "Reverbs From the End of Galaxies" Scheduled for Release on April 30th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4528) [[json]](articles/4528.json)
