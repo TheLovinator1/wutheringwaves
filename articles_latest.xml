@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-23T19:01:10+00:00</updated>
+    <updated>2026-04-24T13:08:48+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4569</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Hiyuki</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4569" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;For all wishes spoken, this vessel I offer.&#34;—Hiyuki</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/zscjryrfwyufuqq9eu-1777007016352.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/rnaj433eznhv81bjjb-1777007038937.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/yhm3xqi1wh3317qcer-1777007074188.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/pk8b321jwdjcyly5kr-1777007100562.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/4msv2b74byro8c50v7-1777007132755.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/zr10ywn57xtt9r22ul-1777007153480.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/3eocsm0hxeqglfru0y-1777007187705.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/uomm08hxqsdwlu6289-1777007214702.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776960000000/yoaxuiaiykqp9kol1z-1777007233370.jpg" /></p>]]></content>
+                    <published>2026-04-24T13:08:48+00:00</published>
+                    <updated>2026-04-24T13:08:48+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4562</id>
                     <title>Pioneer Observations: What Lies Beneath Lahai-Roi</title>
@@ -1385,21 +1402,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773763200000/2pu4l90h2b8b0kvi76-1773832161039.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773763200000/24oif8wf0hq80ez1la-1773832249020.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773763200000/rfxab06ctkucp0idi4-1773832396167.jpg" /></p>]]></content>
                     <published>2026-03-18T11:37:28+00:00</published>
                     <updated>2026-03-18T11:37:28+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4418</id>
-                    <title>Wuthering Waves Update Content | Version 3.2 &#34;Resolution to Illuminate the Shadows&#34; Planned for Release on March 19th (UTC+8)</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4418" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773676800000/cmj392oq0ouc1yyd01-1773734887194.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773676800000/av3wvgr92tan616qne-1773734931852.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773676800000/z636k0thc74xcdfhm4-1773734999083.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1773676800000/i6jf86qi4brydl011o-1773735125569.jpg" /></p>]]></content>
-                    <published>2026-03-17T16:12:26+00:00</published>
-                    <updated>2026-03-17T16:12:26+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
