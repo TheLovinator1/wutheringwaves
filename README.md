@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Futures' Tithe — Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/4570) [[json]](articles/4570.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/4569) [[json]](articles/4569.json)
 - [Pioneer Observations: What Lies Beneath Lahai-Roi](https://wutheringwaves.kurogames.com/en/main/news/detail/4562) [[json]](articles/4562.json)
 - [New Location Preview | Roya Frostlands: Dimmr Plains, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4561) [[json]](articles/4561.json)
