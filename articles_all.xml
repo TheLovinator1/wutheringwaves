@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-24T13:24:23+00:00</updated>
+    <updated>2026-04-27T16:30:46+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4584</id>
+                    <title>Resonator Review | Stasis, Cycle, Renewal — Iuno</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4584" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>She is favored by fate under one name, and swept away by it in another.</p>
+<p>Yet never once has she been defeated, nor has she ever yielded.</p>
+<p>Now, witness the defiant Priestess. Witness what keeps her striding forward, never to look back. Witness how she walks the intricate web of destiny and becomes the only answer.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/9aw8v2x6ofpfw164fg-1777278587172.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/8gpbknxkrao1zs3jyu-1777278607589.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/6ki5nt9wnjvff4fluf-1777278621693.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/swx5rqgkv1idgnd9y1-1777278634280.jpg" /></p>]]></content>
+                    <published>2026-04-27T16:30:46+00:00</published>
+                    <updated>2026-04-27T16:30:46+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4570</id>
                     <title>Profile Reveal | Futures&#39; Tithe — Hiyuki</title>
