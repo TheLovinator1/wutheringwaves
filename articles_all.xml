@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-27T16:30:46+00:00</updated>
+    <updated>2026-04-27T17:33:00+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,26 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4585</id>
+                    <title>Resonator Review | Astral Mapping — Mornye</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4585" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Mornye, a Spacetrek Collective Research Institute engineer and a Department of Exostrider Engineering professor at Startorch Academy.</p>
+<p>Each step on her prosthetic legs carries her toward the stars of her dreams.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/0xt00gurxtx4i2h246-1777278725972.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/irggqdi5g34i65grgw-1777278737837.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/i58e66g444lrrnxoki-1777290217743.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777219200000/3g40ny0rw7vcqhq64q-1777290179081.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777305600000/7xoephvr84w9anytc7-1777361520118.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777305600000/t7s5r6gdrwdcufp66w-1777361970061.jpg" /></p>]]></content>
+                    <published>2026-04-27T17:33:00+00:00</published>
+                    <updated>2026-04-27T17:33:00+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4584</id>
                     <title>Resonator Review | Stasis, Cycle, Renewal — Iuno</title>

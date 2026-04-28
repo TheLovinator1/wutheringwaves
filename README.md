@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Astral Mapping — Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/4585) [[json]](articles/4585.json)
 - [Resonator Review | Stasis, Cycle, Renewal — Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/4584) [[json]](articles/4584.json)
 - [Profile Reveal | Futures' Tithe — Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/4570) [[json]](articles/4570.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/4569) [[json]](articles/4569.json)
