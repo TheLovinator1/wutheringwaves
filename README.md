@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Update Content | Version 3.3 "Reverbs From the End of Galaxies" Planned for Release on April 30 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4605) [[json]](articles/4605.json)
+- [[Version 3.3 Featured Resonator/Weapon Convene: Phase I]](https://wutheringwaves.kurogames.com/en/main/news/detail/4591) [[json]](articles/4591.json)
 - [Resonator Review | Astral Mapping — Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/4585) [[json]](articles/4585.json)
 - [Resonator Review | Stasis, Cycle, Renewal — Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/4584) [[json]](articles/4584.json)
 - [Profile Reveal | Futures' Tithe — Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/4570) [[json]](articles/4570.json)
