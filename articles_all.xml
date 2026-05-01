@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-04-30T15:36:32+00:00</updated>
+    <updated>2026-04-30T17:30:59+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,29 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4627</id>
+                    <title>Event Preview | [Star Bouncing] Anniversary Event, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4627" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/4qlxiqv5fvq2vqianu-1777541744297.jpg" /></p>
+<h1>Duration</h1>
+<p>2026-05-02 10:00 - 2026-06-07 11:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x1200, Phantom: Reactor Husk x1, Supernova Launcher x1 (Title), Modifier x5, Premium Tuner x100, 2nd Anniversary Coin x500, Shell Credit x670000, and other Materials.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/7olkfr4tssknqt1pd9-1777541891963.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/u8p2cksb600dcryxmu-1777541892203.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/mrysvko07reo3tpwif-1777542182798.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/ul07bybf4btfhh9n5s-1777542203431.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/c7qq66rgmzmdh3pj2d-1777542353810.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/jef26vx0deiuxu5mf3-1777542256363.jpg" /></p>]]></content>
+                    <published>2026-04-30T17:30:59+00:00</published>
+                    <updated>2026-04-30T17:30:59+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4626</id>
                     <title>Wuthering Waves Fan Creation Event &#34;Reverbs from the End of Galaxy&#34; is now live!</title>

@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Event Preview | [Star Bouncing] Anniversary Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4627) [[json]](articles/4627.json)
 - [Wuthering Waves Fan Creation Event "Reverbs from the End of Galaxy" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4626) [[json]](articles/4626.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4622) [[json]](articles/4622.json)
 - [V3.3 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/4616) [[json]](articles/4616.json)
