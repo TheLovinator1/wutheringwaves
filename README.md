@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Aced! Combat Mastery Test!] Featured Combat Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4644) [[json]](articles/4644.json)
+- [[Lollo Express: Promise Delivered] Anniversary Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4636) [[json]](articles/4636.json)
 - [Event Preview | [Star Bouncing] Anniversary Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4627) [[json]](articles/4627.json)
 - [Wuthering Waves Fan Creation Event "Reverbs from the End of Galaxy" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4626) [[json]](articles/4626.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4622) [[json]](articles/4622.json)
