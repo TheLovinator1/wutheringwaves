@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-07T10:02:54+00:00</updated>
+    <updated>2026-05-08T11:35:46+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,27 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4654</id>
+                    <title>Event Preview | [Cubie Derby: Championship] Anniversary Event, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4654" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778169600000/6arztgps8yjylonixa-1778213774121.jpg" /></p>
+<h1>Duration</h1>
+<p>2026-05-09 04:00 - 2026-05-25 03:59 (server time)</p>
+<h1>Rewards</h1>
+<p>Astrite x300, 2nd Anniversary Coin, Shell Credit</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778169600000/p70x8sf67wc0k6cimu-1778213794316.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778169600000/i439apzywd8su6z9oy-1778211306583.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778169600000/w0o4t65bf91j2p388k-1778211322845.jpg" /></p>]]></content>
+                    <published>2026-05-08T11:35:46+00:00</published>
+                    <updated>2026-05-08T11:35:46+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4644</id>
                     <title>[Aced! Combat Mastery Test!] Featured Combat Event</title>
