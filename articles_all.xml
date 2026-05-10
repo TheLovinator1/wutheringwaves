@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-08T11:35:46+00:00</updated>
+    <updated>2026-05-09T14:43:57+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,24 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4658</id>
+                    <title>Post-Lament Anthropocene: Enemies — Denia</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4658" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/eaa42n5mgjnvzc7t5l-1778308825476.png" /></p>
+<p>Her name, her identity, her Resonance Ability, even the ties she claimed to others... all of it was a lie.</p>
+<p>Between you and the Keystone stands nothing more but a puppet who came into existence only because of Aleph-1.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/fbb1hhm868wz9j4bll-1778308878900.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/av9awgqpx0183hojb9-1778308895109.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/au2wlnng0x5cx9msfr-1778308904966.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/hoz0xhqza1vog9oghm-1778308913684.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/ufn16johuvz3fw3rlh-1778308935319.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/0aiycdukp53swtm4pg-1778308948386.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778256000000/i15zseirc3npc0ornu-1778308961404.gif" /></p>]]></content>
+                    <published>2026-05-09T14:43:57+00:00</published>
+                    <updated>2026-05-09T14:43:57+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4654</id>
                     <title>Event Preview | [Cubie Derby: Championship] Anniversary Event, Coming Soon!</title>
