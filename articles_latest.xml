@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-09T14:43:57+00:00</updated>
+    <updated>2026-05-16T18:32:38+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4677</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Denia</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4677" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Surprised to see me? Haha, relax. I told you we&#39;d meet again.&#34;—Denia<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/d6c6fj2qcaoddk7s53-1778927720125.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/0nlf1js4814htpcg1h-1778927757069.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/7jsfdgsn5ey5f9avee-1778927792632.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/ap41525onrjgy3gv4f-1778927965956.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/5oik2ltjxtq2vk312j-1778928172052.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/vosxx0yv5j2qmeu0im-1778928485528.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/43rwjlw71rksl7s4cb-1778928417318.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/2ng3p8086qm8bkj6wj-1778928524427.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1778860800000/75ec0p4h7pkiq12jnk-1778928450162.jpg" /></p>]]></content>
+                    <published>2026-05-16T18:32:38+00:00</published>
+                    <updated>2026-05-16T18:32:38+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4658</id>
                     <title>Post-Lament Anthropocene: Enemies — Denia</title>
@@ -1597,23 +1612,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1776700800000/fbc7wtwkpayxcw9ks5-1776771284800.jpeg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1776700800000/fx7copoi0xf3b9siry-1776771378349.jpeg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1776700800000/jr3kummed9iriql44d-1776771419765.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1776700800000/10cpewsmqtl5pa596d-1776771447745.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1776700800000/qs3co1utqcs1gir1l5-1776771466485.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1776700800000/38yj6xg4tgyahrx6xh-1776771483580.jpeg" /></p>]]></content>
                     <published>2026-04-21T19:29:10+00:00</published>
                     <updated>2026-04-21T19:29:10+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4528</id>
-                    <title>Wuthering Waves Version Preview | Version 3.3 &#34;Reverbs From the End of Galaxies&#34; Scheduled for Release on April 30th (UTC+8)</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4528" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates:</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/wqzepdmuozrfge5b6y-1776418179609.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/ft9vevjrpymmp9qw2k-1776418213107.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/95b2fioendl50jj8x8-1776418295455.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/mzeiyxi9bpe0fjwjub-1776418407873.jpg" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/kq53nw5sbjibs22tbe-1776419188115.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1776355200000/8xo5drfutumhvbjbug-1776419294914.jpg" /></p>]]></content>
-                    <published>2026-04-17T17:33:48+00:00</published>
-                    <updated>2026-04-17T17:33:48+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

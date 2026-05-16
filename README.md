@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4677) [[json]](articles/4677.json)
 - [Post-Lament Anthropocene: Enemies — Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4658) [[json]](articles/4658.json)
 - [Event Preview | [Cubie Derby: Championship] Anniversary Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4654) [[json]](articles/4654.json)
 - [[Aced! Combat Mastery Test!] Featured Combat Event](https://wutheringwaves.kurogames.com/en/main/news/detail/4644) [[json]](articles/4644.json)
