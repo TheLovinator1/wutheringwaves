@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-16T18:32:38+00:00</updated>
+    <updated>2026-05-18T11:58:17+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4689</id>
+                    <title>Resonator Review | Eye of Unraveling — Chisa</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4689" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Just an ordinary student.&#34;</p>
+<p>Calmly, she introduces herself, a faint iridescent shimmer flickering in her eyes. Again, the structures of the world reveal themselves in her vision. Narrowing her eyes, she singles out the very thread that tugs at life itself.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/hg6tams91jyhdqa86h-1779073953462.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/58hbq8y539q50zjh92-1779076799461.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/043hew3mglwwgluhfh-1779076647990.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/ut99smfmwu5t7cycfd-1779076680201.jpg" /></p>]]></content>
+                    <published>2026-05-18T11:58:17+00:00</published>
+                    <updated>2026-05-18T11:58:17+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4677</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Denia</title>

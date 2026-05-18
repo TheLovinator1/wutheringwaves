@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/4689) [[json]](articles/4689.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4677) [[json]](articles/4677.json)
 - [Profile Reveal | Bubbles of Nihility - Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4665) [[json]](articles/4665.json)
 - [Post-Lament Anthropocene: Enemies — Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4658) [[json]](articles/4658.json)
