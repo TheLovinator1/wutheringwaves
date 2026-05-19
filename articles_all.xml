@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-18T11:58:17+00:00</updated>
+    <updated>2026-05-18T12:05:32+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4690</id>
+                    <title>Resonator Review | Symphony of Beyond—Phrolova</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4690" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/qtxatz4xnf4klij3bp-1779076980228.jpg" /></p>
+<p>Phrolova, a Fractsidus Overseer walking the fine line between life and death, an uncanny, deadly conductor.</p>
+<p>A silent wave of her baton is enough to attune the very frequencies of being and conduct the symphonies of &#34;souls.&#34; The music of hers can sculpt a better world or, just as easily, summon a legion to wreak havoc.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/2emjqopb67ixon0k3r-1779077006327.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779033600000/s0akmnnjmq6cv7t4up-1779077033516.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779120000000/cz607pb7mm40psa19x-1779181765806.jpg" /></p>]]></content>
+                    <published>2026-05-18T12:05:32+00:00</published>
+                    <updated>2026-05-18T12:05:32+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4689</id>
                     <title>Resonator Review | Eye of Unraveling — Chisa</title>
