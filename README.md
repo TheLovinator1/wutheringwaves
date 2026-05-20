@@ -11,8 +11,13 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Forged Dwarf Star] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4720) [[json]](articles/4720.json)
+- [[False Promise for Tomorrow] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4712) [[json]](articles/4712.json)
+- [Event Preview | [Depths of Illusive Realm: Chromatic Fantasy] Featured Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4695) [[json]](articles/4695.json)
+- [[Version 3.3 Featured Resonator/Weapon Convene: Phase Ⅱ]](https://wutheringwaves.kurogames.com/en/main/news/detail/4691) [[json]](articles/4691.json)
 - [Resonator Review | Symphony of Beyond—Phrolova](https://wutheringwaves.kurogames.com/en/main/news/detail/4690) [[json]](articles/4690.json)
 - [Resonator Review | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/4689) [[json]](articles/4689.json)
+- [Upcoming Events in Wuthering Waves Version 3.3](https://wutheringwaves.kurogames.com/en/main/news/detail/4685) [[json]](articles/4685.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4677) [[json]](articles/4677.json)
 - [Profile Reveal | Bubbles of Nihility - Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4665) [[json]](articles/4665.json)
 - [Post-Lament Anthropocene: Enemies — Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/4658) [[json]](articles/4658.json)
