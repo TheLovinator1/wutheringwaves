@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Preview | Version 3.4 "The Dream Not Dreamed" Scheduled for Release on June 8 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4740) [[json]](articles/4740.json)
+- [Wuthering Waves x Cyberpunk: Edgerunners Collaborations Info](https://wutheringwaves.kurogames.com/en/main/news/detail/4739) [[json]](articles/4739.json)
 - [Version 3.3 Phase II Wuthering Waves Wallpaper](https://wutheringwaves.kurogames.com/en/main/news/detail/4735) [[json]](articles/4735.json)
 - [[Forged Dwarf Star] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4720) [[json]](articles/4720.json)
 - [[False Promise for Tomorrow] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4712) [[json]](articles/4712.json)

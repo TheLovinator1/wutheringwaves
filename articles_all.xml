@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-27T20:23:45+00:00</updated>
+    <updated>2026-05-29T12:29:01+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,42 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4740</id>
+                    <title>Wuthering Waves Version Preview | Version 3.4 &#34;The Dream Not Dreamed&#34; Scheduled for Release on June 8 (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4740" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates:</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/p9v3bev5ho25ajgvk8-1780045322067.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/yr5fjpii8tc7c3g682-1780028875945.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/4yyj9h2c7n0sduyiuf-1780028891819.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/9zqd206tyukbn9p6hu-1780028913942.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/ih6p3d494311l9cg0p-1780028930116.jpg" /></p>]]></content>
+                    <published>2026-05-29T12:29:01+00:00</published>
+                    <updated>2026-05-29T12:29:01+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4739</id>
+                    <title>Wuthering Waves x Cyberpunk: Edgerunners Collaborations Info</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4739" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>The Wuthering Waves x Cyberpunk: Edgerunners Collab Version &#34;The Dream Not Dreamed&#34; goes live on June 8, 2026. Here&#39;s an overview of the upcoming Collab Quests, Collab Events and Collab Convene Events.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/xh1rwszfjwdze29pdm-1780027916925.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/7fxw8ttrf64ef30yv4-1780044931680.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/nu6hey4m4k6iqru92s-1780044985916.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/tz6ir5hngfuto98zdj-1780045047862.jpg" /></p>]]></content>
+                    <published>2026-05-29T12:14:54+00:00</published>
+                    <updated>2026-05-29T12:14:54+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4735</id>
                     <title>Version 3.3 Phase II Wuthering Waves Wallpaper</title>
