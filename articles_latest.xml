@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-29T12:29:01+00:00</updated>
+    <updated>2026-05-30T15:20:47+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,165 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4765</id>
+                    <title>Wuthering Waves Version 3.4 Update Maintenance Notice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4765" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780156800000/7ak33qejtrzn7hk0fj-1780231390259.jpg" />Dear Rovers,</p>
+<p>To bring you exciting new content and a better gaming experience, we will soon be conducting the update maintenance for Version 3.4: The Dream Not Dreamed.</p>
+<p>During the maintenance, you will be unable to log in to the game, so please plan your time accordingly. Additionally, due to the large size of the update, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time:</strong> <strong>2026-06-08 04:00 - 2026-06-08 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2026-06-08 04:00 (UTC+8). The compensation will remain claimable until the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<p><strong>[How to Update]</strong></p>
+<p><strong>Once the maintenance for the version update begins, you can follow the following instructions to update your client.</strong></p>
+<p><strong>✦PC: Close the game, restart the launcher, and then click on &#34;Update.&#34;</strong></p>
+<p><strong>✦Android: Launch the game and follow the instructions in the update pop-up window to complete the update.</strong></p>
+<p><strong>✦iOS: Download/update the game in the App Store.</strong></p>
+<p><strong>✦Mac: Download/update the game in the App Store.</strong></p>
+<p><strong>✦PS5™: Open the home screen &gt; Select Wuthering Waves &gt; Press the OPTIONS button to Check for Update.</strong></p>
+<p><strong>[Pre-download]</strong></p>
+<p><strong>✦Pre-download Start Time:</strong> <strong>2026-06-06 10:00 (UTC+8)</strong></p>
+<p><strong>[Required Pre-download Storage Space]</strong></p>
+<p><strong>✦PC: 17 GB</strong></p>
+<p><strong>✦Android: 20 GB</strong></p>
+<p><strong>✦iOS: 21 GB</strong></p>
+<p><strong>※Please note that pre-download may not be possible if your device does not have enough spare storage space.</strong></p>
+<p><strong>※A certain amount of storage space is required for the resources merging process during the update maintenance (PC: 32 GB | Android/iOS: 13 GB).</strong> <strong>Therefore, the actual size of the pre-downloaded resources is 15 GB on PC, 8 GB on Android, and 8 GB on iOS, respectively. After the update maintenance is complete, the extra space used for the resources merging process will be automatically freed up.</strong></p>
+<p><strong>[How to Pre-download]</strong></p>
+<p><strong>✦PC: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</strong></p>
+<p><strong>✦Android/iOS: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</strong></p>
+<p><em>You can continue playing the game while the pre-downloading process is ongoing. The process can be paused at any time. Whether it is complete or not, the update maintenance will speed up to a certain degree when initiated.</em></p>
+<p><em>Please ensure that you have a stable network connection during the pre-downloading process.</em></p>
+<hr />
+<p><strong>[Version 3.4 Preview]</strong></p>
+<p><strong>[Collab Resonators]</strong></p>
+<p><strong>5-Star Resonator: Lucy (Spectro/Pistols)</strong></p>
+<p><strong>※Obtainable through the [Dreaming Upon the Moon] Collab Resonator Convene.</strong></p>
+<p><strong>5-Star Resonator: Rebecca (Electro/Pistols)</strong></p>
+<p><strong>※Obtainable through the [Rekindled Embers of Rage] Collab Resonator Convene.</strong></p>
+<p><strong>[New Resonator]</strong></p>
+<p><strong>5-Star Resonator: Lucilla (Glacio/Rectifier)</strong></p>
+<p><strong>※Obtainable through the [Tomorrow in the Frame] Featured Resonator Convene.</strong></p>
+<p><strong>[Collab Weapons]</strong></p>
+<p><strong>5-Star Weapon: Spectral Trigger (Pistols)</strong></p>
+<p><strong>※Obtainable through the [Spectral Trigger] Collab Weapon Convene.</strong></p>
+<p><strong>5-Star Weapon: Skull Thrasher (Pistols)</strong></p>
+<p><strong>※Obtainable through the [Skull Thrasher] Collab Weapon Convene.</strong></p>
+<p><strong>[New Weapon]</strong></p>
+<p><strong>5-Star Weapon: Freeze Frame (Rectifier)</strong></p>
+<p><strong>※Obtainable through the [Freeze Frame] Featured Weapon Convene.</strong></p>
+<p><strong>[Collab Area]</strong></p>
+<p><strong>Somnoire: Night City</strong></p>
+<p><strong>[Collab Echo]</strong></p>
+<p><strong>Reminiscence - Nightmare: Adam Smasher</strong></p>
+<p><strong>New Sonata Effect: Shadow of Shattered Dreams (1 pcs Set)</strong></p>
+<p><strong>[Collab Enemies]</strong></p>
+<p><strong>Nightmare: Armed Corpo, Nightmare: Security Corpo, Nightmare: Special Response Corpo</strong></p>
+<p><strong>[Collab Story]</strong></p>
+<p><strong>[Episodic Quest] Chapter III Side Story: At Dream&#39;s Edge</strong></p>
+<p><strong>[New Story]</strong></p>
+<p><strong>[Main Quest] Chapter III Segue: We Choose the Sky</strong></p>
+<p><strong>[Gameplay Optimizations]</strong></p>
+<p><strong>Added the Weekly Activity tab and the Weekly Activity event &#34;Phantasma Dreamland: Rhapsody.&#34;</strong></p>
+<p><strong>Added one-click skill upgrade.</strong></p>
+<p><strong>Optimized the functionality of the Resonator Ascension Planner.</strong></p>
+<p><strong>Optimized the functionality of the in-game camera.</strong></p>
+<p><strong>[Other Optimizations]</strong></p>
+<p><strong>Added Megalights, which allows more dynamic lighting on some PCs with Ray Tracing enabled.</strong></p>
+<p><strong>[Other Collab Content]</strong></p>
+<p><strong>Nightmare Challenge: &#34;Nightmare: Adam Smasher&#34;</strong></p>
+<p><strong>Collab Track: I Really Want to Stay At Your House</strong></p>
+<p><strong>Collab Sigil: Where Did Your Love Go?</strong></p>
+<p><strong>Collab Title: Legend Smasher</strong></p>
+<p><strong>Collab WavesLine Looks: David Martinez (WavesLine Chat Bubble) x1, &#34;I miss you all the time&#34; (WavesLine Chat Background) x1</strong></p>
+<p><strong>[Other New Content]</strong></p>
+<p><strong>New &#34;Tactical Hologram: Synchronization&#34; Challenge: Nameless Explorer</strong></p>
+<p><strong>New Phantom Echo: &#34;Phantom: Glommoth&#34;</strong></p>
+<p><strong>Expedition Motorbike Liveries: Finish Line, Silent Array</strong></p>
+<p><strong>Accessory: Mornye Cube</strong></p>
+<p><strong>[New Mech]</strong></p>
+<p><strong>Accessories: Lynae - Unbound Brilliance, Mornye - Corner of the Star Sea</strong></p>
+<p><strong>[Collab Events]</strong></p>
+<p><strong>[Night City Roaming] Featured Collab Event</strong></p>
+<p><strong>[Matrix Reform] Collab Puzzle Event</strong></p>
+<p><strong>[Instant Flashlight] Collab Special Login Event</strong></p>
+<p><strong>[Gifts of Dreamchasers] 10-Day Special Login Event</strong></p>
+<p><strong>※The Sweetdream Tuning event will become available along with the upcoming Collab Resonator Convene and Collab Weapon Convene. For details about the event, please refer to the relevant in-game page.</strong></p>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[Depths of Illusive Realm: Dreamchasers]</strong></p>
+<p><strong>[Startorch Racing, Rerun!] Leisure Event</strong></p>
+<p><strong>[Dream of Azure Sky] Limited-Time Login Event</strong></p>
+<p><strong>※For more details on the new content, optimizations, and bug fixes coming to the game in Version 3.4, please stay tuned for the upcoming release notes.</strong></p>
+<hr />
+<p><strong>[Device Requirements]</strong></p>
+<p>To ensure a smooth experience, please refer to the following requirements:</p>
+<ol>
+<li>Minimum</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 835, MediaTek G71/72 or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>iOS: [System] iOS 14 or later; [Model] iPhone 11 or newer, iPad with A13 Bionic or processors of better/equivalent performance; [RAM] 4 GB or more</p>
+<p>Mac: [System] macOS 12.0 or later; [Model] m1 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I5 (9th Gen)/Ryzen 2700; [GPU] Geforce 1060/RX570/Intel ARC A380, [RAM] 16 GB or more</p>
+<ol start="2">
+<li>Recommended</li>
+</ol>
+<p>Android: [System] Android 7.0 or later; [Processor] Snapdragon 8 Gen1+/Gen2/Gen3 or MediaTek processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>iOS: [System] iOS 15 or later; [Model] iPhone 13 or newer, iPad with A15 Bionic or processors of better/equivalent performance; [RAM] 6 GB or more</p>
+<p>Mac: [System] macOS 15.0 or later; [Model] m3 or newer; [RAM] 16 GB or more</p>
+<p>PC: [System] Windows 10 64-bit; [CPU] Intel I7 (9th Gen)/Ryzen 3700, [GPU] Geforce 2060/RX5700XT/Intel ARC A750; [RAM] 16 GB or more</p>
+<ol start="3">
+<li>Required Storage Space</li>
+</ol>
+<p>Android/iOS: 50 GB</p>
+<p>Mac: 135 GB</p>
+<p>PC: 135 GB; it&#39;s recommended to install the game on an SSD.</p>
+<p>PS5™: Please make sure your device has sufficient available storage to complete the update successfully.</p>
+<ol start="4">
+<li>Controller Support</li>
+</ol>
+<p>Wuthering Waves currently supports the following controllers on Mobile:</p>
+<p>Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on Mac:</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Wuthering Waves currently supports the following controllers on PC:</p>
+<p>Wired/Wireless Controllers: Xbox series, Xbox Elite series, DualSense®, DualSense Edge™</p>
+<p>Wired Controllers: DualShock®4</p>
+<p><em>When you connect any other controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>]]></content>
+                    <published>2026-05-30T15:20:47+00:00</published>
+                    <updated>2026-05-30T15:20:47+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4764</id>
+                    <title>Resonator Reveal | Rebecca</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4764" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;C&#39;mon, let&#39;s crack some skulls!&#34;</p>
+<p>——————————————————</p>
+<p>Wuthering Waves × Cyberpunk: Edgerunners Collaboration is set to launch on June 8th (UTC+8).</p>
+<p>The new 5-Star Resonators Lucy and Rebecca will debut, and you can snag the 5-Star Resonator Rebecca for free!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/0mxk2ss0d8vklz7zvp-1780067540593.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/v48i1glrzzuhggabye-1780067558057.jpg" /><strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/vi64nnmrjkh6qgcs7b-1780067649464.jpg" /></strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/yfpn98en6uu1c5dp1o-1780067913095.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/kx3wi0zakfgt3xvsgb-1780067926862.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/i4p19x1pd40kcpeooe-1780067941738.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/8iuub94tiu7g2luoa8-1780067961623.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1779984000000/xr6ughurzcs4tlvkrw-1780067987906.jpg" /></p>]]></content>
+                    <published>2026-05-29T23:20:36+00:00</published>
+                    <updated>2026-05-29T23:20:36+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4740</id>
                     <title>Wuthering Waves Version Preview | Version 3.4 &#34;The Dream Not Dreamed&#34; Scheduled for Release on June 8 (UTC+8)</title>
@@ -702,193 +861,6 @@
 <p>This event is available solely to participants on the designated servers listed below: America, Europe, Asia, SEA, HMT(HK,MO,TW).</p>]]></content>
                     <published>2026-04-30T15:36:32+00:00</published>
                     <updated>2026-04-30T15:36:32+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4622</id>
-                    <title>Wuthering Waves Fan Creation Event Winners Reveal</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4622" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/w4tagoq5znrz0afl7p-1777521389745.png" /></p>
-<p>Wuthering Waves Fan Creation Event &#34;<strong>Resolution to Illuminate the Shadows</strong>&#34; has concluded, and we want to express our heartfelt appreciation to all participants for their dedication and creativity in our fan art event. Let&#39;s view the winning entries and their contributors!</p>
-<p><strong>1st Place</strong></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/35h944fb5iaqzvaomn-1777521224555.png" /></p>
-<p><a href="https://x.com/Rockwell_n1">@Rockwell_n1</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/my25tc1rwek1kh40y2-1777521294654.jfif" /></p>
-<p><a href="https://x.com/Bibimbub15">@Bibimbub15</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/fvho4qhqrwdm53in84-1777521578735.jfif" /></p>
-<p><a href="https://x.com/XiaoFeiArt">@XiaoFeiArt</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/ehxeko7wovw0qej6r9-1777521597968.jfif" /></p>
-<p><a href="https://x.com/creeponite">@creeponite</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/rgv5ynk1pr5d6zc3nt-1777521627668.jfif" /></p>
-<p><a href="https://x.com/Jupito_b">@Jupito_b</a></p>
-<p><strong>2nd Place</strong></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/gauz4z39s9ka90ehbe-1777521800944.jfif" /></p>
-<p><a href="https://x.com/dizzenzd">@dizzenzd</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/bpifz13v4se0qk6nha-1777521850244.jfif" /></p>
-<p><a href="https://x.com/artdroiiid_ii">@artdroiiid_ii</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/rjp45pmbg3bpy3lqyp-1777521902978.jfif" /></p>
-<p><a href="https://x.com/waltz_w_me">@waltz_w_me</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/hip18r05tqaw6il44o-1777521916460.png" /></p>
-<p><a href="https://x.com/mmin_art1">@mmin_art1</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/g342j1oyycexnc0qu4-1777521926568.png" /></p>
-<p><a href="https://x.com/yukoama_05iazad">@yukoama_05iazad</a></p>
-<p><strong>3rd Place</strong></p>
-<p><strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/jysfsnxer7ao08y2c3-1777522203204.jpg" /></strong></p>
-<p><a href="https://x.com/dou04029">@dou04029</a></p>
-<p><strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/ou1u3xduqrqg5dle2m-1777522251154.png" /></strong></p>
-<p><a href="https://x.com/zani_journey">@zani_journey</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/9nir9ekjlhx03a6pn4-1777522165619.png" /></p>
-<p><a href="https://www.facebook.com/wedge1491/">楔月</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/jp2i45iow3qv7yw9b6-1777522165474.png" /></p>
-<p><a href="https://x.com/Lai_chitose">@Lai_chitose</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/hmre4gq4ghc3ygfcdm-1777522165534.png" /></p>
-<p><a href="https://x.com/illat3127">@illat3127</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/pth8xn2p3h75x1mzdd-1777522167295.png" /></p>
-<p><a href="https://x.com/Kerno_kr">@Kerno_kr</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/dst4yh46h9pouoas0k-1777522167972.png" /></p>
-<p><a href="https://x.com/Jelmul">@Jelmul</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/foyryxbiqasps01toy-1777539720711.jfif" /></p>
-<p><a href="https://x.com/Dzyyeee">@Dzyyeee</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/zcluj9xvxzoe5og0a3-1777522261761.jfif" /></p>
-<p><a href="https://x.com/nomn_pop">@nomn_pop</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/b8pffzjk44c2owirc4-1777535185019.jfif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/x8mzru0v44f0tuvy53-1777535185048.jfif" /></p>
-<p><a href="https://x.com/_imnk_">@_imnk_</a></p>
-<p><strong>4th Place</strong></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/9xtgbezqfabvaifel6-1777522826029.jfif" /></p>
-<p><a href="https://x.com/sae_naiyatsu">@sae_naiyatsu</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/1q3n86ck6cvqpzfpho-1777522826061.jfif" /></p>
-<p><a href="https://x.com/uiyoyo199">@uiyoyo199</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/xgzt5qhz1c6k9drm52-1777522826176.png" /></p>
-<p><a href="https://x.com/Coco_Sakeko">@Coco_Sakeko</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/61nwl6ixrvggh5w7u2-1777522826085.png" /></p>
-<p><a href="https://x.com/linlinzhong1205?s=21&amp;t=byeTSS2PONchkpdtGxlG7g">@linlinzhong1205</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/3bc331bhiwxnc1qx4q-1777522826146.png" /></p>
-<p><a href="https://x.com/yoshi_houndbell">@yoshi_houndbell</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/8b712bk1coqmrsjrf9-1777522826171.png" /></p>
-<p><a href="https://x.com/ooC1iD7XwimLOou">@ooC1iD7XwimLOou</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/w619ict3dzm3z79dsr-1777539918905.jfif" /></p>
-<p><a href="https://x.com/ebonyblue00">@ebonyblue00</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/rucj3d0n6lf5rs5s48-1777522826148.png" /></p>
-<p><a href="https://x.com/namaconZ_006">@namaconZ_006</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/fjm71fda3i3fuhn3qq-1777522826147.png" /></p>
-<p><a href="https://x.com/yoru_shiki">@yoru_shiki</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/zzbwxqeeniirdv6nct-1777522826594.png" /></p>
-<p><a href="https://x.com/imory_001">@imory_001</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/gq8d5i7jbdsy7vckid-1777522830638.png" /></p>
-<p><a href="https://x.com/maltie00">@maltie00</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/s7z5bod0etagad37og-1777522831225.png" /></p>
-<p><a href="https://www.facebook.com/chaochaochung/">@chaochaochun</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/842ogapzcxkz4j6ouy-1777522831371.png" /></p>
-<p><a href="https://x.com/r_aeel">@r_aeel</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/jst09u7ohwooc7mkmw-1777522831566.png" /></p>
-<p><a href="https://x.com/HanasawaHsu">@HanasawaHsu</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/sq56x2v1t98uyy6mzv-1777535287971.jfif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/pl9iuuraps0byiy5ju-1777535307266.jfif" /></p>
-<p><a href="https://x.com/shim0rin">@shim0rin</a></p>
-<p><strong>5th Place</strong><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/rwvxecgwivzc9cde2p-1777523589350.jpg" /></p>
-<p>reika_draws</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/1m0ge8nrmesuzo39dt-1777523589380.jpg" /></p>
-<p><strong>jyn_ixix</strong></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/4o0k0u8x2jdbdvch5i-1777523589599.jfif" /></p>
-<p><a href="https://x.com/LeppiB">@LeppiB</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/88gwcd6prtd3l2u75i-1777523589532.jfif" /></p>
-<p><a href="https://x.com/yirin3617">@yirin3617</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/50zs3g3jlzta0pisnx-1777523589239.jfif" /></p>
-<p><a href="https://x.com/ibelsibels">@ibelsibels</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/m0nle7omzvpbj753qt-1777523589238.jfif" /></p>
-<p><a href="https://x.com/vankusman">@vankusman</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/ettk5is0ewloyjxprj-1777523589321.png" /></p>
-<p><a href="https://x.com/meki_9398">@meki_9398</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/73aazfmjbe3973q75f-1777523589144.png" /></p>
-<p><a href="https://x.com/doupu102">@doupu102</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/jb73nnjkpr2oj9z4cd-1777523589328.png" /></p>
-<p><a href="https://x.com/xoxo_hush">@xoxo_hush</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/x4jd6wmwmybeptp6qo-1777523589399.png" /></p>
-<p><a href="https://x.com/hyaui_kazuki">@hyaui_kazuki</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/39w2dhi37k67fl534l-1777523589324.png" /></p>
-<p><a href="https://x.com/madine08260">@madine08260</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/7i19ftji6sw7w2x5lj-1777540101993.jpg" /></p>
-<p><a href="https://x.com/haru_Kaze_7">@haru_Kaze_7</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/xkexwmo8qtifik0d1x-1777523589351.png" /></p>
-<p><a href="https://x.com/28yanagiii">@28yanagiii</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/sa87j0eej4yuhadsdw-1777523589295.png" /></p>
-<p><a href="https://x.com/chigusa7h">@chigusa7h</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/fx4dtu66vql4wxudxb-1777535409102.jfif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/pym0gkqw26mjnmu71h-1777535409071.jfif" /></p>
-<p><a href="https://x.com/yun4340">@yun4340</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/pdbf701923d4tchp8p-1777523591446.png" /></p>
-<p><a href="https://x.com/narunoSK">@narunoSK</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/6jkk2qr247j6lu8o21-1777523593474.png" /></p>
-<p><a href="https://x.com/jugl0099">@jugl0099</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/onch520b5alv3m5g50-1777523594207.png" /></p>
-<p><a href="https://x.com/NanKam76">@NanKam76</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/q5hne6no5xpyqy6kc8-1777540164407.jfif" /></p>
-<p><a href="https://x.com/AgitoIsHere">@AgitoIsHere</a></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777478400000/hl85ixgdbypyzajbr5-1777540195059.jfif" /></p>
-<p><a href="https://x.com/whyte_srsn">@whyte_srsn</a></p>]]></content>
-                    <published>2026-04-30T12:46:16+00:00</published>
-                    <updated>2026-04-30T12:46:16+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4616</id>
-                    <title>V3.3 Wuthering Waves Battle Rush</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4616" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1777392000000/b8lcg0e5n9lbkgb09b-1777477490316.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
-<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own combat video featuring Wuthering Waves.</p>
-<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
-<p><strong>How to Submit</strong></p>
-<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
-<p><strong>Submission Period</strong></p>
-<p><strong>2026/04/30 - 2026/05/28 (PT)</strong></p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
-                    <published>2026-04-29T23:48:55+00:00</published>
-                    <updated>2026-04-29T23:48:55+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
