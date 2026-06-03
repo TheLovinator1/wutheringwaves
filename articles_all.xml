@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-05-30T15:20:47+00:00</updated>
+    <updated>2026-06-02T14:21:02+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,29 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4774</id>
+                    <title>Resonator Reveal | Lucy</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4774" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Resonator Reveal | Lucy</p>
+<p>&#34;I know... the dream had to end.&#34;</p>
+<p>——————————————————</p>
+<p>Wuthering Waves × Cyberpunk: Edgerunners Collaboration is set to launch on June 8th (UTC+8).</p>
+<p>The new 5-Star Resonators Lucy and Rebecca will debut, and you can snag the 5-Star Resonator Rebecca for free!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/951pl5ak7hmc9dfcxs-1780380902244.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/bw4qlinn955kfh6ww9-1780380921351.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/dpw4u1733fkwb5nz0g-1780380944447.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/jq3ifoui6hr4qckswl-1780381011026.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/s5vmi41uikhauvl2pq-1780381069372.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/1w4aqumyurm4x23mbi-1780381166290.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/6xyotgdp389h82feem-1780381182941.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780329600000/5u79b1nlq5xayhsb05-1780381231277.jpg" /></p>]]></content>
+                    <published>2026-06-02T14:21:02+00:00</published>
+                    <updated>2026-06-02T14:21:02+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4765</id>
                     <title>Wuthering Waves Version 3.4 Update Maintenance Notice</title>

@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Reveal | Lucy](https://wutheringwaves.kurogames.com/en/main/news/detail/4774) [[json]](articles/4774.json)
 - [Wuthering Waves Version 3.4 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4765) [[json]](articles/4765.json)
 - [Resonator Reveal | Rebecca](https://wutheringwaves.kurogames.com/en/main/news/detail/4764) [[json]](articles/4764.json)
 - [Wuthering Waves Version Preview | Version 3.4 "The Dream Not Dreamed" Scheduled for Release on June 8 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4740) [[json]](articles/4740.json)
