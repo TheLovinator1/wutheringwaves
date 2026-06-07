@@ -13,6 +13,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 - [Profile Reveal | Xeno-Domain Hacking - Lucy](https://wutheringwaves.kurogames.com/en/main/news/detail/4800) [[json]](articles/4800.json)
 - [Profile Reveal | Fury-Type Arsenal - Rebecca](https://wutheringwaves.kurogames.com/en/main/news/detail/4799) [[json]](articles/4799.json)
+- [Event Preview | [Depths of Illusive Realm: Dreamchasers] Featured Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4792) [[json]](articles/4792.json)
+- [Wuthering Waves Update Content | Version 3.4 "The Dream Not Dreamed" Planned for Release on June 8 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/4791) [[json]](articles/4791.json)
 - [Resonator Reveal | Lucy](https://wutheringwaves.kurogames.com/en/main/news/detail/4774) [[json]](articles/4774.json)
 - [Wuthering Waves Version 3.4 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4765) [[json]](articles/4765.json)
 - [Resonator Reveal | Rebecca](https://wutheringwaves.kurogames.com/en/main/news/detail/4764) [[json]](articles/4764.json)
