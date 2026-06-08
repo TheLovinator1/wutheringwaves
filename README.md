@@ -11,6 +11,14 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Skull Thrasher] Collab Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4860) [[json]](articles/4860.json)
+- [[Rekindled Embers of Rage] Collab Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4852) [[json]](articles/4852.json)
+- [[Spectral Trigger] Collab Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4844) [[json]](articles/4844.json)
+- [[Dreaming Upon the Moon] Collab Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4836) [[json]](articles/4836.json)
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/4824) [[json]](articles/4824.json)
+- [Wuthering Waves Fan Creation Event "The Dream Not Dreamed" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/4823) [[json]](articles/4823.json)
+- [V3.4 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/4822) [[json]](articles/4822.json)
+- [Patch Notes for Version 3.4: The Dream Not Dreamed](https://wutheringwaves.kurogames.com/en/main/news/detail/4819) [[json]](articles/4819.json)
 - [Profile Reveal | Xeno-Domain Hacking - Lucy](https://wutheringwaves.kurogames.com/en/main/news/detail/4800) [[json]](articles/4800.json)
 - [Profile Reveal | Fury-Type Arsenal - Rebecca](https://wutheringwaves.kurogames.com/en/main/news/detail/4799) [[json]](articles/4799.json)
 - [Event Preview | [Depths of Illusive Realm: Dreamchasers] Featured Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4792) [[json]](articles/4792.json)
