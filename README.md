@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Freeze Frame] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4894) [[json]](articles/4894.json)
+- [[Tomorrow in the Frame] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4885) [[json]](articles/4885.json)
 - [V3.4 Discord Quest Social Plan](https://wutheringwaves.kurogames.com/en/main/news/detail/4881) [[json]](articles/4881.json)
 - [Profile Reveal | Memory Palace - Lucilla](https://wutheringwaves.kurogames.com/en/main/news/detail/4870) [[json]](articles/4870.json)
 - [[Skull Thrasher] Collab Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4860) [[json]](articles/4860.json)

@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-06-10T10:05:08+00:00</updated>
+    <updated>2026-06-12T10:50:16+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,104 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4894</id>
+                    <title>[Freeze Frame] Featured Weapon Convene</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4894" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/6qp89bh1q325ewtaik-1781232602630.jpg" /></p>
+<p>During the event, 5-Star Weapon: Freeze Frame, 4-Star Weapons: Relativistic Jet, Cadenza, and Fusion Accretion receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-06-13 10:00 - 2026-07-09 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
+</li>
+<li>
+<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
+</li>
+<li>
+<p>The 5-Star Weapon you Convene is guaranteed to be Freeze Frame.</p>
+</li>
+<li>
+<p>Featured Weapon Freeze Frame is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2026-06-12T10:50:16+00:00</published>
+                    <updated>2026-06-12T10:50:16+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4885</id>
+                    <title>[Tomorrow in the Frame] Featured Resonator Convene</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4885" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/7n9r5skh3q79xmlv0u-1781231798288.jpg" /></p>
+<p>During the event, 5-Star Resonator: Lucilla, 4-Star Resonators: Lumi, Youhu, and Taoqi receive boosted drop rates!</p>
+<h1>Duration</h1>
+<p>2026-06-13 10:00 - 2026-07-09 11:59 (server time)</p>
+<h1>Eligibility</h1>
+<ul>
+<li>
+<p>Reach Union Level 5.</p>
+</li>
+<li>
+<p>Or complete the combat trial in First Resonance.</p>
+</li>
+<li>
+<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
+</li>
+</ul>
+<h1>Convene Rules</h1>
+<ul>
+<li>
+<p>[Tomorrow in the Frame] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
+</li>
+<li>
+<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
+</li>
+<li>
+<p>Featured Resonator Lucilla is exclusive to the [Tomorrow in the Frame] Featured Resonator Convene and will not be available by other means once the event ends.</p>
+</li>
+<li>
+<p>Featured Resonator Lucilla&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
+</li>
+<li>
+<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
+</li>
+</ul>
+<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
+                    <published>2026-06-12T10:37:02+00:00</published>
+                    <updated>2026-06-12T10:37:02+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4881</id>
                     <title>V3.4 Discord Quest Social Plan</title>
