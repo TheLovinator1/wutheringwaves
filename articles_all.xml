@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-06-12T10:50:16+00:00</updated>
+    <updated>2026-06-12T18:23:54+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,40 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4910</id>
+                    <title>Version 3.4 Wuthering Waves Wallpaper</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4910" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Yeah... Think I... Think I had a dream.&#34;</p>
+<p>&#34;...Can&#39;t remember, it&#39;s kinda fuzzy.&#34;</p>
+<p>&#34;But it was a good dream... That I know.&#34;</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/6gcz076gkbpmkf4w61-1781259683101.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/s0l3wedft1ezk3g7p7-1781259695017.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/evs1imuv0qllbrd1s3-1781259706498.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/sysri39u78rnce1k8l-1781259717083.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/dse42lwk8cmtz64tre-1781259729859.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/u44c4d2s5aoxm8s8pf-1781259742527.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/g7htshf1ep9rjioci1-1781259760872.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/juakii3ayevrix0ve9-1781259772572.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/7sjj5jux3dy1jv4b4r-1781259782637.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/tnq3xqzm3tahtdelnj-1781259798761.jpg" /></p>]]></content>
+                    <published>2026-06-12T18:23:54+00:00</published>
+                    <updated>2026-06-12T18:23:54+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4906</id>
+                    <title>Wuthering Waves × Cyberpunk: Edgerunners | New Enemy — Nightmare: Adam Smasher</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4906" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A Nightmare Tacet Discord that is hunting down Lucy. The data torrent that plates its body scrambles local detection and offers immunity to most attacks from Resonators.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/iei3it2kfja5rqn35h-1781255501882.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/f1ijk72oqklozj4b4f-1781255516047.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/di89l6i285y32qr3g1-1781255531760.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/tvxinmytbgsb7wij61-1781255550750.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/wpq0dk6qf5atms3mgp-1781255569862.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/7f9af1xgvr7xhroc63-1781255591225.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/gkrbjueysexzqhm6wx-1781255606503.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781193600000/zfxy3hkec3hqv4y4q9-1781255620462.gif" /></p>]]></content>
+                    <published>2026-06-12T17:14:23+00:00</published>
+                    <updated>2026-06-12T17:14:23+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4894</id>
                     <title>[Freeze Frame] Featured Weapon Convene</title>

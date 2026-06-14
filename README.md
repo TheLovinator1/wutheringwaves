@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Version 3.4 Wuthering Waves Wallpaper](https://wutheringwaves.kurogames.com/en/main/news/detail/4910) [[json]](articles/4910.json)
+- [Wuthering Waves × Cyberpunk: Edgerunners | New Enemy — Nightmare: Adam Smasher](https://wutheringwaves.kurogames.com/en/main/news/detail/4906) [[json]](articles/4906.json)
 - [[Freeze Frame] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4894) [[json]](articles/4894.json)
 - [[Tomorrow in the Frame] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4885) [[json]](articles/4885.json)
 - [V3.4 Discord Quest Social Plan](https://wutheringwaves.kurogames.com/en/main/news/detail/4881) [[json]](articles/4881.json)
