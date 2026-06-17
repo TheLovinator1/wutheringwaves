@@ -11,6 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Feathered Tempest — Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/4918) [[json]](articles/4918.json)
+- [Upcoming Events in Wuthering Waves Version 3.4](https://wutheringwaves.kurogames.com/en/main/news/detail/4917) [[json]](articles/4917.json)
+- [[Version 3.4 Featured Resonator/Weapon Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/4916) [[json]](articles/4916.json)
 - [Version 3.4 Wuthering Waves Wallpaper](https://wutheringwaves.kurogames.com/en/main/news/detail/4910) [[json]](articles/4910.json)
 - [Wuthering Waves × Cyberpunk: Edgerunners | New Enemy — Nightmare: Adam Smasher](https://wutheringwaves.kurogames.com/en/main/news/detail/4906) [[json]](articles/4906.json)
 - [[Freeze Frame] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/4894) [[json]](articles/4894.json)
