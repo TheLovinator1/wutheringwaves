@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Preview | Version 3.5 "Blade of Past Resounds, Lingering Dream Hymns"](https://wutheringwaves.kurogames.com/en/main/news/detail/4936) [[json]](articles/4936.json)
 - [Resonator Review | Feathered Tempest — Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/4918) [[json]](articles/4918.json)
 - [Upcoming Events in Wuthering Waves Version 3.4](https://wutheringwaves.kurogames.com/en/main/news/detail/4917) [[json]](articles/4917.json)
 - [[Version 3.4 Featured Resonator/Weapon Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/4916) [[json]](articles/4916.json)
