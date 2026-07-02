@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- ["Nightveil Piercer" Premium Model Set Bundle](https://wutheringwaves.kurogames.com/en/main/news/detail/4955) [[json]](articles/4955.json)
 - [Wuthering Waves - XBOX Game Pass Gift Pack & XBOX Exclusive Sigil](https://wutheringwaves.kurogames.com/en/main/news/detail/4944) [[json]](articles/4944.json)
 - [Wuthering Waves Version Preview | Version 3.5 "Blade of Past Resounds, Lingering Dream Hymns"](https://wutheringwaves.kurogames.com/en/main/news/detail/4936) [[json]](articles/4936.json)
 - [Resonator Review | Feathered Tempest — Cartethyia](https://wutheringwaves.kurogames.com/en/main/news/detail/4918) [[json]](articles/4918.json)

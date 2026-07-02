@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-06-26T19:02:32+00:00</updated>
+    <updated>2026-07-01T14:51:05+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,25 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4955</id>
+                    <title>&#34;Nightveil Piercer&#34; Premium Model Set Bundle</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4955" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;A spirit bird whose cry heralds the dawn; a morning star that lights the dark night.&#34;</p>
+<p>The &#34;Nightveil Piercer&#34; Motorbike Premium Model will go live after the Version 3.5 update. Take a look at its details.</p>
+<h1>How to Obtain</h1>
+<p>After the Version 3.5 update, the &#34;Nightveil Piercer&#34; Premium Model Set Bundle will be permanently available in the Vehicle Looks Store. The Bundle includes &#34;Nightveil Piercer&#34; Premium Model x1 and Astrite x600, priced at 29.99 USD.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782835200000/zl2evqvnkhz0n7eqcv-1782888580279.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782835200000/pgycua797vu8frmzc2-1782888596747.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782835200000/rx011oxfnlxdra90cl-1782888614984.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782835200000/u90mu4yt9wbef2wizn-1782888631344.gif" /></p>]]></content>
+                    <published>2026-07-01T14:51:05+00:00</published>
+                    <updated>2026-07-01T14:51:05+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4944</id>
                     <title>Wuthering Waves - XBOX Game Pass Gift Pack &amp; XBOX Exclusive Sigil</title>
