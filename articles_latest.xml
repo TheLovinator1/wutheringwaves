@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-01T14:51:05+00:00</updated>
+    <updated>2026-07-02T18:35:18+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,167 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:4973</id>
+                    <title>Wuthering Waves Version 3.5 Update Maintenance Notice</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4973" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/rlxrmmhmubisgu9q0u-1782988341490.jpg" />Dear Rovers,</p>
+<p>To bring you exciting new content and a better gaming experience, we will soon perform update maintenance for Version 3.5 &#34;Blade of Past Resounds, Lingering Dream Hymns&#34;.</p>
+<p>You will be temporarily unable to log into the game during the maintenance. Please plan your gaming time accordingly. As this update requires a large download, we recommend updating the game while connected to a Wi-Fi network. We apologize for any inconvenience this may cause and thank you for your understanding.</p>
+<p><strong>[Maintenance Time &amp; Compensation]</strong></p>
+<p><strong>✦Maintenance Duration:</strong> <strong>2026-07-10 04:00 - 2026-07-10 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite ×300, Crystal Solvent ×2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail function before 2026-07-10 04:00 (UTC+8). The compensation mail is valid until the update maintenance for the next version begins.</strong></p>
+<p><em>Maintenance duration may be extended depending on the actual progress. The development team will provide follow-up announcements and adjust compensation accordingly.</em></p>
+<p><strong>[How to Update]</strong></p>
+<p><strong>Once the update maintenance begins, you can update your client using the following methods:</strong></p>
+<p><strong>✦PC: Close the game, restart the launcher, and click Update.</strong></p>
+<p><strong>✦Android: Launch the game and follow the in-game pop-up instructions to update.</strong></p>
+<p><strong>✦iOS: Go to the App Store to download/update.</strong></p>
+<p><strong>✦Mac: Go to the App Store to download/update.</strong></p>
+<p><strong>✦PS5™: Go to the PS5 home screen, select Wuthering Waves, press the OPTIONS button, and select Check for Update.</strong></p>
+<p><strong>[Pre-download Details]</strong></p>
+<p><strong>✦Pre-download Start Time:</strong> <strong>2026-07-08 10:00 (UTC+8)</strong></p>
+<p><strong>[Pre-download Space Requirements]</strong></p>
+<p><strong>✦PC: 76GB</strong></p>
+<p><strong>✦Android: 29GB</strong></p>
+<p><strong>✦iOS: 29GB</strong></p>
+<p><strong>※Special Notice: Version 3.5 uses resource compression technology to update existing files in the client, so this pre-download is noticeably larger and requires more free storage than recent updates. This is a one-time adjustment; pre-download sizes are expected to return to normal starting with the next update. We apologize for the inconvenience this may cause Rovers in the meantime, and thank you for your continued support and understanding of Wuthering Waves.</strong></p>
+<p><strong>※Please note that you will not be able to pre-download if you do not have enough reserved storage space.</strong></p>
+<p><strong>※To ensure there is sufficient storage space for resource integration during the update maintenance, a certain amount of space must be reserved (PC: 76GB | Android/iOS: 13GB). Therefore, the actual download size for this pre-download is (PC: 52GB | Android/iOS: 16GB). After the update maintenance is complete, the extra space used for the resources merging process will be automatically freed up.</strong></p>
+<p><strong>[How to Pre-download]</strong></p>
+<p><strong>✦PC: When pre-download for the latest version becomes available, &#34;New Version Pre-download&#34; appears below the &#34;Start&#34; button on the launcher interface. Select this option to pre-download the resources.</strong></p>
+<p><strong>✦Android/iOS: When pre-download for the latest version becomes available, press the &#34;Pre-download&#34; button, either on the title screen after a successful login or on the in-game Terminal page, and confirm to pre-download the resources.</strong></p>
+<p><em>You can continue playing the game while the pre-downloading process is ongoing. The process can be paused at any time. Whether it is complete or not, the update maintenance will speed up to a certain degree when initiated.</em></p>
+<p><em>Please ensure that a stable network connection during the pre-downloading process.</em></p>
+<hr />
+<p><strong>[Version 3.5 Content Preview]</strong></p>
+<p><strong>[New Resonators]</strong></p>
+<p><strong>5-Star Resonator: Yangyang: Xuanling (Havoc/Sword)</strong></p>
+<p><strong>※Available from the [Voices on Azure Feathers] Featured Resonator Convene.</strong></p>
+<p><strong>5-Star Resonator: Suisui (Glacio/Rectifier)</strong></p>
+<p><strong>※Available from the [Blessings From Dewy Winds] Featured Resonator Convene.</strong></p>
+<p><strong>New Rover Attribute: Rover (Electro)</strong></p>
+<p><strong>※Complete Main Quest Chapter IV Act II &#34;Xuanling Sings, Storm Quelled&#34; to unlock.</strong></p>
+<p><strong>[New Weapons]</strong></p>
+<p><strong>5-Star Weapon: Azure Oath (Sword)</strong></p>
+<p><strong>※Available from the [Azure Oath] Featured Weapon Convene.</strong></p>
+<p><strong>5-Star Weapon: Firstlight&#39;s Herald (Rectifier)</strong></p>
+<p><strong>※Available from the [Firstlight&#39;s Herald] Featured Weapon Convene.</strong></p>
+<p><strong>[New Region]</strong></p>
+<p><strong>Mengzhou: Land of Xuanfang</strong></p>
+<p><strong>This region includes the following areas: Xuanfang Hold, Eastern Xuan Peaks, Western Fang Peaks, and Southern Yuan Hills.</strong></p>
+<p><strong>※Follow the guidance of Main Quest Chapter IV Act I &#34;The Wind Before the Storm&#34; to access this region.</strong></p>
+<p><strong>[New Echoes]</strong></p>
+<p><strong>Myriad Snare: Rustfire Chassis, Thousand-Puppet Pavilion, Fog Lionarch, Forbidden Bastion, Kernel Puppet: Joy, Kernel Puppet: Anger, Kernel Puppet: Worry, Kernel Puppet: Reflection, Kernel Puppet: Grief, Kernel Puppet: Fright, Fog Lionarch: Body, Fog Lionarch: Head, Smiter, Smolder, Porcelain Picket, Stone Picket, and Aureate Picket</strong></p>
+<p><strong>Added Sonata Effects: Lamp of Nether Road (5pcs Set), Heart of Evil&#39;s Purge (5pcs Set), and Song of Feathered Trace (5pcs Set)</strong></p>
+<p><strong>Added Tacet Fields: Western Fang Peaks Tacet Field and Eastern Xuan Peaks Tacet Field</strong></p>
+<p><strong>Added Tacet Discord Nest: Southern Yuan Hills Tacet Discord Nest</strong></p>
+<p><strong>[New Story]</strong></p>
+<p><strong>Main Quest Chapter IV: Act I &#34;The Wind Before the Storm&#34;</strong></p>
+<p><strong>Main Quest Chapter IV: Act II &#34;Xuanling Sings, Storm Quelled&#34;</strong></p>
+<p><strong>Main Quest Chapter IV: Segue &#34;The Chant of Unseen Ties&#34;</strong></p>
+<p><strong>Exploration Quest: &#34;Code Red: Corehazard&#34;</strong></p>
+<p><strong>Exploration Quest: &#34;Faithful Heart Tested at Skyfall&#34;</strong></p>
+<p><strong>Exploration Quest: &#34;Autopuppets in Fog Veiled Chambers&#34;</strong></p>
+<p><strong>[Feature Optimizations]</strong></p>
+<p><strong>Added the Pioneer Experience feature, which integrates previous story fast track features and adds &#34;Next Stop: Mengzhou&#34;</strong></p>
+<p><strong>Added the Resonator Voice Pack Customization feature</strong></p>
+<p><strong>Added the Bioprint feature</strong></p>
+<p><strong>Optimized the display effects of the Echo Gallery and Enemies, adding dynamic breathing animations</strong></p>
+<p><strong>Optimized the Story Auto-Play feature</strong></p>
+<p><strong>Optimized the Guidebook feature</strong></p>
+<p><strong>[Other Optimizations]</strong></p>
+<p><strong>Optimized the model appearance of Rover</strong></p>
+<p><strong>Added resource compression technology on PC to reduce storage space usage</strong></p>
+<p><strong>Added [XeSS 3] frame generation support on PC</strong></p>
+<p><strong>Optimized the Resource Cleanup feature on mobile devices</strong></p>
+<p><strong>[New Challenges]</strong></p>
+<p><strong>Tactical Hologram: Sparring Challenge: Denia</strong></p>
+<p><strong>The second cycle of Endstate Matrix is open: Version 3.5 - Version 3.8</strong></p>
+<p><strong>[Other New Content]</strong></p>
+<p><strong>[Expedition Motorbike Chassis] Cloud Ride</strong></p>
+<p><strong>[Weapon Projection] Projection: Blade of a Thousand Arts</strong></p>
+<p><strong>[Titles] &#34;Virtual Beacon&#34; and &#34;Until We Meet Again&#34;</strong></p>
+<p><strong>[Sigils] &#34;Space and Blake Bloom Medal,&#34; &#34;Past the Endstate: Adversity Vanguard,&#34; and &#34;Xuanfang Wonder&#34;</strong></p>
+<p><strong>[Avatars] Space and Blake Bloom</strong></p>
+<p><strong>[New Store Arrivals]</strong></p>
+<p><strong>[Outfits] Deluxe Outfit: Lynae - Peppermint and Deluxe Outfit: Chisa - Peach Parfait</strong></p>
+<p><strong>[Accessories] Yangyang: Xuanling - Cloud Lark and Suisui - Upon Rosy Clouds</strong></p>
+<p><strong>[Expedition Motorbike Model] Nightveil Piercer Premium Model</strong></p>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[A Glimpse of Xuanfang] Area Exploration Event</strong></p>
+<p><strong>[Shape of Yesterday] Photo Collection Event</strong></p>
+<p><strong>[Lament Recon: Tacet Crisis] Combat Event</strong></p>
+<p><strong>[Recaptured: Action Highlights] Combat Photography Event</strong></p>
+<p><strong>[Lollo Campaign: New Journey] Featured Commission Event</strong></p>
+<p><strong>[Virtual Crisis: Quadrant Trials] Crisis Trial Challenge Event</strong></p>
+<p><strong>[Gifts of Aftertune] 7-Day Login Event</strong></p>
+<p><strong>[H5 Web Events]</strong></p>
+<p><strong>In Search of Lost Jade Web Event</strong></p>
+<p><strong>※For more details regarding the new version update, system optimizations, and bug fixes, please stay tuned for the upcoming Version 3.5 Content Details.</strong></p>
+<hr />
+<p><strong>[Device Requirements]</strong></p>
+<p>To ensure a smooth installation and gaming experience, we recommend that Rovers refer to the following system requirements:</p>
+<ol>
+<li>Minimum Requirements</li>
+</ol>
+<p>Android: OS version 7.0 or above, Snapdragon 835, MediaTek G71/72 or equivalent processor, 4 GB RAM or more</p>
+<p>iOS: OS version 14 or above; iPhone 11 or later, iPad with A13 or equivalent processor, 4 GB RAM or more</p>
+<p>Mac: macOS version 12.0 or above, M1 or later model, 16 GB RAM or more</p>
+<p>PC: [OS] Windows 10 64-bit, [CPU] Intel i5 (9th Gen)/Ryzen 2700, [Graphics] GTX 1060/RX 570/Intel Arc A380, [RAM] 16 GB or more</p>
+<ol start="2">
+<li>Recommended Requirements</li>
+</ol>
+<p>Android: OS version 7.0 or above, Snapdragon 8 Gen 1+/Gen 2/Gen 3 or equivalent MediaTek processor, 6 GB RAM or more</p>
+<p>iOS: OS version 15 or above; iPhone 13 or later, iPad with A15 or equivalent processor, 6 GB RAM or more</p>
+<p>Mac: macOS version 15.0 or above, M3 or later model, 16 GB RAM or more</p>
+<p>PC: [OS] Windows 10 64-bit, [CPU] Intel i7 (9th Gen)/Ryzen 3700, [Graphics] RTX 2060/RX 5700XT/Intel Arc A750, [RAM] 16 GB or more</p>
+<ol start="3">
+<li>Storage Requirements</li>
+</ol>
+<p>Android/iOS: 60 GB</p>
+<p>Mac: 155 GB</p>
+<p>PC: 115 GB (SSD recommended for installation)</p>
+<p>PS5™: Please ensure you have sufficient storage space to complete the update.</p>
+<ol start="4">
+<li>Controller Support</li>
+</ol>
+<p>Mobile devices support the following controllers:</p>
+<p>Wireless connection: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>Mac devices support the following controllers:</p>
+<p>Wired/Wireless connection: Xbox series, Xbox Elite series, DualShock®4, DualSense®, DualSense Edge™</p>
+<p>PC devices support the following controllers:</p>
+<p>Wired/Wireless connection: Xbox series, Xbox Elite series, DualSense®, DualSense Edge™</p>
+<p>Wired connection: DualShock®4</p>
+<p><em>When connecting other controllers that support multiple input modes to a PC, we recommend adjusting their settings to Xinput mode for the best experience.</em></p>]]></content>
+                    <published>2026-07-02T18:35:18+00:00</published>
+                    <updated>2026-07-02T18:35:18+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:4962</id>
+                    <title>Post-Lament Anthropocene: Enemies — Collection of Small &amp; Medium Size Echoes in Mengzhou: Land of Xuanfang</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4962" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Post-Lament Anthropocene: Enemies — Collection of Small &amp; Medium Size Echoes in Mengzhou: Land of Xuanfang</p>
+<p>The Autopuppet spends year after year patrolling these halls, purging the Tacet Discords and any lingering threats left within, maintaining peace in Xuanfang.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/jz4qu12r6biw5s5d6n-1782964026485.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/otm9js5mstybvlhsmr-1782964040829.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/sb80o2807i7iwkvqu1-1782964053304.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/v5zdv82486iz3unpvx-1782964064432.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/j7l6ud1agehkq09t1e-1782964244325.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/ljp5ndjva84irpcwcb-1782964348730.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/avt3vtk2b4t7w1dqp2-1782964268922.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/qxrtti0ey59wregilx-1782964278810.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/fk53oy8nicg3bj32zs-1782964293700.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/9qo6hrdgv3y10n9v8v-1782964307147.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/n5vvxq5nd9b41ri9ni-1782964527831.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/vw9duld0bt8krd8ntr-1782964543504.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/z953ot1cqzrqqs2sk9-1782964568017.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/j02ki5qmg2pdtpicfw-1782964588119.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1782921600000/msy0frchl8iafk3nrx-1782964601250.jpg" /></p>]]></content>
+                    <published>2026-07-02T11:57:11+00:00</published>
+                    <updated>2026-07-02T11:57:11+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:4955</id>
                     <title>&#34;Nightveil Piercer&#34; Premium Model Set Bundle</title>
@@ -695,149 +856,6 @@
 <p><a href="https://x.com/lamidraws">@lamidraws</a></p>]]></content>
                     <published>2026-06-08T10:26:02+00:00</published>
                     <updated>2026-06-08T10:26:02+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4823</id>
-                    <title>Wuthering Waves Fan Creation Event &#34;The Dream Not Dreamed&#34; is now live!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4823" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780848000000/kbnienhbp1z2ejcela-1780886854738.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>Wuthering Waves Fan Creation Event &#34;The Dream Not Dreamed&#34; is now live! Post your work with hashtags #WutheringWaves and #WuWaFanart on X (Twitter)/Instagram/Facebook and fill out the form for a chance to win iPhone 16 Pro 512GB, Astrites and more!</p>
-<p>Create your works of boundless imagination to present the world of Wuthering Waves!</p>
-<p>Proceed to submit:</p>
-<p>&lt;https://forms.gle/bc2EqJL5NTd6gCCk6&gt;</p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own artwork about Wuthering Waves Version 3.4 &#34;The Dream Not Dreamed&#34;!</p>
-<p>Whether it&#39;s an illustration of your beloved character, comical moments from your adventures, or difficult combos you&#39;ve mastered—anything that aligns with the theme is eligible for submission. Share your artwork or video for a chance to win exciting prizes!</p>
-<p><strong>How to Submit</strong></p>
-<ol>
-<li>
-<p>Post your artwork on X (Twitter)/Instagram/Facebook with both hashtags #WutheringWaves and #WuWaFanart included.</p>
-</li>
-<li>
-<p>Complete the submission form with your submission details. Once done, your submission will be considered successful.</p>
-</li>
-</ol>
-<ul>
-<li>Please quote your post link with the right hashtags published publicly on the designated platforms.</li>
-</ul>
-<p>Submission form:</p>
-<p>&lt;https://forms.gle/bc2EqJL5NTd6gCCk6&gt;</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780848000000/0uuklyllowanddyxhu-1780886916729.jpg" /></p>
-<p><strong>Submission Period</strong></p>
-<p><strong>2026/06/08 - 2026/06/24 (PT)</strong></p>
-<p><strong>Rewards</strong></p>
-<p>1st Place (5 Winners): iPhone 17 Pro 512GB</p>
-<p>2nd Place (5 Winners): 6,000 Astrites &amp; 800 USD</p>
-<p>3rd Place (10 Winners): 3,000 Astrites &amp; 400 USD</p>
-<p>4th Place (15 Winners): 2,000 Astrites &amp; 200 USD</p>
-<p>5th Place (20 Winners): 1,000 Astrites &amp; $50 Amazon Gift Card</p>
-<p>Lucky Prize (20 Winners): $20 Amazon Gift Card</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780848000000/2ij6lj0kvr0syk2nhy-1780887122972.jpg" /></p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuWaFanart in your post and fill out the submission form.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>This fan art campaign allows participants to submit multiple entries. However, each participant can only receive rewards once.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works previously entered into other fan creation events</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>
-<p>By participating in the event, you grant KURO GAMES the right to freely republish your submitted content on the internet and social media platforms, with appropriate credit given to the creator. No additional notice will be provided prior to publication.</p>
-<p>This event is available solely to participants on the designated servers listed below: America, Europe, Asia, SEA, HMT(HK,MO,TW).</p>
-<p>Winners will be selected through a thorough review and announced before July 24th (PT).</p>]]></content>
-                    <published>2026-06-08T10:25:01+00:00</published>
-                    <updated>2026-06-08T10:25:01+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4822</id>
-                    <title>V3.4 Wuthering Waves Battle Rush</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4822" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780761600000/r4n58c169fl1nwggl3-1780847600257.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
-<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own combat video featuring Wuthering Waves.</p>
-<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
-<p><strong>How to Submit</strong></p>
-<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
-<p><strong>Submission Period</strong></p>
-<p><strong>2026/06/08 - 2026/06/24 (PT)</strong></p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
-                    <published>2026-06-07T23:54:23+00:00</published>
-                    <updated>2026-06-07T23:54:23+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
