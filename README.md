@@ -13,6 +13,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 - [Wuthering Waves Version 3.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4973) [[json]](articles/4973.json)
 - [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Mengzhou: Land of Xuanfang](https://wutheringwaves.kurogames.com/en/main/news/detail/4962) [[json]](articles/4962.json)
+- [Post-Lament Anthropocene: Stars Intertwined | Yangyang: Xuanling](https://wutheringwaves.kurogames.com/en/main/news/detail/4961) [[json]](articles/4961.json)
+- [New Region Preview I | Mengzhou: Land of Xuanfang is coming soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/4960) [[json]](articles/4960.json)
 - [Chisa's Deluxe Outfit "Peach Parfait" will be permanently available](https://wutheringwaves.kurogames.com/en/main/news/detail/4959) [[json]](articles/4959.json)
 - [Lynae's Deluxe Outfit "Peppermint" will be permanently available](https://wutheringwaves.kurogames.com/en/main/news/detail/4957) [[json]](articles/4957.json)
 - ["Nightveil Piercer" Premium Model Set Bundle](https://wutheringwaves.kurogames.com/en/main/news/detail/4955) [[json]](articles/4955.json)
