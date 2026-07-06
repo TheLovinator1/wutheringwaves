@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Voices of Azure Plume - Yangyang: Xuanling](https://wutheringwaves.kurogames.com/en/main/news/detail/5007) [[json]](articles/5007.json)
+- [New Region Preview II | Mengzhou: Land of Xuanfang is coming soon! Get a first look at its quests and monsters!](https://wutheringwaves.kurogames.com/en/main/news/detail/4985) [[json]](articles/4985.json)
 - [Wuthering Waves Version 3.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4973) [[json]](articles/4973.json)
 - [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Mengzhou: Land of Xuanfang](https://wutheringwaves.kurogames.com/en/main/news/detail/4962) [[json]](articles/4962.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Yangyang: Xuanling](https://wutheringwaves.kurogames.com/en/main/news/detail/4961) [[json]](articles/4961.json)
