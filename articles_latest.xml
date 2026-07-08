@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-05T15:19:16+00:00</updated>
+    <updated>2026-07-08T10:30:14+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,40 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5023</id>
+                    <title>Wuthering Waves Update Content | Version 3.5 &#34;Blade of Past Resounds, Lingering Dream Hymns&#34; Planned for Release on July 10 (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5023" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here&#39;s the event calendar for Version 3.5. Check it out for a quick overview of the event schedule! Full details about the update content can be viewed on our official website—be sure to take a look:</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/qj6odi3o309h7ul961-1783477712914.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/m1jj2orrlzucqi4j57-1783477724497.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/kj4qp8xdgc177jyei8-1783477738610.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/nzstyp50d69e44svr7-1783477754359.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/q0zs7645h7gv0cih1s-1783477768263.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/7t8ss76f0687xhjeip-1783477780741.jpg" /></p>]]></content>
+                    <published>2026-07-08T10:30:14+00:00</published>
+                    <updated>2026-07-08T10:30:14+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5011</id>
+                    <title>Profile Reveal | Vessel of Sounds — Rover: Electro</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5011" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Rover: Electro</h1>
+<p>Rover has awakened a new Resonance Ability, wielding all-new Electro skills. The workings of the world in all its forms, all gathered in the palm of one hand. You made a promise to seek the faint reflection in the prism. The riddle that was never yours to solve now awaits an answer none could have foretold.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/sbjd25x282uvmnfoxb-1783416156490.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/i2f62kdlj0zpqhaf5j-1783416168326.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/xjnnfrvf2foep4agsc-1783416186292.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/uxmqun5d5fa185frj0-1783416198050.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/nvbtfju63g84aqew8x-1783416209634.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/fudtl1k971uh6e7kdz-1783416226487.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/moghwkcl3xxu34jonq-1783416238616.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/0wbm9hooj1u8roaxhp-1783416274323.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/npkgc95g4741x0hb8q-1783416286470.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/t6i3bf59riwzjoh3ak-1783476855961.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/e54tq8y9e1gd5ry23t-1783416323931.png" /></p>]]></content>
+                    <published>2026-07-07T17:26:12+00:00</published>
+                    <updated>2026-07-07T17:26:12+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5007</id>
                     <title>Profile Reveal | Voices of Azure Plume - Yangyang: Xuanling</title>
@@ -562,69 +596,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2026-06-12T10:37:02+00:00</published>
                     <updated>2026-06-12T10:37:02+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4881</id>
-                    <title>V3.4 Discord Quest Social Plan</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4881" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1781020800000/yrccd2mult6i99mlba-1781057195084.jpg" /></p>
-<p>Dear Rover,</p>
-<p>WuWa&amp;Edgerunners Discord Quest Event has begun. Click the link below to complete the quest on Discord and get a chance to win Discord Orbs!</p>
-<p>&lt;https://canary.discord.com/quests/1509838468124115004&gt;</p>
-<p><strong>Event Duration</strong></p>
-<p>2026/06/09 ~ 2026/06/23 (PT)</p>
-<p><strong>Rewards</strong></p>
-<p>Discord Orbs* 700</p>
-<p><strong>Who is Eligible</strong></p>
-<p>Available to players on PC where both Discord and Wuthering Waves are available. Discord’s premium services are restricted in some regions.</p>
-<p><strong>Other Terms</strong></p>
-<p>Limit of one reward redemption per account. For more information on Discord Quests, please visit <a href="https://support.discord.com/hc/articles/22225719947543">Discord Quest Help Center</a>.</p>
-<p><strong>How to Participate</strong></p>
-<p>In order to successfully complete the WuWa&amp;Edgerunners Quest, you will need to play the game for 15 minutes. You must be logged into the Discord desktop app to track your progress.</p>
-<p>The reward will be automatically added to your Discord account once you claim it after completing the quest.</p>
-<p><strong>Discord Quest</strong> <strong>FAQ</strong></p>
-<p><strong>Q: Is there a limit on how many Quests I can redeem on my Discord account?</strong></p>
-<p>A: Eligible users can redeem one of each of the available Quest campaigns on their Discord account.</p>
-<p>For more information on Discord Quests, visit our <a href="https://support.discord.com/hc/articles/22225719947543">Discord Quest Help Center</a>.</p>
-<p><strong>Q: Is this feature/promotion available in my region?</strong></p>
-<p>A: Some Quests will not be available in all regions based on terms and conditions. If you are in an ineligible region for a Quest, you will not be able to complete it.</p>
-<p>Additionally, Discord’s premium services are restricted in some regions. If you are unable to access the Gift Inventory, you are not eligible for Quests.</p>
-<p><strong>Q: I have concerns or questions regarding privacy and Quests.</strong></p>
-<p>A: We encourage you to review <a href="https://discord.com/privacy">Discord’s Privacy Policy</a> for further details about how we use your information. You can head over to our <a href="https://support.discord.com/hc/en-us/articles/22225542459415">Data Used for In-Game Rewards</a> article, to learn more about how we use data for Quests.</p>
-<p><strong>Q: Why am I unable to complete Quest while using Linux?</strong></p>
-<p>A: Currently, Quest rewards are unable to be earned on Linux devices.</p>
-<p>However, Discord team is looking into a resolution for this issue so that earning Quest rewards is possible on Linux in the future. For now, we recommend completing the requirement on a different operating system, like Windows or MacOS.</p>
-<p>Discord support team does not have an exact ETA for when a solution will be available, and won&#39;t be able to provide any status updates on this specific issue.</p>
-<p><strong>Q: I no longer see a Quest. Where did it go?</strong></p>
-<p>A: Quests are typically only available for a limited amount of time. If you no longer see a Quest in the Quest Home or in-app notifications about the quest, the period to complete and claim the reward for the Quest is over.</p>]]></content>
-                    <published>2026-06-10T10:05:08+00:00</published>
-                    <updated>2026-06-10T10:05:08+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4870</id>
-                    <title>Profile Reveal | Memory Palace - Lucilla</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4870" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
-<h1>Lucilla</h1>
-<p>Lucilla, President of Startorch Academy and idealist with both feet on the ground. She holds quiet vigil over her students as they rise to challenge the very sky.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/d3wcfod2ps7g8r9zca-1780976093564.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/7ymh880s2jucax9ztc-1780976115212.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/2m0dirvqlb04rygbnm-1780976126506.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/mblnp7tgd0cs6ex8y0-1780976145558.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/injnkc5nuke5mphsf5-1780976161048.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/b7fjtu8zbjxk4wufzc-1780976189766.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/yx6fpm2p50n0t1dg9s-1780976208331.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/1h1djdm9u2sriv2j5a-1780976223830.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1780934400000/dicqtnbbtxuni1978b-1780977553293.jpg" /></p>]]></content>
-                    <published>2026-06-09T11:37:24+00:00</published>
-                    <updated>2026-06-09T11:37:24+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Update Content | Version 3.5 "Blade of Past Resounds, Lingering Dream Hymns" Planned for Release on July 10 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5023) [[json]](articles/5023.json)
+- [Profile Reveal | Vessel of Sounds — Rover: Electro](https://wutheringwaves.kurogames.com/en/main/news/detail/5011) [[json]](articles/5011.json)
 - [Profile Reveal | Voices of Azure Plume - Yangyang: Xuanling](https://wutheringwaves.kurogames.com/en/main/news/detail/5007) [[json]](articles/5007.json)
 - [New Region Preview II | Mengzhou: Land of Xuanfang is coming soon! Get a first look at its quests and monsters!](https://wutheringwaves.kurogames.com/en/main/news/detail/4985) [[json]](articles/4985.json)
 - [Wuthering Waves Version 3.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4973) [[json]](articles/4973.json)
