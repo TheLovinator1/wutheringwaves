@@ -11,8 +11,16 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Tideforge Reverbs] Reverb Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5076) [[json]](articles/5076.json)
+- [[Starpath Reverbs] Reverb Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5065) [[json]](articles/5065.json)
+- [[Azure Oath] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5056) [[json]](articles/5056.json)
+- [[Voices on Azure Feathers] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5047) [[json]](articles/5047.json)
+- [Resonator Review | Radiant Spectrum — Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/5045) [[json]](articles/5045.json)
+- [Resonator Review | Phase Transition - Luuk Herssen](https://wutheringwaves.kurogames.com/en/main/news/detail/5044) [[json]](articles/5044.json)
+- [[Version 3.5 Featured Resonator/Weapon Convene: Phase I]](https://wutheringwaves.kurogames.com/en/main/news/detail/5039) [[json]](articles/5039.json)
 - [Wuthering Waves Update Content | Version 3.5 "Blade of Past Resounds, Lingering Dream Hymns" Planned for Release on July 10 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5023) [[json]](articles/5023.json)
 - [Profile Reveal | Vessel of Sounds — Rover: Electro](https://wutheringwaves.kurogames.com/en/main/news/detail/5011) [[json]](articles/5011.json)
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/5009) [[json]](articles/5009.json)
 - [Profile Reveal | Voices of Azure Plume - Yangyang: Xuanling](https://wutheringwaves.kurogames.com/en/main/news/detail/5007) [[json]](articles/5007.json)
 - [New Region Preview II | Mengzhou: Land of Xuanfang is coming soon! Get a first look at its quests and monsters!](https://wutheringwaves.kurogames.com/en/main/news/detail/4985) [[json]](articles/4985.json)
 - [Wuthering Waves Version 3.5 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/4973) [[json]](articles/4973.json)
