@@ -11,6 +11,13 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Comprehensive Mirror for Historian — Land of Xuanfang](https://wutheringwaves.kurogames.com/en/main/news/detail/5132) [[json]](articles/5132.json)
+- [Event Preview | [Lament Recon: Tacet Crisis] Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5129) [[json]](articles/5129.json)
+- [Tidal Photography: Land of Xuanfang Photo Challenge is now underway!](https://wutheringwaves.kurogames.com/en/main/news/detail/5125) [[json]](articles/5125.json)
+- [FAQ – Xbox](https://wutheringwaves.kurogames.com/en/main/news/detail/5113) [[json]](articles/5113.json)
+- [V3.5 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/5111) [[json]](articles/5111.json)
+- [Wuthering Waves Fan Creation Event "Blade of Past Resounds, Lingering Dream Hymns" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/5094) [[json]](articles/5094.json)
+- [Version 3.5 Blade of Past Resounds, Lingering Dream Hymns Content Overview](https://wutheringwaves.kurogames.com/en/main/news/detail/5091) [[json]](articles/5091.json)
 - [[Tideforge Reverbs] Reverb Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5076) [[json]](articles/5076.json)
 - [[Starpath Reverbs] Reverb Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5065) [[json]](articles/5065.json)
 - [[Azure Oath] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5056) [[json]](articles/5056.json)
