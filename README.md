@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [New Challenge Cycle for "Endstate Matrix" Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5150) [[json]](articles/5150.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historian — Land of Xuanfang](https://wutheringwaves.kurogames.com/en/main/news/detail/5132) [[json]](articles/5132.json)
 - [Event Preview | [Lament Recon: Tacet Crisis] Combat Event, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5129) [[json]](articles/5129.json)
 - [Tidal Photography: Land of Xuanfang Photo Challenge is now underway!](https://wutheringwaves.kurogames.com/en/main/news/detail/5125) [[json]](articles/5125.json)
