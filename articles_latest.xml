@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-15T14:14:00+00:00</updated>
+    <updated>2026-07-15T17:48:36+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5160</id>
+                    <title>Post-Lament Anthropocene: Enemies — Thousand-Puppet Pavilion</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5160" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A massive Autopuppet formed by absorbing the buildings of the Censure Court, bound by the battlefields of old, and bringing down merciless blades upon the enemies before it.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/zdlrbss850qrpeuo6a-1784108516336.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784131200000/lxr20scvmlqskx2ovm-1784178758047.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/nlkwz6t2qkckzul0xg-1784108552575.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/39px17acvkq8jqxbay-1784108700131.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/imczya3t2ikgivfqg8-1784108733105.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/brwry9hjcmsckdwick-1784108761902.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/d8kbi0vrxf451r4dpr-1784108782994.gif" /></p>]]></content>
+                    <published>2026-07-15T17:48:36+00:00</published>
+                    <updated>2026-07-15T17:48:36+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5150</id>
                     <title>New Challenge Cycle for &#34;Endstate Matrix&#34; Coming Soon!</title>
@@ -1549,22 +1565,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783180800000/xjnlbe68fev8lct9id-1783235776107.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783180800000/isw7l3chgegdda79bt-1783235912178.png" /></p>]]></content>
                     <published>2026-07-05T15:19:16+00:00</published>
                     <updated>2026-07-05T15:19:16+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:4985</id>
-                    <title>New Region Preview II | Mengzhou: Land of Xuanfang is coming soon! Get a first look at its quests and monsters!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/4985" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>New Region Preview II | Mengzhou: Land of Xuanfang is coming soon! Get a first look at its quests and monsters!</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/jx8fa1vt28t27jdzos-1783061691333.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/l69aluy69fda905eme-1783062304429.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/6oawdtvguh49inz8wl-1783062317530.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/86bp0unr53g184yckf-1783062332261.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/xh0p4gjitgyt660etc-1783062348800.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/qi2sqsky82uk0d92di-1783062457670.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/s87nbzxa1ixjryvd2b-1783062478707.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/0crgipq7ep7u25q5l8-1783062678586.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783008000000/sgeiu3oj349ovqtgtx-1783062690507.jpg" /></p>]]></content>
-                    <published>2026-07-03T14:54:03+00:00</published>
-                    <updated>2026-07-03T14:54:03+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
