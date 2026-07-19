@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-15T17:48:36+00:00</updated>
+    <updated>2026-07-15T17:54:16+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5162</id>
+                    <title>Post-Lament Anthropocene: Enemies — Myriad Snare: Rustfire Chassis</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5162" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>A ruined giant shadow lurking within the Skyworks. It has nearly been forgotten, yet still clings to the directive to wipe out the Tacet Discords to the bitter end.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/eglulrod4owb9d2rru-1784109073157.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784131200000/20er419gbus39dw6y9-1784178820956.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/mkf3j226nk0xytbrba-1784109134087.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/t02as9m4jip7w6eh9r-1784109157139.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/71mo5016pq6v0xn8o8-1784109184284.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/6nc36nnx0dnavzeg4a-1784109202663.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784044800000/r8t0vsh5um5fybo8r6-1784109220525.gif" /></p>]]></content>
+                    <published>2026-07-15T17:54:16+00:00</published>
+                    <updated>2026-07-15T17:54:16+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5160</id>
                     <title>Post-Lament Anthropocene: Enemies — Thousand-Puppet Pavilion</title>

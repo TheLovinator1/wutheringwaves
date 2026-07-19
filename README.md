@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Enemies — Myriad Snare: Rustfire Chassis](https://wutheringwaves.kurogames.com/en/main/news/detail/5162) [[json]](articles/5162.json)
 - [Post-Lament Anthropocene: Enemies — Thousand-Puppet Pavilion](https://wutheringwaves.kurogames.com/en/main/news/detail/5160) [[json]](articles/5160.json)
 - [New Challenge Cycle for "Endstate Matrix" Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5150) [[json]](articles/5150.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historian — Land of Xuanfang](https://wutheringwaves.kurogames.com/en/main/news/detail/5132) [[json]](articles/5132.json)
