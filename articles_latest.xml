@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-24T18:10:02+00:00</updated>
+    <updated>2026-07-24T19:05:29+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,27 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5200</id>
+                    <title>Profile Reveal | Host of Harmony - Suisui</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5200" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Suisui</h1>
+<p>Born into a noble family of Mingting, she is the brilliant young director of the Zhaoming Commerce Guild. Wielding a water fan, she weaves business deals into a grand tapestry of trade. Though she knows no swordplay, her financial mastery stitches together a lasting peace for the world.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/bf7bns1taqiqke56cp-1784890636855.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/jutedulnjqfje3dkfj-1784890678064.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/xrp6s5ijyj3yffnen7-1784890963181.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/fl5jv7c28b17xin5wg-1784890734538.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/tf0hp2q1cvsq44ji8a-1784891032130.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/09l5wa9u6szs3guse9-1784890807405.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/rymwfddi6gioby6n8w-1784891104947.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/5ae6ynnxh4c4wjhe0z-1784890858434.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/64juxzyd3y3w9ws907-1784890892958.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/x08flr0vp5xi3du3zq-1784890911923.jpg" /></p>]]></content>
+                    <published>2026-07-24T19:05:29+00:00</published>
+                    <updated>2026-07-24T19:05:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5199</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Suisui</title>
@@ -1429,24 +1450,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/qj6odi3o309h7ul961-1783477712914.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/m1jj2orrlzucqi4j57-1783477724497.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/kj4qp8xdgc177jyei8-1783477738610.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/nzstyp50d69e44svr7-1783477754359.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/q0zs7645h7gv0cih1s-1783477768263.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/7t8ss76f0687xhjeip-1783477780741.jpg" /></p>]]></content>
                     <published>2026-07-08T10:30:14+00:00</published>
                     <updated>2026-07-08T10:30:14+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5011</id>
-                    <title>Profile Reveal | Vessel of Sounds — Rover: Electro</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5011" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
-<h1>Rover: Electro</h1>
-<p>Rover has awakened a new Resonance Ability, wielding all-new Electro skills. The workings of the world in all its forms, all gathered in the palm of one hand. You made a promise to seek the faint reflection in the prism. The riddle that was never yours to solve now awaits an answer none could have foretold.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/sbjd25x282uvmnfoxb-1783416156490.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/i2f62kdlj0zpqhaf5j-1783416168326.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/xjnnfrvf2foep4agsc-1783416186292.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/uxmqun5d5fa185frj0-1783416198050.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/nvbtfju63g84aqew8x-1783416209634.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/fudtl1k971uh6e7kdz-1783416226487.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/moghwkcl3xxu34jonq-1783416238616.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/0wbm9hooj1u8roaxhp-1783416274323.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/npkgc95g4741x0hb8q-1783416286470.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/t6i3bf59riwzjoh3ak-1783476855961.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783353600000/e54tq8y9e1gd5ry23t-1783416323931.png" /></p>]]></content>
-                    <published>2026-07-07T17:26:12+00:00</published>
-                    <updated>2026-07-07T17:26:12+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

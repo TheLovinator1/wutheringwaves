@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-24T18:10:02+00:00</updated>
+    <updated>2026-07-24T19:05:29+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,27 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5200</id>
+                    <title>Profile Reveal | Host of Harmony - Suisui</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5200" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Suisui</h1>
+<p>Born into a noble family of Mingting, she is the brilliant young director of the Zhaoming Commerce Guild. Wielding a water fan, she weaves business deals into a grand tapestry of trade. Though she knows no swordplay, her financial mastery stitches together a lasting peace for the world.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/bf7bns1taqiqke56cp-1784890636855.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/jutedulnjqfje3dkfj-1784890678064.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/xrp6s5ijyj3yffnen7-1784890963181.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/fl5jv7c28b17xin5wg-1784890734538.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/tf0hp2q1cvsq44ji8a-1784891032130.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/09l5wa9u6szs3guse9-1784890807405.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/rymwfddi6gioby6n8w-1784891104947.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/5ae6ynnxh4c4wjhe0z-1784890858434.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/64juxzyd3y3w9ws907-1784890892958.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1784822400000/x08flr0vp5xi3du3zq-1784890911923.jpg" /></p>]]></content>
+                    <published>2026-07-24T19:05:29+00:00</published>
+                    <updated>2026-07-24T19:05:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5199</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Suisui</title>
