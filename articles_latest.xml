@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-24T19:05:29+00:00</updated>
+    <updated>2026-07-27T18:09:29+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5208</id>
+                    <title>Upcoming Events in Wuthering Waves Version 3.5</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5208" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 3.5. Don&#39;t miss out!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785081600000/okhrprqu3k7zcjhyj6-1785146894790.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785081600000/3mk1y619aaokk3lklp-1785146915859.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785081600000/mtybo5h7ck3qlivf2n-1785146941018.jpg" /></p>]]></content>
+                    <published>2026-07-27T18:09:29+00:00</published>
+                    <updated>2026-07-27T18:09:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5200</id>
                     <title>Profile Reveal | Host of Harmony - Suisui</title>
@@ -1434,22 +1449,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/atzuxmnj46h19dql31-1783516177722.jpg" /></p>]]></content>
                     <published>2026-07-08T20:50:24+00:00</published>
                     <updated>2026-07-08T20:50:24+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5023</id>
-                    <title>Wuthering Waves Update Content | Version 3.5 &#34;Blade of Past Resounds, Lingering Dream Hymns&#34; Planned for Release on July 10 (UTC+8)</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5023" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Here&#39;s the event calendar for Version 3.5. Check it out for a quick overview of the event schedule! Full details about the update content can be viewed on our official website—be sure to take a look:</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/qj6odi3o309h7ul961-1783477712914.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/m1jj2orrlzucqi4j57-1783477724497.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/kj4qp8xdgc177jyei8-1783477738610.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/nzstyp50d69e44svr7-1783477754359.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/q0zs7645h7gv0cih1s-1783477768263.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783440000000/7t8ss76f0687xhjeip-1783477780741.jpg" /></p>]]></content>
-                    <published>2026-07-08T10:30:14+00:00</published>
-                    <updated>2026-07-08T10:30:14+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

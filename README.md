@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Upcoming Events in Wuthering Waves Version 3.5](https://wutheringwaves.kurogames.com/en/main/news/detail/5208) [[json]](articles/5208.json)
 - [Profile Reveal | Host of Harmony - Suisui](https://wutheringwaves.kurogames.com/en/main/news/detail/5200) [[json]](articles/5200.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Suisui](https://wutheringwaves.kurogames.com/en/main/news/detail/5199) [[json]](articles/5199.json)
 - [Post-Lament Anthropocene: Enemies — Myriad Snare: Rustfire Chassis](https://wutheringwaves.kurogames.com/en/main/news/detail/5162) [[json]](articles/5162.json)
