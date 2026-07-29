@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Firstlight's Herald] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5236) [[json]](articles/5236.json)
+- [[Blessings From Dewy Winds] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5227) [[json]](articles/5227.json)
+- [Resonator Review | Guiding Starlance — Aemeath](https://wutheringwaves.kurogames.com/en/main/news/detail/5224) [[json]](articles/5224.json)
+- [[Version 3.5 Featured Resonator/Weapon Convene: Phase II]](https://wutheringwaves.kurogames.com/en/main/news/detail/5220) [[json]](articles/5220.json)
 - [Upcoming Events in Wuthering Waves Version 3.5](https://wutheringwaves.kurogames.com/en/main/news/detail/5208) [[json]](articles/5208.json)
 - [Profile Reveal | Host of Harmony - Suisui](https://wutheringwaves.kurogames.com/en/main/news/detail/5200) [[json]](articles/5200.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Suisui](https://wutheringwaves.kurogames.com/en/main/news/detail/5199) [[json]](articles/5199.json)
