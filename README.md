@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Preview | Version 3.6 "Lamplight in Mirage, Sword's Resolve in Heart"](https://wutheringwaves.kurogames.com/en/main/news/detail/5245) [[json]](articles/5245.json)
 - [[Firstlight's Herald] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5236) [[json]](articles/5236.json)
 - [[Blessings From Dewy Winds] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5227) [[json]](articles/5227.json)
 - [Resonator Review | Guiding Starlance — Aemeath](https://wutheringwaves.kurogames.com/en/main/news/detail/5224) [[json]](articles/5224.json)

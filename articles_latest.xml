@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-07-29T17:04:37+00:00</updated>
+    <updated>2026-08-06T16:20:18+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5245</id>
+                    <title>Wuthering Waves Version Preview | Version 3.6 &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34;</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5245" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Wuthering Waves Version Preview | Version 3.6 &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34; Scheduled for Release on August 20 (UTC+8)</p>
+<p>The Preview Special Broadcast has concluded. Take a look back at all these exciting updates<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785945600000/5m6mwaa4skqjm0xr33-1786004223192.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785945600000/cqnpoxawjaym4shovc-1786004248482.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785945600000/y6epkrg2omm0cf01iy-1786004274383.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786032000000/zrv7kvnsnv87h2b3de-1786095170476.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785945600000/g200qau7q5ateaqinx-1786004334269.jpg" /></p>]]></content>
+                    <published>2026-08-06T16:20:18+00:00</published>
+                    <updated>2026-08-06T16:20:18+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5236</id>
                     <title>[Firstlight&#39;s Herald] Featured Weapon Convene</title>
@@ -1358,55 +1375,6 @@
 <p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
                     <published>2026-07-09T11:36:15+00:00</published>
                     <updated>2026-07-09T11:36:15+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5056</id>
-                    <title>[Azure Oath] Featured Weapon Convene</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5056" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783526400000/33wskguqnmtnjt7thv-1783567806720.jpg" /></p>
-<p>During the event, 5-Star Weapon: Azure Oath, 4-Star Weapons: Commando of Conviction, Hollow Mirage, and Discord receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 3.5 update - 2026-07-30 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Azure Oath.</p>
-</li>
-<li>
-<p>Featured Weapon Azure Oath is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2026-07-09T11:30:21+00:00</published>
-                    <updated>2026-07-09T11:30:21+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
