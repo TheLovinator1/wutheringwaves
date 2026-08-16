@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Post-Lament Anthropocene: Stars Intertwined | Qingxiao](https://wutheringwaves.kurogames.com/en/main/news/detail/5292) [[json]](articles/5292.json)
 - [Wuthering Waves Version 3.6 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/5281) [[json]](articles/5281.json)
 - [Wuthering Waves Version Preview | Version 3.6 "Lamplight in Mirage, Sword's Resolve in Heart"](https://wutheringwaves.kurogames.com/en/main/news/detail/5245) [[json]](articles/5245.json)
 - [[Firstlight's Herald] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5236) [[json]](articles/5236.json)
