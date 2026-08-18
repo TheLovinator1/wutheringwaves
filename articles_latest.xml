@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-14T18:30:33+00:00</updated>
+    <updated>2026-08-17T17:06:31+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5315</id>
+                    <title>Resonator Review | Bubbles of Nihility — Denia</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5315" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Resonator Review | Bubbles of Nihility — Denia</p>
+<p>A Department of Voidmatters student at Startorch Academy. Also, a professional slacker who has mastered the art of dozing through courses. Still, she hardly misses any campus event, always there to flash her &#34;gentle&#34; smile to one and all.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/hndyt13jajdxor5rd3-1786956852825.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/dq0fnq2nlezpt2oc0d-1786956871137.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/886p9f6fxblxobof3f-1786957158779.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/fniblymhmfqzrdi28p-1786957260812.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/hjo25t3loqt5mwadrg-1786957471407.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/jwsvg1wzjmdnhg6n3h-1786957502201.jpg" /></p>]]></content>
+                    <published>2026-08-17T17:06:31+00:00</published>
+                    <updated>2026-08-17T17:06:31+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5310</id>
+                    <title>Wuthering Waves Update Content | Version 3.6 &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34; Planned for Release on August 20 (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5310" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/ftdv86ecjg0taqe583-1786954549066.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/83i8byxq3tq4i24iso-1786954623790.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/k70f13tkfs03t8xg9d-1786954706450.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/e357ay9y9xtg5n8uck-1786954946659.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/kw04x81cc60z98hflj-1786955130904.jpg" /></p>]]></content>
+                    <published>2026-08-17T16:27:29+00:00</published>
+                    <updated>2026-08-17T16:27:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5294</id>
                     <title>Profile Reveal | Heart Sword — Qingxiao</title>
@@ -677,149 +709,6 @@
 <p>A: No, each Microsoft account can only be linked to one Kuro Games account.</p>]]></content>
                     <published>2026-07-10T08:53:28+00:00</published>
                     <updated>2026-07-10T08:53:28+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5111</id>
-                    <title>V3.5 Wuthering Waves Battle Rush</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5111" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783612800000/ibnptw7i0ptumayce2-1783643814378.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
-<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own combat video featuring Wuthering Waves.</p>
-<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
-<p><strong>How to Submit</strong></p>
-<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
-<p><strong>Submission Period</strong></p>
-<p><strong>2026/07/10 - 2026/08/07 (PT)</strong></p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
-                    <published>2026-07-10T08:32:13+00:00</published>
-                    <updated>2026-07-10T08:32:13+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5094</id>
-                    <title>Wuthering Waves Fan Creation Event &#34;Blade of Past Resounds, Lingering Dream Hymns&#34; is now live!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5094" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783526400000/sf0j9vyopzcaazaz45-1783583807727.jpg" /></p>
-<p>Dear Rovers,</p>
-<p>Wuthering Waves Fan Creation Event &#34;The Dream Not Dreamed&#34; is now live! Post your work with hashtags #WutheringWaves and #WuWaFanart on X (Twitter)/Instagram/Facebook and fill out the form for a chance to win iPhone 16 Pro 512GB, Astrites and more!</p>
-<p>Create your works of boundless imagination to present the world of Wuthering Waves!</p>
-<p>Proceed to submit:</p>
-<p><strong>&lt;https://forms.gle/UKAJ1Ze7BTgUQy9v7&gt;</strong></p>
-<p><strong>Content Requirement</strong></p>
-<p>Create your own artwork about Wuthering Waves Version 3.4 &#34;The Dream Not Dreamed&#34;!</p>
-<p>Whether it&#39;s an illustration of your beloved character, comical moments from your adventures, or difficult combos you&#39;ve mastered—anything that aligns with the theme is eligible for submission. Share your artwork or video for a chance to win exciting prizes!</p>
-<p><strong>How to Submit</strong></p>
-<ol>
-<li>
-<p>Post your artwork on X (Twitter)/Instagram/Facebook with both hashtags #WutheringWaves and #WuWaFanart included.</p>
-</li>
-<li>
-<p>Complete the submission form with your submission details. Once done, your submission will be considered successful.</p>
-</li>
-</ol>
-<ul>
-<li>Please quote your post link with the right hashtags published publicly on the designated platforms.</li>
-</ul>
-<p>Submission form:</p>
-<p><strong>&lt;https://forms.gle/UKAJ1Ze7BTgUQy9v7&gt;</strong></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783526400000/5i7gfki8gex4ro8gxe-1783584000264.jpg" /></p>
-<p><strong>Submission Period</strong></p>
-<p><strong>2026/07/10 - 2026/08/10 (PT)</strong></p>
-<p><strong>Rewards</strong></p>
-<p>1st Place (5 Winners): iPhone 17 Pro 512GB</p>
-<p>2nd Place (5 Winners): 6,000 Astrites &amp; 800 USD</p>
-<p>3rd Place (10 Winners): 3,000 Astrites &amp; 400 USD</p>
-<p>4th Place (15 Winners): 2,000 Astrites &amp; 200 USD</p>
-<p>5th Place (20 Winners): 1,000 Astrites &amp; $50 Amazon Gift Card</p>
-<p>Lucky Prize (20 Winners): $20 Amazon Gift Card</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1783526400000/qr5xeou1i7jdiidza2-1783584063076.jpg" /></p>
-<p><strong>Judging Criteria</strong></p>
-<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
-<p><strong>Notes</strong></p>
-<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuWaFanart in your post and fill out the submission form.</p>
-<p>Deleted posts will not be qualified for entitlement of rewards.</p>
-<p>This fan art campaign allows participants to submit multiple entries. However, each participant can only receive rewards once.</p>
-<p>Entries listed below may be excluded from the judging process:</p>
-<ul>
-<li>
-<p>Works not created in accordance with Wuthering Waves</p>
-</li>
-<li>
-<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
-</li>
-<li>
-<p>Works submitted outside the event period</p>
-</li>
-<li>
-<p>Works created with the assistance of AI technology</p>
-</li>
-<li>
-<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
-</li>
-<li>
-<p>Works that have already been used for commercial purposes</p>
-</li>
-<li>
-<p>Works previously entered into other fan creation events</p>
-</li>
-<li>
-<p>Works deemed inappropriate by the judges</p>
-</li>
-</ul>
-<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
-<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>
-<p>By participating in the event, you grant KURO GAMES the right to freely republish your submitted content on the internet and social media platforms, with appropriate credit given to the creator. No additional notice will be provided prior to publication.</p>
-<p>This event is available solely to participants on the designated servers listed below: America, Europe, Asia, SEA, HMT(HK,MO,TW).</p>
-<p>Winners will be selected through a thorough review and announced before September 10th (PT).</p>]]></content>
-                    <published>2026-07-09T16:02:45+00:00</published>
-                    <updated>2026-07-09T16:02:45+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

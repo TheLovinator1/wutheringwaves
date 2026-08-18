@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-14T18:30:33+00:00</updated>
+    <updated>2026-08-17T17:06:31+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5315</id>
+                    <title>Resonator Review | Bubbles of Nihility — Denia</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5315" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Resonator Review | Bubbles of Nihility — Denia</p>
+<p>A Department of Voidmatters student at Startorch Academy. Also, a professional slacker who has mastered the art of dozing through courses. Still, she hardly misses any campus event, always there to flash her &#34;gentle&#34; smile to one and all.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/hndyt13jajdxor5rd3-1786956852825.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/dq0fnq2nlezpt2oc0d-1786956871137.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/886p9f6fxblxobof3f-1786957158779.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/fniblymhmfqzrdi28p-1786957260812.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/hjo25t3loqt5mwadrg-1786957471407.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/jwsvg1wzjmdnhg6n3h-1786957502201.jpg" /></p>]]></content>
+                    <published>2026-08-17T17:06:31+00:00</published>
+                    <updated>2026-08-17T17:06:31+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5310</id>
+                    <title>Wuthering Waves Update Content | Version 3.6 &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34; Planned for Release on August 20 (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5310" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/ftdv86ecjg0taqe583-1786954549066.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/83i8byxq3tq4i24iso-1786954623790.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/k70f13tkfs03t8xg9d-1786954706450.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/e357ay9y9xtg5n8uck-1786954946659.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/kw04x81cc60z98hflj-1786955130904.jpg" /></p>]]></content>
+                    <published>2026-08-17T16:27:29+00:00</published>
+                    <updated>2026-08-17T16:27:29+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5294</id>
                     <title>Profile Reveal | Heart Sword — Qingxiao</title>
