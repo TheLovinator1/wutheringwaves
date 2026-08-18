@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-14T17:49:43+00:00</updated>
+    <updated>2026-08-14T18:30:33+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,34 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5294</id>
+                    <title>Profile Reveal | Heart Sword — Qingxiao</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5294" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Qingxiao</h1>
+<p>A reclusive sword cultivator who holds the nominal title of Xuan Paragon of Xuanfang Hold, and a peerless master of both qin and sword. Aloof and distant, she seems untouched by emotion.</p>
+<p>The world knows her as the Sword Transcendent. For years beyond counting, she has stood guard over these lands, and the cold light of her blade remains as keen as the day she first drew it.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/rkm9b1o9dhzropfc94-1786702659003.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/voxovz3oj2bq1gcyc0-1786702683878.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/9xt5ud5rryf4nxjl9w-1786702833019.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/8k3tx95ialpfsb2ftr-1786702730067.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/mv0k491x2u6zlncxmo-1786702761248.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/l3hbfucjktq5sgjqqv-1786703265067.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786809600000/njztytyw66j9zsigp1-1786875936433.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/c6lsj32q3xuipog6mz-1786703330739.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/i3y8tdql8rfn094etw-1786702960517.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/apir9f7tbad3gbxtis-1786703370651.gif" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/eyo7owvstrkiy6epir-1786703017710.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/xsmnc243g51q72k81y-1786703042089.png" /></p>]]></content>
+                    <published>2026-08-14T18:30:33+00:00</published>
+                    <updated>2026-08-14T18:30:33+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5292</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Qingxiao</title>
