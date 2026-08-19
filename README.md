@@ -11,6 +11,10 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Glint of Clouds] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5332) [[json]](articles/5332.json)
+- [[Wind of Transcendence] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5331) [[json]](articles/5331.json)
+- [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/5330) [[json]](articles/5330.json)
+- [[Version 3.6 Featured Resonator/Weapon Convene: Phase I]](https://wutheringwaves.kurogames.com/en/main/news/detail/5318) [[json]](articles/5318.json)
 - [Resonator Review | Bubbles of Nihility — Denia](https://wutheringwaves.kurogames.com/en/main/news/detail/5315) [[json]](articles/5315.json)
 - [Wuthering Waves Update Content | Version 3.6 "Lamplight in Mirage, Sword's Resolve in Heart" Planned for Release on August 20 (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5310) [[json]](articles/5310.json)
 - [Profile Reveal | Heart Sword — Qingxiao](https://wutheringwaves.kurogames.com/en/main/news/detail/5294) [[json]](articles/5294.json)
