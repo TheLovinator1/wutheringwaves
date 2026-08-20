@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-19T14:51:51+00:00</updated>
+    <updated>2026-08-20T09:58:12+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,653 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5357</id>
+                    <title>Patch Notes for Version 3.6: Lamplight in Mirage, Sword&#39;s Resolve in Heart</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5357" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787155200000/q638zx40pwmperl5co-1787190881668.jpg" /></p>
+<p>Dear Rovers,</p>
+<p>Thank you for your continued support. The following is a summary of content that will become available in Version 3.6: Lamplight in Mirage, Sword&#39;s Resolve in Heart.</p>
+<h1>Maintenance Time &amp; Compensation Details</h1>
+<ul>
+<li>
+<p>Maintenance Time: 2026-08-20 04:00 - 2026-08-20 11:00 (UTC+8)</p>
+</li>
+<li>
+<p>Maintenance Compensation: Astrite x300, Crystal Solvent x2</p>
+</li>
+<li>
+<p>Compensation Eligibility: Create a character and unlock the Mail feature before 2026-08-20 04:00 (UTC+8). The compensation will remain claimable until the next version update.</p>
+</li>
+</ul>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<ul>
+<li>
+<p>Bug Fixes Compensation: Astrite x300</p>
+</li>
+<li>
+<p>Compensation Eligibility: Create a character and unlock the Mail feature before 2026-08-20 04:00 (UTC+8). The compensation will remain claimable until the next version update.</p>
+</li>
+</ul>
+<h1>Version Update Details</h1>
+<h1>New Resonators</h1>
+<p>5-Star Resonator: Qingxiao (Aero/Sword)</p>
+<p>A reclusive sword cultivator who holds the nominal title of Xuan Paragon of Xuanfang Hold, and a peerless master of both qin and sword. Aloof and distant, she seems untouched by emotion.</p>
+<p>The world knows her as the Sword Transcendent. For years beyond counting, she has stood guard over these lands, and the cold light of her blade remains as keen as the day she first drew it.</p>
+<h2>Combat Roles: Main Damage Dealer, Tune Strain Response</h2>
+<p><em>Obtainable through the [Wind of Transcendence] Featured Resonator Convene.</em></p>
+<p>5-Star Resonator: Jingran (Fusion/Broadblade)</p>
+<p>A Nethermancer from Mengzhou. An explorer wandering amid Mirage Realms and forgotten ruins. With his own eyes, he beholds the world&#39;s lingering echoes and the ancient traces it left behind.</p>
+<p>He follows no sect and bows to no doctrine, heeding neither gods nor decrees. Through Mirage Realms and shadowed lands he walks, judging right from wrong by his own heart alone, and in doing so, he has forged a path entirely his own.</p>
+<h2>Combat Roles: Main Damage Dealer, Heavy Attack DMG</h2>
+<p><em>Obtainable through the [Where Santu Beckons] Featured Resonator Convene.</em></p>
+<h1>New Weapons</h1>
+<p>5-Star Weapon: Glint of Clouds (Sword)</p>
+<p>Wreathed in mist and cloud, still waters blend with the sky in seamless blue. Sparse shadows slant across as a rain of petals falls.</p>
+<p>May I bear this jade blade into the mortal realm, cleanse a tarnished age, and put the wicked to the sword.</p>
+<p><em>Obtainable through the [Glint of Clouds] Featured Weapon Convene.</em></p>
+<p>5-Star Weapon: Thousandfold Deliverance (Broadblade)</p>
+<p>Endless stretches the Netherworld; the long night knows no end. Ten thousand souls lie hushed, and all sound fades to silence.</p>
+<p>When cold, golden rays illuminate the Nether Gate, the sunken dreams of ages past shall at last be brought to light.</p>
+<p><em>Obtainable through the [Thousandfold Deliverance] Featured Weapon Convene.</em></p>
+<h1>New Location</h1>
+<p>Xuanyuan Domain</p>
+<p><em>Reach the location during Main Quest Chapter IV Act III &#34;Song of the Heart Sword.&#34;</em></p>
+<h1>New Echo</h1>
+<p>Calamity Effigy</p>
+<h1>New Stories</h1>
+<p>[Main Quest] Chapter IV Act III: Song of the Heart Sword</p>
+<p>With the great battle over, the Land of Xuanfang is slowly returning to how it once was, though plenty of aftershocks have yet to settle. Then one day, a WavesLine message from Yangyang arrives out of the blue: Suisui is about to head back to Mengzhou City. At the same time, large-scale mechanism malfunctions seem to have begun spreading across the land.</p>
+<ul>
+<li>
+<p>Duration: Permanently available after the Version 3.6 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter IV Segue &#34;The Chant of Unseen Ties&#34; to unlock.</p>
+</li>
+</ul>
+<p>[Main Quest] Chapter IV Segue: The Nethermancer&#39;s Requiem</p>
+<p>Days after the crisis has been resolved, Liangyu brings you news of the Nethermancer&#39;s return. As agreed, you decide to meet him at Xianling Village. The old debts have been buried. Yet new storms gather at the horizon...</p>
+<ul>
+<li>
+<p>Duration: Permanently available after the Version 3.6 update.</p>
+</li>
+<li>
+<p>Eligibility✦ Complete Main Quest Chapter IV Act III &#34;Song of the Heart Sword.&#34;</p>
+</li>
+</ul>
+<h1>New Events &amp; Gameplay Features</h1>
+<h1>Special Events</h1>
+<p>[Resonance Sim Realm] Combat Event</p>
+<p>This is an open-ended test of ability diversity, a simulated experiment that keeps iterating under layer upon layer of interference. The Tethys System continuously supplies interference sources of every kind, free for participants to tap into and combine as they explore ever richer structures of ability. Every type of ability you bring online opens up new possibilities for the whole.</p>
+<ul>
+<li>Duration: 2026-08-22 10:00 - 2026-09-29 11:59 (server time)</li>
+</ul>
+<p>[Second Coming of Solaris: Coded Deception] Leisure Event</p>
+<p>A brand-new version of Second Coming of Solaris like you&#39;ve never seen is coming soon! What are you waiting for? Come give it a try!</p>
+<ul>
+<li>Duration: 2026-08-27 04:00 - 2026-09-14 03:59 (server time)</li>
+</ul>
+<p>[The Strings Remember] Leisure Event</p>
+<p>With peace restored to the Land of Xuanfang, you once again return to the peak where Qingxiao lives. She gave you a seven-string qin some time ago. This time, she intends to formally teach you how to play it...</p>
+<ul>
+<li>Duration: 2026-09-03 04:00 - 2026-09-21 03:59 (server time)</li>
+</ul>
+<p>[If Dreams Still Reverberate] Featured Co-op Combat Event</p>
+<p>The Ivory Gatekeeper has sent you an SOS over WavesLine! The gate in the depths of the Somnoire—the one that should never be opened, the one you once shut—has somehow come open again. Now, terrifying Nightmares are once again running rampant in the Somnoire...</p>
+<ul>
+<li>Duration: 2026-09-10 10:00 - 2026-09-29 03:59 (server time)</li>
+</ul>
+<p>[Wuthering Exploration] Featured Exploration Event: Fogveil Pagoda</p>
+<p>Pioneer Association picked the Fogveil Pagoda as the new theme for Wutherium Geographic magazine.</p>
+<ul>
+<li>Duration: 2026-09-17 04:00 - 2026-09-29 03:59 (server time)</li>
+</ul>
+<p>[Gifts of Drifting Mist] 7-Day Login Event</p>
+<p>During the event, log in to claim the day&#39;s login rewards from the event page.</p>
+<ul>
+<li>Duration: Version 3.6 Update - 2026-09-29 03:59 (server time)</li>
+</ul>
+<h1>New Merch</h1>
+<h2>Accessories: Qingxiao - Cloudbloom, Jingran - Snowpaw</h2>
+<h1>New Challenge</h1>
+<h2>New &#34;Tactical Hologram: Sparring&#34; Challenge: Myriad Snare: Rustfire Chassis</h2>
+<h1>Other New Content</h1>
+<h2>Motorbike Liveries: Cloud Voyage, Jadie the Mightiest Autopuppet</h2>
+<h2>Title: Resonance! Best Combo</h2>
+<h2>Phantom Echo: Phantom - Myriad Snare: Rustfire Chassis</h2>
+<p><em>Title: Resonance! Best Combo and Phantom - Myriad Snare: Rustfire Chassis can be obtained by participating in the combat event &#34;Resonance Sim Realm.&#34;</em></p>
+<h1>Adjustments and Optimizations</h1>
+<h1>Features</h1>
+<h2>Expedition Motorbike</h2>
+<p>New feature: Display Theme</p>
+<ul>
+<li>
+<p>Go to Expedition Motorbike &gt; Motorbike Appearance to view and switch between Display Themes.</p>
+</li>
+<li>
+<p>Complete Main Quest &#34;Beneath a Melting Night Sky&#34; to claim the Display Theme &#34;Startorch Academy Garage&#34; in the Startorch Academy chat window on WavesLine.</p>
+</li>
+<li>
+<p>Complete Main Quest &#34;Song of the Heart Sword&#34; to claim the Display Theme &#34;Cloud Ride Garage&#34; in the Xuanfang Ministry of Development chat window on WavesLine.</p>
+</li>
+</ul>
+<p><em>If you complete the necessary Main Quest, you can claim the corresponding Display Theme via WavesLine.</em></p>
+<p>Better Autopilot Mode Experience</p>
+<ul>
+<li>
+<p>In Autopilot Mode, if the motorbike remains stationary for a certain period of time, the system will automatically reset its position and attempt to resume Autopilot.</p>
+</li>
+<li>
+<p>When the destination is close, the system will now recommend traveling there directly instead of activating Navigation Tracking.</p>
+</li>
+<li>
+<p>Resolved misalignment issues of some icons in Autopilot Mode.</p>
+</li>
+</ul>
+<p>Better Motorbike Performance in Certain Situations</p>
+<ul>
+<li>When the motorbike&#39;s path is blocked by certain small objects in Mengzhou&#39;s Land of Xuanfang, the objects will become transparent, and the motorbike will be able to drive on.</li>
+</ul>
+<h2>Sharing</h2>
+<p>Extended Sharing Function to More In-game Content Across Platforms</p>
+<ul>
+<li>
+<p>Images in the Gallery&#39;s Sceneries and Main Story sections.</p>
+</li>
+<li>
+<p>The result screen at the conclusion of each Endstate Matrix challenge, and the screen displaying the total points before you restart an Endstate Matrix challenge.</p>
+</li>
+<li>
+<p>Whimpering Wastes challenge results.</p>
+</li>
+<li>
+<p>Tower of Adversity challenge results.</p>
+</li>
+</ul>
+<p>Adjusted Sharing Function for Convene Screen on Mobile</p>
+<ul>
+<li>
+<p>When you obtain a 5-Star Resonator via a 10-pull attempt, you can access a sharable page of the Resonator.</p>
+</li>
+<li>
+<p>When you obtain a 5-Star Weapon via a 10-pull attempt, you can access a sharable page of the Weapon.</p>
+</li>
+</ul>
+<h2>Mail</h2>
+<p>New Feature: Mail Favorites</p>
+<ul>
+<li>
+<p>Added the Favorites button at the bottom of a Mail. Use it to favorite the Mail.</p>
+</li>
+<li>
+<p>Favorited Mails will not be deleted when their expiration dates come up or when you select &#34;Delete Read Mails.&#34;</p>
+</li>
+<li>
+<p>You can favorite up to 100 mails.</p>
+</li>
+</ul>
+<p><em>Please note that unfavoriting favorited mails at a date later than their expiration dates will result in their deletion.</em></p>
+<p>Adjusted Mail Function</p>
+<ul>
+<li>
+<p>The mailbox can now store a maximum of 200 mails.</p>
+</li>
+<li>
+<p>Increased the number of attachments that can be included in a single mail to 40.</p>
+</li>
+<li>
+<p>Adjusted the logic governing which mails will be auto-deleted first when the limit is reached.</p>
+</li>
+</ul>
+<p><em>Make sure to claim your attachments promptly to avoid any loss from expiration and deletion.</em></p>
+<h2>Echo Recommendation</h2>
+<p>Optimized Echo Recommendation</p>
+<ul>
+<li>
+<p>Go to a Resonator&#39;s Echo page and click on the Suggest button to access the upgraded Echo recommendation page.</p>
+</li>
+<li>
+<p>The new system will provide more precise and personalized Echo recommendations. After selecting a Sonata Effect, you can press the Preview button to view a comparison between the currently equipped plan and the recommended plan, and then choose to apply the recommended plan.</p>
+</li>
+<li>
+<p>A &#34;Main Echo&#34; slot will be added to the &#34;Suggest&#34; feature on the Echo equipment menu; select it to filter the Echoes.</p>
+</li>
+</ul>
+<p><em>The Echo Recommendation data are scheduled to be updated on 2026-08-26 to those based on recently active players. Please note that following the update, the Echoes recommended in the new version may differ from those recommended in previous versions.</em></p>
+<h1>Leveling</h1>
+<ul>
+<li>Adjusted the range of effective Echo absorption in certain domains.</li>
+</ul>
+<h1>Challenges, Puzzles, &amp; Events</h1>
+<ul>
+<li>Optimized certain gameplay features involving Grapple in the &#34;Huanglong - Mengzhou&#34; area.</li>
+</ul>
+<h2>Quests</h2>
+<p>Optimized the quest flow of the Suisui line in the Main Quest &#34;The Wind Before the Storm.&#34;</p>
+<h1>Controls</h1>
+<ul>
+<li>Added haptic feedback through controller vibration while accelerating during Flight.</li>
+</ul>
+<h1>UI</h1>
+<h2>Endstate Matrix</h2>
+<p>Optimized Display of Certain Endstate Matrix Pages</p>
+<ul>
+<li>
+<p>Added the Weapon Projection Preview option for Weapon Projections on the Rewards screen in Endstate Matrix.</p>
+</li>
+<li>
+<p>Refined the special effects and visual details of the Medal screen in Endstate Matrix.</p>
+</li>
+<li>
+<p>Adjusted the mechanics of how the red dot attached to the Weekly Activity tab is displayed; to remove it, you need to enter any Weekly Activity.</p>
+</li>
+<li>
+<p>Adjusted the design of the skip button in the top left corner of the screen to prevent overlapping with song lyrics.</p>
+</li>
+<li>
+<p>Adjusted the display of quest items to support multi-page display of items that have multiple copies.</p>
+</li>
+<li>
+<p>Optimized the display of certain icons.</p>
+</li>
+</ul>
+<h1>Graphics &amp; Performance</h1>
+<h2>Graphics Settings</h2>
+<p>Upgraded NVIDIA DLSS Support to DLSS 4.5.</p>
+<ul>
+<li>You can enable the 5x or 6x options in DLSS 4.5 frame generation, if your device meets the following requirements:</li>
+</ul>
+<ol>
+<li>
+<p>RTX 50 Series</p>
+</li>
+<li>
+<p>With DX12 enabled (first enable Hardware-Accelerated GPU Scheduling in your system&#39;s graphics settings)</p>
+</li>
+<li>
+<p>Graphics driver version is 595.97 or newer.</p>
+</li>
+</ol>
+<ul>
+<li>If your device meets the requirements, you can select the 5x or 6x options in DLSS 4.5 via Settings &gt; Graphics &gt; Advanced &gt; Frame Generation. You can choose your frame generation rate based on your needs or the configuration of your device.</li>
+</ul>
+<p><em>If the original frame rate is too low, enabling Frame Generation can increase the frame rate. Please note that enabling this option may cause input lag or display issues.</em></p>
+<p>Extended Availability of Vulkan on Mobile</p>
+<ul>
+<li>Following the Version 3.6 update maintenance, the Vulkan option can also be enabled in the following processors:</li>
+</ul>
+<ol>
+<li>
+<p>Snapdragon 8 Gen 2</p>
+</li>
+<li>
+<p>Dimensity 9200, 9200+</p>
+</li>
+<li>
+<p>XRing O1</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>This option is accessible via Settings &gt; Graphics &gt; Vulkan. Please restart the game after enabling the Vulkan option for the change to take effect.</p>
+</li>
+<li>
+<p>Enabling the Vulkan option improves the game&#39;s performance and power consumption while it is being run on mobile.</p>
+</li>
+</ul>
+<p><em>Following the version update, the Vulkan option will now be on by default on mobile devices equipped with Snapdragon 8 Elite, Snapdragon 8 Elite 2, Snapdragon 8 Gen 5, or Dimensity 9500.</em></p>
+<ul>
+<li>
+<p>Extended support for Ray Tracing Megalights to devices equipped with AMD graphics. On devices equipped with AMD graphics that meet the requirements, enabling Ray Tracing improves the lighting effects in certain environments. (※There isn&#39;t a separate &#34;Megalights&#34; option. It takes effect when Ray Tracing is enabled.)</p>
+</li>
+<li>
+<p>Extended support for self-developed frame generation to mobile devices equipped with Snapdragon 8 Gen 5. If your processor meets the requirements, you can enable this option via Settings &gt; Graphics &gt; Frame Generation.</p>
+</li>
+</ul>
+<h1>Audio</h1>
+<ul>
+<li>
+<p>Added a tag and timer to some tracks/albums that are available for a limited time. The timer shows how much time a track/album will remain available.</p>
+</li>
+<li>
+<p>Adjusted certain audio files to prevent abnormal triggering.</p>
+</li>
+<li>
+<p>Optimized some audio/stereo effects.</p>
+</li>
+</ul>
+<h1>Other</h1>
+<h2>Performance Optimization (At Testing Stage)</h2>
+<p>&#34;New Programming Language&#34; Cross-Platform Performance Optimization</p>
+<ul>
+<li>
+<p>Following the version 3.6 update maintenance, a new performance optimization involving a change of programming language will be introduced; this optimization will be rolled out in stages across all platforms in the form of online testing.</p>
+</li>
+<li>
+<p>With this optimization, on devices that meet the requirements across all platforms, the game&#39;s overall performance and average frame rate will improve to a certain extent.</p>
+</li>
+<li>
+<p>This optimization is currently unavailable on the following devices:</p>
+</li>
+</ul>
+<ol>
+<li>
+<p>iOS mobile devices with RAM≤4GB; iPhone 14 series with iOS 16.0/17.0/17.1/17.2.</p>
+</li>
+<li>
+<p>Android mobile devices with RAM≤6GB.</p>
+</li>
+</ol>
+<p><em>The testing schedule may be subject to changes due to version stability or other considerations. Please refer to the notice titled [Version 3.6 Known Issues &amp; Updates] for details about the schedule.</em></p>
+<p><em>This optimization is at the testing stage and is not the final version.</em></p>
+<ul>
+<li>
+<p>Adjusted the maximum number of Radiant Tides or Forging Tides allowed in a single exchange attempt in the Afterglow Coral Store (under Item Exchange). When you try to obtain more than 10 Radiant Tides or Forging Tides in a single exchange attempt, a confirmation box, showing the number of Tides and the cost, will appear.</p>
+</li>
+<li>
+<p>Optimized the descriptions of certain in-game settings and functions.</p>
+</li>
+</ul>
+<h1>Bug Fixes</h1>
+<h2>Resonators &amp; Weapons</h2>
+<ul>
+<li>
+<p>Fixed an issue where Resonator Suisui&#39;s character model might behave abnormally with Wounded Effect enabled.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Suisui&#39;s character model might behave abnormally when performing Plunging Attack while in Drizzle Stance.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Yangyang: Xuanling&#39;s character model might behave abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue where damage and some effects associated with Rover: Electro&#39;s Resonance Skill &#34;Thrum of All Sounds&#34; remained effective after the skill was interrupted.</p>
+</li>
+<li>
+<p>Fixed an issue where enemy names might appear on the Protocol Interface when Resonator Lucy cast Resonance Liberation &#34;Netrunner.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where skill icons did not appear when switching to controller mode when the Protocol Interface was displayed after Resonator Lucy cast Resonance Liberation &#34;Netrunner.&#34;</p>
+</li>
+<li>
+<p>Corrected textual errors in Resonator Rebecca&#39;s Character Stories.</p>
+</li>
+<li>
+<p>Fixed a display issue with the special effects of certain equipped weapons on Resonator Hiyuki&#39;s Weapon Switch page (Resonators &gt; Weapon &gt; Weapon Switch).</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Aemeath&#39;s character model might behave abnormally while walking in certain scenes.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Lynae&#39;s character model on the Resonators page might behave abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue in the fight with the enemy &#34;Scar&#34; where certain attacks from Rover: Spectro might cause Scar&#39;s hit-taking VFX to appear abnormal.</p>
+</li>
+<li>
+<p>Fixed a display issue with metal textures on some Resonators&#39; Outfits.</p>
+</li>
+</ul>
+<h2>Features</h2>
+<ul>
+<li>
+<p>Fixed an issue where completing Weekly Challenge&#39;s Bell of Archaic Chants challenge did not count toward the &#34;Complete Weekly Challenge 2 times&#34; task in Pioneer Podcast.</p>
+</li>
+<li>
+<p>Fixed an issue with the animation that plays upon switching to a different Resonator in Resonator Showcase.</p>
+</li>
+<li>
+<p>Fixed an issue in Resonator Ascension Planner where it was not possible to jump to the Convene pages of the recommended weapons by pressing the corresponding icons.</p>
+</li>
+<li>
+<p>Fixed an issue where the screen might become unresponsive when trying to call up the location on the map where a certain Material could be found via the Resonators - Forte screen.</p>
+</li>
+<li>
+<p>Fixed an issue where it was not possible to jump to other pages from the Resonators screen.</p>
+</li>
+<li>
+<p>Fixed an issue where the screen might become unresponsive when trying to open the Mingshen Notices page.</p>
+</li>
+<li>
+<p>Fixed an issue where purchasing and applying Chassis Sets might cause an error message to appear. This issue did not affect the actual ownership of the purchased items.</p>
+</li>
+<li>
+<p>Fixed an issue in Tactical Hologram: Sparring - Denia where the model of the enemy Denia might behave abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue where the Resonance Mode Switch icon might appear on the Team screen when no Resonators were selected.</p>
+</li>
+<li>
+<p>Fixed an issue where changing the lineup of the current team might cause the screen to become unresponsive.</p>
+</li>
+<li>
+<p>Fixed an issue where switching between Weapon Projections on the Weapon Projection screen might not take effect.</p>
+</li>
+<li>
+<p>Corrected textual errors in the description of the Sonata Effect &#34;Frosty Resolve&#34; (5pcs) on the Sonata Gallery screen. This did not affect the actual effects of the Sonata Effect.</p>
+</li>
+<li>
+<p>Fixed a display issue with the models of the enemies &#34;Voidworm&#34; and &#34;Abyssal Gladius&#34; in the Enemies section of the Gallery.</p>
+</li>
+<li>
+<p>Fixed an issue where players might be led to the locations of defeated enemies when tracking certain enemies via Enemy Tracing.</p>
+</li>
+<li>
+<p>Fixed an issue where switching between male Rover and female Rover could cause multiple tabs to appear for Rover: Electro in Skill Training/Resonator Skill Tutorial.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could cause text from the previous screen to stay on the Overworld screen upon returning to the Overworld.</p>
+</li>
+<li>
+<p>Fixed an error with the skill configurations for some skills of Trial Resonators at different levels.</p>
+</li>
+<li>
+<p>Fixed an issue on PC where the frame generation function might not work.</p>
+</li>
+<li>
+<p>Fixed a display issue with certain options in the Xess3 settings in certain languages.</p>
+</li>
+<li>
+<p>Fixed an issue where the Trophy &#34;Only Reverberation Remains&#34; could not be obtained in some situations.</p>
+</li>
+</ul>
+<h2>Challenges, Puzzles, &amp; Events</h2>
+<p>Fixed an issue in the &#34;Lament Recon: Tacet Crisis&#34; event where the stat boost &#34;Movement Speed +100%&#34; for the selected Resonator &#34;Mornye&#34; might not take effect.</p>
+<ul>
+<li>
+<p>Fixed an issue in the &#34;Into the Land of Paradox&#39;s Restoration - Solisia Landing&#34; event where an incorrect number of collectables was displayed for Treasure Spots. This issue did not affect the actual number of collectables.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;Fantasies of the Thousand Gateways&#34; event where conducting Resonance Conversion for Rover could cause the weapon model on Rover&#39;s Weapon page to display abnormally.</p>
+</li>
+<li>
+<p>Fixed a display issue with the text on the Cube Lineup screen in the &#34;Cube, Cubic n Cubie&#34; event.</p>
+</li>
+<li>
+<p>Fixed an issue in controller mode where certain player actions could cause the screen to become unresponsive while displaying Whimpering Wastes-related pages.</p>
+</li>
+<li>
+<p>Fixed an issue where the background music continued to play after completing certain Super Cloud Ride Challenges.</p>
+</li>
+<li>
+<p>Fixed an issue where the prompt &#34;You&#39;ve entered a speed-limit zone. Boost Unavailable&#34; might appear while in the &#34;Huanglong - Mengzhou&#34; area when the expedition motorbike was not being used.</p>
+</li>
+<li>
+<p>Fixed an issue where certain skills of some characters could not destroy the suspension bridge during the quest objective &#34;The suspension bridge is quite old, perhaps you could...&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in some Forgery Challenges where successful attempts at using Negative Status to defeat enemies were not counted toward the total.</p>
+</li>
+<li>
+<p>Fixed an issue where using Levitator to interact with specific objects that supposedly responded to Levitator was not possible in some situations.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could cause Resonators to fall outside the bounds of the Map when trying to enter certain Tacet Fields.</p>
+</li>
+<li>
+<p>Fixed an issue where the corresponding task in Milestones remained marked as uncompleted upon completing the &#34;Tactical Hologram: Calamity - Impermanence Heron&#34; challenge.</p>
+</li>
+</ul>
+<h2>Quests</h2>
+<ul>
+<li>
+<p>Fixed an issue on Mac where character models or the background might become blurry during certain dialogue scenes in the Main Quest &#34;The Wind Before the Storm.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in animated storytelling during certain Main Quests where input prompts overlapped with subtitles in certain settings.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented quest progression in the Main Quest &#34;When the Unknown Thrums&#34; where some Rovers were prevented from returning to Chronorift Metropolis.</p>
+</li>
+<li>
+<p>Fixed an issue where Rover&#39;s character model might behave abnormally during certain dialogue scenes.</p>
+</li>
+<li>
+<p>Fixed an issue in the Exploration Quest &#34;Faithful Heart Tested at Skyfall&#34; where dialogue scenes might be disrupted during the objective &#34;Defeat Myriad Snare: Rustfire Chassis.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Exploration Quest &#34;Faithful Heart Tested at Skyfall&#34; where Danjin&#39;s character model might behave abnormally in the Ride Share sequence during the objective &#34;Read Suyu&#39;s WavesLine message.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where the weather in the &#34;Huanglong - Mengzhou - Western Fang Peaks&#34; area was constantly Cloudy after completing the Exploration Quest &#34;Faithful Heart Tested at Skyfall.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Exploration Quest &#34;Autopuppets in Fog Veiled Chambers&#34; where restarting the game could prevent players from returning to the task location.</p>
+</li>
+<li>
+<p>Fixed an anomaly with NPC Liangyu&#39;s eye blinking effect.</p>
+</li>
+</ul>
+<h2>Environment</h2>
+<ul>
+<li>
+<p>Fixed an issue where the screen might flicker when displaying the &#34;Huanglong - Mengzhou&#34; area with Ray Tracing enabled.</p>
+</li>
+<li>
+<p>Fixed an issue where certain water surfaces flickered in the &#34;Huanglong - Mengzhou - Southern Yuan Hills&#34; area.</p>
+</li>
+<li>
+<p>Fixed an issue on mobile where the colors of the vegetation in the &#34;Huanglong - Mengzhou&#34; area displayed abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could cause black lines to appear on the screen while displaying the &#34;Huanglong - Mengzhou - Xuanfang Hold&#34; area.</p>
+</li>
+<li>
+<p>Fixed a clipping issue with certain objects in the environment in the &#34;Huanglong - Mengzhou&#34; area.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could cause the lighting effects in the &#34;Fogveil Pagoda - Hunting Chamber&#34; area to display abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue where the character model floated above the surface while seated on chairs in the &#34;Rinascita - Septimont&#34; area.</p>
+</li>
+<li>
+<p>Fixed an anomaly with the animation effects for certain objects in the &#34;Rinascita - Septimont&#34; area.</p>
+</li>
+</ul>]]></content>
+                    <published>2026-08-20T09:58:12+00:00</published>
+                    <updated>2026-08-20T09:58:12+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5350</id>
+                    <title>V3.6 Wuthering Waves Battle Rush</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5350" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787068800000/lbvzjjb3kpx9etzyv8-1787133770321.jpg" /></p>
+<p>Dear Rovers,</p>
+<p>The Wuthering Waves Battle Rush is now live! Record and share your most exciting battle moments with the hashtags #WutheringWaves and #WuwaBattle on X (Twitter)/YouTube Shorts/TikTok to compete for a reward of Astrite x2,000 and a chance to get featured on our social media with direct credits! Other than these rewards, 10 extra winners will be selected to receive a $50 Amazon Gift Card.</p>
+<p>Showcase your outstanding battle tactics in a condensed clip and share them with us!</p>
+<p>Content Requirement</p>
+<p>Create your own combat video featuring Wuthering Waves.</p>
+<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
+<p>Content Requirement</p>
+<p>Create your own combat video featuring Wuthering Waves.</p>
+<p>We require no limits to the characters, level, or scenes. All entries that feature your combat in Wuthering Waves are qualified to join the event and compete for rewards!</p>
+<p>How to Submit</p>
+<p>Post your work on X (Twitter)/YouTube Shorts/TikTok with both hashtags #WutheringWaves and #WuwaBattle included publicly.</p>
+<p>Submission Period</p>
+<p>2026/08/20 20:00 ~ 2026/09/17 19:59 (PT)</p>
+<p>Judging Criteria</p>
+<p>All eligible works will undergo evaluation based on their adherence to the theme, degree of completion, reception among players, and other relevant factors.</p>
+<p>Notes</p>
+<p>To qualify for participation, you should include both hashtags #WutheringWaves and #WuwaBattle in your post.</p>
+<p>Deleted posts will not be qualified for entitlement of rewards.</p>
+<p>You can submit multiple entries. However, the same work published on different platforms will not count towards the rewards.</p>
+<p>Entries listed below may be excluded from the judging process:</p>
+<ul>
+<li>
+<p>Works not created in accordance with Wuthering Waves</p>
+</li>
+<li>
+<p>Works found to contain plagiarism or infringement of intellectual property rights</p>
+</li>
+<li>
+<p>Works submitted outside the event period</p>
+</li>
+<li>
+<p>Works created with the assistance of AI technology</p>
+</li>
+<li>
+<p>Works featuring extremely aggressive content, including but not limited to themes of pornography, violence, politics, or racism</p>
+</li>
+<li>
+<p>Works that have already been used for commercial purposes</p>
+</li>
+<li>
+<p>Works deemed inappropriate by the judges</p>
+</li>
+</ul>
+<p>Failure to reply to the official staff within 7 days from the date of notification will be considered a waiver of entitlement to the rewards.</p>
+<p>This event is open to submissions from all languages, as creators proficient in any language are eligible to compete for rewards. Entries differing only in language will be treated as equivalent works.</p>]]></content>
+                    <published>2026-08-19T18:06:38+00:00</published>
+                    <updated>2026-08-19T18:06:38+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5349</id>
+                    <title>Wuthering Waves Fan Creation Event &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34; is now live!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5349" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787068800000/nv7ezt03112gbesvf1-1787132179756.jpg" /></p>
+<p>Dear Rovers,</p>
+<p>Wuthering Waves Fan Creation Event &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34; is now live! Post your work with hashtags <a href="https://x.com/hashtag/WutheringWaves?src=hashtag_click">#WutheringWaves</a> and <a href="https://x.com/hashtag/WuWaFanart?src=hashtag_click">#WuWaFanart</a> on X (Twitter)/Instagram/Facebook and fill out the form for a chance to win iPhone 17 Pro 512GB, Astrites and more!</p>
+<p>Create your works of boundless imagination to present the world of Wuthering Waves!</p>
+<p>Proceed to submit:</p>
+<p>&lt;https://forms.gle/H8GMCKyCZTUkUSom9&gt;</p>
+<p>Content Requirement</p>
+<p>Create your own artwork about Wuthering Waves Version 3.6 &#34;Lamplight in Mirage, Sword&#39;s Resolve in Heart&#34;</p>
+<p>Whether it&#39;s an illustration of your beloved character, comical moments from your adventures, or difficult combos you&#39;ve mastered—anything that aligns with the theme is eligible for submission. Share your artwork or video for a chance to win exciting prizes!</p>
+<p><strong>How to Submit</strong></p>
+<p>Post your artwork on X (Twitter)/Instagram/Facebook with both hashtags #WutheringWaves and #WuWaFanart included.</p>
+<p>Complete the submission form with your submission details. Once done, your submission will be considered successful.</p>
+<ul>
+<li>Please quote your post link with the right hashtags published publicly on the designated platforms.</li>
+</ul>
+<p>Submission form:</p>
+<p>&lt;https://forms.gle/H8GMCKyCZTUkUSom9&gt;</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787068800000/rud0arm4m2t8u8833v-1787132501415.jpg" /></p>]]></content>
+                    <published>2026-08-19T17:42:38+00:00</published>
+                    <updated>2026-08-19T17:42:38+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5332</id>
                     <title>[Glint of Clouds] Featured Weapon Convene</title>

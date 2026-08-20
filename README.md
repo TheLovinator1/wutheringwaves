@@ -11,6 +11,9 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Patch Notes for Version 3.6: Lamplight in Mirage, Sword's Resolve in Heart](https://wutheringwaves.kurogames.com/en/main/news/detail/5357) [[json]](articles/5357.json)
+- [V3.6 Wuthering Waves Battle Rush](https://wutheringwaves.kurogames.com/en/main/news/detail/5350) [[json]](articles/5350.json)
+- [Wuthering Waves Fan Creation Event "Lamplight in Mirage, Sword's Resolve in Heart" is now live!](https://wutheringwaves.kurogames.com/en/main/news/detail/5349) [[json]](articles/5349.json)
 - [[Glint of Clouds] Featured Weapon Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5332) [[json]](articles/5332.json)
 - [[Wind of Transcendence] Featured Resonator Convene](https://wutheringwaves.kurogames.com/en/main/news/detail/5331) [[json]](articles/5331.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/5330) [[json]](articles/5330.json)
