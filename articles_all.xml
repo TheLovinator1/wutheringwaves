@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-20T23:06:15+00:00</updated>
+    <updated>2026-08-28T11:28:26+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5379</id>
+                    <title>Post-Lament Anthropocene: Comprehensive Mirror for Historians—Xuanfang Finale Preview</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5379" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787846400000/xfmkeo6nkltjxcwsvy-1787887643289.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787846400000/knaye23n2iujkukwlb-1787887643466.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1787846400000/my9fmagb8cyym17axn-1787887643408.jpg" /></p>]]></content>
+                    <published>2026-08-28T11:28:26+00:00</published>
+                    <updated>2026-08-28T11:28:26+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5365</id>
                     <title>Event Preview | [Resonance Sim Realm] Combat Event, Coming Soon!</title>
