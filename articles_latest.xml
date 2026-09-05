@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-28T21:32:22+00:00</updated>
+    <updated>2026-09-04T14:44:10+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5398</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Jingran</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5398" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Jingran, a Nethermancer. I roam the edge between Yin and Yang. Chasing a path that could lead to fortune or ruin. I walk among the shadows to see the other end of this road.&#34;—Jingran</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/6xzzhy0ad8s4dv2toz-1788502902812.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/tc4c5cayymyfwz8dhj-1788503034265.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/xv287j99jsg65v2v4i-1788503324143.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/91bhsc0ifbjumkzn44-1788534247494.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/shbxh1yi41pasqnwtc-1788503892464.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/6ej8b9yx0yo3wynclq-1788503948298.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/nhf3pwszg6dd0b8mgc-1788503969364.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/voj5fsjezi3tq4a3cx-1788503996596.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/61pdicxhozwlnba68x-1788504016408.gif" /></p>]]></content>
+                    <published>2026-09-04T14:44:10+00:00</published>
+                    <updated>2026-09-04T14:44:10+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5385</id>
                     <title>Post-Lament Anthropocene: Enemies — Calamity Effigy</title>
@@ -1393,90 +1409,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785254400000/i962o80np4zy1k4tke-1785289812824.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785254400000/ju7ciq37sudun66uwa-1785289840929.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785254400000/lwhehsc3k4sg2dn9rs-1785289862173.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785254400000/hjn55oc9haqnju114l-1785289884960.jpg" /></p>]]></content>
                     <published>2026-07-29T09:53:34+00:00</published>
                     <updated>2026-07-29T09:53:34+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5220</id>
-                    <title>[Version 3.5 Featured Resonator/Weapon Convene: Phase II]</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5220" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>[Take Flight in Spring] Featured Resonator Convene</p>
-<p>During the event, 5-Star Resonator: Aemeath, 4-Star Resonators: Baizhi, Mortefi, and Lumi receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2026-07-30 10:00 - 2026-08-19 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Take Flight in Spring] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Aemeath is exclusive to the [Take Flight in Spring] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Aemeath&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785168000000/dt8d908zs3l1dapvee-1785224786169.jpg" /></em></p>
-<p>[Everbright Polestar] Featured Weapon Convene</p>
-<p>During the event, 5-Star Weapon: Everbright Polestar, 4-Star Weapons: Variation, Endless Collapse, and Relativistic Jet receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2026-07-30 10:00 - 2026-08-19 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Everbright Polestar.</p>
-</li>
-<li>
-<p>Featured Weapon Everbright Polestar is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785168000000/bxj3arrlw671qwkal0-1785224965920.jpg" /></em></p>]]></content>
-                    <published>2026-07-28T15:50:35+00:00</published>
-                    <updated>2026-07-28T15:50:35+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

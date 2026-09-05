@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-08-28T21:32:22+00:00</updated>
+    <updated>2026-09-04T14:44:10+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,22 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5398</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Jingran</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5398" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>&#34;Jingran, a Nethermancer. I roam the edge between Yin and Yang. Chasing a path that could lead to fortune or ruin. I walk among the shadows to see the other end of this road.&#34;—Jingran</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/6xzzhy0ad8s4dv2toz-1788502902812.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/tc4c5cayymyfwz8dhj-1788503034265.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/xv287j99jsg65v2v4i-1788503324143.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/91bhsc0ifbjumkzn44-1788534247494.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/shbxh1yi41pasqnwtc-1788503892464.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/6ej8b9yx0yo3wynclq-1788503948298.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/nhf3pwszg6dd0b8mgc-1788503969364.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/voj5fsjezi3tq4a3cx-1788503996596.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/61pdicxhozwlnba68x-1788504016408.gif" /></p>]]></content>
+                    <published>2026-09-04T14:44:10+00:00</published>
+                    <updated>2026-09-04T14:44:10+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5385</id>
                     <title>Post-Lament Anthropocene: Enemies — Calamity Effigy</title>
