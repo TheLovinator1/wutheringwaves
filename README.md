@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Nether Qi Art — Jingran](https://wutheringwaves.kurogames.com/en/main/news/detail/5399) [[json]](articles/5399.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Jingran](https://wutheringwaves.kurogames.com/en/main/news/detail/5398) [[json]](articles/5398.json)
 - [Post-Lament Anthropocene: Enemies — Calamity Effigy](https://wutheringwaves.kurogames.com/en/main/news/detail/5385) [[json]](articles/5385.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians—Xuanfang Finale Preview](https://wutheringwaves.kurogames.com/en/main/news/detail/5379) [[json]](articles/5379.json)
