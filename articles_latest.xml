@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-04T14:58:39+00:00</updated>
+    <updated>2026-09-08T14:57:55+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5429</id>
+                    <title>Resonator Review | Futures&#39; Tithe — Hiyuki</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5429" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Hailing from Ashinohara, the Miko of Flaming Sakura now remains in Lahai-Roi as the last and only member of the Special Response Force.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/s9mv8jupeyiewfex4j-1788850028527.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/f0xeaduqxhtmqg7qrq-1788853416109.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/n3o4ebosdvba5jhon4-1788850165060.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/jq3pcshpannyldmu2h-1788850214925.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/przh93u2xwndwrt4iu-1788850266808.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1788796800000/9avarz7uxmi80d3dxd-1788850326315.png" /></p>]]></content>
+                    <published>2026-09-08T14:57:55+00:00</published>
+                    <updated>2026-09-08T14:57:55+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5428</id>
+                    <title>Upcoming Events in Wuthering Waves Version 3.6</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5428" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 3.6. Don&#39;t miss out!</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/s2ygz1cmq9s6xgyr8k-1788882558266.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788796800000/9md8bn7jfmxr3fnb2w-1788848579933.jpg" /></p>]]></content>
+                    <published>2026-09-08T14:25:20+00:00</published>
+                    <updated>2026-09-08T14:25:20+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5399</id>
                     <title>Profile Reveal | Nether Qi Art — Jingran</title>
@@ -1313,104 +1345,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786032000000/zrv7kvnsnv87h2b3de-1786095170476.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785945600000/g200qau7q5ateaqinx-1786004334269.jpg" /></p>]]></content>
                     <published>2026-08-06T16:20:18+00:00</published>
                     <updated>2026-08-06T16:20:18+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5236</id>
-                    <title>[Firstlight&#39;s Herald] Featured Weapon Convene</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5236" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785254400000/bk6q79x6r5lvdtd6ys-1785315861476.jpg" /></p>
-<p>During the event, 5-Star Weapon: Firstlight&#39;s Herald, 4-Star Weapons: Variation, Endless Collapse, and Relativistic Jet receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2026-07-30 10:00 - 2026-08-19 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Firstlight&#39;s Herald.</p>
-</li>
-<li>
-<p>Featured Weapon Firstlight&#39;s Herald is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2026-07-29T17:04:37+00:00</published>
-                    <updated>2026-07-29T17:04:37+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5227</id>
-                    <title>[Blessings From Dewy Winds] Featured Resonator Convene</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5227" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1785254400000/a54ek839a2wlpo0r3j-1785315495269.jpg" /></p>
-<p>During the event, 5-Star Resonator: Suisui, 4-Star Resonators: Baizhi, Mortefi, and Lumi receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>2026-07-30 10:00 - 2026-08-19 11:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Blessings From Dewy Winds] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Suisui is exclusive to the [Blessings From Dewy Winds] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Suisui&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>]]></content>
-                    <published>2026-07-29T16:58:33+00:00</published>
-                    <updated>2026-07-29T16:58:33+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
