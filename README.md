@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Astral Mapping — Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/5437) [[json]](articles/5437.json)
+- [[Version 3.6 Featured Resonator/Weapon Convene: Phase Ⅱ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5431) [[json]](articles/5431.json)
 - [Resonator Review | Futures' Tithe — Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/5429) [[json]](articles/5429.json)
 - [Upcoming Events in Wuthering Waves Version 3.6](https://wutheringwaves.kurogames.com/en/main/news/detail/5428) [[json]](articles/5428.json)
 - [Profile Reveal | Nether Qi Art — Jingran](https://wutheringwaves.kurogames.com/en/main/news/detail/5399) [[json]](articles/5399.json)
