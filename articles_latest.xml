@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-09T12:22:12+00:00</updated>
+    <updated>2026-09-18T22:18:25+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,36 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5454</id>
+                    <title>Wuthering Waves Version Preview | Version 3.7 &#34;Prism&#39;s Illusion, Heart&#39;s Illumination&#34; Scheduled for Release on September 30th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5454" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/jkef15wfsy8xtht89n-1789741057893.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/ndu20kshb5zkjrjmoa-1789740868079.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/o046s4vski652r4tcv-1789740979981.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/ebnb44eiqy72vmt8zk-1789740996550.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/1ejlnykg0t7i90qe9v-1789741022642.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/koxxj6hf4szh61o6lj-1789741040831.jpg" /></p>]]></content>
+                    <published>2026-09-18T22:18:25+00:00</published>
+                    <updated>2026-09-18T22:18:25+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5453</id>
+                    <title>Wuthering Waves Version 3.7 &#34;Prism&#39;s Illusion, Heart&#39;s Illumination&#34; Special Report</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5453" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is detailed info about the limited-time event &#34;Moonlit Path&#34; and merchandise in the Store in Version 3.7. Don&#39;t miss out!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/4n5rekvvwxhw72r95h-1789740509770.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/d78dgl2gywuanslafm-1789740546656.jpg" /></p>]]></content>
+                    <published>2026-09-18T22:10:20+00:00</published>
+                    <updated>2026-09-18T22:10:20+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5437</id>
                     <title>Resonator Review | Astral Mapping — Mornye</title>
@@ -1291,50 +1321,6 @@
                     <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/ftdv86ecjg0taqe583-1786954549066.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/83i8byxq3tq4i24iso-1786954623790.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/k70f13tkfs03t8xg9d-1786954706450.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/e357ay9y9xtg5n8uck-1786954946659.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/kw04x81cc60z98hflj-1786955130904.jpg" /></p>]]></content>
                     <published>2026-08-17T16:27:29+00:00</published>
                     <updated>2026-08-17T16:27:29+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5294</id>
-                    <title>Profile Reveal | Heart Sword — Qingxiao</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5294" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
-<h1>Qingxiao</h1>
-<p>A reclusive sword cultivator who holds the nominal title of Xuan Paragon of Xuanfang Hold, and a peerless master of both qin and sword. Aloof and distant, she seems untouched by emotion.</p>
-<p>The world knows her as the Sword Transcendent. For years beyond counting, she has stood guard over these lands, and the cold light of her blade remains as keen as the day she first drew it.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/rkm9b1o9dhzropfc94-1786702659003.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/voxovz3oj2bq1gcyc0-1786702683878.jpg" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/9xt5ud5rryf4nxjl9w-1786702833019.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/8k3tx95ialpfsb2ftr-1786702730067.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/mv0k491x2u6zlncxmo-1786702761248.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/l3hbfucjktq5sgjqqv-1786703265067.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786809600000/njztytyw66j9zsigp1-1786875936433.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/c6lsj32q3xuipog6mz-1786703330739.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/i3y8tdql8rfn094etw-1786702960517.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/apir9f7tbad3gbxtis-1786703370651.gif" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/eyo7owvstrkiy6epir-1786703017710.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/xsmnc243g51q72k81y-1786703042089.png" /></p>]]></content>
-                    <published>2026-08-14T18:30:33+00:00</published>
-                    <updated>2026-08-14T18:30:33+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5292</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Qingxiao</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5292" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;Xuan Paragon, Qingxiao, a seeker of the Way. Time&#39;s endless flow has brought you back to me. Take up your blade, and let us walk this path together.&#34;—Qingxiao</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/ps3y6nh5a92i60cip3-1786700364361.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/jjya6s2ev29afwchcr-1786700402976.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/0ynv2m7oyo7959ert5-1786700447236.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/1dbfj27qswf9096w81-1786700485364.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/ao8pzc9pgyo993v1ia-1786700525326.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/bw7r7d8aiyrlbqq761-1786700814815.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/6jjfa6zs1cduovw1rh-1786700835372.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/mtgfplm5ys8wzally7-1786700858720.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786636800000/q61nzxs00a9kzb3t5r-1786700878696.gif" /></p>]]></content>
-                    <published>2026-08-14T17:49:43+00:00</published>
-                    <updated>2026-08-14T17:49:43+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

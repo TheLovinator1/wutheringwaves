@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Preview | Version 3.7 "Prism's Illusion, Heart's Illumination" Scheduled for Release on September 30th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5454) [[json]](articles/5454.json)
+- [Wuthering Waves Version 3.7 "Prism's Illusion, Heart's Illumination" Special Report](https://wutheringwaves.kurogames.com/en/main/news/detail/5453) [[json]](articles/5453.json)
 - [Resonator Review | Astral Mapping — Mornye](https://wutheringwaves.kurogames.com/en/main/news/detail/5437) [[json]](articles/5437.json)
 - [[Version 3.6 Featured Resonator/Weapon Convene: Phase Ⅱ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5431) [[json]](articles/5431.json)
 - [Resonator Review | Futures' Tithe — Hiyuki](https://wutheringwaves.kurogames.com/en/main/news/detail/5429) [[json]](articles/5429.json)

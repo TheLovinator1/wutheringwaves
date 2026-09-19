@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-09T12:22:12+00:00</updated>
+    <updated>2026-09-18T22:18:25+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,36 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5454</id>
+                    <title>Wuthering Waves Version Preview | Version 3.7 &#34;Prism&#39;s Illusion, Heart&#39;s Illumination&#34; Scheduled for Release on September 30th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5454" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/jkef15wfsy8xtht89n-1789741057893.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/ndu20kshb5zkjrjmoa-1789740868079.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/o046s4vski652r4tcv-1789740979981.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/ebnb44eiqy72vmt8zk-1789740996550.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/1ejlnykg0t7i90qe9v-1789741022642.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/koxxj6hf4szh61o6lj-1789741040831.jpg" /></p>]]></content>
+                    <published>2026-09-18T22:18:25+00:00</published>
+                    <updated>2026-09-18T22:18:25+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5453</id>
+                    <title>Wuthering Waves Version 3.7 &#34;Prism&#39;s Illusion, Heart&#39;s Illumination&#34; Special Report</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5453" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is detailed info about the limited-time event &#34;Moonlit Path&#34; and merchandise in the Store in Version 3.7. Don&#39;t miss out!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/4n5rekvvwxhw72r95h-1789740509770.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789660800000/d78dgl2gywuanslafm-1789740546656.jpg" /></p>]]></content>
+                    <published>2026-09-18T22:10:20+00:00</published>
+                    <updated>2026-09-18T22:10:20+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5437</id>
                     <title>Resonator Review | Astral Mapping — Mornye</title>
