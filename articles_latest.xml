@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-22T18:26:15+00:00</updated>
+    <updated>2026-09-24T18:20:49+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,166 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5513</id>
+                    <title>About Tiered Client Resource Downloads</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5513" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Dear Rovers, To deliver a higher-quality gaming experience across a wide range of device specifications, the &#34;Tiered Client Resource Downloads&#34; feature is scheduled to be launched soon on Wuthering Waves, initially as a limited test. This feature allows you to select and download game resources of your preferred graphics quality based on the storage space and specifications of your device. With this feature, you can reduce storage space usage while maintaining satisfactory graphics quality.</p>
+<p><strong>Feature Overview</strong></p>
+<p><strong>What is Tiered Client Resource Downloads?</strong></p>
+<p>Tiered Client Resource Downloads is a feature that allows you to select between different resource tiers. In future versions of Wuthering Waves, the original single resource package will be divided into three tiers based on differences in graphics quality, models, and other game assets: UHD, HD, and SD. You may select and download the tier that best suits the storage space and specifications of your device.</p>
+<p>This feature is designed to allow you to choose better graphics quality or lower storage space usage based on your actual gaming needs, thereby providing a better gaming experience.</p>
+<p><strong>Tier Specifications</strong></p>
+<p>Tiered Client Resource Downloads will be available for the PC, iOS, and Android versions of the game. The package tiers vary in in-game graphics quality, video bitrate, and other game assets. Supported platforms and tiers are outlined below:</p>
+<p>| | | |</p>
+<p>| --- | --- | --- |</p>
+<p>| <strong>Platform</strong> | <strong>Available Tiers</strong> | <strong>Maximum Number of Local Packages</strong> |</p>
+<p>| PC | UHD/HD/SD | Up to 3 packages (tiers) installed locally |</p>
+<p>| iOS/Android | HD/SD | Up to 1 package (tier) installed locally |</p>
+<p><em>Due to platform restrictions, platforms not listed above currently do not support resource tiering. Once this feature goes live, the HD package will be downloaded by default on those platforms.</em></p>
+<p><em>Due to hardware limitations, only the SD package is available on certain mobile devices, in order to ensure a stable, smooth gaming experience. Please refer to your actual in-game experience.</em></p>
+<p>Package Downloading &amp; Switching</p>
+<ul>
+<li>PC：</li>
+</ul>
+<p>Download your desired tier or tiers directly from the launcher. You can install up to 3 different tiers locally and switch between them any time. If you have multiple tiers installed, to run the game, simply choose one tier from the launcher to launch (only one can run at a time). If you need to uninstall a specific tier, select the corresponding package before uninstalling.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1790179200000/ra44knce3qj436ld16-1790244779956.jpeg" /></p>
+<ul>
+<li>iOS / Android:</li>
+</ul>
+<p>Select your desired package tier from the in-game &#34;Download Resources&#34; menu. Once the download is complete, you can redownload and switch to another tier via Settings &gt; Graphics &gt; Resource Quality.</p>
+<p><em>On mobile devices, every switch between packages requires downloading the difference between the HD and SD packages.</em></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1790179200000/f48jecwi96jekqev2d-1790244779832.jpeg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/images/1790179200000/3mwlvzyis9as4kmihz-1790244779922.jpeg" /></p>
+<p><strong>Test Schedule</strong></p>
+<ul>
+<li>
+<p>Test Participants and Test Schedule</p>
+</li>
+<li>
+<p>PC (※Official Launcher): The test will become gradually available on PC after the Version 3.7 update.</p>
+</li>
+<li>
+<p>iOS/Android Mobile: The test will become available on all iOS/Android mobile devices after the Version 3.7 update.</p>
+</li>
+<li>
+<p>Notes</p>
+</li>
+<li>
+<p>We will soon (during Version 3.6) make a PC launcher update available to some of the Rovers who are granted access to the limited test. However, the &#34;Tiered Client Resource Downloads&#34; feature will only go live after the Version 3.7 update. During Version 3.6, being granted access to the limited test will not affect your current gaming experience.</p>
+</li>
+<li>
+<p>Following the Version 3.7 update, PC users who have not been granted access to the limited test will have their resource package updated to the High-Definition (HD) version by default. Once you enter the test, you can adjust the resource tier based on your needs.</p>
+</li>
+</ul>
+<p><em>The feature will also be gradually made available on PC platforms with non-official launchers after the test concludes. Please stay tuned for future announcements.</em></p>
+<p><strong>Notes &amp; Reminders</strong></p>
+<p><strong>About Version 3.7 Pre-download</strong></p>
+<ul>
+<li>
+<p>PC (※Official Launcher):</p>
+</li>
+<li>
+<p>For Rovers who are granted access to the limited test and update the official launcher during Version 3.6, Version 3.7 pre-download will be temporarily unavailable due to cross-version functionality differences. You may select and download a suitable resource tier after the Version 3.7 update.</p>
+</li>
+<li>
+<p>For Rovers who do not gain access to the limited test during Version 3.6, pre-download will remain available, and if they use the pre-download feature, the HD resource tier will be downloaded by default. After gaining test access in Version 3.7, you can then choose a resource tier based on your needs.</p>
+</li>
+<li>
+<p>iOS/Android Mobile:</p>
+</li>
+<li>
+<p>Once Version 3.7 pre-download becomes available, only a portion of the resources will be pre-downloaded on iOS and Android mobile devices. The remaining tiered resources will be downloaded separately after the Version 3.7 update, based on the package selected.</p>
+</li>
+</ul>
+<p><em>The Pre-download feature from Version 3.7 onward will function as usual, and the pre-downloaded resources will be of the same tier as your currently selected resources.</em></p>
+<p><strong>How to Choose a Package Tier</strong></p>
+<p>After the Version 3.7 update, if you have been included in the limited test, the recommended package will be marked on your device based on the device specifications. Alternatively, you can refer to the following specs table to select the right package.</p>
+<ul>
+<li>PC</li>
+</ul>
+<p>| | | | | |</p>
+<p>| --- | --- | --- | --- | --- |</p>
+<p>| <strong>CPU</strong> | <strong>GPU</strong> | <strong>Recommended</strong> <strong>RAM</strong> | <strong>Recommended Resolution</strong> | <strong>Recommended Package</strong> |</p>
+<p>| Intel i7-12700/AMD R7 7700 | RTX4080/RX 7900 XT | 32G | 3840X2160 | UHD |</p>
+<p>| Intel i7-9700/AMD R7 3700X | RTX3060/RX6700XT/Arc B580 | 32G | 2560X1440 | HD |</p>
+<p>| Intel i5-9400/AMD R7 2700 | GTX 1060/RX 570/Arc A380 | 16G | 1920X1080 | SD |</p>
+<ul>
+<li>iOS</li>
+</ul>
+<p>| | | | |</p>
+<p>| --- | --- | --- | --- |</p>
+<p>| <strong>Model</strong> | <strong>Chip</strong> | <strong>RAM</strong> | <strong>Recommended Package</strong> |</p>
+<p>| iPhone14/iPad mini (6th generation) | A15 | 6G | HD |</p>
+<p>| iPhone11/iPad (9th generation) | A13 | 4G | SD |</p>
+<ul>
+<li>Android</li>
+</ul>
+<p>| | | |</p>
+<p>| --- | --- | --- |</p>
+<p>| <strong>Chipset</strong> | <strong>RAM</strong> | <strong>Recommended Package</strong> |</p>
+<p>| Snapdragon 8 Gen1/MediaTek Dimensity 9000/Kirin 9010/Exynos 2200 | 8G | HD |</p>
+<p>| Snapdragon 855/MediaTek Dimensity 1000/Kirin 980/Exynos 9820 | 6G | SD |</p>
+<p><strong>About In-Game Resource Adjustments</strong></p>
+<ul>
+<li>Graphics Resource Adjustments</li>
+</ul>
+<p>After the release of the &#34;Tiered Client Resource Downloads&#34; feature, the Ultra Quality option in the in-game Graphics Quality settings will be available only in the UHD package. Therefore, after Version 3.7 goes live, if you are not in the limited test, you will temporarily be unable to enable the Ultra Graphics option on PC. To enable this option, you need to download the UHD package first after entering the test.</p>
+<ul>
+<li>Video Resource Adjustments</li>
+</ul>
+<p>After the release of the &#34;Tiered Client Resource Downloads&#34; feature, bitrates of certain cutscenes and other video assets will be adjusted accordingly; consequently, visual fidelity may differ between packages.</p>
+<p>Following the Version 3.7 update, because PC users who have not been granted access to the limited test will download the HD package by default, the visual performance of certain video resources may be somewhat different from the previous versions. When you are granted test access, you can download the UHD package for higher bitrates.</p>
+<ul>
+<li>Future Resource Adjustments</li>
+</ul>
+<p>The upcoming &#34;Tiered Client Resource Downloads&#34; feature is currently under continuous optimization. In the future, we may adjust the resources included in each tier based on in-game performance and player feedback. The adjusted resources may differ slightly from those in the current test version. Announcements about adjustments in this regard will be made during the corresponding versions. Please stay tuned.</p>
+<p><strong>About Release Schedule on PC Platforms Using Non-official Launchers</strong></p>
+<ul>
+<li>Steam</li>
+</ul>
+<p>To bring the &#34;Tiered Client Resource Downloads&#34; feature to Steam, we plan to release the official launcher on this platform in the future. When the Official Launcher becomes available on Steam, the platform will also support pre-download for the game. Please remember to update your launcher and experience the new features. These features are currently under active development and will be made available as soon as possible. We will notify you of the release schedule and detailed instructions on how to update the launcher in future announcements. Please stay tuned.</p>
+<p><strong>FAQ</strong></p>
+<p>Q: Are package tiers the same as in-game graphics settings?</p>
+<p>A: No, they are different. The package tier determines the upper limit of the quality of the downloaded resources, such as image clarity and video bitrate, while in-game graphics settings remain adjustable. However, visual performance and resolution will vary from tier to tier even with the same graphics settings. For example, with the High Quality option enabled, the UHD package delivers higher image clarity and shows more details than the HD package.</p>
+<p>Q: What are the differences between the various package tiers?</p>
+<p>A: The package tiers vary in package size, video bitrate, and highest available resolution. For instance, the differences between the available tiers in Version 3.7 are as follows:</p>
+<p>| | | | | | |</p>
+<p>| --- | --- | --- | --- | --- | --- |</p>
+<p>| <strong>Platform</strong> | <strong>Package Tier</strong> | <strong>Size (excluding cutscenes)</strong> | <strong>Size (including cutscenes)</strong> | <strong>Recommended Resolution</strong> | <strong>Highest Available Graphics Quality</strong> |</p>
+<p>| PC | UHD | 99G | 128G | 3840X2160 | Ultra Quality |</p>
+<p>| HD | 80G | 97G | 2560X1440 | High Quality |</p>
+<p>| SD | 58G | 70G | 1920X1080 | Balanced |</p>
+<p>| iOS / Android | HD | 40G | 53G | / | High Quality |</p>
+<p>| SD | 35G | 43G | / | Balanced |</p>
+<p><em>Package sizes shown are estimates. Please refer to the actual sizes in Version 3.7.</em></p>
+<p>Q: How do I know which package to choose?</p>
+<p>A: If you have been included in the limited test, the recommended package will be marked on your device based on the device specifications. Alternatively, you can refer to the specs table listed in the &#34;How to Choose a Package Tier&#34; section.</p>
+<p>Q: Can I download a tier higher than what is recommended?</p>
+<p>A: Yes. The recommendation is made based on your device specifications. You are free to download any tier you prefer. However, downloading a tier higher than recommended will take up unnecessary storage space and could cause framerate fluctuations, device overheating, and other issues. Please adjust accordingly based on your experience.</p>
+<p><em>Due to hardware limitations, only the SD package is available on certain iOS/Android devices, in order to ensure a stable, smooth gaming experience.</em></p>
+<p>Q: How many packages can I install locally?</p>
+<p>A: Up to 3 different package tiers can be installed locally at the same time on PC; there is no need to uninstall existing tiers before downloading new ones. Only 1 package tier can be installed locally at the same time on mobile devices, and every switch between packages requires downloading the difference between the packages.</p>
+<p>Q: If I&#39;m in the limited test, can I exit it and pre-download Version 3.7?</p>
+<p>A: Unfortunately, once you enter the test during Version 3.6, you cannot exit it. You may select and download a suitable resource tier after the Version 3.7 update. Thank you for your support and understanding.</p>
+<p>Q: Will my access to the pre-download option be affected if I&#39;m not in the limited test?</p>
+<p>A: No. If you&#39;re not in the limited test, you can pre-download as normal, but the HD package will be pre-downloaded by default. For more details, please refer to the &#34;About Version 3.7 Pre-download&#34; section above.</p>
+<p>Q: Can I participate in the test if I&#39;m not using the official launcher on PC?</p>
+<p>A: The test is currently available only on PC devices using the official launcher. Access to this feature will be gradually opened to other PC platforms with non-official launchers once the test concludes. For details, please refer to the &#34;About Release Schedule on PC Platforms Using Non-official Launchers&#34; section.</p>
+<p>Q: Will the resources of each tier change in the future?</p>
+<p>A: The upcoming &#34;Tiered Client Resource Downloads&#34; feature is currently under continuous optimization. In the future, we may adjust the resources included in each tier based on in-game performance and player feedback. The adjusted resources may differ to some extent from those in the current test version. Announcements about adjustments in this regard will be made during the corresponding versions. Please stay tuned.</p>
+<p>We will continue to refine the &#34;Tiered Client Resource Downloads&#34; feature based on player feedback. If you encounter any issues or have any suggestions, please access the in-game [Feedback] feature to submit your feedback. Thank you for your support and understanding.</p>
+<p>Wuthering Waves Dev Team</p>]]></content>
+                    <published>2026-09-24T18:20:49+00:00</published>
+                    <updated>2026-09-24T18:20:49+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5476</id>
                     <title>Wuthering Waves Version 3.7 Update Maintenance Notice</title>
@@ -1410,91 +1570,6 @@
 <p>@fuwabouz</p>]]></content>
                     <published>2026-08-19T14:40:28+00:00</published>
                     <updated>2026-08-19T14:40:28+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5318</id>
-                    <title>[Version 3.6 Featured Resonator/Weapon Convene: Phase I]</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5318" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>[False Promise for Tomorrow] Featured Resonator Convene</p>
-<p>During the event, 5-Star Resonator: Denia, 4-Star Resonators: Yangyang, Baizhi, and Sanhua receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 3.6 update - 2026-09-10 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[False Promise for Tomorrow] is a Featured Resonator Convene event banner. Use Radiant Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Resonator Convene events and is carried over until a 5-Star Resonator is obtained.</p>
-</li>
-<li>
-<p>Featured Resonator Denia is exclusive to the [False Promise for Tomorrow] Featured Resonator Convene and will not be available by other means once the event ends.</p>
-</li>
-<li>
-<p>Featured Resonator Denia&#39;s Waveband will be simultaneously made available in the Afterglow Coral Store with a limit of 2 purchases, and it will be removed once the Convene event ends.</p>
-</li>
-<li>
-<p>During the event, all the Resonators who receive boosted drop rates will become available in Ascendant Aces as Trial Resonators. Complete their Ascendant Aces challenges to obtain rewards.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/s3e99j6gid2i7a2hx6-1786959176595.jpg" /></em></p>
-<p>[Forged Dwarf Star] Featured Weapon Convene</p>
-<p>During the event, 5-Star Weapon: Forged Dwarf Star, 4-Star Weapons: Commando of Conviction, Fusion Accretion, and Lunar Cutter receive boosted drop rates!</p>
-<h1>Duration</h1>
-<p>Version 3.6 update - 2026-09-10 09:59 (server time)</p>
-<h1>Eligibility</h1>
-<ul>
-<li>
-<p>Reach Union Level 5.</p>
-</li>
-<li>
-<p>Or complete the combat trial in First Resonance.</p>
-</li>
-<li>
-<p>Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a certain point.</p>
-</li>
-</ul>
-<h1>Convene Rules</h1>
-<ul>
-<li>
-<p>[Absolute Pulsation] is a Featured Weapon Convene event banner.</p>
-</li>
-<li>
-<p>Use Forging Tide to convene. You are guaranteed at least one 4-Star or higher rarity Resonator or Weapon every 10 attempts.</p>
-</li>
-<li>
-<p>The guarantee count is shared among all Featured Weapon Convene events and is carried over until a 5-Star Weapon is obtained.</p>
-</li>
-<li>
-<p>The 5-Star Weapon you Convene is guaranteed to be Forged Dwarf Star.</p>
-</li>
-<li>
-<p>Featured Weapon &#34;Forged Dwarf Star&#34; is exclusive to the Featured Weapon Convene and will not be available by other means once the event ends.</p>
-</li>
-</ul>
-<p><em>For more details, please refer to the in-game Convene page.</em></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1786896000000/ouyx6116p6zaz26t3p-1786959305113.jpg" /></p>]]></content>
-                    <published>2026-08-17T17:35:40+00:00</published>
-                    <updated>2026-08-17T17:35:40+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
