@@ -12,6 +12,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 ## Articles
 
 - [About Tiered Client Resource Downloads](https://wutheringwaves.kurogames.com/en/main/news/detail/5513) [[json]](articles/5513.json)
+- [Post-Lament Anthropocene: Stars Intertwined | Hsin](https://wutheringwaves.kurogames.com/en/main/news/detail/5497) [[json]](articles/5497.json)
 - [Wuthering Waves Version 3.7 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/5476) [[json]](articles/5476.json)
 - [Post-Lament Anthropocene: Enemies — Collection of Small & Medium Size Echoes in Mengzhou: Land of Xuanfang](https://wutheringwaves.kurogames.com/en/main/news/detail/5460) [[json]](articles/5460.json)
 - [Wuthering Waves Version Preview | Version 3.7 "Prism's Illusion, Heart's Illumination" Scheduled for Release on September 30th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5454) [[json]](articles/5454.json)
