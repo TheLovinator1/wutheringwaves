@@ -13,6 +13,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 - [New Region Preview I | Simulacrum Nexus of Mengzhou, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5521) [[json]](articles/5521.json)
 - [About Tiered Client Resource Downloads](https://wutheringwaves.kurogames.com/en/main/news/detail/5513) [[json]](articles/5513.json)
+- [Resonator Review | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/5498) [[json]](articles/5498.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Hsin](https://wutheringwaves.kurogames.com/en/main/news/detail/5497) [[json]](articles/5497.json)
 - [Profile Reveal | Fractal Proliferation — Hsin](https://wutheringwaves.kurogames.com/en/main/news/detail/5492) [[json]](articles/5492.json)
 - [Wuthering Waves Version 3.7 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/5476) [[json]](articles/5476.json)
