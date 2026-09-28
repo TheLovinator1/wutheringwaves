@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [New Region Preview II | Simulacrum Nexus of Mengzhou, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5532) [[json]](articles/5532.json)
+- [Wuthering Waves Update Content | Version 3.7 "Prism's Illusion, Heart's Illumination" Planned for Release on September 30th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5529) [[json]](articles/5529.json)
 - [New Region Preview I | Simulacrum Nexus of Mengzhou, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5521) [[json]](articles/5521.json)
 - [About Tiered Client Resource Downloads](https://wutheringwaves.kurogames.com/en/main/news/detail/5513) [[json]](articles/5513.json)
 - [Resonator Review | Eye of Unraveling — Chisa](https://wutheringwaves.kurogames.com/en/main/news/detail/5498) [[json]](articles/5498.json)

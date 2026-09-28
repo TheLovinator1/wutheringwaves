@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-26T13:08:39+00:00</updated>
+    <updated>2026-09-28T16:04:28+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,36 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5532</id>
+                    <title>New Region Preview II | Simulacrum Nexus of Mengzhou, Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5532" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/b8zqnyou56ejwymeio-1790587080238.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/zfjfbxl3eogknuctg8-1790588859864.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/tlwuznwdnj5p35l4kb-1790588939007.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/lvpt525gb153cve96s-1790588956813.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/0m2upg1i4igdzihhxi-1790587341365.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/4811849r5gf0o3gdqt-1790587396249.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/sbace11i160lpagjyu-1790588999522.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/4n84ikg9d5pmjhx466-1790589036500.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/ik1t7xbu2uifgji0ua-1790589088115.gif" /></p>]]></content>
+                    <published>2026-09-28T16:04:28+00:00</published>
+                    <updated>2026-09-28T16:04:28+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5529</id>
+                    <title>Wuthering Waves Update Content | Version 3.7 &#34;Prism&#39;s Illusion, Heart&#39;s Illumination&#34; Planned for Release on September 30th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5529" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/lhdi179svdjham40sc-1790578113847.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/pdhlordq6txzihumi3-1790577900644.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/b307u53274ngsynr6w-1790578044718.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/0rioucn8tj7k7gjeo5-1790578091396.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/jmmsmfjj8n2426xkrb-1790586045104.jpg" /></p>]]></content>
+                    <published>2026-09-28T14:54:24+00:00</published>
+                    <updated>2026-09-28T14:54:24+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5521</id>
                     <title>New Region Preview I | Simulacrum Nexus of Mengzhou, Coming Soon!</title>
