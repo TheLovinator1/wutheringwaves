@@ -11,6 +11,8 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Resonator Review | Stasis, Cycle, Renewal — Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/5557) [[json]](articles/5557.json)
+- [Event Preview | [Cubie Wars] Leisure Event Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5555) [[json]](articles/5555.json)
 - [[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅰ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5546) [[json]](articles/5546.json)
 - [New Region Preview II | Simulacrum Nexus of Mengzhou, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5532) [[json]](articles/5532.json)
 - [Wuthering Waves Update Content | Version 3.7 "Prism's Illusion, Heart's Illumination" Planned for Release on September 30th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5529) [[json]](articles/5529.json)

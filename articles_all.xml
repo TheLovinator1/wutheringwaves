@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-28T20:51:59+00:00</updated>
+    <updated>2026-09-29T14:41:51+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,38 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5557</id>
+                    <title>Resonator Review | Stasis, Cycle, Renewal — Iuno</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5557" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>She is favored by fate under one name, and swept away by it in another. Yet never once has she been defeated, nor has she ever yielded.</p>
+<p>Now, witness the defiant Priestess. Witness what keeps her striding forward, never to look back. Witness how she walks the intricate web of destiny and becomes the only answer.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/ozezjqhf2qr46xr2jz-1790663786434.jpg" /></p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/jxkmn2u2ry849l30zd-1790663498171.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/kw4xe0o5dupem375qo-1790663586277.jpg" /></p>]]></content>
+                    <published>2026-09-29T14:41:51+00:00</published>
+                    <updated>2026-09-29T14:41:51+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
+                <entry>
+                    <id>urn:article:5555</id>
+                    <title>Event Preview | [Cubie Wars] Leisure Event Coming Soon!</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5555" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/jq9dtlykl5qkm8i72a-1790655752989.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/309ttohi4vltp4coso-1790662411803.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/jzrwru2ww62ur3ul57-1790655898432.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/ifhm1ezx7kenyl5mn8-1790655850393.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/l0p31ax2fy2m69qmzv-1790655868026.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/7d9ggld8vum42jaxja-1790662004123.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/9n1sbat1w1oi29j10v-1790655962735.gif" /></p>]]></content>
+                    <published>2026-09-29T14:17:05+00:00</published>
+                    <updated>2026-09-29T14:17:05+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5546</id>
                     <title>[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅰ]</title>
