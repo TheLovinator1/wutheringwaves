@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅰ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5546) [[json]](articles/5546.json)
 - [New Region Preview II | Simulacrum Nexus of Mengzhou, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5532) [[json]](articles/5532.json)
 - [Wuthering Waves Update Content | Version 3.7 "Prism's Illusion, Heart's Illumination" Planned for Release on September 30th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5529) [[json]](articles/5529.json)
 - [New Region Preview I | Simulacrum Nexus of Mengzhou, Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5521) [[json]](articles/5521.json)
