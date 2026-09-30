@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-09-29T14:41:51+00:00</updated>
+    <updated>2026-09-29T19:18:45+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,660 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5571</id>
+                    <title>Patch Notes for Wuthering Waves Version 3.7: Prism&#39;s Illusion, Heart&#39;s Illumination</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5571" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790611200000/dngsdsx5ljkeowz86m-1790680670533.jpg" />Dear Rovers,</p>
+<p>Thank you for your continued support. The following is a summary of content that will become available in Version 3.7: Prism&#39;s Illusion, Heart&#39;s Illumination.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time:</strong> <strong>2026-09-30 04:00 - 2026-09-30 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2026-09-30 04:00 (UTC+8). The compensation will remain claimable until the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<p><strong>✦Bug Fixes: Compensation Astrite x300</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2026-09-30 04:00 (UTC+8). The compensation will remain claimable until the next version update.</strong></p>
+<p><strong>[Version Update Details]</strong></p>
+<h1>New Resonators</h1>
+<p><strong>5-Star Resonator: Hsin (Electro/Rectifier)</strong></p>
+<p>Sentinel Hsin, guide of Mengzhou&#39;s civilization. Deeply emotional and fond of worldly joys, She has long kept the fires of mortal life burning amid the bustle of trade and the shifting of seasons.</p>
+<h2>Combat Roles: Main Damage Dealer, Coordinated Attack, Resonance Skill DMG, Unison, Electro Flare</h2>
+<p><em>Obtainable through the [As Full as Tonight, Forever] Featured Resonator Convene.</em></p>
+<p><strong>5-Star Resonator: Suoming (Electro/Sword)</strong></p>
+<p>Born in Huating, Mengzhou, she founded the Ten Seals Covenant as its Seal Master to liberate her homeland from the Evil Miasma. Later, by the Sentinel&#39;s decree, she served as Intendant of the Ministry of Sentinel Affairs, watching over all of Mengzhou.</p>
+<h2>Combat Roles: Concerto Efficiency, Basic Attack DMG, Unison, Electro DMG Amplification, Resonance Skill DMG Amplification</h2>
+<p><em>Obtainable through the [Nine Deaths, One Unbent Heart] Featured Resonator Convene.</em></p>
+<h1>New Weapons</h1>
+<p><strong>5-Star Weapon: Blooming Jadehaven (Rectifier)</strong></p>
+<p>Jade to pillars, gold to nexus, a hundred mechanisms meshed into one working. Infinite forms divide and proliferate among the blooms, and it still fits in the palm of Her hand.</p>
+<p>Walls and mechanisms know no feeling. What makes a life&#39;s work worth the life is not the making, but that something in it was loved.</p>
+<p><em>Obtainable through the [Blooming Jadehaven] Featured Weapon Convene.</em></p>
+<p><strong>5-Star Weapon: Unspoken Rue (Sword)</strong></p>
+<p>With this canopy, she sheltered all life and sealed the Evil Miasma.</p>
+<p>The Blight Rain ceased, the Miasmic Thunder fell silent, and a deep darkness lies trapped upon the canopy&#39;s surface.</p>
+<p>Beneath it linger the shadows of no return, always walking by her side.</p>
+<p><em>Obtainable through the [Unspoken Rue] Featured Weapon Convene.</em></p>
+<h1>New Area</h1>
+<p><strong>Simulacrum Nexus of Mengzhou</strong></p>
+<p><strong>Area includes: Heartscape Labyrinth, Heart of Flames, Heart of Frost, Heart of Bloom, Heart of Stillness, Heart of Ruin, Heart of Appearance</strong></p>
+<p>Xuanfang Hold&#39;s control mainframe, otherwise known as the Manifold Sanctum, governing the foundational order that keeps the city running.</p>
+<p><em>Reach the location during Main Quest Chapter IV Act IV &#34;Simulacrum of the Heartt.&#34;</em></p>
+<h1>New Echoes</h1>
+<p>Formrender, Soulfrayer, Skywatch Lancer, Bloomburst Puppet, Jade Nether Serpent and one new COST 4 Echo</p>
+<p>**</p>
+<h2>New Sonata Effects: Heart of Sworn Vigil (5pcs Set), Flash of Electric Reflection (5pcs Set), Flower of Tinged Yearning (5pcs Set)**</h2>
+<p>Heart of Sworn Vigil (5pcs Set): Inflicting Electro Flare on the target, obtaining Unison, or triggering Unison Response increases the Resonator&#39;s Crit. Rate by 15% and grants them 22.5% Electro DMG for 30s.</p>
+<p>Flash of Electric Reflection (5pcs Set): When the Resonator inflicts Electro Flare on enemies, they gain the following effects: Gain 10% Electro DMG Bonus for 15s. While this effect is active, casting Outro Skill grants the incoming Resonator 25% Electro DMG Bonus for 15s.</p>
+<p>Flower of Tinged Yearning (5pcs Set): Healing a Resonator in the team increases the ATK of all Resonators in the team by 10% for 30s. Effects of the same name do not stack. While the effect is active, if the Resonator gains Unison effect or triggers Unison Response, their ATK is further increased by 15%.</p>
+<p>**</p>
+<h2>New Tacet Fields: Heart of Stillness Tacet Field, Heart of Flames Tacet Field**</h2>
+<p>**</p>
+<h2>New Tacet Discord Nest: Simulacrum Nexus Tacet Discord Nest**</h2>
+<h1>New Stories</h1>
+<p><strong>[Main Quest] Chapter IV Act IV: Simulacrum of the Heart</strong></p>
+<p>The Waking Moon Festival is drawing near in the Land of Xuanfang, yet rumors that &#34;the Hold is doomed to fall&#34; have begun to spread through the city. To uncover the cause—and to find Hsin, who has not shown Herself for a long time—you enter the Simulacrum Nexus deep within the Sanctum, together with Suoming, an Intendant who claims to have been sent by the Ministry of Sentinel Affairs in search of Hsin the Moon Fox.</p>
+<ul>
+<li>
+<p>Duration: Permanently available after Version 3.7 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter IV Segue &#34;The Nethermancer&#39;s Requiem&#34; to unlock.</p>
+</li>
+</ul>
+<p><strong>New Quest Type</strong></p>
+<p><strong>Tales Quest: Moonlike Heart, Mortal Longing</strong></p>
+<p>A mysterious girl approaches you on WavesLine, asking for your help to collect the scattered Feeling Capsule Shards.</p>
+<ul>
+<li>
+<p>Duration: Permanently available after Version 3.7 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter IV Act IV &#34;Simulacrum of the Heart.&#34;</p>
+</li>
+</ul>
+<h1>New Events &amp; Gameplay Features</h1>
+<p><strong>[Special Events] [Cubie Wars] Leisure Event</strong></p>
+<p>With Encore&#39;s help, the Second Coming of Solaris has built a Wooly Stage for the Cubie Wars. On this stage, the Cubie Warriors will make use of magical items to wage a fierce battle!</p>
+<ul>
+<li>Duration: Version 3.7 Update - 2026-11-11 11:59 (server time)</li>
+</ul>
+<p><strong>[Dreams in the Capsule] Area Exploration Event</strong></p>
+<p>Here Mengzhou&#39;s mountains and rivers, its woods and wilds, meet its pavilions and towers, the very place the people of Mengzhou, bound to one another across time, make their homes and live out their lives. Peace and quiet, ardor and flame, despondency and sorrow, every feeling there is settles into a Heart Realm of its own, continuing without end. In this small world, the Court of Savantae and Hsin are shaping the face of Mengzhou anew.</p>
+<p>This is the Simulacrum Nexus.</p>
+<ul>
+<li>Duration: Version 3.7 Update - 2026-11-11 03:59 (server time)</li>
+</ul>
+<p><strong>[Past Dreams, Traced Seals] Photo Collection Event</strong></p>
+<p>Hsin has arranged a task for Suoming, asking you to join her in recording the sights of the Simulacrum Nexus of Mengzhou.</p>
+<p>A trip &#34;down memory lane&#34; that draws out the long-sealed memories of the Ten Seals Covenant…</p>
+<ul>
+<li>Duration: Permanently available after Version 3.7 update.</li>
+</ul>
+<p><strong>[Artisan&#39;s Search] Featured Combat Event</strong></p>
+<p>Lisha, apprentice Artisan, reporting for duty!</p>
+<ul>
+<li>Duration: 2026-10-08 04:00 - 2026-10-26 03:59 (server time)</li>
+</ul>
+<p><strong>[Echo Erase] Leisure Event</strong></p>
+<p>The latest flagship offering from Second Coming of Solaris! Come experience the fun of tapping Echo Pieces away!</p>
+<ul>
+<li>Duration: 2026-10-22 10:00 - 2026-11-09 03:59 (server time)</li>
+</ul>
+<p><strong>[Beyond the Waves: Land of Xuanfang] Featured Exploration Event</strong></p>
+<p>During the event, you can complete event tasks once per day to obtain a set number of Adventure Logs. Each Adventure Log can be exchanged for an Adventure Package.</p>
+<ul>
+<li>Duration: 2026-10-29 04:00 - 2026-11-11 03:59 (server time)</li>
+</ul>
+<p><strong>[Gifts of Waking Moon] 7-Day Login Event</strong></p>
+<p>During the event, log in to claim the day&#39;s login rewards from the event page.</p>
+<ul>
+<li>Duration: Version 3.7 Update - 2026-11-11 03:59 (server time)</li>
+</ul>
+<p><strong>[Version Special Login Event]</strong></p>
+<p><strong>[Gifts of Singing Drizzle] Limited-Time Login Event</strong></p>
+<p>After the event starts, log in to the game daily to add one day to your cumulative login days. Sign-in records refresh daily at 04:00 server time. Once your cumulative login days meet the requirement, the corresponding cumulative login reward will be ready to claim.</p>
+<p><strong>✦Duration: 2026-10-22 10:00 - 2026-11-11 03:59 (server time)</strong></p>
+<h1>Rewards</h1>
+<p><strong>[Log in for 1 day in total]: Radiant Tide x5, Premium Tuner x100</strong></p>
+<p><strong>[Log in for 3 days in total]: Radiant Tide x5, Crystal Solvent x5</strong></p>
+<p><strong>[Web Events]</strong></p>
+<p><strong>[Waking Moon Fishing] Web Event</strong></p>
+<p>The Waking Moon Festival is underway. Lights shine everywhere. Then a mysterious stall appears right in front of you...</p>
+<p>Participate in the fishing challenge and unlock entries in the Fishing Index to win Astrites! And complete event tasks to win Advanced Sealed Tubes and more.</p>
+<ul>
+<li>Duration: 2026-10-15 10:00 - 2026-11-01 09:59 (UTC+8)</li>
+</ul>
+<p><strong>[Back to Solaris] Web Event</strong></p>
+<p>Invite your former companions back and complete tasks together to receive Astrites, Shell Credits, and more! Returning Rovers who link their accounts will also receive bonus gifts! With code linking rewards available for Returning Players!</p>
+<ul>
+<li>Duration: Version 3.7 Update - 2026-11-11 23:59 (UTC+8)</li>
+</ul>
+<p><strong>[New Permanent Event]</strong></p>
+<p><strong>Blooms for the Shadow</strong></p>
+<p>Looming over the Simulacrum Nexus of Mengzhou, the Nexus Fox Shadow watches the realm with cold detachment. Everything within the Heart Realms is born of Hsin&#39;s heart, and shifts as it does. This towering shadow, a manifestation of the heart, is bound up in that same interplay, shaping and shaped by the Heart Realms in turn.</p>
+<p>However, a conversation with a Celestial from the Court of Savantae has revealed something new: the Fox Shadow reacts to a specific token within the Simulacrum Nexus...</p>
+<ul>
+<li>Duration: Permanently available after Version 3.7 update.</li>
+</ul>
+<h1>New Merch</h1>
+<h2>Accessories: Hsin - Spring in Bloom, Suoming - Glazed Roseate</h2>
+<p>WavesLine Looks: Light of Waking Moon (WavesLine Theme), Solicitude of the Heart (WavesLine Decor), Glow of Lanterns (Chat Background), Rice Cake (Chat Bubble)</p>
+<p><strong>The Moonlit Path event will be available in Version 3.7. During the event, obtain Moonlit Rings unlock the following new rewards.</strong></p>
+<h2>Accessories: Hsin - Where Dreams Shine Clear, Rover - Not Even Close</h2>
+<h2>Sigil: Not Even Close</h2>
+<h2>Avatar: Abby Tossing</h2>
+<h2>Motorbike Accessory: Hsin Cube</h2>
+<h2>Collection Item: Cloudview Seat</h2>
+<p><em>Collection Items can be equipped on the Utility Wheel and used in the Overworld.</em></p>
+<h1>Other New Content</h1>
+<h2>Sigils: Showtime, All Forms in One Heart</h2>
+<h2>Avatar: Wooly&#39;s Blessing</h2>
+<h2>Motorbike Livery: Fox Shadow at Sunset</h2>
+<h2>Phantom Echo: Phantom: Skywatch Lancer, Phantom: Smolder</h2>
+<p><em>Sigil: Showtime and Avatar: Wooly&#39;s Blessing can be obtained by participating in the Leisure Event &#34;Cubie Wars.&#34;</em></p>
+<p><strong>[Adjustments and Optimizations]</strong></p>
+<h1>Features</h1>
+<p>**</p>
+<h2>Backpack:**</h2>
+<p><strong>Optimized Echo Backpack Storage</strong></p>
+<ul>
+<li>
+<p>All unequipped, non-upgraded Echoes in your Echo Backpack that share the same Echo type, Sonata Effect, and Mainstat will automatically stack into a single backpack item.</p>
+</li>
+<li>
+<p>Each backpack item can hold up to 999 Echoes. The excess will be removed.</p>
+</li>
+<li>
+<p>Adjusted the placement of the pieces of information displayed on Echo icons.</p>
+</li>
+<li>
+<p>After Version 3.7 goes live, all your Echoes will automatically stack. Locked/Discarded Echoes that meet the stack requirements will stack according to the following rules.</p>
+</li>
+</ul>
+<ol>
+<li>
+<p>Locked Echoes and Non-locked Echoes will be marked &#34;Locked&#34; and stack together.</p>
+</li>
+<li>
+<p>Discarded Echoes and Unmarked Echoes will be marked &#34;Discarded&#34; and stack together.</p>
+</li>
+<li>
+<p>Locked Echoes and Discarded Echoes will be marked &#34;Locked&#34; and stack together.</p>
+</li>
+</ol>
+<p>**</p>
+<h2>Echo Recommendation**</h2>
+<p><strong>Optimized Display of Echo Recommendation Screen</strong></p>
+<ul>
+<li>
+<p>On the Suggest screen for Echo Recommendation, with Resonators who have two Resonance Modes, Resonance Mode-specific Echo sets will be recommended. If a popular set is the same as the default recommendation, the corresponding Resonance Mode icon will be displayed.</p>
+</li>
+<li>
+<p>The above information will be synced to the Suggest menu for Echo Equipment.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Team**</h2>
+<p><strong>Added Team Management</strong></p>
+<ul>
+<li>
+<p>You can drag to reorder your teams via the Team Management menu.</p>
+</li>
+<li>
+<p>You can also rename your teams. (The name of a team is displayed in the top left corner of the screen.)</p>
+</li>
+<li>
+<p>The number of team setups has been increased to 20.</p>
+</li>
+</ul>
+<p><strong>Added Lineup 3D Display</strong></p>
+<ul>
+<li>
+<p>A 3D/2D button will appear in the top right corner of the Team screen, allowing you to switch between 3D and 2D display. (※2D is the default.)</p>
+</li>
+<li>
+<p>Select the 3D option to display your Resonators in 3D mode.</p>
+</li>
+<li>
+<p>Added the Preset Teams menu to the lineup page for Tower of Adversity, allowing you to select one of the Preset Teams for a challenge.</p>
+</li>
+<li>
+<p>3D Display is not available on devices with the following configurations:</p>
+</li>
+</ul>
+<ol>
+<li>iOS:</li>
+</ol>
+<p>RAM≤ 4GB</p>
+<ol start="2">
+<li>Android:</li>
+</ol>
+<p>RAM≤ 6GB.</p>
+<p><em>Enabling 3D Display may contribute to the device load. Please choose the suitable option based on the performance of your device.</em></p>
+<p><em>The current 3D Display feature is not the final version. We will continue to refine this feature in further versions in terms of visuals and device load.</em></p>
+<p>**</p>
+<h2>Camera Mode:**</h2>
+<p><strong>Improved Functionality &amp; Usability</strong></p>
+<ul>
+<li>
+<p>New UI, with the previously available features intact.</p>
+</li>
+<li>
+<p>Added more shooting modes and adjustable parameters.</p>
+</li>
+</ul>
+<p><strong>New Shooting Modes</strong></p>
+<ul>
+<li>
+<p>Handheld mode, allowing you to adjust the character&#39;s line of sight.</p>
+</li>
+<li>
+<p>Selfie mode, allowing you to take photos of Rover in various poses and expressions. (※Only Rover is available in Selfie mode.)</p>
+</li>
+<li>
+<p>Added a drone view to the original shooting mode, allowing you to capture expansive panoramic views from great distances.</p>
+</li>
+</ul>
+<p><strong>New Supportive Features</strong></p>
+<ul>
+<li>
+<p>Added reference lines, allowing you to better frame and adjust shots.</p>
+</li>
+<li>
+<p>Added lens templates, allowing you to select among the preset lens templates.</p>
+</li>
+<li>
+<p>Added Quick Focus, allowing you to focus the camera on your subject by clicking on it. After using Quick Focus, you can adjust the Focus Distance with your subject as a reference.</p>
+</li>
+</ul>
+<p><strong>Added On-character Lighting Templates</strong></p>
+<ul>
+<li>Select lighting templates to adjust the lighting effects on the current Resonator. You may adjust the Lighting Direction.</li>
+</ul>
+<p><em>We will continue to refine the on-character lighting parameters and bring you more options in this regard. Please stay tuned.</em></p>
+<p><strong>Added Environmental Settings</strong></p>
+<ul>
+<li>
+<p>You can adjust environmental settings such as Time, Weather, and Foliage Wind Direction in the Environment tab. (Changes to Time may take some time to take effect.)</p>
+</li>
+<li>
+<p>Added the Atmosphere effect option. You can adjust the effect density.</p>
+</li>
+<li>
+<p>With the Foliage Wind Direction option, you can adjust the wind direction, along with the wind strength. The wind direction and strength will affect how the foliage and the Atmosphere objects move.</p>
+</li>
+<li>
+<p>The Environmental Settings apply only to Camera mode.</p>
+</li>
+</ul>
+<p><strong>Added Preset Frames</strong></p>
+<ul>
+<li>
+<p>You can add a preset frame to the photo you are taking.</p>
+</li>
+<li>
+<p>Added the selectable &#34;Wuthering Waves&#34; logo to the photo you are taking (the size of the logo is adjustable.)</p>
+</li>
+</ul>
+<p><strong>Optimized Global Filter Settings</strong></p>
+<ul>
+<li>
+<p>In addition to the preset Filters in camera mode, there are also an adjustable Color Palette and other adjustable advanced parameters.</p>
+</li>
+<li>
+<p>The Global Filter settings in Camera mode do not affect the Global Filter settings for and the display of the Overworld.</p>
+</li>
+</ul>
+<h1>Leveling</h1>
+<p>**</p>
+<h2>Synthesis:**</h2>
+<p><strong>Added One-Way Conversion</strong></p>
+<ul>
+<li>
+<p>Access this feature via Synthesis &gt; Conversion &gt; One-Way Conversion</p>
+</li>
+<li>
+<p>Added a method of obtaining Regenerative Pistils (Bioprinting material). You can convert collectible Resonator Ascension materials found within Jinzhou, Black Shores, Rinascita, Roya Frostlands, and Mengzhou, via One-Way Conversion, into Regenerative Pistils.</p>
+</li>
+</ul>
+<h1>Challenges, Puzzles, &amp; Events</h1>
+<p>**</p>
+<h2>Weekly Activity:**</h2>
+<p>Partially Adjusted Gameplay of &#34;Fantasies of the Thousand Gateways&#34;</p>
+<ul>
+<li>
+<p>Added Sigils associated with Flashburn (Fusion Burst) and Frostbane (Glacio Chafe).</p>
+</li>
+<li>
+<p>Added gameplay content associated with Metaphors and Shop Items.</p>
+</li>
+<li>
+<p>Optimized the mechanics of how Popular Teams recommendations are made in Tower of Adversity.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Quests**</h2>
+<p>**</p>
+<h2>Journey Log:**</h2>
+<p><strong>Added Main Quest Replay Mode</strong></p>
+<ul>
+<li>
+<p>After Version 3.7 is released, you can replay the Main Quests of Version 1.1: Thaw of Eons, Version 1.2: In the Turquoise Moonglow, and Version 1.3: To the Shore&#39;s End.</p>
+</li>
+<li>
+<p>If you&#39;ve already completed the above-mentioned Main Quests, go to Quests &gt; Journey Log. To enter Replay Mode, press &#34;Replay&#34; on any of the Main Quests available for Replay. ※(To unlock Version 1.2: In the Turquoise Moonglow in Replay Mode, complete the Main Quest of Version 1.1 first.)</p>
+</li>
+<li>
+<p>Your progress is automatically saved when you exit Replay Mode. You can resume from where you left off in the Journey Log, or reset your progress manually.</p>
+</li>
+</ul>
+<p><em>Some Main Quest-exclusive Trophies can be obtained through Replay Mode, but Items obtained during Replay Mode only exist there and won&#39;t carry over.</em></p>
+<p><em>We will continue to refine the Journey Log feature and include more Quests in Replay Mode. Please stay tuned.</em></p>
+<ul>
+<li>Optimized the quest flow and instructions of the Daily Quest &#34;Short Days, Shorter Nights&#34; and increased its daily reset frequency.</li>
+</ul>
+<h1>UI</h1>
+<ul>
+<li>
+<p>Added a display of reward collection progress for certain gameplay features available in the Simulacrum Nexus of Mengzhou. When you&#39;re experiencing a specific gameplay feature, press the icon that appears next to the mini map in the top left corner of the screen to view your reward collection progress for the gameplay feature.</p>
+</li>
+<li>
+<p>Adjusted the information that is displayed upon pressing certain icons on the map. When icons associated with certain gameplay features available in the Simulacrum Nexus of Mengzhou are selected, the displayed information will now include your reward collection progress.</p>
+</li>
+<li>
+<p>Optimized the display of certain icons.</p>
+</li>
+</ul>
+<h1>Graphics &amp; Performance</h1>
+<p>**</p>
+<h2>Graphics Settings**</h2>
+<p><strong>Extended Availability of Vulkan on Mobile</strong></p>
+<p>Following the Version 3.7 update maintenance, the Vulkan option can also be enabled on the following processors:</p>
+<ol>
+<li>
+<p>Kirin Series: Kirin 8000, Kirin 8000A</p>
+</li>
+<li>
+<p>Dimensity Series: Dimensity 7200, Dimensity 7200-Ultra, Dimensity 8000, Dimensity 8100, Dimensity 8100-MAX, Dimensity 8200, Dimensity 8200-Ultimate, Dimensity 8200-Ultra, Dimensity 8250 Star Speed Edition, Dimensity 7300, Dimensity 7300-Ultra, Dimensity 8300-Ultra, Dimensity 8350, Dimensity 7500</p>
+</li>
+<li>
+<p>Exynos Series: Exynos 1480</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>This option is accessible via Settings &gt; Graphics &gt; Vulkan. Please restart the game after enabling the Vulkan option for the change to take effect.</p>
+</li>
+<li>
+<p>Enabling the Vulkan option improves the game&#39;s performance and power consumption while it is being run on mobile.</p>
+</li>
+</ul>
+<p><em>Additionally, the Vulkan option will now be on by default on mobile devices equipped with Exynos 2600, Exynos 2500, Exynos 2400, Exynos 2200, or Exynos 1480, for better performance.</em></p>
+<p>Extended Availability of Self-developed Frame Generation on Mobile</p>
+<ul>
+<li>
+<p>Extended support for self-developed frame generation to mobile devices equipped with Dimensity 9300 and Dimensity 9300+. If your processor meets the requirements, you can enable this option via Settings &gt; Graphics &gt; Frame Generation after enabling Vulkan.</p>
+</li>
+<li>
+<p>Running the game with the &#34;Frame Generation&#34; option enabled at 60FPS (maximum) consumes less power than running the game at 60FPS without the option enabled.</p>
+</li>
+</ul>
+<h1>Audio</h1>
+<ul>
+<li>Optimized some audio/stereo effects.</li>
+</ul>
+<h1>Other</h1>
+<ul>
+<li>
+<p>Optimized instructional text that appears while driving the motorbike in certain scenarios.</p>
+</li>
+<li>
+<p>Optimized the descriptions of certain in-game settings and functions.</p>
+</li>
+</ul>
+<h1>Online Testing</h1>
+<p>**</p>
+<h2>Limited Test**</h2>
+<p><strong>Tiered Client Resource Downloads</strong></p>
+<ul>
+<li>
+<p>Tiered Client Resource Downloads is a feature that allows you to select between different resource tiers. In future versions of Wuthering Waves, the original single resource package will be divided into three tiers based on differences in graphics quality, models, and other game assets: UHD, HD, and SD. You may select and download the tier that best suits the storage space and device specifications of your device.</p>
+</li>
+<li>
+<p>Test Participants and Test Schedule:</p>
+</li>
+</ul>
+<ol>
+<li>
+<p>PC (※Official Launcher): The test will become available in stages on PC after the Version 3.7 update.</p>
+</li>
+<li>
+<p>iOS/Android Mobile: The test will become available on all iOS/Android mobile devices after the Version 3.7 update.</p>
+</li>
+</ol>
+<p><em>The test schedule may be subject to change due to version stability or other considerations. Please refer to the announcement titled &#34;About Tiered Client Resource Downloads&#34; for more information about the test, available features, and FAQ.</em></p>
+<p><em>This feature is at the testing stage and is not the final version.</em></p>
+<p>**</p>
+<h2>Full-scale Test**</h2>
+<p><strong>&#34;New Programming Language&#34; Cross-Platform Performance Optimization</strong></p>
+<ul>
+<li>
+<p>We have conducted several rounds of testing for the &#34;New Programming Language&#34; performance optimization in Version 3.6 and have verified its stability. The limited test phase ended on 2026-09-09 at 15:00 (UTC+8). This optimization is now available to all players across all platforms.</p>
+</li>
+<li>
+<p>On devices that meet the requirements across all platforms, the game&#39;s overall performance and average frame rate will improve to a certain extent.</p>
+</li>
+<li>
+<p>This optimization is currently unavailable on the following devices (on these devices, the game client will continue to run in the original programming language, and the gaming experience will not be affected):</p>
+</li>
+</ul>
+<ol>
+<li>
+<p>iOS mobile: RAM ≤ 4GB; iPhone 14 series with iOS 16.0/17.0/17.1/17.2.</p>
+</li>
+<li>
+<p>Android mobile: RAM≤ 6GB.</p>
+</li>
+</ol>
+<p><em>This optimization is at the testing stage and is not the final version. The requirements regarding device specifications and the overall performance may be subject to change.</em></p>
+<p><strong>[Bug Fixes]</strong></p>
+<p>**</p>
+<h2>Resonators &amp; Weapons**</h2>
+<ul>
+<li>
+<p>Fixed an issue where Resonator Qingxiao&#39;s character model sometimes behaved abnormally while in the &#34;Ephemeral Transcendence&#34; state.</p>
+</li>
+<li>
+<p>Fixed an issue where a number appeared on certain Skill icons while Resonator Qingxiao was in the &#34;Sword Flight&#34; state to show the remaining attempts of the Skill.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Qingxiao might move outside the bounds of the Map upon casting Sword Step.</p>
+</li>
+<li>
+<p>Fixed a clipping issue with Resonator Qingxiao&#39;s character model displayed on the Resonators page.</p>
+</li>
+<li>
+<p>Fixed an issue where Plume Step might not be triggered at the right time while Resonator Suisui was in the &#34;Roaming Transcendent&#34; state.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Chisa&#39;s character model behaved abnormally on some mobile devices when she made certain movements while wearing the Outfit &#34;Peach Parfait.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue with the movements of Resonator Cartethyia in her Fleurdelys form while walking on water.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented Rover: Electro from interacting with the Hearthbear in the &#34;Roya Frostlands - Frostlands Surface&#34; area.</p>
+</li>
+<li>
+<p>Fixed an issue where switching teams or weapons might prevent the buff &#34;the ATK of all nearby Resonators in the team is increased&#34; offered by the weapon &#34;Firstlight&#39;s Herald&#34; from taking effect.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Enemies &amp; Echoes**</h2>
+<ul>
+<li>Fixed an issue where the effect &#34;after casting the Echo Skill &#39;Thousand-Puppet Pavilion,&#39; when the Resonator equipped with this Echo inflicts Havoc Bane, consume 1 Blade of Thousand Memories to deal Havoc DMG&#34; could be triggered more than once every 1s.</li>
+</ul>
+<p>**</p>
+<h2>Features**</h2>
+<ul>
+<li>
+<p>Fixed an issue where the frame generation function might not work while in the &#34;Huanglong - Mengzhou&#34; area.</p>
+</li>
+<li>
+<p>Fixed an issue where the screens of devices equipped with AMD Series graphics cards might flash with the frame generation option enabled.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;Guidebook - Activity - Weekly - Phantasma Dreamland: Rhapsody&#34; event where Echoes in the Chop Chop series might not be devoured first after the item &#34;Unbeliever&#39;s Crown&#34; was selected.</p>
+</li>
+<li>
+<p>Fixed an issue that might cause a random prompt to pop up when claiming rewards on the &#34;Guidebook - Activity&#34; screen.</p>
+</li>
+<li>
+<p>Fixed an issue where the Exploration Report for the &#34;Roya Frostlands - Lahai-Roi - Rebirth Uplands&#34; area contained textual errors.</p>
+</li>
+<li>
+<p>Fixed an issue with the lighting effects that affected the current screen when opening the Resonators screen while in the &#34;Roya Frostlands - Dimmr Plains&#34; area.</p>
+</li>
+<li>
+<p>Fixed an issue where the &#34;Tactical Hologram: Calamity - Impermanence Heron&#34; entry was marked as uncompleted on the Milestones screen after the corresponding challenge had been completed.</p>
+</li>
+<li>
+<p>Fixed an issue with the order of the Sonata Sets displayed on the &#34;Data Bank - Sonata Gallery&#34; screen.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented red dots on the &#34;Terminal - Guidebook&#34; screen from disappearing.</p>
+</li>
+<li>
+<p>Fixed an issue in Keyboard &amp; Mouse mode where some input setting changes made via Settings &gt; Controls might be nullified in some situations.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented the player from pressing and holding the icon of a Resonator to shift it to a different slot on the Lineup screen.</p>
+</li>
+<li>
+<p>Fixed a display issue with the time on the Chat screen.</p>
+</li>
+<li>
+<p>Fixed an issue with the lighting effects of the expedition motorbike screen.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could nullify changes to the order of the favorited songs in the Heart Radio Channel.</p>
+</li>
+<li>
+<p>Fixed an issue where the Hack Response option was missing from the Combat Role section on the Filter menu for Resonators.</p>
+</li>
+<li>
+<p>Fixed an issue in controller mode where the &#34;releasing the Wheel button will trigger the feature the stick is pointing to&#34; function for the Utility wheel was closed by default.</p>
+</li>
+<li>
+<p>Fixed a display issue with some of the text displayed on the Echo recommendation screen.</p>
+</li>
+<li>
+<p>Fixed a display issue with certain Item icons.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Challenges, Puzzles, &amp; Events**</h2>
+<ul>
+<li>
+<p>Fixed an issue in the &#34;Endstate Matrix&#34; event where the temporary Resonance Mode selected for a Resonator with multiple Resonance Modes and additional Vigor in the team was not saved in some situations, making it necessary to make the section again when restarting a challenge.</p>
+</li>
+<li>
+<p>Fixed an issue in controller mode where certain player actions could cause the screen to become unresponsive in the &#34;Whimpering Wastes&#34; event.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;Lament Recon: Tacet Crisis&#34; event where the items &#34;Purple Candy&#34; and &#34;Blue Candy&#34; did not take effect after being selected.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;Lament Recon: Tacet Crisis&#34; event where only one instance of healing occurred after collecting a large number of Life Balls with the item &#34;Sign of Harvest&#34; selected.</p>
+</li>
+<li>
+<p>Fixed an issue where the &#34;Lament Recon: Tacet Crisis&#34; event remained marked as uncompleted after it was completed.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;Old Man and the Whale&#34; event where the confirmation dialog box appeared repeatedly upon using &#34;Baiting&#34; or &#34;Fast Travel to Dock.&#34;</p>
+</li>
+<li>
+<p>Fixed a display issue in the &#34;Old Man and the Whale&#34; event that affected the displayed text after selecting Rachel the Fishing Boat.</p>
+</li>
+<li>
+<p>Fixed an issue where the character model might float above the surface after completing Sword Flight.</p>
+</li>
+<li>
+<p>Fixed an issue where certain Sword Flight Points remained marked as uncompleted after the corresponding challenges had been completed.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented the player from exiting the &#34;Squarefield Sparring&#34; event.</p>
+</li>
+<li>
+<p>Fixed an issue in controller mode where button remapping did not take full effect in Route Constructor Racing Challenges.</p>
+</li>
+<li>
+<p>Fixed an issue where certain interactable objects in &#34;The Three Fratellis&#39; Challenge&#34; in the &#34;Rinascita - Ragunna - Thessaleo Fells&#34; area remained displayed as interactable after the challenge had been completed.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Quests**</h2>
+<ul>
+<li>
+<p>Fixed an issue in the Main Quest &#34;Song of the Heart Sword&#34; where the Resonator might drop below the surface and could not return to the task location during the objective &#34;Defeat the incoming Autopuppet.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Main Quest &#34;Song of the Heart Sword&#34; where Qingxiao&#39;s character model behaved abnormally on some Android devices under specific settings while displaying certain scenes.</p>
+</li>
+<li>
+<p>Fixed an issue in the Main Quest &#34;Song of the Heart Sword&#34; where certain scenes were blurry on iOS devices.</p>
+</li>
+<li>
+<p>Fixed an issue in the Main Quest &#34;Beneath a Melting Night Sky&#34; where opening WavesLine might cause a random pop-up to appear.</p>
+</li>
+<li>
+<p>Fixed a clipping issue with certain Resonator models and NPC models in some Main Quests.</p>
+</li>
+<li>
+<p>Fixed an issue where a black screen occurred briefly on PS5 devices while displaying certain scenes of some Main Quests.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented quest progression in the Exploration Quest &#34;Faithful Heart Tested at Skyfall&#34; where Zhongxu might fall outside the bounds of the Map and could not return to the Map while it was being operated by the player.</p>
+</li>
+<li>
+<p>Fixed an issue in the Side Quest &#34;A Night of Shimmering Stars&#34; where identical NPCs appeared simultaneously at some task locations.</p>
+</li>
+<li>
+<p>Fixed an issue where the Side Quest &#34;Where Wisdom Lights the Way&#34; remained marked as uncompleted in Journey Log after it was completed.</p>
+</li>
+<li>
+<p>Fixed an issue in Autoplay mode during certain quests where the next dialogue section did not play when the current section had been played.</p>
+</li>
+<li>
+<p>Fixed an issue where it was impossible to use Fast Travel to return to the task location during certain quests.</p>
+</li>
+<li>
+<p>Fixed an issue where the quest tracking icon did not appear after some Side Quests were accepted after messaging with the corresponding NPCs.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Environment**</h2>
+<ul>
+<li>
+<p>Fixed an issue with certain bodies of water in the &#34;Huanglong - Mengzhou - Western Fang Peaks&#34; area that made it impossible to swim in them.</p>
+</li>
+<li>
+<p>Fixed an issue on Mac where the water surface did not freeze as the motorbike passed over it.</p>
+</li>
+<li>
+<p>Resolved known instances of objects clipping through each other or floating above the surface.</p>
+</li>
+</ul>]]></content>
+                    <published>2026-09-29T19:18:45+00:00</published>
+                    <updated>2026-09-29T19:18:45+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5557</id>
                     <title>Resonator Review | Stasis, Cycle, Renewal — Iuno</title>
@@ -915,22 +1569,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/uimoa6l3cuwqqy7at1-1788505335537.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/1v1wlgq5wq9n5g4v82-1788505353357.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/tp7nlbuqwd1taynlv6-1788505420381.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/enr8mch7vhu28d9rv5-1788505615115.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/1j2ey7s8wvipot8bgj-1788505497983.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/fzmi8mxibmqfkthfkg-1788505695754.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/kp2baxqsu9ok3kzqs8-1788505720460.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/zeqk8c35cnp1v6ovf4-1788505740375.jpg" /></p>]]></content>
                     <published>2026-09-04T14:58:39+00:00</published>
                     <updated>2026-09-04T14:58:39+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5398</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Jingran</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5398" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>&#34;Jingran, a Nethermancer. I roam the edge between Yin and Yang. Chasing a path that could lead to fortune or ruin. I walk among the shadows to see the other end of this road.&#34;—Jingran</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/6xzzhy0ad8s4dv2toz-1788502902812.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/tc4c5cayymyfwz8dhj-1788503034265.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/xv287j99jsg65v2v4i-1788503324143.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/91bhsc0ifbjumkzn44-1788534247494.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/shbxh1yi41pasqnwtc-1788503892464.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/6ej8b9yx0yo3wynclq-1788503948298.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/nhf3pwszg6dd0b8mgc-1788503969364.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/voj5fsjezi3tq4a3cx-1788503996596.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1788451200000/61pdicxhozwlnba68x-1788504016408.gif" /></p>]]></content>
-                    <published>2026-09-04T14:44:10+00:00</published>
-                    <updated>2026-09-04T14:44:10+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>

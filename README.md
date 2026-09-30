@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Patch Notes for Wuthering Waves Version 3.7: Prism's Illusion, Heart's Illumination](https://wutheringwaves.kurogames.com/en/main/news/detail/5571) [[json]](articles/5571.json)
 - [Resonator Review | Stasis, Cycle, Renewal — Iuno](https://wutheringwaves.kurogames.com/en/main/news/detail/5557) [[json]](articles/5557.json)
 - [Event Preview | [Cubie Wars] Leisure Event Coming Soon!](https://wutheringwaves.kurogames.com/en/main/news/detail/5555) [[json]](articles/5555.json)
 - [[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅰ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5546) [[json]](articles/5546.json)
