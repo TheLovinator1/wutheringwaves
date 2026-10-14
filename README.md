@@ -12,6 +12,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 ## Articles
 
 - [Version 3.7 Story Cinematics Wallpaper](https://wutheringwaves.kurogames.com/en/main/news/detail/5615) [[json]](articles/5615.json)
+- [Post-Lament Anthropocene: Comprehensive Mirror for Historians — Records of the Huanglong Sentinels](https://wutheringwaves.kurogames.com/en/main/news/detail/5608) [[json]](articles/5608.json)
 - [Post-Lament Anthropocene: Enemies — Suhsin the Inevitable](https://wutheringwaves.kurogames.com/en/main/news/detail/5607) [[json]](articles/5607.json)
 - [Tidal Photography: Land of Xuanfang Photo Challenge | Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/5603) [[json]](articles/5603.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/5575) [[json]](articles/5575.json)
