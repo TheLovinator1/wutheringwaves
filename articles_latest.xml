@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-10-12T19:58:21+00:00</updated>
+    <updated>2026-10-13T19:10:35+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5625</id>
+                    <title>Post-Lament Anthropocene: Stars Intertwined | Suoming</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5625" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Suoming, Seal Master of the Ten Seals Covenant, and Intendant of Mengzhou&#39;s Ministry of Sentinel Affairs. Any enemy of Mengzhou is an enemy of mine.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/qd896gmi8vbx2y88u4-1791889690987.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/zm9nkndv997c882njm-1791889720639.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/e0a9eydav0vmwlk9p3-1791889736034.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/1ax9ws51n7gt7y1rm2-1791889760750.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/ye1qy4npc8qbh6l8nf-1791889779658.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/rhhup331oqf93uyzcb-1792139567076.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/b9zlc9nemmgbw6sryk-1792139339366.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/3vjcsyu7iwuecv6qlj-1792139357330.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/zrrpgp6v1u53wqhsh0-1792139387755.gif" /></p>]]></content>
+                    <published>2026-10-13T19:10:35+00:00</published>
+                    <updated>2026-10-13T19:10:35+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5615</id>
                     <title>Version 3.7 Story Cinematics Wallpaper</title>
@@ -1734,21 +1749,6 @@
 <p><em>When you connect any other controller that supports multiple input modes to a PC, it is recommended that you set the controller to XInput mode for the best experience.</em></p>]]></content>
                     <published>2026-09-22T18:26:15+00:00</published>
                     <updated>2026-09-22T18:26:15+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5460</id>
-                    <title>Post-Lament Anthropocene: Enemies — Collection of Small &amp; Medium Size Echoes in Mengzhou: Land of Xuanfang</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5460" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789747200000/hlq18x10w318qwsrye-1789819710039.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789747200000/x2rnla6pyvz9bhrlci-1789819769912.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789747200000/73qffrifmbh9d0i0d9-1789819740423.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789747200000/9gd3ivzjzex26xr1lh-1789819808303.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1789747200000/88psohi51lpovaq1ih-1789819853951.png" /></p>]]></content>
-                    <published>2026-09-19T20:14:01+00:00</published>
-                    <updated>2026-09-19T20:14:01+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
