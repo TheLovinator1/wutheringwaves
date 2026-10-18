@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-10-13T19:10:35+00:00</updated>
+    <updated>2026-10-16T16:19:24+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5644</id>
+                    <title>Profile Reveal | Power of Ten — Suoming</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5644" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Loading Data&gt;&gt;&gt;</p>
+<h1>Suoming</h1>
+<p>Born in Huating, Mengzhou, she founded the Ten Seals Covenant as its Seal Master to liberate her homeland from the Evil Miasma. Later, by the Sentinel&#39;s decree, she served as Intendant of the Ministry of Sentinel Affairs, watching over all of Mengzhou.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/pschl2zbs6d2meg84m-1792137929039.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/f3ci7wtfxus6zl1lbe-1792137955242.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/0xyrumpv62m78ml2mn-1792138024135.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/okv7ggh4djaxdke86w-1792138130984.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/qz1a3fkcac9as1oceb-1792138150407.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/tk9vkmghyeici95l42-1792138277420.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/ch5jwzs4ssa0fojxff-1792138444444.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/g30vhq05jjs5plx75l-1792138467380.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/5regub0in3y7l2abc5-1792138486258.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792080000000/0pci0q1quwuo5rsifn-1792138636832.jpg" /></p>]]></content>
+                    <published>2026-10-16T16:19:24+00:00</published>
+                    <updated>2026-10-16T16:19:24+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5625</id>
                     <title>Post-Lament Anthropocene: Stars Intertwined | Suoming</title>
