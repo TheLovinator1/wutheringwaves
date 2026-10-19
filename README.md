@@ -12,6 +12,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 ## Articles
 
 - [Profile Reveal | Power of Ten — Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5644) [[json]](articles/5644.json)
+- [Resonator Review | Memory Palace — Lucilla](https://wutheringwaves.kurogames.com/en/main/news/detail/5626) [[json]](articles/5626.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5625) [[json]](articles/5625.json)
 - [Version 3.7 Story Cinematics Wallpaper](https://wutheringwaves.kurogames.com/en/main/news/detail/5615) [[json]](articles/5615.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians — Records of the Huanglong Sentinels](https://wutheringwaves.kurogames.com/en/main/news/detail/5608) [[json]](articles/5608.json)
