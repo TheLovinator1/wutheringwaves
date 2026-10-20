@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Upcoming Events in Wuthering Waves Version 3.7](https://wutheringwaves.kurogames.com/en/main/news/detail/5653) [[json]](articles/5653.json)
 - [Profile Reveal | Power of Ten — Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5644) [[json]](articles/5644.json)
 - [Resonator Review | Memory Palace — Lucilla](https://wutheringwaves.kurogames.com/en/main/news/detail/5626) [[json]](articles/5626.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5625) [[json]](articles/5625.json)

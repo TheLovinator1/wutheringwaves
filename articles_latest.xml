@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-10-16T16:19:24+00:00</updated>
+    <updated>2026-10-20T09:40:28+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5653</id>
+                    <title>Upcoming Events in Wuthering Waves Version 3.7</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5653" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Here is a compilation of the upcoming events in Version 3.7. Don&#39;t miss out!<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792425600000/1xox7ovygipiiwnsnc-1792460373670.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1792425600000/jm2rsgb1yukr435fgj-1792460385632.jpg" /></p>]]></content>
+                    <published>2026-10-20T09:40:28+00:00</published>
+                    <updated>2026-10-20T09:40:28+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5644</id>
                     <title>Profile Reveal | Power of Ten — Suoming</title>
@@ -1553,25 +1568,6 @@
 <p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/7431wxv55x4rh2w64f-1790236497297.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/ynvsr4gjwv0zyoztf1-1790236518742.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/kdvfucuhqw96oo14fy-1790236559517.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/gomg22yzigxj872r1i-1790236579395.jpg" /></p>]]></content>
                     <published>2026-09-24T15:57:26+00:00</published>
                     <updated>2026-09-24T15:57:26+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5497</id>
-                    <title>Post-Lament Anthropocene: Stars Intertwined | Hsin</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5497" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>I am the guide of Mengzhou&#39;s civilization, Sentinel Hsin the Moon Fox. Arbiter, at last we meet.</p>
-<p>Mm. That is a fitting opening for a &#34;first meeting,&#34; is it not? But... from now on, please. I insist you call me &#34;Hsin.&#34;—Hsin</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/t0igwiu17tftzqcza4-1790235991105.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/z1r0g1dg4j661lhb30-1790236011394.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/xn1nfxtorcj23q7p2y-1790236035989.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/1ge8ld37paijy48pkl-1790236062999.jpg" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/g7sjmquh622p3yggd3-1790236312747.jpg" /></p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/fn5nfmoinf1kozvvpq-1790236103212.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/s1wmo03xv3vhqmgqvt-1790236159819.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/dtsghsrtyloakdh0le-1790236175378.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790179200000/i3aks02hpma64f9fap-1790236185746.gif" /></p>]]></content>
-                    <published>2026-09-24T15:52:40+00:00</published>
-                    <updated>2026-09-24T15:52:40+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
