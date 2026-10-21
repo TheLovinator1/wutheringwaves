@@ -11,10 +11,12 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅱ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5668) [[json]](articles/5668.json)
 - [Upcoming Events in Wuthering Waves Version 3.7](https://wutheringwaves.kurogames.com/en/main/news/detail/5653) [[json]](articles/5653.json)
 - [Profile Reveal | Power of Ten — Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5644) [[json]](articles/5644.json)
 - [Resonator Review | Memory Palace — Lucilla](https://wutheringwaves.kurogames.com/en/main/news/detail/5626) [[json]](articles/5626.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5625) [[json]](articles/5625.json)
+- [Resonator Review | Radiant Spectrum — Lynae](https://wutheringwaves.kurogames.com/en/main/news/detail/5616) [[json]](articles/5616.json)
 - [Version 3.7 Story Cinematics Wallpaper](https://wutheringwaves.kurogames.com/en/main/news/detail/5615) [[json]](articles/5615.json)
 - [Post-Lament Anthropocene: Comprehensive Mirror for Historians — Records of the Huanglong Sentinels](https://wutheringwaves.kurogames.com/en/main/news/detail/5608) [[json]](articles/5608.json)
 - [Post-Lament Anthropocene: Enemies — Suhsin the Inevitable](https://wutheringwaves.kurogames.com/en/main/news/detail/5607) [[json]](articles/5607.json)
