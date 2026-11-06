@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-10-20T18:18:40+00:00</updated>
+    <updated>2026-11-04T16:59:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5689</id>
+                    <title>Wuthering Waves Version Preview | Version 3.8 &#34;Lilies in a Dying Dream&#34; Scheduled for Release on November 12th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5689" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/npk1hh5p6zr36a8zo6-1793782837243.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/5i28f4az9cb0dfn1s1-1793782859604.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/doahbbz5bpukrmiaji-1793782886877.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/bf9na5fajbnk2iwz6x-1793782906845.jpg" /></p>]]></content>
+                    <published>2026-11-04T16:59:04+00:00</published>
+                    <updated>2026-11-04T16:59:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5668</id>
                     <title>[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅱ]</title>

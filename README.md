@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Wuthering Waves Version Preview | Version 3.8 "Lilies in a Dying Dream" Scheduled for Release on November 12th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5689) [[json]](articles/5689.json)
 - [[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅱ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5668) [[json]](articles/5668.json)
 - [Upcoming Events in Wuthering Waves Version 3.7](https://wutheringwaves.kurogames.com/en/main/news/detail/5653) [[json]](articles/5653.json)
 - [Profile Reveal | Power of Ten — Suoming](https://wutheringwaves.kurogames.com/en/main/news/detail/5644) [[json]](articles/5644.json)

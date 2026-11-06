@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-10-20T18:18:40+00:00</updated>
+    <updated>2026-11-04T16:59:04+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,21 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5689</id>
+                    <title>Wuthering Waves Version Preview | Version 3.8 &#34;Lilies in a Dying Dream&#34; Scheduled for Release on November 12th (UTC+8)</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5689" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/npk1hh5p6zr36a8zo6-1793782837243.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/5i28f4az9cb0dfn1s1-1793782859604.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/doahbbz5bpukrmiaji-1793782886877.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1793721600000/bf9na5fajbnk2iwz6x-1793782906845.jpg" /></p>]]></content>
+                    <published>2026-11-04T16:59:04+00:00</published>
+                    <updated>2026-11-04T16:59:04+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5668</id>
                     <title>[Version 3.7 Featured Resonator/Weapon Convene: Phase Ⅱ]</title>
@@ -1548,22 +1563,6 @@
                     <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/lhdi179svdjham40sc-1790578113847.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/pdhlordq6txzihumi3-1790577900644.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/b307u53274ngsynr6w-1790578044718.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/0rioucn8tj7k7gjeo5-1790578091396.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790524800000/jmmsmfjj8n2426xkrb-1790586045104.jpg" /></p>]]></content>
                     <published>2026-09-28T14:54:24+00:00</published>
                     <updated>2026-09-28T14:54:24+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5521</id>
-                    <title>New Region Preview I | Simulacrum Nexus of Mengzhou, Coming Soon!</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5521" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Discover the environments and gameplay of the new region!</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/r91mvk48mbsl1q730y-1790399204157.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/e77sr96svw18mlri9y-1790399656039.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/njtfczgm42en2r9mzv-1790399670157.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/roy00p511wma6g3yfw-1790399946176.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/20anexfap89runqaia-1790399988947.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/8r85v465e936ndfqtb-1790400007222.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/umzmr4nvnqknjw9xxr-1790400126514.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/xa8vom6woiuuh6md0c-1790405552882.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1790352000000/if580m97rzh5i6fo5w-1790405594778.gif" /></p>]]></content>
-                    <published>2026-09-26T13:08:39+00:00</published>
-                    <updated>2026-09-26T13:08:39+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
