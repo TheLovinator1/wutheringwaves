@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Profile Reveal | Dream Weaving — Lily](https://wutheringwaves.kurogames.com/en/main/news/detail/5725) [[json]](articles/5725.json)
 - [Post-Lament Anthropocene: Stars Intertwined | Lily](https://wutheringwaves.kurogames.com/en/main/news/detail/5710) [[json]](articles/5710.json)
 - [Wuthering Waves Version 3.8 Update Maintenance Notice](https://wutheringwaves.kurogames.com/en/main/news/detail/5705) [[json]](articles/5705.json)
 - [Hiyuki's Deluxe Outfit "Lune Noire" will be permanently available](https://wutheringwaves.kurogames.com/en/main/news/detail/5698) [[json]](articles/5698.json)
