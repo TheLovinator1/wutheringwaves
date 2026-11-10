@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_all.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-11-09T08:55:58+00:00</updated>
+    <updated>2026-11-09T10:42:22+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,23 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5737</id>
+                    <title>Resonator Review | True Name Manifestation  — Sigrika</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5737" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p>Sigrika, a student of Startorch Academy and a Resonator of Royan Runes.</p>
+<p>Determined to live up to others&#39; expectations and become a true Solsworn, she devotes herself fully to every challenge.</p>
+<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1794153600000/mvkmqrg8i8bwki9vhw-1794221630174.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1794153600000/cjhkpjx8cn8qxdveoz-1794221650400.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1794153600000/gzqhuun0pgerj0jz5e-1794221749076.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1794153600000/vqb8vuu5whvbzll9yl-1794221766453.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1794153600000/3xts3lkcuviukf8pfp-1794221786305.png" /></p>]]></content>
+                    <published>2026-11-09T10:42:22+00:00</published>
+                    <updated>2026-11-09T10:42:22+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5736</id>
                     <title>Wuthering Waves Update Content | Version 3.8 &#34;Lilies in a Dying Dream&#34; Planned for Release on November 12th (UTC+8)</title>
