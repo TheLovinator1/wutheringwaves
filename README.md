@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [[Version 3.8 Featured Resonator/Weapon Convene: Phase Ⅰ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5754) [[json]](articles/5754.json)
 - [Resonator Review | True Name Manifestation  — Sigrika](https://wutheringwaves.kurogames.com/en/main/news/detail/5737) [[json]](articles/5737.json)
 - [Wuthering Waves Update Content | Version 3.8 "Lilies in a Dying Dream" Planned for Release on November 12th (UTC+8)](https://wutheringwaves.kurogames.com/en/main/news/detail/5736) [[json]](articles/5736.json)
 - [Profile Reveal | Dream Weaving — Lily](https://wutheringwaves.kurogames.com/en/main/news/detail/5725) [[json]](articles/5725.json)
