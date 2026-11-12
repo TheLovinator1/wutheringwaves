@@ -11,6 +11,7 @@ Stay updated with the latest Wuthering Waves news through these RSS feeds:
 
 ## Articles
 
+- [Patch Notes for Version 3.8: Lilies in a Dying Dream](https://wutheringwaves.kurogames.com/en/main/news/detail/5783) [[json]](articles/5783.json)
 - [Wuthering Waves Fan Creation Event Winners Reveal](https://wutheringwaves.kurogames.com/en/main/news/detail/5769) [[json]](articles/5769.json)
 - [Resonator Review | Bambooscape — Qiuyuan](https://wutheringwaves.kurogames.com/en/main/news/detail/5757) [[json]](articles/5757.json)
 - [[Version 3.8 Featured Resonator/Weapon Convene: Phase Ⅰ]](https://wutheringwaves.kurogames.com/en/main/news/detail/5754) [[json]](articles/5754.json)

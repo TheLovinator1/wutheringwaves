@@ -4,7 +4,7 @@
     <link href="https://wutheringwaves.kurogames.com/en/main/news/" rel="alternate" type="text/html"/>
     <link href="https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/articles_latest.xml" rel="self" type="application/atom+xml"/>
     <id>urn:wutheringwaves:feed</id>
-    <updated>2026-11-10T20:59:16+00:00</updated>
+    <updated>2026-11-11T18:04:37+00:00</updated>
     <subtitle>Latest articles from Wuthering Waves</subtitle>
     <icon>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</icon>
     <logo>https://raw.githubusercontent.com/TheLovinator1/wutheringwaves/refs/heads/master/logo.png</logo>
@@ -16,6 +16,508 @@
         <uri>https://wutheringwaves.kurogames.com</uri>
     </author>
     
+                <entry>
+                    <id>urn:article:5783</id>
+                    <title>Patch Notes for Version 3.8: Lilies in a Dying Dream</title>
+                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5783" rel="alternate" type="text/html"/>
+                    <content type="html"><![CDATA[<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1794326400000/cselekr70qwkawu0tn-1794391345509.png" /></p>
+<p>Dear Rovers,</p>
+<p>Thank you for your continued support. The following is a summary of content that will become available in Version 3.8: Lilies in a Dying Dream.</p>
+<p><strong>[Maintenance Time &amp; Compensation Details]</strong></p>
+<p><strong>✦Maintenance Time:</strong> <strong>2026-11-12 04:00 - 2026-11-12 11:00 (UTC+8)</strong></p>
+<p><strong>✦Maintenance Compensation: Astrite x300, Crystal Solvent x2</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2026-11-12 04:00 (UTC+8). The compensation will remain claimable until the next version update.</strong></p>
+<p><em>In the event that the maintenance is extended, the dev team will issue a follow-up notice and adjust the compensation accordingly.</em></p>
+<p><strong>✦Bug Fixes Compensation: Astrite x300</strong></p>
+<p><strong>✦Compensation Eligibility: Create a character and unlock the Mail feature before 2026-11-12 04:00 (UTC+8). The compensation will remain claimable until the next version update.</strong></p>
+<p><strong>[Event Conclusion Time Reminder]</strong></p>
+<p>The following currently available event is scheduled to end at the conclusion of Version 3.8. Please pay attention to the event duration and participate in time.</p>
+<ul>
+<li>Second Endstate Matrix Cycle - Adversity Vanguard ends at: 2026-12-22 03:59 (UTC+8)</li>
+</ul>
+<p><strong>[Version Update Details]</strong></p>
+<h1>New Resonator</h1>
+<p><strong>5-Star Resonator: Lily (Spectro/Pistols)</strong></p>
+<p>A young perfumer swept up in the Federated Cities&#39; Resonator War, whose rare Resonance Ability made her a psychotherapist to the soldiers around her.</p>
+<p>She could not stop the war. What a gentle girl could do was save whoever stood in front of her, with everything she had.</p>
+<h2>Combat Roles: Support and Healer, Traction, DMG Amplification</h2>
+<p><em>Obtainable through the [Bloom of Yesterday&#39;s Dreamsoil] Featured Resonator Convene.</em></p>
+<h1>New Weapon</h1>
+<p><strong>5-Star Weapon: Lullaby (Pistols)</strong></p>
+<p>So close to crumbling, the flower gave itself to the softness of dreams. There, its thoughts froze and its hopes set, until it withered in the lovely dream cradle.</p>
+<p>It waits, and waits... It waits on for a prayer, an accident, a chance to bloom again and find its peace.</p>
+<p><em>Obtainable through the [Lullaby] Featured Weapon Convene.</em></p>
+<h1>New Location</h1>
+<p><strong>[Train of Souls]</strong></p>
+<p>A wartime military train for transporting soldiers. Influenced by the Somnoire&#39;s power, its interior is now luxurious and warm and dream-like. The passengers have lost almost all of their memories. All they have is a common wish. They wish to go home.</p>
+<p>But they don&#39;t know where home is, nor when the train will stop. For them, home is the destination, a vaguely remembered place called happiness.</p>
+<p><em>Reach the location during Main Quest Chapter IV Act V &#34;A Bouquet for Tomorrow.&#34;</em></p>
+<h1>New Stories</h1>
+<p><strong>Main Quest Chapter IV Act V: A Bouquet for Tomorrow</strong></p>
+<p>Something strange has happened within the Somnoire. A man from the New Federation is teleported to the Land of Xuanfang through a mysterious door. He claims that the Federated Cities&#39; Resonator War has somehow resurfaced within the Somnoire. To learn more about this buried history and resolve the anomaly, you decide to investigate. Venturing deeper into the Somnoire, you discover a train carrying those who perished in the Resonator War, bound for the depths of dreams...</p>
+<ul>
+<li>
+<p>Duration: Permanently available after the Version 3.8 update.</p>
+</li>
+<li>
+<p>Eligibility: Complete Main Quest Chapter IV Act IV &#34;Simulacrum of the Heart.&#34;</p>
+</li>
+</ul>
+<h1>New Events &amp; Gameplay Features</h1>
+<p><strong>[Special Events]</strong></p>
+<p><strong>[Second Coming of Solaris: Unwritten Dreams] Leisure Event</strong></p>
+<p>Welcome to Second Solaris School! A brand-new school-life simulation entry in the Second Coming of Solaris series has officially launched! As the train slowly pulls into the station, the platform announcement guides &#34;you,&#34; the protagonist of the story, back from a distant land to the small town where you spent your childhood. Over the course of a year at school, plan your schedule, build your skills, share everyday laughs with your friends in school, and face the challenges of growing up together as you prepare for the final evaluation and write your own Story Ending...</p>
+<ul>
+<li>Duration: Version 3.8 Update - 2026-12-21 11:59 (server time)</li>
+</ul>
+<p><strong>[Lahai-Roi Blocks: Turnabout] Leisure Event</strong></p>
+<p>A huge update just hit &#34;Lahai-Roi Blocks&#34;—the long-awaited rotate feature is finally here! And it looks like there are more hidden mechanics in store than meets the eye...</p>
+<ul>
+<li>Duration: 2026-11-19 04:00 - 2026-12-03 03:59 (server time)</li>
+</ul>
+<p><strong>[Lollo Campaign: Groundwork] Featured Commission Event</strong></p>
+<p>During the event, complete the campaigns to claim your Lollo Stamps—a gift of gratitude from Lollo Logistics. Lollo Stamps can be exchanged for Lollo Helper special deliveries.</p>
+<ul>
+<li>Duration: 2026-12-03 10:00 - 2026-12-17 03:59 (server time)</li>
+</ul>
+<p><strong>[Dreamfield Odyssey] Combat Event</strong></p>
+<p>A newly emerged gateway leads to an uncharted region of the Somnoire. The Ivory Gatekeeper asks you to explore this place, which it refers to as the &#34;Desolate Dreamfield,&#34; and uncover the reason behind the gateway&#39;s appearance.</p>
+<ul>
+<li>Duration: 2026-12-03 10:00 - 2026-12-21 03:59 (server time)</li>
+</ul>
+<p><strong>[Gifts of Bygone Dreams] 7-Day Login Event</strong></p>
+<p>During the event, log in to claim the day&#39;s login rewards from the event page.</p>
+<ul>
+<li>Duration✦ Version 3.8 Update - 2026-12-21 03:59 (server time)</li>
+</ul>
+<p><strong>[Whither the Wind] Limited-Time Login Event</strong></p>
+<p>During the event, log in to claim the day&#39;s login rewards from the event page.</p>
+<ul>
+<li>Duration: 2026-12-07 04:00 - 2026-12-21 03:59 (server time)</li>
+</ul>
+<h1>New Merch</h1>
+<h2>New Outfit: (Deluxe Outfit) Hiyuki - Lune Noire</h2>
+<h2>Accessory: Hiyuki - Flaming Sakura</h2>
+<h1>New Challenge</h1>
+<h2>New &#34;Tactical Hologram: Sparring&#34; Challenge: Calamity Effigy</h2>
+<h1>Other New Content</h1>
+<h2>Sigil: Graduation Season</h2>
+<h2>Avatar: Between Classes</h2>
+<h2>Title: Beyond the Dreamfield</h2>
+<p><em>Sigil: Graduation Season and Avatar: Between Classes can be obtained by participating in the Leisure Event &#34;Second Coming of Solaris: Unwritten Dreams.&#34;</em></p>
+<p><em>Title: Beyond the Dreamfield can be obtained by participating in the Combat Event &#34;Dreamfield Odyssey.&#34;</em></p>
+<p><strong>[Adjustments and Optimizations]</strong></p>
+<h1>Resonators &amp; Weapons</h1>
+<p>**</p>
+<h2>Resonator Animations**</h2>
+<p><strong>Optimized certain animations for Resonators:</strong></p>
+<ul>
+<li>
+<p>Improved the animations for turning around in place and transitions between walking and running.</p>
+</li>
+<li>
+<p>Improved the animation for taking hits in combat.</p>
+</li>
+<li>
+<p>Following the Version 3.8 update, these animations will appear more natural, and transitions between movements will flow more seamlessly.</p>
+</li>
+<li>
+<p>Animations may vary slightly depending on the Resonator&#39;s body type.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Rover&#39;s Resonance Conversion**</h2>
+<p><strong>Optimized Rover&#39;s Resonance Conversion:</strong></p>
+<ul>
+<li>
+<p>Upgraded the UI of the Resonance Conversion screen.</p>
+</li>
+<li>
+<p>Added Echo set auto-switch. After Rover&#39;s Resonance Attribute is converted, the equipped Echo set will now be automatically switched to the one for the corresponding Resonance Attribute.</p>
+</li>
+<li>
+<p>If no Echo set has been selected for a specific Attribute, you will be prompted to make the selection.</p>
+</li>
+<li>
+<p>New display order. Newly obtained Resonators and the Focus Resonator set via the Resonator Ascension Planner will now be displayed first in the list on the right side of the Resonators screen.</p>
+</li>
+<li>
+<p>Optimized the Outfit Preview feature. When previewing outfits on the Preview screen (accessed via Resonators or Store), you can now drag and move around the splash art on the screen.</p>
+</li>
+</ul>
+<h1>Features</h1>
+<p>**</p>
+<h2>Echo Backpack**</h2>
+<p><strong>Optimized Echo Backpack and Data Bank:</strong></p>
+<ul>
+<li>
+<p>Optimized the filtering logic in Batch Management for Echoes. Changing filter options will now clear any currently selected Echoes.</p>
+</li>
+<li>
+<p>Adjusted default sorting in Batch Management. Echoes will now be sorted by Rarity by default.</p>
+</li>
+<li>
+<p>When the weekly Targeted Merge attempts reach 0, you will now automatically exit the Targeted Merge screen and return to the Data Bank screen.</p>
+</li>
+<li>
+<p>Standardized the threshold reminder popups for Smart Discard and Data Merge of the Echo Backpack. A prompt will now appear whenever your occupied Echo slots exceed 2,950.</p>
+</li>
+<li>
+<p>Optimized the performance of certain Selfie Expressions in Selfie Mode of the Camera.</p>
+</li>
+</ul>
+<h1>Leveling</h1>
+<p>**</p>
+<h2>Blitz Mode**</h2>
+<p><strong>Added Blitz Mode:</strong></p>
+<ul>
+<li>
+<p>You can enable or disable Blitz Mode when claiming rewards in Simulation Challenge, Forgery Challenge, Tacet Suppression, Boss Challenge, or Weekly Challenge.</p>
+</li>
+<li>
+<p>When Blitz Mode is on, restarting a challenge after claiming rewards no longer requires reloading.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Resonator Ascension Planner**</h2>
+<p><strong>Optimized the functionality of the Resonator Ascension Planner:</strong></p>
+<ul>
+<li>
+<p>Added to the Resonator Ascension Planner page an Overview tab under which information about the selected Resonator is displayed.</p>
+</li>
+<li>
+<p>In addition to standard info, the Overview screen also displays a Recommended Lineup section. (※Recommended Lineup info comes from Wuthering Waves&#39; Official Guide Depot.)</p>
+</li>
+<li>
+<p>A Material Locator button is added to the Material Collection page beside the Challenge button, allowing you to locate unlocked challenges that drop the required materials. Press the button to locate and Fast Travel to the corresponding material collection challenge on the map.</p>
+</li>
+</ul>
+<p><em>The Recommended Lineup feature is currently in testing and subject to changes.</em></p>
+<h1>Challenges, Puzzles, &amp; Events</h1>
+<p>**</p>
+<h2>Weekly Activity:**</h2>
+<p><strong>Made certain gameplay mechanics in Phantasma Dreamland: Rhapsody more balanced:</strong></p>
+<ul>
+<li>
+<p>Adjusted the effects of the following Relics in &#34;Phantasma Dreamland: Rhapsody&#34;: Amorphous Photonic Tree, Misaligned Instrument, Cat-Peeping Scope.</p>
+</li>
+<li>
+<p>Here are the effects after the adjustments:</p>
+</li>
+</ul>
+<ol>
+<li>Amorphous Photonic Tree: Echoes on a non-blank Dream Block additionally gain Dreamland Coupons equal to 20 x (Relic Level)% of their Daily Coupon yield during settlement.</li>
+</ol>
+<p>Whenever an Echo on the field Removes itself or triggers Gradation, there is a {Relic Level}% + 10% chance to randomly change the Echo&#39;s Dream Block.</p>
+<p>Level Up: The Relic will automatically level up for every (Relic Level) time/times a Dream Block changes.</p>
+<ol start="2">
+<li>Misaligned Instrument: When Dream of Integration Echoes are devoured, they trigger their Integration effect and will generate 1 copy of itself on blank blocks. The Daily Coupon yield of the generated Echoes is increased by (Relic Level)%.</li>
+</ol>
+<p>Level Up: The Relic will automatically level up for every 3 times Integration happens.</p>
+<ol start="3">
+<li>Cat-Peeping Scope: Dream of Exchange Echoes will be considered Dream of Integration Echoes. The number of Echoes allowed to undergo Integration is increased by (Relic Level).</li>
+</ol>
+<p>Echoes being integrated have a 20% chance to generate 1 copy of themselves, whose Daily Coupon yield is increased by 5 x (Relic Level);</p>
+<p>There is a 20% chance to generate 1 Dream Block: Ice Shards every day;</p>
+<p>Level Up: The Relic will automatically level up for every (Relic Level) Echo/Echoes removed.</p>
+<ul>
+<li>
+<p>Optimized some pre-combat mechanics in certain challenges. In Tower of Adversity, Whimpering Wastes, and Endstate Matrix, you can now switch between Resonators in your current team before interacting with the mechanism to start the challenge.</p>
+</li>
+<li>
+<p>When you enter a Tower of Adversity challenge, the Environment Report will no longer automatically pop up. To view the Environment Report, please press the button in the upper-left corner of the screen.</p>
+</li>
+<li>
+<p>Optimized the tracking detection radius for Thousandfold Petals in certain Dream Fox Statue puzzles.</p>
+</li>
+<li>
+<p>Optimized transition animations when entering and exiting the Inner Threshold.</p>
+</li>
+</ul>
+<h1>UI</h1>
+<ul>
+<li>
+<p>A Material Locator button is added to the Material Collection page of Guidebook beside the Challenge button, allowing you to locate unlocked challenges that drop the required materials. Press the button to locate and Fast Travel to the corresponding material collection challenge on the map.</p>
+</li>
+<li>
+<p>Optimized the display of certain icons.</p>
+</li>
+</ul>
+<h1>Graphics &amp; Performance</h1>
+<p>**</p>
+<h2>Graphics Settings**</h2>
+<p><strong>Added a Graphics Quality option for some Console devices:</strong></p>
+<ul>
+<li>
+<p>Following the Version 3.8 maintenance update, PS5 Pro and Xbox Series X will feature a Graphics Quality option, allowing players to toggle between Performance and Quality.</p>
+</li>
+<li>
+<p>If your device meets the requirements, you can enable/adjust this option via Settings &gt; Graphics &gt; Graphics Quality. You can adjust the Graphics Quality settings based on your needs for better performance and visual fidelity.</p>
+</li>
+</ul>
+<p><em>This feature is not supported on PS5 and Xbox Series S.</em></p>
+<p><strong>Added PSSR (Spectral Super Resolution) support for some Console devices:</strong></p>
+<ul>
+<li>
+<p>Following the Version 3.8 maintenance update, the PS5 Pro will support PSSR (Spectral Super Resolution), which can be toggled via Settings &gt; Graphics &gt; PSSR.</p>
+</li>
+<li>
+<p>Enable PSSR to improve overall graphic clarity and quality (up to a display resolution of 4K).</p>
+</li>
+</ul>
+<p><strong>Adjusted the Render Distance option on PC:</strong></p>
+<ul>
+<li>The three-preset (Default, Far, and Farthest) Render Distance option on PC has been replaced with a slider scale ranging from 1 to 10, where higher values correspond to greater render distances.</li>
+</ul>
+<h1>Audio</h1>
+<ul>
+<li>
+<p>Optimized audio performance of voiced storylines. When playing voiced storylines, advancing to the next line of dialogue before the current line finishes playing will now cause a fade-out effect to be added between the two lines.</p>
+</li>
+<li>
+<p>Optimized some audio/stereo effects.</p>
+</li>
+</ul>
+<h1>Other</h1>
+<ul>
+<li>Optimized the descriptions of certain in-game settings and functions.</li>
+</ul>
+<h1>Online Testing</h1>
+<p>**</p>
+<h2>Limited Test**</h2>
+<p><strong>Categorized Resource Downloads and Resource Cleanup on PC:</strong></p>
+<ul>
+<li>
+<p>Categorized Resource Downloads Overview: When downloading game resources via the PC launcher, in addition to the Tiered Client Resource Downloads options—UHD, HD, and SD—you can choose between two package sizes: Full and Basic. Select Full to download all available environment assets in one go, and you only have to download small quantities of sources (unwatched cutscenes) based on your account progress after you enter the game; or select Basic to download only the resources required to launch the game, and you need to download the necessary environment assets and cutscenes based on your account progress after you enter the game, while the remaining resources will be downloaded in the background while you play.</p>
+</li>
+<li>
+<p>Resource Cleanup Overview: When your account contains cutscenes that have been watched and environment/audio assets that are no longer needed, you can go to Settings &gt; Other &gt; Resource Cleanup to check the size of the cleanable files and choose to remove them to free up disk space.</p>
+</li>
+<li>
+<p>Eligibility &amp; Schedule: PC (※Official Launcher): We recently, during Version 3.7, made a PC launcher update available to some of the Rovers eligible for the test, and have started the limited test for the aforementioned features.</p>
+</li>
+</ul>
+<p><em>The feature will also be gradually made available on PC platforms with non-official launchers after the test concludes. Please stay tuned for announcements on these platforms.</em></p>
+<p><em>The test schedule may be subject to change due to version stability or other considerations. For more details on the test, please refer to the upcoming official announcements.</em></p>
+<p><em>This feature is at the testing stage and is not the final version.</em></p>
+<p><strong>[Bug Fixes]</strong></p>
+<p>**</p>
+<h2>Resonators &amp; Weapons**</h2>
+<ul>
+<li>
+<p>Fixed an issue where certain skills by Resonator Suoming might fail to deal damage when hitting specific enemies in combat.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Suoming&#39;s character model might behave abnormally during certain challenges and game modes.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Suoming&#39;s character model did not blink under certain circumstances.</p>
+</li>
+<li>
+<p>Fixed an issue where playing certain idle animations for Resonators Hsin and Denia could cause abnormal camera angles or animation glitches in Camera Mode.</p>
+</li>
+<li>
+<p>Fixed an issue where the screen might become unresponsive upon opening Camera Mode after Resonator Hsin cast Resonance Liberation - Formshift.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Hsin&#39;s Accessory &#34;Where Dreams Shine Clear&#34; might appear in the wrong position in certain Idle Animations in the Resonator&#39;s Information menu.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Qingxiao might fall back to the ground while in the Sword Flight state.</p>
+</li>
+<li>
+<p>Fixed an issue where casting certain skills as Resonator Qingxiao while in the Sword Flight state could cause abnormal shaking.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Qingxiao&#39;s Accessory &#34;Cloudbloom&#34; might display abnormally during Plunging Attack.</p>
+</li>
+<li>
+<p>Fixed an issue where the &#34;Still as Withered Wood&#34; effect was triggered more than once under certain circumstances with Resonator Yangyang: Xuanling&#39;s Resonance Chain Node 6 &#34;Let the Azure Keep Its Light&#34; activated.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Yangyang: Xuanling&#39;s character model might behave abnormally in certain Idle Animations.</p>
+</li>
+<li>
+<p>Fixed an issue where certain damage instances were abnormal when Resonator Sigrika cast Resonance Skill - Soliskin to the Aid.</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Aemeath might freeze in place and remain motionless upon casting Resonance Skill - Seraphic Duet: Overture or Resonance Skill - Seraphic Duet: Encore in combat.</p>
+</li>
+<li>
+<p>Fixed an issue where Homeward Fin failed to heal Resonator Aemeath while in Mech form.</p>
+</li>
+<li>
+<p>Fixed an issue where certain Basic Attacks could cause Resonator Mornye&#39;s character model to behave abnormally while in the Wide Field Observation Mode state.</p>
+</li>
+<li>
+<p>Fixed an issue where the screen might shake when Resonator Lynae performed Plunging Attack while wearing the Outfit &#34;Peppermint.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue where Resonator Lynae&#39;s character model might display abnormally in 3D display mode.</p>
+</li>
+<li>
+<p>Fixed a display issue with the text for certain Battle Voicelines of Resonator Buling.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Enemies &amp; Echoes**</h2>
+<ul>
+<li>
+<p>Fixed an issue where Crit. Rate registered abnormally when damage was dealt during combat against the enemies Forbidden Bastion and Thousand-Puppet Pavilion.</p>
+</li>
+<li>
+<p>Fixed an issue where certain Resonators&#39; character models might experience jittery movement or abnormal transitions between movements during combat against the enemy Forbidden Bastion.</p>
+</li>
+<li>
+<p>Fixed an issue where the enemy Forbidden Bastion might freeze in place during combat.</p>
+</li>
+<li>
+<p>Fixed an issue where certain skills by the enemy Forbidden Bastion might continue to deal damage after the skills ended.</p>
+</li>
+<li>
+<p>Fixed an issue where the camera movements might perform abnormally for certain Resonators during combat against the enemy Calamity Effigy.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Features**</h2>
+<ul>
+<li>
+<p>Fixed an issue where the game might crash on some Android devices when Vulkan was enabled.</p>
+</li>
+<li>
+<p>Fixed an issue where unselecting Resonators from the lineup on the Team screen was not possible under certain circumstances.</p>
+</li>
+<li>
+<p>Fixed an issue where switching Resonators on the Resonators screen could cause certain visual effects to display abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue with WavesLine where certain Resonators were categorized incorrectly when the filtering function was used.</p>
+</li>
+<li>
+<p>Fixed an issue where the model of Phantom: Nightmare Crownless displayed in the Data Bank&#39;s Echo Gallery performed abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue with Enemy Tracing where detecting enemies could lead players to locations with non-enemy monsters.</p>
+</li>
+<li>
+<p>Fixed textual errors in the description for Huanglong - Simulacrum Nexus - Rime Grotto on the Map screen.</p>
+</li>
+<li>
+<p>Fixed an issue where the item &#34;Feeling Capsule&#34; was categorized incorrectly in the Backpack.</p>
+</li>
+<li>
+<p>Fixed an issue where the ATK bonus of the item &#34;Bamboo Iris Crisps&#34; was inconsistent with its text description.</p>
+</li>
+<li>
+<p>Fixed an issue where some lighting effects might display abnormally upon saving photos taken at specific resolutions in Camera Mode.</p>
+</li>
+<li>
+<p>Fixed textual errors in certain settings shown on the &#34;Settings &gt; Controls &gt; Keyboard &amp; Mouse&#34; screen.</p>
+</li>
+<li>
+<p>Fixed an issue where the Synthesis attempts were not refreshed for some items on the Synthesis screen.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Challenges, Puzzles, &amp; Events**</h2>
+<ul>
+<li>
+<p>Fixed an issue in the Whimpering Wastes event where a character different from the one currently selected for combat was displayed when opening Resonator Details.</p>
+</li>
+<li>
+<p>Fixed an issue in the Whimpering Wastes event where a random pop-up might appear when starting a challenge, preventing entry into the stage.</p>
+</li>
+<li>
+<p>Fixed an issue with the UI of some pop-ups in the &#34;Star Bouncing&#34; and &#34;Phantasma Dreamland&#34; events.</p>
+</li>
+<li>
+<p>Fixed an issue where Homeward Fin failed to heal Resonators under specific circumstances.</p>
+</li>
+<li>
+<p>Fixed an issue in Quickhack where player inputs failed to register after hacking a mechanism.</p>
+</li>
+<li>
+<p>Fixed an issue in certain Underground Flight Challenges where Camera Mode could be activated.</p>
+</li>
+<li>
+<p>Fixed an issue in the &#34;Tactical Hologram: Phantom Pain - Hecate&#34; challenge where players might be pulled out of combat before it ended.</p>
+</li>
+<li>
+<p>Fixed an issue in certain Chronosorter puzzles where moving the timeline could fail to return certain objects to the corresponding state.</p>
+</li>
+<li>
+<p>Fixed an issue where defeating specific enemies in the Southern Yuan Hills Tacet Discord Nest challenge resulted in abnormal drops.</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Quests**</h2>
+<ul>
+<li>
+<p>Fixed an issue in the Main Quest &#34;Song of the Heart Sword&#34; where the current Resonator might become unresponsive to input during the objective &#34;Eliminate the Tacet Discords along the way.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Main Quest &#34;Song of the Heart Sword&#34; where the current Resonator might be sent back to the starting point during the objective &#34;Fly to Xuanfang Hold with your sword.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue during the battle against Denia: Illusory Descent in the Main Quest &#34;Starlights from Yesterdays&#34; where certain skill animations of Denia might perform abnormally.</p>
+</li>
+<li>
+<p>Fixed an issue where the Tales Quest &#34;Moonlike Heart, Mortal Longing&#34; might remain marked as uncompleted under Exploration Progress after its completion.</p>
+</li>
+<li>
+<p>Fixed character clipping issues during certain scenes in the Tales Quest &#34;Moonlike Heart, Mortal Longing.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Tales Quest &#34;Moonlike Heart, Mortal Longing&#34; where players could interact with Tuntun and re-trigger the already completed dialogue during the objective &#34;Launch the Cloud Shuttle.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Tales Quest &#34;Moonlike Heart, Mortal Longing&#34; where restarting the game could prevent returning to the location for the current quest objective.</p>
+</li>
+<li>
+<p>Fixed an issue that prevented quest progression in the Tales Quest &#34;Moonlike Heart, Mortal Longing&#34; where players could not deal damage to Myriad Snare during the objective &#34;Defeat the Myriad Snare.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Tales Quest &#34;Moonlike Heart, Mortal Longing&#34; where the quest objective might become hidden during the objective &#34;Return to the fox statue.&#34;</p>
+</li>
+<li>
+<p>Fixed an issue in the Side Quest &#34;Past Dreams, Traced Seals&#34; where the current screen might become unresponsive during the objective &#34;Talk to Suoming.&#34;</p>
+</li>
+</ul>
+<p>**</p>
+<h2>Environment**</h2>
+<ul>
+<li>
+<p>Fixed an issue where approaching certain gameplay features in specific areas of Huanglong - Mengzhou could cause a momentary black screen.</p>
+</li>
+<li>
+<p>Fixed a clipping issue that occurred when the expedition motorbike was used in specific areas of Huanglong - Mengzhou - Simulacrum Nexus.</p>
+</li>
+<li>
+<p>Fixed clipping or interaction issues when interacting with some seats in certain areas.</p>
+</li>
+<li>
+<p>Fixed an issue where certain player actions could make it possible to place a Waypoint in Huanglong - Mengzhou outside the bounds of the map.</p>
+</li>
+<li>
+<p>Fixed an issue where obstructions might occur when driving the expedition motorbike in specific areas of Roya Frostlands - Lahai-Roi.</p>
+</li>
+<li>
+<p>Fixed an issue where the expedition motorbike&#39;s model might jitter when used in specific areas.</p>
+</li>
+<li>
+<p>Fixed some known display and clipping issues that affected environment assets.</p>
+</li>
+</ul>]]></content>
+                    <published>2026-11-11T18:04:37+00:00</published>
+                    <updated>2026-11-11T18:04:37+00:00</updated>
+                    <category term="Notice"/>
+                    <author>
+                        <name>Wuthering Waves</name>
+                        <email>wutheringwaves_ensupport@kurogames.com</email>
+                        <uri>https://wutheringwaves.kurogames.com</uri>
+                    </author>
+                </entry>
+        
                 <entry>
                     <id>urn:article:5769</id>
                     <title>Wuthering Waves Fan Creation Event Winners Reveal</title>
@@ -856,22 +1358,6 @@
 <p>These records contain some speculative conclusions that remain unverified and may require further information to confirm or clarify.<img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/ybezed6jv3gdaisjd8-1791797555598.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/igmdtb07kyx3jlezni-1791874685147.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791820800000/jsw7q5n91t03u9fitt-1791874702902.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/prrs8nxe6a5kttgi9e-1791797589549.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/anbt8pfqikrdfekane-1791797589791.png" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/lj2ferc5gckynhbua8-1791797589796.png" /></p>]]></content>
                     <published>2026-10-12T17:36:36+00:00</published>
                     <updated>2026-10-12T17:36:36+00:00</updated>
-                    <category term="Notice"/>
-                    <author>
-                        <name>Wuthering Waves</name>
-                        <email>wutheringwaves_ensupport@kurogames.com</email>
-                        <uri>https://wutheringwaves.kurogames.com</uri>
-                    </author>
-                </entry>
-        
-                <entry>
-                    <id>urn:article:5607</id>
-                    <title>Post-Lament Anthropocene: Enemies — Suhsin the Inevitable</title>
-                    <link href="https://wutheringwaves.kurogames.com/en/main/news/detail/5607" rel="alternate" type="text/html"/>
-                    <content type="html"><![CDATA[<p>Reckoner of fate, revealer of one true path. The fox shadow at the deepest reach of the Civilization Capsule.</p>
-<p><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/5piyoppgkyuy5tsxj1-1791796562132.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/gzbzuza7wctbuf6vsx-1791796584365.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/eo834be1lnpsmj6amb-1791796605483.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/r0mfeubqx2y44wzewo-1791796688563.gif" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/tg84lcved2pbkh05lq-1791797234332.jpg" /><img alt="" src="https://hw-media-cdn-mingchao.kurogame.com/object/1791734400000/81n0ptyy6ltjrqbn1s-1791797255884.gif" /></p>]]></content>
-                    <published>2026-10-12T17:30:28+00:00</published>
-                    <updated>2026-10-12T17:30:28+00:00</updated>
                     <category term="Notice"/>
                     <author>
                         <name>Wuthering Waves</name>
